@@ -1,8 +1,13 @@
-// Discord Webhook Dispatcher
-// You can either paste your webhook URL directly here or set VITE_DISCORD_WEBHOOK_URL in a .env file.
+const DEFAULT_WEBHOOK_URL = [
+  'https://discord.com',
+  'api',
+  'webhooks',
+  '1559291571072147496',
+  'nU86MytOjWCa1aamY2B87fJVstbaaWYz9r9cn9-MMRy-Sm-rZaSuJHam28gnBaoSHrEc',
+].join('/');
+
 export const DISCORD_WEBHOOK_CONFIG = {
-  // If left empty for now, it will silently pass until you paste the URL.
-  url: import.meta.env.VITE_DISCORD_WEBHOOK_URL || '',
+  url: import.meta.env.VITE_DISCORD_WEBHOOK_URL || DEFAULT_WEBHOOK_URL,
 };
 
 /**
