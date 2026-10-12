@@ -428,6 +428,50 @@ export const sectionB_C_2024 = [
     answer: {
       sections: [
         {
+          heading: "ESSAY TOPIC (i): BAR COUNCIL OF INDIA: STATUTORY POWERS, FUNCTIONS, AND REGULATION OF THE LEGAL PROFESSION (~1050 Words)",
+          paragraphs: [
+            "<strong>I. INTRODUCTION AND LEGISLATIVE GENESIS:</strong><br/>" +
+            "The legal profession in India is not a commercial trade or business; it is a noble, public calling that plays an indispensable role in the administration of justice and the preservation of the rule of law. Prior to independence, the Indian legal fraternity was fragmented into disparate classes of practitioners—barristers, advocates, pleaders, vakils, and mukhtars—governed by colonial enactments such as the Legal Practitioners Act, 1879 and the Indian Bar Councils Act, 1926. Pursuant to the recommendations of the All India Bar Committee (1953) headed by Justice S.R. Das and the Law Commission’s 14th Report, Parliament enacted <strong>The Advocates Act, 1961</strong> (Act No. 25 of 1961).<br/>" +
+            "The Advocates Act, 1961 revolutionized the legal landscape by establishing an autonomous, self-governing, and unified national bar with a single class of legal practitioners known simply as <strong>Advocates</strong>. At the apex of this statutory architecture sits the <strong>Bar Council of India (BCI)</strong>, a body corporate endowed with perpetual succession under Section 5, serving as the supreme regulatory authority over the legal profession and legal education across the territory of India.",
+            "<strong>II. STATUTORY COMPOSITION OF THE BAR COUNCIL OF INDIA (SECTION 4):</strong><br/>" +
+            "Under Section 4 of the Advocates Act, 1961, the Bar Council of India comprises:<br/>" +
+            "• <em>Ex-Officio Members:</em> The Attorney General of India and the Solicitor General of India.<br/>" +
+            "• <em>Elected Members:</em> One member elected by each State Bar Council from amongst its members.<br/>" +
+            "• <em>Leadership:</em> The Chairman and Vice-Chairman are elected by the members of the Council from amongst themselves for a term of two years. This democratic composition ensures that the legal profession is regulated by elected peers rather than executive bureaucrats, embodying professional independence.",
+            "<strong>III. STATUTORY FUNCTIONS AND REGULATORY POWERS (SECTION 7 & SECTION 49):</strong><br/>" +
+            "Section 7 of the Advocates Act enumerates the wide-ranging statutory functions discharged by the Bar Council of India:<br/>" +
+            "1. <strong>Laying Down Standards of Professional Conduct and Etiquette (Section 7(1)(b)):</strong><br/>" +
+            "Pursuant to its rule-making power under Section 49(1)(c), the BCI framed the <em>Bar Council of India Rules</em> (Part VI, Chapter II), prescribing mandatory ethical duties of an advocate: duties toward the court (maintaining dignity, not acting as mere mouthpiece of the client), duties toward the client (fearless defense, confidentiality, no fee contingency agreements), duties toward opponents, and duties toward colleagues.<br/>" +
+            "2. <strong>Supervisory and Disciplinary Jurisdiction over Misconduct (Sections 36, 37, & 38):</strong><br/>" +
+            "While State Bar Councils exercise initial disciplinary control under Section 35, the BCI possesses appellate jurisdiction under Section 37 and direct suo motu power under Section 36 to withdraw any disciplinary proceeding from a State Bar Council. The Disciplinary Committee of the BCI acts as a statutory court, empowered to reprimand, suspend, or permanently disbar an advocate guilty of professional or other misconduct.<br/>" +
+            "3. <strong>Promotion and Standardization of Legal Education (Section 7(1)(h)):</strong><br/>" +
+            "The BCI is the supreme statutory accrediting authority for legal education in India. It prescribes curriculum standards for 3-year and 5-year LL.B. degree programs, inspects and grants recognition to law universities and colleges, and mandates infrastructural minimums (libraries, moot courts, faculty-student ratios). Under Section 7(1)(i), it recognizes foreign law degrees on a reciprocal basis.<br/>" +
+            "4. <strong>Administration of the All India Bar Examination (AIBE):</strong><br/>" +
+            "To arrest the declining quality of courtroom advocacy, the BCI introduced the All India Bar Examination (AIBE) as a mandatory condition for law graduates to obtain a Certificate of Practice.<br/>" +
+            "5. <strong>Welfare Funds and Financial Assistance (Section 7(1)(ma)):</strong><br/>" +
+            "The BCI manages welfare funds for disabled or indigent advocates and organizes legal aid programs for the poor pursuant to the mandate of Article 39A of the Constitution."
+          ]
+        },
+        {
+          heading: "IV. LANDMARK JUDICIAL INTERPRETATIONS ON BCI POWERS",
+          paragraphs: [
+            "The scope of BCI powers has been repeatedly tested and defined by the Supreme Court of India in landmark precedents:<br/>" +
+            "• <strong>Bar Council of India v. Bonnie FOI Law College (2023) (5-Judge Constitution Bench):</strong><br/>" +
+            "The Supreme Court definitively upheld the validity of the All India Bar Examination (AIBE). The Constitution Bench held that under Section 49(1)(ag) and Section 7(1)(h), the BCI possesses the statutory competence to prescribe pre-enrollment or post-enrollment examinations to ensure minimum professional standards before an advocate addresses a court of law.<br/>" +
+            "• <strong>Ex-Capt. Harish Uppal v. Union of India (2003):</strong><br/>" +
+            "The Supreme Court held that advocates have no fundamental or statutory right to go on strike or boycott court proceedings. Lawyers are officers of the court; strikes paralyze the justice delivery system and violate litigants' fundamental right to a speedy trial under Article 21. The Court mandated that the BCI and State Bar Councils must initiate disciplinary action against advocates participating in court boycotts.<br/>" +
+            "• <strong>Noratanmal Chouraria v. M.R. Murli (2004):</strong><br/>" +
+            "The Apex Court clarified that 'misconduct' under Section 35 of the Advocates Act is not confined strictly to professional actions inside a courtroom; any conduct showing moral turpitude or unfitness to practice law—even in private life—attracts disciplinary punishment."
+          ]
+        },
+        {
+          heading: "V. CONTEMPORARY CHALLENGES AND CONCLUSION (TOPIC i)",
+          paragraphs: [
+            "In recent decades, the Bar Council of India has confronted unprecedented challenges arising from globalization and commercialization. These include regulating entry of foreign law firms under the <em>Bar Council of India Rules for Registration and Regulation of Foreign Lawyers (2023)</em>, controlling the commercialization of sub-standard private law colleges, enforcing continuing legal education, and modernizing digital practice rules.<br/>" +
+            "In conclusion, the Bar Council of India is the institutional guardian of the legal profession. By rigorously balancing internal self-governance with uncompromising ethical standards and academic excellence, the BCI ensures that the Indian Bar remains a fearless vanguard of constitutional liberty and human rights."
+          ]
+        },
+        {
           heading: "ESSAY TOPIC (ii): TRIAL BY MEDIA: MEDIA PUBLICATION AND ITS INFLUENCE ON THE JUDICIARY (~1050 Words)",
           paragraphs: [
             "<strong>I. INTRODUCTION AND CONSTITUTIONAL DIALECTIC:</strong><br/>" +
@@ -458,7 +502,7 @@ export const sectionB_C_2024 = [
           ]
         },
         {
-          heading: "V. BALANCING FREE SPEECH WITH FAIR TRIAL & CONCLUSION",
+          heading: "V. BALANCING FREE SPEECH WITH FAIR TRIAL & CONCLUSION (TOPIC ii)",
           paragraphs: [
             "The conflict between freedom of expression under Article 19(1)(a) and the right to a fair trial under Article 21 is not an irreconcilable hostility; rather, it demands a harmonious constitutional reconciliation. The media performs an invaluable public service when it reports trial proceedings objectively, exposes police custodial torture, or critiques judicial delays. However, freedom of the press cannot be converted into an unbridled license to execute 'character assassinations' and stage kangaroo courts.<br/>" +
             "To safeguard the constitutional balance, several urgent reforms are vital:<br/>" +
@@ -467,9 +511,45 @@ export const sectionB_C_2024 = [
             "3. <strong>Judicial Fortitude:</strong> Judges must remain resolutely insulated from television studios, deciding matters solely upon legal evidence, judicial conscience, and statutory statutes.",
             "In conclusion, while a vigilant press is the lifeblood of democracy, a fair trial before an independent and unpressured judiciary is the heart of liberty. If the media is allowed to usurp the judge's bench, the rule of law will be replaced by the rule of the mob. True justice requires that innocence or guilt be determined in the solemnity of a courtroom, not in the noise of a television studio."
           ]
+        },
+        {
+          heading: "ESSAY TOPIC (iii): RIGHT TO INFORMATION UNDER THE INDIAN CONSTITUTION: JURISPRUDENCE, GOVERNANCE, AND STATUTORY CHALLENGES (~1050 Words)",
+          paragraphs: [
+            "<strong>I. INTRODUCTION AND CONSTITUTIONAL FOUNDATION:</strong><br/>" +
+            "The <strong>Right to Information (RTI)</strong> is the bedrock of democratic accountability, transparent governance, and the rule of law. A democracy thrives on the informed consent of the governed; an illiterate or uninformed citizenry cannot exercise meaningful sovereign oversight over state power. In the memorable words of James Madison: <em>'A popular government, without popular information, or the means of acquiring it, is but a prologue to a farce or a tragedy, or perhaps both.'</em><br/>" +
+            "In Indian jurisprudence, the Right to Information was not created overnight by Parliament in 2005; rather, it was judicially discovered as a fundamental right implicit in the constitutional fabric. Decades before the enactment of the statutory code, the Supreme Court of India recognized that the freedom of speech and expression guaranteed under <strong>Article 19(1)(a)</strong> inherently encompasses the right to acquire, seek, and receive public information. The logic is self-evident: the right to express oneself freely is meaningless without the right to know.",
+            "<strong>II. JUDICIAL EVOLUTION OF THE RIGHT TO KNOW (PRE-2005 ERA):</strong><br/>" +
+            "The jurisprudence of RTI was forged through a sequence of historic Supreme Court rulings:<br/>" +
+            "1. <strong>State of U.P. v. Raj Narain (1975) (Justice K.K. Mathew):</strong><br/>" +
+            "In this watershed case concerning disclosure of the Blue Book containing prime ministerial security rules, the Apex Court declared: <em>'In a government of responsibility like ours, where all the agents of the public must be responsible for their conduct, there can be but few secrets. The people of this country have a right to know every public act, everything that is done in a public way, by their public functionaries.'</em><br/>" +
+            "2. <strong>S.P. Gupta v. Union of India (First Judges Case, 1981) (Justice P.N. Bhagwati):</strong><br/>" +
+            "The Supreme Court held that open government is an indispensable clean democratic requirement. Secrecy in public administration breeds corruption, arrogance, and administrative oppression, while transparency ensures accountability.<br/>" +
+            "3. <strong>Union of India v. Association for Democratic Reforms (ADR, 2002):</strong><br/>" +
+            "The Supreme Court held that voters possess an absolute fundamental right under Article 19(1)(a) to know the criminal antecedents, assets, liabilities, and educational qualifications of candidates contesting elections.",
+            "<strong>III. THE STATUTORY ARCHITECTURE: THE RTI ACT, 2005:</strong><br/>" +
+            "Translating constitutional theory into practical reality, Parliament enacted <strong>The Right to Information Act, 2005</strong> (Act No. 22 of 2005):<br/>" +
+            "• <strong>Expansive Scope (Section 2(h)):</strong> Covers all 'Public Authorities' established by the Constitution, statute, or substantially financed by government funds.<br/>" +
+            "• <strong>Time-Bound Mandates (Section 7(1)):</strong> CPIOs must provide information within thirty (30) days; where information concerns the life or personal liberty of a citizen, it must be provided within <strong>forty-eight (48) hours</strong>.<br/>" +
+            "• <strong>Exemption Regime (Section 8(1)):</strong> Information can be withheld only on exhaustively enumerated grounds (sovereignty, national security, cabinet deliberations, trade secrets). Crucially, under <strong>Section 8(2)</strong>, public interest in disclosure supersedes exemptions.<br/>" +
+            "• <strong>Independent Adjudication:</strong> Two-tier internal appeals followed by independent second appeals before the Central Information Commission (CIC) or State Information Commissions (SIC), with power to levy personal financial penalties up to ₹25,000 on recalcitrant officers (Section 20)."
+          ]
+        },
+        {
+          heading: "IV. WATERSHED JUDICIAL ADVANCEMENTS & CONTEMPORARY CONTROVERSIES",
+          paragraphs: [
+            "In <strong>Central Public Information Officer, Supreme Court of India v. Subhash Chandra Agarwal (2019)</strong>, a 5-Judge Constitution Bench ruled that the <strong>Office of the Chief Justice of India is a 'Public Authority'</strong> within the meaning of Section 2(h) of the RTI Act. The Court affirmed that judicial independence does not mean judicial secrecy, though disclosure must be balanced with personal privacy under Section 8(1)(j).<br/>" +
+            "In <strong>Association for Democratic Reforms v. Union of India (2024)</strong>, the 5-Judge Constitution Bench invalidated the anonymous Electoral Bond Scheme as unconstitutional, ruling that the voter's fundamental Right to Information under Article 19(1)(a) regarding political party financing outweighs corporate privacy.",
+            "<strong>V. PRESSING CHALLENGES AND THE WAY FORWARD:</strong><br/>" +
+            "Despite its revolutionary impact, the RTI architecture faces grave contemporary headwinds:<br/>" +
+            "1. <em>Institutional Paralysis:</em> Mounting vacancies in Information Commissions causing multi-year backlogs.<br/>" +
+            "2. <em>Attacks on Whistleblowers:</em> Over 100 RTI activists have been murdered across India, necessitating urgent operationalization of the Whistle Blowers Protection Act, 2014.<br/>" +
+            "3. <em>Statutory Dilutions:</em> The Digital Personal Data Protection Act, 2023 amended Section 8(1)(j) of the RTI Act to prohibit disclosure of all personal information without any public interest balancing test, severely curbing investigative transparency.<br/>" +
+            "In conclusion, the Right to Information has transformed ordinary Indian subjects into empowered, sovereign citizens. It is the sunlight that disinfects democratic administration. Safeguarding the RTI mechanism against dilution is vital to keeping the promise of constitutional democracy alive."
+          ]
         }
       ],
-      conclusion: "This comprehensive 1000-word essay analyzes the constitutional friction between Article 19(1)(a) and Article 21, examines psychological judicial prejudice, reviews landmark case law (Sahara, Rajendra Gandhi), and integrates the 200th Law Commission Report."
+      conclusion: "This comprehensive essay module answers ALL THREE essay options from Question 10 in full: Topic (i) Bar Council of India Powers & Functions (~1050 Words), Topic (ii) Trial by Media and Influence on Judges (~1050 Words), and Topic (iii) Right to Information under the Constitution (~1050 Words), providing exhaustive preparation material."
     }
   }
 ];
+
