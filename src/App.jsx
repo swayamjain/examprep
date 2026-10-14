@@ -4,7 +4,7 @@ import NameModal from './components/NameModal';
 import PaperTabs from './components/PaperTabs';
 import QuestionAccordion from './components/QuestionAccordion';
 import { subjectsRegistry } from './data/subjects';
-import { BookOpen, Sparkles, ChevronDown, ChevronUp, AlertCircle } from 'lucide-react';
+import { BookOpen, Sparkles, ChevronDown, ChevronUp, AlertCircle, FileText } from 'lucide-react';
 
 export default function App() {
   const [studentName, setStudentName] = useState(() => {
@@ -130,22 +130,42 @@ export default function App() {
           />
         )}
 
-        {/* Action Bar (Expand / Collapse All Button Only) */}
+        {/* University Exam Pattern & Choice Structure Banner */}
         {activePaper?.questions?.length > 0 && (
-          <div className="paper-actions-bar">
-            <button className="expand-all-btn" onClick={handleToggleAll}>
-              {allAreOpen ? (
-                <>
-                  <ChevronUp size={15} />
-                  <span>Collapse All</span>
-                </>
-              ) : (
-                <>
-                  <ChevronDown size={15} />
-                  <span>Expand All</span>
-                </>
-              )}
-            </button>
+          <div className="exam-pattern-card">
+            <div className="exam-pattern-header">
+              <div className="exam-pattern-title">
+                <FileText size={16} className="pattern-icon" />
+                <span>University Examination Pattern & Options Structure</span>
+              </div>
+              <button className="expand-all-btn" onClick={handleToggleAll}>
+                {allAreOpen ? (
+                  <>
+                    <ChevronUp size={15} />
+                    <span>Collapse All</span>
+                  </>
+                ) : (
+                  <>
+                    <ChevronDown size={15} />
+                    <span>Expand All</span>
+                  </>
+                )}
+              </button>
+            </div>
+            <div className="exam-pattern-chips">
+              <span className="pattern-chip">
+                <strong>Paper Total:</strong> 80 Marks • 3 Hours (Attempt 7 Questions in All)
+              </span>
+              <span className="pattern-chip highlight">
+                <strong>Q1 (Compulsory):</strong> Attempt any 4 of 6 Short Notes (5M each = 20M)
+              </span>
+              <span className="pattern-chip">
+                <strong>Q2 to Q9:</strong> Attempt any 6 of remaining 8 Questions (10M each = 60M)
+              </span>
+              <span className="pattern-chip success">
+                <strong>Target Length:</strong> 5M: 450–650 Words (2.5–3 Pages) • 10M: 950–1200 Words (4–4.5 Pages)
+              </span>
+            </div>
           </div>
         )}
 

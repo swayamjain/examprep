@@ -353,6 +353,72 @@ h1, h2, h3, h4, h5 {
   box-shadow: 0 4px 20px rgba(16, 185, 129, 0.15);
 }
 
+/* Examination Pattern Banner */
+.exam-pattern-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-radius: var(--radius-md);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.exam-pattern-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  padding-bottom: 0.6rem;
+}
+
+.exam-pattern-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--accent-gold-light);
+  letter-spacing: 0.02em;
+}
+
+.pattern-icon {
+  color: var(--accent-gold);
+}
+
+.exam-pattern-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.pattern-chip {
+  font-size: 0.78rem;
+  padding: 0.35rem 0.65rem;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-secondary);
+}
+
+.pattern-chip strong {
+  color: var(--text-primary);
+}
+
+.pattern-chip.highlight {
+  background: rgba(245, 158, 11, 0.1);
+  border-color: rgba(245, 158, 11, 0.3);
+  color: var(--accent-gold-light);
+}
+
+.pattern-chip.success {
+  background: rgba(16, 185, 129, 0.08);
+  border-color: rgba(16, 185, 129, 0.25);
+  color: #A7F3D0;
+}
+
 /* Action Bar for Expand / Collapse */
 .paper-actions-bar {
   display: flex;
