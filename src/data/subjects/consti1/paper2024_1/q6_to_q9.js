@@ -112,7 +112,7 @@ export const q6ToQ9 = [
             'Under Article 226, the High Courts possess extraordinary writ jurisdiction. A comparative analysis reveals key distinctions:<br/>' +
             '• <strong>Substantive Reach:</strong> Article 32 can be invoked <em>only</em> for the enforcement of Fundamental Rights in Part III. Article 226 can be invoked for Fundamental Rights <em>as well as</em> "for any other purpose" (i.e., enforcement of ordinary legal and statutory rights). Therefore, the High Court’s writ jurisdiction is substantively broader than that of the Supreme Court.<br/>' +
             '• <strong>Territorial Jurisdiction:</strong> The Supreme Court\'s jurisdiction extends throughout the territory of India. A High Court’s jurisdiction is confined to its territorial limits, or where the cause of action wholly or in part arises.<br/>' +
-            '• <strong>Nature of Right:</strong> While Article 32 is a Fundamental Right, Article 226 is a constitutional power, and the High Court may exercise discretion if an efficacious alternative remedy exists.<br/>' +
+            '• <strong>Nature of Right:</strong> While Article 32 is a Fundamental Right, Article 226 is a constitutional power, and the High Court may exercise discretion if an effective alternative remedy exists.<br/>' +
             '• <strong>Basic Structure:</strong> In <em>L. Chandra Kumar (1997)</em>, the 7-Judge Bench ruled that judicial review under both Articles 32 and 226 is an integral part of the Basic Structure.'
           ]
         },

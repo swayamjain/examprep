@@ -98,7 +98,7 @@ export const predictivePaper = {
         statutoryFramework: 'Theoretical Authorities: Hans Kohn (The Idea of Nationalism, 1944); Michael Ignatieff (Blood and Belonging); Anthony D. Smith.',
         sections: [
           {
-            heading: 'I. The Classical Dichotomy in Nationalist Theory',
+            heading: 'I. The Classical Debate in Nationalist Theory',
             paragraphs: [
               'In the sociology of nationalism, the distinction between <strong>Civic Nationalism</strong> (Western model) and <strong>Ethnic Nationalism</strong> (Eastern/blood-based model) was classically formulated by historian <strong>Hans Kohn</strong>. It represents the fundamental divide between an inclusive, constitutional concept of the nation and an exclusive, genealogical one.'
             ]
@@ -122,7 +122,7 @@ export const predictivePaper = {
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Inherently pluralistic and inclusive; celebrates multicultural diversity under equal laws.</td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Inherently exclusionary; treats minorities as second-class subjects or foreign elements.</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>4. Ultimate Political Risk</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can risk becoming abstract or lacking visceral emotional attachment.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can risk becoming abstract or lacking deep emotional attachment.</td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Prone to xenophobic chauvinism, ethnic cleansing, fascism, and civil wars.</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>5. Illustrative Archetype</strong></td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Post-colonial Indian constitutional nationalism, Switzerland, Canada.</td>' +
@@ -204,7 +204,7 @@ export const predictivePaper = {
       marks: 5,
       question: 'Short Note: Deliberative vs. Procedural Democracy.',
       flairs: [
-        { type: 'yield', label: '⚡ Unit VI Major Comparative Dichotomy' },
+        { type: 'yield', label: '⚡ Unit VI Major Comparison' },
       ],
       answer: {
         statutoryFramework: 'Theoretical Authorities: Joseph Schumpeter; Jürgen Habermas; Robert Dahl; Joshua Cohen.',
@@ -480,7 +480,7 @@ export const predictivePaper = {
             ]
           }
         ],
-        criticalAnalysis: 'The debate illuminates different facets of reality: Modernism accurately explains the institutional mechanisms (schooling, print, legal statehood) that forged modern nations, while Ethno-symbolism accurately explains the visceral, emotional, and enduring power of national loyalty that moves people to sacrifice their lives.',
+        criticalAnalysis: 'The debate illuminates different facets of reality: Modernism accurately explains the institutional mechanisms (schooling, print, legal statehood) that forged modern nations, while Ethno-symbolism accurately explains the deep, emotional, and lasting power of national loyalty that moves people to sacrifice their lives.',
         conclusion: 'Nationalism is neither pure primordial bloodline nor hollow modern invention: it is the modern political mobilization of deep historical and cultural memory.'
       }
     },
@@ -708,7 +708,7 @@ export const predictivePaper = {
           {
             heading: 'III. Conditions Essential for Making Democracy Successful in Diverse Post-Colonial Societies',
             paragraphs: [
-              'In diverse post-colonial societies (like India), democracy faces immense structural headwinds—deep caste cleavages, multi-religious diversity, linguistic variety, economic poverty, and histories of colonial exploitation. To flourish in such complex environments, democracy requires specific non-negotiable conditions:<br/>' +
+              'In diverse post-colonial societies (like India), democracy faces immense structural headwinds—deep caste divisions, multi-religious diversity, linguistic variety, economic poverty, and histories of colonial exploitation. To flourish in such complex environments, democracy requires specific non-negotiable conditions:<br/>' +
               '<strong>1. Institutionalization of Social Democracy (Dr. B.R. Ambedkar):</strong><br/>' +
               'Political democracy (one person, one vote) cannot survive if built on a society of caste hierarchy and economic inequality. As Ambedkar warned, political democracy must be rooted in <strong>Social Democracy</strong>—a way of life that recognizes liberty, equality, and fraternity as inseparable principles.<br/>' +
               '<strong>2. Constitutional Secularism & Minority Safeguards:</strong><br/>' +

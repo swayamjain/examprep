@@ -109,6 +109,11 @@ export default function App() {
                 <BookOpen size={20} style={{ color: 'var(--accent-gold)' }} />
                 <span>{selectedSubject.name}</span>
                 <span className="subject-code-tag">{selectedSubject.code}</span>
+                {selectedSubject.courseCategory && (
+                  <span className={`subject-stream-pill ${selectedSubject.courseType}`}>
+                    {selectedSubject.courseCategory}
+                  </span>
+                )}
               </h2>
               <p className="subject-meta">{selectedSubject.description}</p>
             </div>
@@ -154,16 +159,16 @@ export default function App() {
             </div>
             <div className="exam-pattern-chips">
               <span className="pattern-chip">
-                <strong>Paper Total:</strong> 80 Marks • 3 Hours (Attempt 7 Questions in All)
+                <strong>Course Track:</strong> {selectedSubject?.examStructure?.total || '80 Marks • 3 Hours'}
               </span>
               <span className="pattern-chip highlight">
-                <strong>Q1 (Compulsory):</strong> Attempt any 4 of 6 Short Notes (5M each = 20M)
+                {selectedSubject?.examStructure?.part1 || 'Q1 (Compulsory): Attempt any 4 of 6 Short Notes (5M each = 20M)'}
               </span>
               <span className="pattern-chip">
-                <strong>Q2 to Q9:</strong> Attempt any 6 of remaining 8 Questions (10M each = 60M)
+                {selectedSubject?.examStructure?.part2 || 'Q2 to Q9: Attempt any 6 of remaining 8 Questions (10M each = 60M)'}
               </span>
               <span className="pattern-chip success">
-                <strong>Target Length:</strong> 5M: 450–650 Words (2.5–3 Pages) • 10M: 950–1200 Words (4–4.5 Pages)
+                <strong>Target Length:</strong> {selectedSubject?.examStructure?.wordTarget || '5M: 450–650 Words • 10M: 950–1200 Words'}
               </span>
             </div>
           </div>
@@ -178,6 +183,7 @@ export default function App() {
                 questionData={q}
                 isOpen={expandedQuestions.has(q.id)}
                 onToggle={() => handleToggleQuestion(q.id)}
+                subject={selectedSubject}
               />
             ))}
           </div>

@@ -201,7 +201,7 @@ export const sectionA_2024_3 = [
           ]
         },
         {
-          heading: "II. Social Background, Profession, and Cultural Milieu",
+          heading: "II. Social Background, Profession, and Cultural Setting",
           paragraphs: [
             "• <strong>Lomax Harder:</strong> Harder personifies the cultured, metropolitan aesthetic elite. He is a successful London dramatist and theatrical man of letters who lives surrounded by refined art, intellectual conversation, and sophisticated urban sensibilities. Harder is introspective, neurotic, fastidious, and proud of his intellectual superiority. He views provincial society with barely concealed contempt, regarding industrial towns as crude and uncultured.<br/>" +
             "• <strong>John Franting:</strong> Franting represents the prosperous, self-made manufacturing bourgeoisie of the Five Towns. As a wealthy earthenware manufacturer residing at his opulent suburban home ('The Haven') in Sneyd, Franting is grounded in industrial commerce, factory balance sheets, and physical reality. He is a robust, physically imposing man of action—loud, practical, boisterous, and unconcerned with aesthetic subtleties. While Harder lives in a world of words and psychological nuances, Franting dominates a world of kilns, business contracts, and tangible material wealth."
@@ -210,7 +210,7 @@ export const sectionA_2024_3 = [
         {
           heading: "III. Divergence in Temperament, Masculinity, and Emotional Expression",
           paragraphs: [
-            "The internal temperaments of the two characters reveal a profound psychological dichotomy:<br/>" +
+            "The internal temperaments of the two characters reveal a profound psychological contrast:<br/>" +
             "• <strong>Harder’s Over-Refined Sensibility:</strong> Harder possesses an over-active, neurotic imagination. He is hypersensitive to perceived slights, endlessly analyzes his own emotions, and suffers from nervous agitation. When provoked, his resentment does not manifest as healthy physical confrontation; instead, it festers internally into dark, obsessive, and murderous calculation. He is capable of cold premeditation because he intellectualizes his passions, rationalizing extreme acts as noble artistic necessities.<br/>" +
             "• <strong>Franting’s Bullish Directness:</strong> Franting, in contrast, is entirely devoid of neurotic introspection. He is loud, extroverted, jovial, and overbearing. He does not brood or hide his feelings; his anger is immediate, noisy, and quickly spent. Franting is an unapologetic hedonist who enjoys good food, fine tobacco, and hearty socializing. His domineering manner stems not from malice, but from a total lack of empathy and imaginative awareness—he simply cannot conceive that others might perceive his boisterous confidence as oppressive."
           ]

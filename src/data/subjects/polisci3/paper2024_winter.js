@@ -449,7 +449,7 @@ export const paper2024_winter = {
         statutoryFramework: 'Theoretical Authorities: Benedict Anderson (Imagined Communities); Ernest Gellner (Nations and Nationalism); Eric Hobsbawm (The Invention of Tradition); Anthony D. Smith (The Ethnic Origins of Nations); J.W. Garner; Woodrow Wilson.',
         sections: [
           {
-            heading: 'I. Definitional Delineation: Nation vs. State',
+            heading: 'I. Core Difference: Nation vs. State',
             paragraphs: [
               'Although commonly conflated in everyday language (such as the "United Nations", which is actually an organization of states), <strong>Nation</strong> and <strong>State</strong> are categorically distinct concepts in political science.',
               'A <strong>State</strong> is a juridical, political, and territorial entity. As classically defined by political scientist <strong>J.W. Garner</strong>, a State possesses four non-negotiable objective elements: <em>Population, Defined Territory, Government, and Sovereignty</em>. The State holds the monopoly over the legitimate use of physical force.',
@@ -492,7 +492,7 @@ export const paper2024_winter = {
               '<strong>2. Industrialization and State-Standardized Education (Ernest Gellner):</strong><br/>' +
               'Gellner proved that the modern industrial economy demands a culturally uniform, literate, and mobile population. The modern state constructs national sentiment by using centralized, universal public schooling to homogenize diverse dialects and local identities into a single national language and culture.<br/>' +
               '<strong>3. The "Invention of Tradition" (Eric Hobsbawm & Terence Ranger):</strong><br/>' +
-              'States consciously invent symbols, rituals, and ceremonies to manufacture a sense of timeless national continuity: national flags, anthems, national holidays, statues of founding heroes, military parades, and war memorials. These rituals instill visceral emotional loyalty to the nation.<br/>' +
+              'States consciously invent symbols, rituals, and ceremonies to manufacture a sense of timeless national continuity: national flags, anthems, national holidays, statues of founding heroes, military parades, and war memorials. These rituals instill deep emotional loyalty to the nation.<br/>' +
               '<strong>4. The "Census, Map, and Museum" (Anderson):</strong><br/>' +
               'Institutions of the modern state reify the nation: the <strong>census</strong> categorizes populations into manageable national groups; the <strong>map</strong> draws hard borders and paints the homeland in a single distinctive color; and the <strong>museum</strong> curates an ancient national historical pedigree.<br/>' +
               '<strong>5. Ethno-Symbolism and Pre-Existing Myths (Anthony D. Smith):</strong><br/>' +
@@ -525,7 +525,7 @@ export const paper2024_winter = {
             ]
           },
           {
-            heading: 'II. Conceptual Delineation: The Holy Trinity of Power, Authority, and Legitimacy',
+            heading: 'II. Conceptual Relationship: Power, Authority, and Legitimacy',
             paragraphs: [
               'While frequently conflated, <strong>Power, Authority, and Legitimacy</strong> form a distinct triadic conceptual architecture in political philosophy:<br/>' +
               '• <strong>Power (The Capacity - De Facto Force):</strong> The ability to compel or induce compliance through force, sanctions, or rewards. Power is descriptive: it tells us what an actor <em>can do</em>.<br/>' +

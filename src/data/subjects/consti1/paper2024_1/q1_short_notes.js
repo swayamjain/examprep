@@ -16,8 +16,8 @@ export const q1ShortNotes = [
         {
           heading: 'I. Introduction and Foundational Architecture of Part II',
           paragraphs: [
-            'Citizenship denotes the legal relationship between an individual and the sovereign State, conferring full political membership, civil protection, and constitutional rights. Unlike the federal structure of the United States of America where a citizen holds dual citizenship—citizenship of the federal Union and citizenship of their individual State of residence—the Indian Constitution deliberately established a uniform, single citizenship for the entire territory of India. As Dr. B.R. Ambedkar articulated in the Constituent Assembly, the single citizenship model was forged to counteract regional centrifugal forces and build national unity in a diverse post-colonial society.',
-            'Articles 5 to 10 of Part II did not create a permanent, perpetual code governing citizenship for future generations. Rather, they were transitional constitutional provisions formulated specifically to resolve complex nationality problems arising out of the Partition of India on 26th January 1950. The permanent architecture was left to Parliament under Article 11.'
+            'Citizenship denotes the legal relationship between an individual and the sovereign State, conferring full political membership, civil protection, and constitutional rights. Unlike the federal structure of the United States of America where a citizen holds dual citizenship—citizenship of the federal Union and citizenship of their individual State of residence—the Indian Constitution deliberately established a uniform, single citizenship for the entire territory of India. As Dr. B.R. Ambedkar articulated in the Constituent Assembly, the single citizenship model was forged to counteract regional divisions and build national unity in a diverse post-colonial society.',
+            'Articles 5 to 10 of Part II did not create a permanent code governing citizenship for future generations. Rather, they were transitional constitutional provisions formulated specifically to resolve complex nationality problems arising out of the Partition of India on 26th January 1950. The permanent architecture was left to Parliament under Article 11.'
           ]
         },
         {
@@ -35,7 +35,7 @@ export const q1ShortNotes = [
           paragraphs: [
             '<strong>Article 9 (Voluntary Acquisition of Foreign Citizenship):</strong> Re-affirms the single citizenship rule. If any Indian citizen voluntarily acquires the citizenship of a foreign country, their Indian citizenship terminates automatically.<br/>' +
             '<strong>Article 10 (Continuance of Rights):</strong> Every citizen continues to remain a citizen subject to any law that may be enacted by Parliament.<br/>' +
-            '<strong>Article 11 (Plenary Power of Parliament):</strong> Article 11 granted plenary power to Parliament to regulate the acquisition, termination, and all other matters relating to citizenship. In exercise of this constitutional mandate, Parliament enacted the <strong>Citizenship Act, 1955</strong>, establishing five permanent modes of acquisition: (1) Birth, (2) Descent, (3) Registration, (4) Naturalization, and (5) Incorporation of Territory.'
+            '<strong>Article 11 (Plenary Power of Parliament):</strong> Article 11 granted full and supreme power to Parliament to regulate the acquisition, termination, and all other matters relating to citizenship. In exercise of this constitutional mandate, Parliament enacted the <strong>Citizenship Act, 1955</strong>, establishing five permanent modes of acquisition: (1) Birth, (2) Descent, (3) Registration, (4) Naturalization, and (5) Incorporation of Territory.'
           ]
         }
       ],
@@ -44,7 +44,7 @@ export const q1ShortNotes = [
           name: 'State Trading Corporation of India v. Commercial Tax Officer',
           citation: 'AIR 1963 SC 1811 (9-Judge Constitution Bench)',
           facts: 'The State Trading Corporation, a government company, filed a writ petition claiming fundamental rights under Article 19 as an Indian citizen.',
-          ratio: 'The Supreme Court held that nationality and citizenship are distinct concepts. A corporation is a juristic entity, not a natural person. "Citizen" under Part II and the Citizenship Act, 1955 is strictly confined to natural human beings.'
+          ratio: 'The Supreme Court held that nationality and citizenship are distinct concepts. A corporation is a legal entity, not a natural person. "Citizen" under Part II and the Citizenship Act, 1955 is strictly confined to natural human beings.'
         },
         {
           name: 'Pradeep Jain v. Union of India',
@@ -70,7 +70,7 @@ export const q1ShortNotes = [
         {
           heading: 'I. Constitutional Genesis and Juristic Objective',
           paragraphs: [
-            'The Doctrine of Severability (also termed the Doctrine of Separability) is an essential rule of constitutional interpretation derived directly from the qualifying words "to the extent of such inconsistency" occurring in Article 13(1) (regarding pre-constitutional laws) and Article 13(2) (regarding post-constitutional laws). The fundamental objective of this doctrine is to reconcile judicial review with legislative supremacy. When a court discovers that a statutory enactment infringes upon Fundamental Rights guaranteed in Part III, the court is not bound to strike down the statute in its entirety. Instead, the court acts as a judicial surgeon, amputating only the unconstitutional clause or provision while preserving the valid and constitutional remainder of the Act.',
+            'The Doctrine of Severability (also termed the Doctrine of Separability) is an essential rule of constitutional interpretation derived directly from the qualifying words "to the extent of such inconsistency" occurring in Article 13(1) (regarding pre-constitutional laws) and Article 13(2) (regarding post-constitutional laws). The fundamental objective of this doctrine is to reconcile judicial review with legislative supremacy. When a court discovers that a statutory enactment infringes upon Fundamental Rights guaranteed in Part III, the court is not bound to strike down the statute in its entirety. Instead, the court acts like a surgeon, cutting out only the unconstitutional clause while preserving the valid and constitutional remainder of the Act.',
             'This doctrine prevents legislative paralysis by ensuring that valid, beneficial statutory provisions are not unnecessarily discarded due to the invalidity of a separable, subordinate clause.'
           ]
         },
@@ -79,8 +79,8 @@ export const q1ShortNotes = [
           paragraphs: [
             'To determine whether the invalid portion of a statute can be severed from the valid portion, Indian constitutional courts apply the classical <strong>"Blue-Pencil Test"</strong> alongside the paramount test of <strong>Legislative Intent</strong>:<br/>' +
             '<strong>1. Test of Separability:</strong> The court mentally runs a blue pencil over the offending, unconstitutional clause. If after striking out the invalid section, what remains is an independent, coherent, and workable legal code capable of being enforced on its own, the valid portion survives.<br/>' +
-            '<strong>2. Test of Legislative Intent:</strong> The court must ascertain whether the legislature would have enacted the surviving portion independently without the unconstitutional portion. If the valid and invalid provisions are so inextricably interconnected that the legislature intended them to operate only as an indivisible, composite whole, the entire Act must be struck down.<br/>' +
-            '<strong>3. Test of Truncation:</strong> If after removing the unconstitutional section, what remains is so truncated, mutilated, and incomplete that enforcing it would defeat the core purpose of the original Act, severability cannot be applied and the entire statute must fall.'
+            '<strong>2. Test of Legislative Intent:</strong> The court must ascertain whether the legislature would have enacted the surviving portion independently without the unconstitutional portion. If the valid and invalid provisions are so inseparably linked that the legislature intended them to operate only as an indivisible, composite whole, the entire Act must be struck down.<br/>' +
+            '<strong>3. Test of Truncation:</strong> If after removing the unconstitutional section, what remains is so incomplete and unworkable that enforcing it would defeat the core purpose of the original Act, severability cannot be applied and the entire statute must fall.'
           ]
         }
       ],

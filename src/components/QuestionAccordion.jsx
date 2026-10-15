@@ -1,7 +1,7 @@
 import React from 'react';
-import { ChevronDown, BookOpen, Scale, Award, Flame, Zap } from 'lucide-react';
+import { ChevronDown, BookOpen, Scale, Award, Flame, Zap, Landmark, GraduationCap } from 'lucide-react';
 
-export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
+export default function QuestionAccordion({ questionData, isOpen, onToggle, subject }) {
   const {
     id,
     qNum,
@@ -13,6 +13,72 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
 
   const isTenMarks = marks === 10 || marks === '10';
 
+  // Determine subject course track (Law / LLB vs Humanities / BA)
+  const courseType = subject?.courseType || (
+    subject?.id === 'political-science-3'
+      ? 'ba-polisci'
+      : subject?.id === 'english1'
+        ? 'ba-english'
+        : 'llb'
+  );
+  const isLaw = courseType === 'llb';
+  const isPolSci = courseType === 'ba-polisci';
+  const isEnglish = courseType === 'ba-english';
+
+  // Subject-tailored labels & headings
+  const config = {
+    courseBadge: isLaw ? (
+      <span className="course-pill pill-llb">
+        <Scale size={11} /> LLB • Law
+      </span>
+    ) : isPolSci ? (
+      <span className="course-pill pill-ba-polisci">
+        <Landmark size={11} /> BA • Pol Science
+      </span>
+    ) : (
+      <span className="course-pill pill-ba-english">
+        <BookOpen size={11} /> BA • English
+      </span>
+    ),
+    examTrackLabel: isLaw ? 'LLB Course Standard' : isPolSci ? 'BA Political Science Standard' : 'BA English Literature Standard',
+    frameworkTitle: isLaw
+      ? 'Statutory & Constitutional Provisions'
+      : isPolSci
+        ? 'Theoretical Framework & Key Thinkers'
+        : 'Literary Context & Reference Foundation',
+    frameworkIcon: isLaw ? Scale : isPolSci ? Landmark : BookOpen,
+    frameworkClass: isLaw ? 'callout-law' : isPolSci ? 'callout-polisci' : 'callout-english',
+    ingredientsTitle: isLaw
+      ? 'Essential Legal Elements & Principles'
+      : isPolSci
+        ? 'Key Dimensions & Core Concepts'
+        : 'Core Thematic Elements & Highlights',
+    discussionTitle: isLaw
+      ? 'Detailed Legal Analysis & Application'
+      : isPolSci
+        ? 'In-Depth Theoretical Analysis'
+        : 'Critical & Stylistic Analysis',
+    caseLawsTitle: isLaw
+      ? 'Landmark Cases & Judicial Precedents'
+      : isPolSci
+        ? 'Key Thinkers, Precedents & Case Studies'
+        : 'Judicial Precedents & Legal Citations',
+    caseFactsTag: isLaw ? 'Facts:' : 'Context:',
+    caseRatioTag: 'Judgement:',
+    criticalTitle: isLaw
+      ? 'Exceptions, Defences & Practical Scope'
+      : isPolSci
+        ? 'Critical Appraisal & Democratic Relevance'
+        : 'Critical Appreciation & Literary Significance',
+    conclusionTitle: isLaw
+      ? 'Exam Conclusion'
+      : isPolSci
+        ? 'Concluding Summary'
+        : 'Concluding Takeaway',
+  };
+
+  const FrameworkIcon = config.frameworkIcon;
+
   // Filter out any predictive flair or unit numbers as per user instructions
   const visibleFlairs = flairs.filter(
     (f) =>
@@ -22,7 +88,7 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
   );
 
   return (
-    <div className={`question-accordion-card ${isOpen ? 'open' : ''}`}>
+    <div className={`question-accordion-card ${isOpen ? 'open' : ''} ${courseType}`}>
       <button
         className="question-trigger"
         onClick={onToggle}
@@ -31,6 +97,9 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
         <div className="question-trigger-content">
           <div className="question-meta-row">
             <span className="question-num-badge">{qNum}</span>
+
+            {/* Course Stream Badge (LLB vs BA) */}
+            {config.courseBadge}
 
             {/* Marks Tag */}
             <span
@@ -74,14 +143,17 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
               <strong>Exam Target:</strong>{' '}
               {isTenMarks ? '950–1200 words (4 to 4.5 pages)' : '450–650 words (2.5 to 3 pages)'}
             </span>
+            <span className="stat-stream-badge">
+              {config.examTrackLabel}
+            </span>
           </div>
 
-          {/* 1. Statutory Framework / Bare Act Foundation */}
+          {/* 1. Statutory / Theoretical / Literary Framework */}
           {answer.statutoryFramework && (
-            <div className="statutory-callout">
+            <div className={`statutory-callout ${config.frameworkClass}`}>
               <div className="statutory-heading">
-                <Scale size={15} />
-                Statutory Provisions & Constitutional Foundation
+                <FrameworkIcon size={15} />
+                {config.frameworkTitle}
               </div>
               <div className="statutory-text">{answer.statutoryFramework}</div>
             </div>
@@ -112,10 +184,10 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
             </div>
           )}
 
-          {/* 3. Essential Ingredients / Substantive Doctrine */}
+          {/* 3. Essential Ingredients / Core Dimensions */}
           {answer.ingredients && answer.ingredients.length > 0 && (
             <div className="answer-section">
-              <div className="answer-section-title">Essential Ingredients & Substantive Legal Doctrine</div>
+              <div className="answer-section-title">{config.ingredientsTitle}</div>
               {answer.ingredients.map((ing, i) => (
                 <div key={i} className="answer-lead-point">
                   <span className="point-index">{i + 1}.</span>
@@ -131,7 +203,7 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
           {/* 4. Substantive Discussion / Explanatory Paragraphs */}
           {answer.discussion && answer.discussion.length > 0 && (
             <div className="answer-section">
-              <div className="answer-section-title">Detailed Legal Analysis</div>
+              <div className="answer-section-title">{config.discussionTitle}</div>
               {answer.discussion.map((para, i) => (
                 <p
                   key={i}
@@ -142,23 +214,23 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
             </div>
           )}
 
-          {/* 5. Landmark & Verified Case Laws */}
+          {/* 5. Landmark & Verified Case Laws (Judgement instead of Ratio Decidendi) */}
           {answer.caseLaws && answer.caseLaws.length > 0 && (
             <div className="answer-section">
-              <div className="answer-section-title">Authoritative Case Law Jurisprudence</div>
+              <div className="answer-section-title">{config.caseLawsTitle}</div>
               {answer.caseLaws.map((cl, i) => (
                 <div key={i} className="case-law-card">
                   <div className="case-law-title">{cl.name}</div>
                   {cl.citation && <div className="case-law-citation">{cl.citation}</div>}
                   {cl.facts && (
                     <div className="case-law-block">
-                      <span className="tag">Facts:</span>
+                      <span className="tag">{config.caseFactsTag}</span>
                       {cl.facts}
                     </div>
                   )}
                   {cl.ratio && (
                     <div className="case-law-block">
-                      <span className="tag">Ratio Decidendi:</span>
+                      <span className="tag">{config.caseRatioTag}</span>
                       {cl.ratio}
                     </div>
                   )}
@@ -170,7 +242,7 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
           {/* 6. Critical Analysis / Exceptions */}
           {answer.criticalAnalysis && (
             <div className="answer-section">
-              <div className="answer-section-title">Exceptions, Limitations & Critical Appraisal</div>
+              <div className="answer-section-title">{config.criticalTitle}</div>
               <p
                 className="answer-paragraph"
                 dangerouslySetInnerHTML={{ __html: answer.criticalAnalysis }}
@@ -181,7 +253,7 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle }) {
           {/* 7. Conclusion */}
           {answer.conclusion && (
             <div className="conclusion-box">
-              <div className="conclusion-heading">Conclusion</div>
+              <div className="conclusion-heading">{config.conclusionTitle}</div>
               <div className="conclusion-text">{answer.conclusion}</div>
             </div>
           )}

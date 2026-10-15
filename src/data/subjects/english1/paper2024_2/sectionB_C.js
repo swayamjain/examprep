@@ -383,11 +383,11 @@ export const sectionB_C_2024 = [
           paragraphs: [
             "Vehemently opposing the grant of bail, Senior Counsel <strong>K.K. Venugopal</strong>, representing the State of Tamil Nadu, contended that the pontiff was the prime conspirator behind the premeditated assassination of Sankararaman:<br/>" +
             "• <strong>Gravity of Allegations:</strong> The prosecution argued that charges under Sections 302 (Murder) and 120B (Criminal Conspiracy) of the Indian Penal Code carry the maximum sentence of capital punishment or life imprisonment, making bail inappropriate at this stage.<br/>" +
-            "• <strong>Threat to Witnesses:</strong> Mr. Venugopal maintained that the Shankaracharya possessed immense political and religious influence. Releasing him into public circulation would intimidate crucial eyewitnesses, subvert forensic disclosures, and compromise the integrity of ongoing trial proceedings."
+            "• <strong>Threat to Witnesses:</strong> Mr. Venugopal maintained that the Shankaracharya possessed immense political and religious influence. Releasing him into public circulation would intimidate crucial eyewitnesses, tamper with evidence, and compromise the integrity of ongoing trial proceedings."
           ]
         },
         {
-          heading: "IV. Critical Judicial Findings and Ratio Decidendi",
+          heading: "IV. Critical Judicial Findings and Judgement",
           paragraphs: [
             "Delivering the unanimous verdict, Justice Y.K. Sabharwal scrutinized the confidential case diaries submitted by the Special Investigation Team (SIT). The Bench made stern observations regarding prosecutorial overreach:<br/>" +
             "1. <strong>Lack of Direct Evidence:</strong> The Court observed that despite two months of custodial investigation, the state had failed to produce credible independent evidence showing financial payouts or direct instigation by the seer.<br/>" +
@@ -409,7 +409,7 @@ export const sectionB_C_2024 = [
         {
           heading: "VI. Analytical Perspective: Jurisprudence of Section 439 CrPC and Pre-Trial Liberty",
           paragraphs: [
-            "Legal observers in the capital have hailed the Supreme Court's verdict as a much-needed correction to the emerging trend of protracted pre-trial detention in high-profile criminal matters. Under Section 439 of the Code of Criminal Procedure (now Section 483 BNSS), the High Court and Court of Session possess wide discretion to grant bail. However, in sensitive cases with political or religious overtones, lower courts frequently succumb to the sensationalism of the charges rather than examining whether the prosecution has assembled admissible evidentiary material.",
+            "Legal observers in the capital have hailed the Supreme Court's verdict as a much-needed correction to the emerging trend of prolonged detention before trial in high-profile criminal matters. Under Section 439 of the Code of Criminal Procedure (now Section 483 BNSS), the High Court and Court of Session possess wide discretion to grant bail. However, in sensitive cases with political or religious overtones, lower courts frequently succumb to the sensationalism of the charges rather than examining whether the prosecution has assembled admissible evidentiary material.",
             "By setting aside the Madras High Court’s refusal of bail, the Supreme Court re-anchored Indian criminal procedure to the bedrock test of <em>prima facie</em> probability. The Bench made it clear that mere suspicion, however grave, cannot substitute for proof, and uncorroborated accomplice statements cannot justify keeping an elderly spiritual leader incarcerated without trial. The judgment establishes an enduring precedent that personal liberty under Article 21 must remain the guiding principle throughout pre-trial investigation."
           ]
         }

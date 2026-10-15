@@ -23,7 +23,7 @@ export const paper2025_summer = {
           {
             heading: 'I. The Inherent Correlative Nature: Two Sides of the Same Coin',
             paragraphs: [
-              'In political philosophy and jurisprudence, <strong>rights</strong> and <strong>duties</strong> are inextricably linked, correlative concepts. They represent the reciprocal relationship between the individual and the political community. A right without a corresponding duty is an impossible legal absurdity, while a duty without a corresponding right is arbitrary servitude.',
+              'In political philosophy and jurisprudence, <strong>rights</strong> and <strong>duties</strong> are inseparably linked, correlative concepts. They represent the reciprocal relationship between the individual and the political community. A right without a corresponding duty is an impossible legal absurdity, while a duty without a corresponding right is arbitrary servitude.',
               'As <strong>Harold Laski</strong> famously asserted in <em>A Grammar of Politics</em>, rights and duties are correlative in three fundamental dimensions:<br/>' +
               '• <em>First: One person\'s right implies another person\'s duty:</em> My right to life, speech, or property imposes a positive moral and negative legal obligation upon every other member of society not to murder, silence, or rob me.<br/>' +
               '• <em>Second: An individual\'s right implies a duty toward the State:</em> If the State guarantees and enforces my rights through its judicial and police machinery, I owe the State the reciprocal duties of tax compliance, obeying constitutional laws, and defending national integrity.<br/>' +
@@ -299,7 +299,7 @@ export const paper2025_summer = {
           {
             heading: 'I. Foundational Concept and Evolution of Socialism',
             paragraphs: [
-              '<strong>Socialism</strong> is a profound socio-economic and political philosophy that emerged in the nineteenth century in response to the human misery, class polarization, and unfettered exploitation created by industrial capitalism. At its core, socialism champions the principle that the wealth, natural resources, and instruments of production in a society belong to the whole community and should be owned, managed, and regulated collectively for the common good.',
+              '<strong>Socialism</strong> is a profound socio-economic and political philosophy that emerged in the nineteenth century in response to the human misery, class polarization, and unchecked exploitation created by industrial capitalism. At its core, socialism champions the principle that the wealth, natural resources, and instruments of production in a society belong to the whole community and should be owned, managed, and regulated collectively for the common good.',
               'Historically, socialism evolved through several distinct strands:<br/>' +
               '• <strong>Utopian Socialism (Robert Owen, Charles Fourier, Saint-Simon):</strong> Appealed to the moral conscience of capitalists to build cooperative communes and voluntary model villages.<br/>' +
               '• <strong>Scientific Socialism / Marxism (Karl Marx & Friedrich Engels):</strong> Rejected utopian moralizing in favor of historical materialism, class struggle, and the revolutionary overthrow of the bourgeois state.<br/>' +

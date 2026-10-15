@@ -391,7 +391,7 @@ export const sectionB_C_predictive = [
           ]
         },
         {
-          heading: "IV. Critical Judicial Findings and Ratio Decidendi",
+          heading: "IV. Critical Judicial Findings and Judgement",
           paragraphs: [
             "Authoring the primary opinion, Chief Justice D.Y. Chandrachud applied the four-pronged <strong>Proportionality Test</strong> established in <em>K.S. Puttaswamy (2017)</em> to strike down the scheme:<br/>" +
             "1. <strong>Failure of Proportionality:</strong> The Court held that while curbing black money is a legitimate state objective, granting blanket anonymity to corporate donors is not the least restrictive measure to achieve that goal.<br/>" +

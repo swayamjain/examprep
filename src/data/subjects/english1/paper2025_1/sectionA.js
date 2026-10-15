@@ -250,7 +250,7 @@ export const sectionA_2025 = [
           paragraphs: [
             "Shaw’s public speaking journey began in 1879 when, at the age of twenty-three, he was persuaded by a friend to attend a meeting of the <strong>Zetetical Society</strong> in London—a debating club established to discuss philosophical, political, and evolutionary questions. Shaw had never spoken in public and knew little about formal debate. Yet, when the discussion began, an uncontrollable impulse drove him to speak.<br/>" +
             "The outcome was deeply embarrassing. Shaw describes his condition in self-deprecating detail: his heart pounded like a sledgehammer, his hands shook violently, his throat dried up, and his voice sounded thin and strained. He writes:<br/>" +
-            "<em>'I had never spoken in public. I had no business to speak at all; yet I was impelled to get on my legs. When I stood up, I was terrified. I spoke a few stammering sentences, made a fool of myself, and sat down in an agony of shame. If I had had any common sense, I should have slunk away and never shown my face again.'</em>",
+            "<em>'I had never spoken in public. I had no business to speak at all; yet I was impelled to get on my legs. When I stood up, I was terrified. I spoke a few stammering sentences, made a fool of myself, and sat down in an agony of shame. If I had had any common sense, I should have walked away in shame and never shown my face again.'</em>",
             "Instead of withdrawing in defeat, Shaw made a conscious psychological decision: if speaking in public frightened him so profoundly, he resolved to force himself to speak at every meeting until the fear was eradicated."
           ]
         },

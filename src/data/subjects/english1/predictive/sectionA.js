@@ -80,7 +80,7 @@ export const sectionA_predictive = [
           paragraphs: [
             "Shaw’s oratorical journey began in London in the autumn of 1879, when he was twenty-three years old. A friend invited him to a meeting of the <strong>Zetetical Society</strong>—a serious intellectual debating club dedicated to discussing contemporary political, economic, and philosophical questions. Shaw had never spoken in public before and had received no training in elocution or rhetoric.<br/>" +
             "During the meeting, an uncontrollable impulse prompted him to stand up and speak. The physical consequences were devastating: his heart hammered violently against his ribs, his hands shook uncontrollably, his throat tightened, and his mind suffered complete paralysis. He stammered a few disconnected, incoherent remarks and sat down in deep mortification.<br/>" +
-            "Shaw recognized that most people would have slunk away, never to enter a debating forum again. However, Shaw possessed stubborn determination. He realized that if public speaking terrified him, it was his duty to speak at every opportunity until the fear was eradicated. He resolved on the spot to join the society and speak at every single meeting."
+            "Shaw recognized that most people would have walked away in shame, never to enter a debating forum again. However, Shaw possessed stubborn determination. He realized that if public speaking terrified him, it was his duty to speak at every opportunity until the fear was eradicated. He resolved on the spot to join the society and speak at every single meeting."
           ]
         },
         {
@@ -229,7 +229,7 @@ export const sectionA_predictive = [
           ]
         },
         {
-          heading: "VI. Social Milieu and Bennett’s Critique of Provincial versus Metropolitan Decadence",
+          heading: "VI. Social Setting and Bennett’s Critique of Provincial versus Metropolitan Decadence",
           paragraphs: [
             "A critical element of Bennett's realism is the realistic depiction of the provincial setting—the industrial landscape of Sneyd and the Five Towns. Bennett contrasts the solid, industrious, and unpretentious character of the pottery manufacturers with the superficial intellectualism of London.<br/>" +
             "While John Franting’s manners are coarse and his domestic attitudes unrefined, his life is grounded in productive economic labor, community respectability, and tangible care for his dependents. Lomax Harder, representing the metropolitan artistic intelligentsia, treats provincial life with condescension. Yet, when confronted by emotional adversity, it is the refined metropolitan dramatist who resorts to cold-blooded homicide, while the crude manufacturer acts with generosity and legal responsibility. Bennett exposes the hypocrisy of cultural elitism, proving that sophisticated artistic refinement can coexist with moral depravity."

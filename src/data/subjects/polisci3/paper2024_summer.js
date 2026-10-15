@@ -31,8 +31,8 @@ export const paper2024_summer = {
             heading: 'II. Specific Kinds and Classification of Rights',
             paragraphs: [
               'Political scientists and jurists categorize rights into several specific, well-defined species:<br/>' +
-              '<strong>1. Natural Rights:</strong> According to classical social contract theorists like <strong>John Locke</strong>, rights are inherent in human personality and pre-date the formation of the civil state. Locke identified the holy trinity of natural rights as <em>Life, Liberty, and Estate (Property)</em>. These rights inhere in individuals by virtue of their common humanity.<br/>' +
-              '<strong>2. Moral Rights:</strong> Rooted in the moral conscience, ethical customs, and spiritual values of a community. Moral rights lack coercive legal sanctions; their violation cannot be remedied in a court of law but invites social opprobrium (e.g., the right of aging parents to receive filial care and respect).<br/>' +
+              '<strong>1. Natural Rights:</strong> According to classical social contract theorists like <strong>John Locke</strong>, rights are inherent in human personality and pre-date the formation of the civil state. Locke identified the three foundational natural rights as <em>Life, Liberty, and Estate (Property)</em>. These rights inhere in individuals by virtue of their common humanity.<br/>' +
+              '<strong>2. Moral Rights:</strong> Rooted in the moral conscience, ethical customs, and spiritual values of a community. Moral rights lack coercive legal sanctions; their violation cannot be remedied in a court of law but invites social disapproval (e.g., the right of aging parents to receive care and respect from their children).<br/>' +
               '<strong>3. Legal Rights:</strong> Claims explicitly enacted, codified, and guaranteed by municipal statutory law and enforced by courts. If violated, they trigger judicial remedies. Legal rights are further divided into:<br/>' +
               '&nbsp;&nbsp;• <em>Civil Rights:</em> Essential protections safeguarding personal security, bodily integrity, freedom of movement, and contract enforcement (e.g., Article 21 of the Indian Constitution).<br/>' +
               '&nbsp;&nbsp;• <em>Political Rights:</em> Capacities that enable citizens to participate directly or indirectly in state governance, such as the right to vote, right to contest periodic elections, right to petition public authorities, and equal eligibility for public offices.<br/>' +
@@ -57,7 +57,7 @@ export const paper2024_summer = {
         statutoryFramework: 'Theoretical Framework: Ernest Gellner (Nations and Nationalism), Benedict Anderson (Imagined Communities), Anthony D. Smith (The Ethnic Origins of Nations), Ernest Renan (Qu\'est-ce qu\'une nation?).',
         sections: [
           {
-            heading: 'I. Conceptual Delineation: Nation vs. Nationalism',
+            heading: 'I. Conceptual Difference: Nation vs. Nationalism',
             paragraphs: [
               'The relationship between <strong>nation</strong> and <strong>nationalism</strong> is organic, dialectical, and mutually constitutive in modern political theory. To understand their relationship, one must first distinguish the entity from the ideology.',
               'A <strong>nation</strong> is primarily a socio-cultural and psychological collectivity—a community of sentiment forged through shared historical memories, cultural symbols, common language, ethnic affiliations, and above all, a collective subjective consciousness of belonging together. As <strong>Ernest Renan</strong> famously remarked in 1882, a nation is a spiritual principle, an <em>"âme"</em> (soul), and a <em>"daily plebiscite"</em> held together by a shared heritage of triumphs and griefs.',
@@ -162,7 +162,7 @@ export const paper2024_summer = {
           {
             heading: 'I. Foundational Concept of Socialism',
             paragraphs: [
-              '<strong>Socialism</strong> arose in the early nineteenth century as a profound moral, socio-economic, and political reaction against the unfettered exploitation, class polarization, and human degradation spawned by industrial capitalism. It champions social equality, collective ownership or democratic regulation of the means of production, cooperative brotherhood, and production targeted toward human need rather than private capitalist profit.',
+              '<strong>Socialism</strong> arose in the early nineteenth century as a profound moral, socio-economic, and political reaction against the unchecked exploitation, class polarization, and human degradation spawned by industrial capitalism. It champions social equality, collective ownership or democratic regulation of the means of production, cooperative brotherhood, and production targeted toward human need rather than private capitalist profit.',
               'As C.E.M. Joad famously observed, socialism has worn many hats, but all varieties share an unwavering rejection of unbridled laissez-faire individualism in favor of egalitarian social cooperation.'
             ]
           },
@@ -172,10 +172,10 @@ export const paper2024_summer = {
               'Socialism is a multidimensional philosophy encompassing three paramount aspects:<br/>' +
               '<strong>1. The Economic Aspect (Social Ownership and Planned Economy):</strong><br/>' +
               'Socialism challenges private ownership of the instruments of production, exchange, and distribution. It replaces cutthroat market anarchy with state or cooperative ownership of heavy industries, public utilities, and financial institutions. Economic production is consciously planned to eliminate business cycles, unemployment, and capitalist rent-seeking, ensuring distributive justice.<br/>' +
-              '<strong>2. The Social & Egalitarian Aspect (Eradication of Class Cleavages):</strong><br/>' +
+              '<strong>2. The Social & Egalitarian Aspect (Eradication of Class Divisions):</strong><br/>' +
               'Socialism strives for substantive socio-economic equality. While recognizing natural differences in talent, it insists on radical equality of opportunity and an equitable distribution of national income. It treats education, healthcare, housing, and social security as fundamental social entitlements rather than private market commodities.<br/>' +
               '<strong>3. The Moral & Humanistic Aspect (Cooperation over Competition):</strong><br/>' +
-              'Philosophically, socialism views human beings as inherently social and cooperative creatures whose character is deformed by competitive capitalist markets. It seeks to replace self-interested acquisitiveness with fraternal solidarity, civic camaraderie, and universal social harmony.'
+              'Philosophically, socialism views human beings as inherently social and cooperative creatures whose character is deformed by competitive capitalist markets. It seeks to replace self-interested greed for wealth with fraternal solidarity, civic camaraderie, and universal social harmony.'
             ]
           }
         ],
@@ -195,9 +195,9 @@ export const paper2024_summer = {
         statutoryFramework: 'Theoretical Authorities: Ernest Gellner, Benedict Anderson, Carlton Hayes, Hans Kohn (The Idea of Nationalism), Anthony D. Smith.',
         sections: [
           {
-            heading: 'I. Ontological Difference: Subjective Community vs. Dynamic Ideology',
+            heading: 'I. Fundamental Difference: Cultural Community vs. Active Ideology',
             paragraphs: [
-              'Although often conflated in casual discourse, <strong>nation</strong> and <strong>nationalism</strong> occupy categorically distinct ontological and operational planes in political philosophy. A nation is an existent human collectivity characterized by cultural cohesion and psychological solidarity, whereas nationalism is the ideological doctrine and political movement that activates and utilizes that collective consciousness.'
+              'Although often often confused in everyday speech, <strong>nation</strong> and <strong>nationalism</strong> occupy fundamentally different levels in political theory in political philosophy. A nation is an existent human collectivity characterized by cultural cohesion and psychological solidarity, whereas nationalism is the ideological doctrine and political movement that activates and utilizes that collective consciousness.'
             ]
           },
           {
@@ -223,7 +223,7 @@ export const paper2024_summer = {
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Emerged predominantly in modern Europe following the 18th-century French Revolution and print capitalism.</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>5. Pathological Risks</strong></td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">May suffer from cultural insularity or internal ethnic fragmentation.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can degenerate into xenophobic jingoism, fascism, ethnic cleansing, and imperialist aggression.</td></tr>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can degenerate into aggressive nationalism and hatred of foreigners, fascism, ethnic cleansing, and imperialist aggression.</td></tr>' +
               '</tbody></table>'
             ]
           }
@@ -247,7 +247,7 @@ export const paper2024_summer = {
           {
             heading: 'I. Introduction and Definitional Essence of Authority',
             paragraphs: [
-              'In political analysis and public jurisprudence, <strong>authority</strong> represents the moral and institutional transformation of coercive force into legitimate governance. Raw force or unmediated coercion can compel outward obedience through terror or overwhelming sanctions, but it cannot sustain stable, long-term political order. Stable governance requires that the right to command be perceived as rightful, just, and binding by those who are commanded.',
+              'In political analysis and public jurisprudence, <strong>authority</strong> represents the moral and institutional transformation of coercive force into legitimate governance. Raw force or raw physical force can compel outward obedience through terror or overwhelming sanctions, but it cannot sustain stable, long-term political order. Stable governance requires that the right to command be perceived as rightful, just, and binding by those who are commanded.',
               'Authority is universally conceptualized as <strong>legitimate power</strong>. When power is institutionalized, cloaked with legal validity, and accepted by subordinates as morally binding, it ceases to be mere brute power and becomes authority. As the French philosopher <strong>Bertrand de Jouvenel</strong> articulated, authority is the capacity to gain another\'s assent and compliance without resort to physical intimidation.',
               'According to <strong>Robert Dahl</strong>, <em>"Authority is legitimate power... when power is clothed in legitimacy, a ruler commands and subjects obey voluntarily out of an inner moral conviction of duty."</em>'
             ]
@@ -529,7 +529,7 @@ export const paper2024_summer = {
             ]
           }
         ],
-        criticalAnalysis: 'Analytically, capitalism is an economic mode of production; functionally and sociologically, it is saturated with ideological assumptions about human acquisitiveness, property supremacy, and individualism that govern modern society.',
+        criticalAnalysis: 'Analytically, capitalism is an economic mode of production; functionally and sociologically, it is saturated with ideological assumptions about human greed for wealth, property supremacy, and individualism that govern modern society.',
         conclusion: 'Whether classified as an economic system reliant on Liberalism or as the dominant hegemonic ideology of the modern age, capitalism remains the defining material framework of contemporary civilization.'
       }
     },
@@ -722,7 +722,7 @@ export const paper2024_summer = {
               '• <em>Fundamental Duties (Article 51A):</em> Inserted by the 42nd Amendment, enjoining citizens to cherish noble ideals of the freedom struggle, protect national composite culture, defend the nation, and promote harmony transcending religious or linguistic diversities.<br/>' +
               '• <em>Protection of Minority and Tribal Community Rights (Articles 29, 30, and Fifth/Sixth Schedules):</em> Recognizes group-differentiated collective rights to preserve communal language, script, and autonomous tribal councils.<br/>' +
               '<strong>3. Indigenous Customary Citizenship and Communitarian Practices:</strong><br/>' +
-              'Among indigenous communities (such as the Khasi, Garo, or Naga traditional councils in North-East India), individual rights are inextricably linked to customary duties to the clan, community land management, and ancestral village assemblies (<em>Dorbar Shnong</em>).'
+              'Among indigenous communities (such as the Khasi, Garo, or Naga traditional councils in North-East India), individual rights are inseparably linked to customary duties to the clan, community land management, and ancestral village assemblies (<em>Dorbar Shnong</em>).'
             ]
           },
           {
