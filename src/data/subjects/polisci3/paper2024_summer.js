@@ -73,6 +73,14 @@ export const paper2024_summer = {
               '<strong>3. Mutual Reinforcement and Degradation:</strong> Healthy civic nationalism preserves national cohesion by promoting equal citizenship under constitutional rules. However, when nationalism becomes aggressive, xenophobic, and chauvinistic, it corrupts the nation by marginalizing minority nationalities and precipitating devastating international conflicts.'
             ]
           }
+        ,
+          {
+            heading: "III. Indian Experience: Anti-Colonial Nationalism and Composite Nationhood",
+            paragraphs: [
+              "The historical emergence of modern India illuminates the profound symbiosis between nation and nationalism. While ancient India possessed a civilizational and cultural unity expressed through shared sacred geographies, epics, and social philosophies, a unified political nation was forged through anti-colonial nationalist mobilization led by Mahatma Gandhi, Jawaharlal Nehru, and the Indian National Congress.",
+              "Dr. B.R. Ambedkar distinguished between a passive <em>\"nationality\"</em> (a social feeling of oneness) and an active <em>\"nationalism\"</em> (the desire for a separate sovereign state). Post-independence India codified a <strong>Composite, Civic Nationalism</strong> under the Constitution, rejecting religion-based two-nation theories and guaranteeing equal citizenship under Articles 14, 15, and 16 regardless of creed or tongue."
+            ]
+          }
         ],
         criticalAnalysis: 'While nationalism breathed life into modern anti-colonial nations like India, Rabindranath Tagore warned against blind idolization of the nation-state, observing that aggressive nationalism mechanically crushes universal human fellowship.',
         conclusion: 'Nation and nationalism exist in a symbiotic relationship: the nation provides the cultural identity, while nationalism provides the political will and organizational impetus to sustain that identity in the global arena.'
@@ -103,6 +111,14 @@ export const paper2024_summer = {
               '<strong>1. Civil Citizenship (18th Century):</strong> The guarantees essential for individual liberty—freedom of speech, thought, faith, the right to own property, enter into contracts, and the right to procedural justice before independent courts.<br/>' +
               '<strong>2. Political Citizenship (19th Century):</strong> The right to participate directly or indirectly in the exercise of political power, as an elector wielding universal adult suffrage or as an elected representative holding sovereign office.<br/>' +
               '<strong>3. Social Citizenship (20th Century):</strong> The right to a whole range of socio-economic security, from the right to health and public education to the guarantee of a dignified living standard under a modern welfare state.'
+            ]
+          }
+        ,
+          {
+            heading: "III. The Indian Constitutional Paradigm of Single Citizenship",
+            paragraphs: [
+              "Departing from federal systems like the United States (which features dual citizenship of both the federal union and the individual state), the Constitution of India establishes a <strong>Single Uniform Citizenship</strong> throughout the entire territory of the Republic (Articles 5 to 11 and The Citizenship Act, 1955).",
+              "Dr. B.R. Ambedkar explained in the Constituent Assembly that single citizenship was deliberately designed to forge national integration, prevent regional chauvinism, and ensure that every Indian enjoys identical civil and political privileges from Kashmir to Kanyakumari. Indian citizenship can be acquired through five statutory modes: birth (<em>jus soli</em>), descent (<em>jus sanguinis</em>), registration, naturalization, and incorporation of territory."
             ]
           }
         ],
@@ -143,6 +159,13 @@ export const paper2024_summer = {
               '<strong>3. Coercive, Utilitarian, and Normative Power (Amitai Etzioni):</strong> Power grounded respectively in fear of physical sanctions, allocation of material rewards, or allocation of symbolic and moral values.'
             ]
           }
+        ,
+          {
+            heading: "III. Sociological Perspectives: Foucault and Michael Mann's IEMP Model",
+            paragraphs: [
+              "Twentieth-century political sociology broadened the concept of power beyond the state apparatus:<br/>• <strong>Michel Foucault's Discursive / Capillary Power:</strong> Foucault rejected the view that power is merely a top-down sovereign weapon held by the state. Power is omnipresent, capillary, and diffused throughout society—embedded in language, clinical medicine, prisons, schools, and psychiatric classifications (<em>\"Power is everywhere; not because it embraces everything, but because it comes from everywhere\"</em>).<br/>• <strong>Michael Mann's IEMP Model of Power:</strong> Sociologist Michael Mann identified four interconnected institutional networks through which human societies organize power: <em>Ideological</em> (meaning, religion, norms), <em>Economic</em> (production, extraction, market exchange), <em>Military</em> (physical defense and violent coercion), and <em>Political</em> (state institutional regulation and territorial law)."
+            ]
+          }
         ],
         criticalAnalysis: 'Raw power without legitimacy is fragile, unstable, and prohibitively expensive to maintain through permanent violence. When power acquires moral justification and lawful sanction, it transforms into legitimate authority.',
         conclusion: 'Power is the lifeblood of political action. The central quest of constitutionalism is to tame, check, and channel raw power through the rule of law.'
@@ -176,6 +199,13 @@ export const paper2024_summer = {
               'Socialism strives for substantive socio-economic equality. While recognizing natural differences in talent, it insists on radical equality of opportunity and an equitable distribution of national income. It treats education, healthcare, housing, and social security as fundamental social entitlements rather than private market commodities.<br/>' +
               '<strong>3. The Moral & Humanistic Aspect (Cooperation over Competition):</strong><br/>' +
               'Philosophically, socialism views human beings as inherently social and cooperative creatures whose character is deformed by competitive capitalist markets. It seeks to replace self-interested greed for wealth with fraternal solidarity, civic camaraderie, and universal social harmony.'
+            ]
+          }
+        ,
+          {
+            heading: "III. Prominent Varieties of Socialist Thought and the Indian Model",
+            paragraphs: [
+              "Across history, socialism materialized into several major schools:<br/>• <strong>Utopian Socialism (Robert Owen, Charles Fourier):</strong> Advocated peaceful voluntary establishment of cooperative model communities based on ethical brotherhood, lacking a scientific theory of class conflict.<br/>• <strong>Scientific / Marxian Socialism (Marx & Engels):</strong> Grounded in dialectical materialism and historical analysis; insisted that capitalism inevitably produces class struggle between bourgeoisie and proletariat, necessitating a proletarian revolution.<br/>• <strong>Fabian Socialism (Sidney & Beatrice Webb, George Bernard Shaw):</strong> Propounded the \"inevitability of gradualness\"—achieving socialism incrementally through democratic parliamentary reform, municipal ownership, and enlightened civil service administration.<br/>• <strong>Democratic Socialism and the Indian Preamble:</strong> Enshrined in the Preamble by the 42nd Amendment (1976), Nehruvian democratic socialism synthesized parliamentary freedom with a Mixed Economy and Directive Principles (Articles 38 & 39) to eliminate poverty without totalitarian coercion."
             ]
           }
         ],
@@ -225,6 +255,22 @@ export const paper2024_summer = {
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">May suffer from cultural insularity or internal ethnic fragmentation.</td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can degenerate into aggressive nationalism and hatred of foreigners, fascism, ethnic cleansing, and imperialist aggression.</td></tr>' +
               '</tbody></table>'
+            ]
+          }
+        ,
+          {
+            heading: "III. Lord Acton's Classical Critique and the Multi-National State",
+            paragraphs: [
+              "Nineteenth-century British historian <strong>Lord Acton</strong> presented a prophetic critique of the nationalist demand that every nation must form a separate sovereign state. In his essay <em>Nationality</em> (1862), Acton argued that states which contain multiple nationalities within a single constitutional union (like the British Empire or modern democratic India) are inherently more hospitable to civil liberty and tolerance than mono-ethnic nation-states.",
+              "Acton warned that when a single ethnic nation monopolizes state power, it inevitably oppresses linguistic, cultural, and religious minorities. A healthy democratic state must transcend narrow nationalism, providing a pluralistic constitutional shelter where diverse nationalities coexist under equal laws."
+            ]
+          }
+        ,
+          {
+            heading: "IV. Sociological Synthesis: Why Nation Precedes Nationalism",
+            paragraphs: [
+              "In contemporary political sociology, scholars emphasize that while a nation can exist latently as an ethnic community for centuries without demanding statehood (such as the Scots within the United Kingdom or the Catalans in Spain), nationalism emerges when economic or cultural grievances are politicized by intellectual elites.",
+              "Nationalism turns the passive cultural pride of a nation into an aggressive or assertive political campaign for sovereign self-determination, proving that while all nationalism requires a nation, not every nation inevitably develops aggressive nationalism. Constitutional statesmanship consists in cherishing national sentiment while preventing its degeneration into chauvinistic aggression."
             ]
           }
         ],
@@ -299,6 +345,20 @@ export const paper2024_summer = {
               '</tbody></table>'
             ]
           }
+        ,
+          {
+            heading: "V. Behavioral Jurisprudence: Chester Barnard's Acceptance Theory and Simon's Bounded Rationality",
+            paragraphs: [
+              "In classical legal theory, authority was viewed as flowing hierarchically downward from the sovereign monarch or legislature to the citizen. However, modern administrative and political thinkers inverted this conception:<br/>• <strong>Chester Barnard's \"Acceptance Theory of Authority\":</strong> In <em>The Functions of the Executive</em> (1938), Barnard proved that authority flows upward from the bottom. The decision as to whether an order possesses authority lies with the person to whom it is addressed, not with the person who issues it. An individual accepts authority only if the communication falls within their <strong>\"Zone of Indifference\"</strong>—an area where orders are routinely obeyed without conscious questioning because they are perceived as legitimate and reasonable.<br/>• <strong>Herbert Simon's Theory of Bounded Rationality:</strong> Nobel laureate Herbert Simon demonstrated that citizens accept institutional authority because it saves cognitive energy. By accepting constitutional and administrative authority, individuals do not have to deliberate and calculate every single daily decision from scratch."
+            ]
+          }
+        ,
+          {
+            heading: "VI. Contemporary Challenges: Erosion of Authority in the Digital Age",
+            paragraphs: [
+              "In 21st-century constitutional democracies, traditional and legal-rational authority face unprecedented challenges from decentralized social media networks and populist political movements. When citizens lose trust in mainstream scientific, judicial, and legislative institutions, state authority weakens, forcing governments to rely increasingly on regulatory surveillance and police power."
+            ]
+          }
         ],
         criticalAnalysis: 'As Hannah Arendt famously observed in Between Past and Future, where force is used, authority has failed. The resort to naked violence is not a proof of supreme authority, but an admission of its collapse. Once a state must rely purely on armed troops to secure curfew obedience, it has lost authority and retains only coercive power.',
         conclusion: 'Authority is power democratized, moralized, and circumscribed by the rule of law. It converts the sword of the sovereign into the scales of justice, securing orderly civic life.'
@@ -361,6 +421,20 @@ export const paper2024_summer = {
               '• <strong>Constitutional Mechanisms:</strong> Checks and balances, separation of powers, bicameral legislatures, periodic accountability at elections, and rule of law.'
             ]
           }
+        ,
+          {
+            heading: "VI. Epistemic and Digital Democracy in the 21st Century",
+            paragraphs: [
+              "In the contemporary era, democratic theory has expanded into cutting-edge paradigms:<br/>• <strong>Epistemic Democracy (David Estlund, Hélène Landemore):</strong> Grounded in the Condorcet Jury Theorem, epistemic democratic theory asserts that democracy is not merely ethically legitimate; it is <em>intellectually superior</em>. A diverse group of ordinary citizens deliberating together consistently makes wiser, more accurate collective decisions than an insulated elite of technocrats or oligarchs.<br/>• <strong>Digital and Liquid Democracy:</strong> Deploys modern internet communication technologies to combine the advantages of direct and representative democracy. In platforms like Taiwan's open-source <em>vTaiwan</em> consensus system, citizens deliberate on legislative drafts online in real time, bridging the gulf between elected parliamentarians and the grassroots populace, demonstrating how technological innovation can bridge the historic gap between citizens and state policy."
+            ]
+          }
+        ,
+          {
+            heading: "VII. Substantive Democracy: Bridging the Gulf between Form and Reality",
+            paragraphs: [
+              "Political scientists emphasize the vital distinction between formal/procedural democracy and <strong>Substantive Democracy</strong>. While procedural democracy guarantees the right to vote, substantive democracy ensures that citizens possess the real, material capabilities—education, healthcare, nutritional security, and freedom from caste discrimination—required to exercise their democratic rights autonomously, as emphasized by Nobel laureate Amartya Sen's Capability Approach, ensuring that democracy empowers human life in substantive reality rather than remaining a formal paper ritual."
+            ]
+          }
         ],
         criticalAnalysis: 'These four types are not mutually exclusive antagonistic camps; rather, an optimal constitutional democracy synthesizes them: it operates through robust representative institutions, anchored in inviolable procedural safeguards, constantly invigorated by local participatory bodies (Gram Sabhas), and guided by rational public deliberation.',
         conclusion: 'True democracy is neither mere head-counting nor majoritarian despotism; it is a profound ethical commitment to equal citizenship, human dignity, and collective self-determination.'
@@ -415,6 +489,20 @@ export const paper2024_summer = {
               'The character of nationalism directly determines the health and stability of the nation:<br/>' +
               '<strong>1. Civic / Liberal Nationalism (Hans Kohn):</strong> Grounded in shared political principles, constitutional values, equal citizenship, and the rule of law. It is inclusive and welcoming of diversity (e.g., the foundational ethos of Indian constitutional democracy and post-war Western democracies).<br/>' +
               '<strong>2. Ethnic / Cultural Nationalism:</strong> Grounded in exclusive bloodlines, race, or religious orthodoxy. It is inherently exclusionary, treating minorities as secondary subjects and frequently degenerating into xenophobic chauvinism, ethnic conflict, and authoritarianism.'
+            ]
+          }
+        ,
+          {
+            heading: "V. Post-Colonial Subaltern Critique: Partha Chatterjee's \"Nation and Its Fragments\"",
+            paragraphs: [
+              "Leading Indian political theorist <strong>Partha Chatterjee</strong> in <em>The Nation and Its Fragments</em> (1993) delivered a profound critique of Western modernist theories (particularly Benedict Anderson). Anderson had implied that post-colonial nations were mere \"modular\" imitations fabricated along European lines.<br/>Chatterjee demonstrated that anti-colonial nationalism in India asserted its sovereignty long before it waged political battles for sovereign statehood. It did so by dividing society into two distinct spheres:<br/>• <strong>The Material / Outer Domain:</strong> The realm of science, technology, industrial economy, and statecraft. Here, Indian nationalists recognized Western superiority and sought to imitate and master Western techniques.<br/>• <strong>The Spiritual / Inner Domain:</strong> The realm of language, religion, art, family life, and cultural values. In this domain, Indian society fiercely resisted colonial intrusion, creating a sovereign modern national culture that was distinctly Indian and non-Western."
+            ]
+          }
+        ,
+          {
+            heading: "VI. Post-Colonial Territorialization and the Challenge of Secession",
+            paragraphs: [
+              "In post-colonial continental states like India, nationalism has had to continually negotiate with sub-national linguistic and regional movements. Through institutional accommodations such as the Linguistic Reorganization of States (1956), regional federal autonomy, and the Eighth Schedule recognizing 22 official languages, the Indian state successfully reconciled regional national sentiments with pan-Indian civic nationalism, averting violent ethnic fragmentation and demonstrating that federal pluralism is the greatest guarantor of sovereign territorial unity in diverse post-colonial democracies."
             ]
           }
         ],
@@ -476,6 +564,20 @@ export const paper2024_summer = {
               'German critical theorist <strong>Jürgen Habermas</strong> in <em>Legitimation Crisis</em> (1973) warned that modern democratic welfare states face acute legitimation deficits when they fail to reconcile the irreconcilable demands of capitalist profit accumulation and mass democratic welfare. When governments cannot fulfill their welfare promises, public cynicism grows, voter apathy surges, and the state experiences a dangerous crisis of authority.'
             ]
           }
+        ,
+          {
+            heading: "VI. Causes and Dynamics of Legitimacy Crises (Habermas & Beetham)",
+            paragraphs: [
+              "Political authority faces an existential <strong>Legitimacy Crisis</strong> when there occurs a fundamental breakdown between state performance and public moral expectations:<br/>• <strong>Jürgen Habermas's Theory of Legitimation Crisis (1973):</strong> In late-capitalist modern welfare states, the government faces structural overload. It must facilitate private corporate profit accumulation to keep the economy afloat, while simultaneously winning mass democratic votes by promising expansive public healthcare, pensions, and equal welfare. When economic stagnation prevents the delivery of these welfare promises, citizens realize the state primarily serves corporate oligarchs, triggering a catastrophic deficit of public trust and loyalty.<br/>• <strong>Institutional Corruption and Judicial Compromise:</strong> When referee institutions—the judiciary, election commissions, and law enforcement agencies—lose their perceived independence and become partisan instruments of the ruling party, the constitutional legitimacy of all state authority collapses."
+            ]
+          }
+        ,
+          {
+            heading: "VII. Epistemic and Performance Dimensions of Legitimacy in Modern Governance",
+            paragraphs: [
+              "Contemporary political philosophy emphasizes that legitimate authority in the 21st century requires not only democratic election (input legitimacy) and welfare delivery (output legitimacy), but also <strong>Throughput Legitimacy</strong>—the procedural transparency, ethical integrity, and responsiveness of administrative governance. When administrative processes are captured by bureaucratic corruption or corporate lobbying, public trust collapses regardless of electoral mandates, demonstrating that administrative throughput integrity is the bedrock of enduring democratic stability, ensuring that state decisions are justified through public reason and institutional integrity."
+            ]
+          }
         ],
         criticalAnalysis: 'Legitimacy is neither permanent nor unconditional. It is a perishable political asset that must be daily earned through constitutional adherence, equitable justice, and transparent accountability. When rulers substitute propaganda and intimidation for genuine legitimacy, authority crumbles into fragile authoritarian tyranny.',
         conclusion: 'Determining the legitimacy of authority is the ultimate litmus test of political governance. Authority stripped of legitimacy is nothing more than armed coercion masquerading as law.'
@@ -496,7 +598,7 @@ export const paper2024_summer = {
             heading: 'I. Foundational Definition and Structural Elements of Capitalism',
             paragraphs: [
               '<strong>Capitalism</strong> is historically understood as a socio-economic mode of production characterized by private ownership of the means of production, competitive market exchange, voluntary wage labor, capital accumulation, and the allocation of resources guided by the price mechanism and profit motive.',
-              'Historically pioneered in Western Europe from the sixteenth century and accelerated by the Industrial Revolution, capitalism restructured human civilization by establishing free market exchange as the central mechanism for organizing material human life.'
+              'Historically pioneered in Western Europe from the sixteenth century and accelerated by the Industrial Revolution, capitalism restructured human civilization by establishing free market exchange as the central mechanism for organizing material human life. It created an economic machine of unprecedented technological power while generating profound social contradictions that demand constant regulatory state oversight.'
             ]
           },
           {
@@ -526,6 +628,20 @@ export const paper2024_summer = {
               'Conversely, the Marxist and critical traditions (<strong>Karl Marx</strong>, <strong>Antonio Gramsci</strong>, <strong>Louis Althusser</strong>) mount a devastating counter-argument: the claim that capitalism is "not an ideology" is itself the ultimate triumph of <strong>bourgeois ideology</strong>.<br/>' +
               '• <strong>Ideology as False Consciousness:</strong> In <em>The German Ideology</em>, Marx proved that the ruling material class is also the ruling intellectual class. Capitalism naturalizes itself, presenting historically contingent capitalist relations—private greed, commodification of human labor, and market competition—as universal, unalterable laws of "human nature".<br/>' +
               '• <strong>Cultural Hegemony (Gramsci):</strong> Capitalism manufactures ideological hegemony across civil society, schools, media, and churches, making the capitalist worldview common sense so that citizens cannot even imagine an alternative economic order.'
+            ]
+          }
+        ,
+          {
+            heading: "V. The Evolution of Capitalist Ideology: From Laissez-Faire to Neoliberalism and Social Market Economy",
+            paragraphs: [
+              "Capitalism has evolved through three distinct ideological paradigms over the past two centuries:<br/>• <strong>Classical Laissez-Faire Capitalism (18th–19th Century):</strong> Adam Smith, David Ricardo, and John Stuart Mill advocated minimal state interference, free trade, and unregulated markets.<br/>• <strong>Keynesian Welfare Capitalism (Post-WWII – 1970s):</strong> Influenced by John Maynard Keynes, governments deployed fiscal stimulus, state infrastructure investments, full employment targets, and universal public healthcare to rescue capitalism from the Great Depression.<br/>• <strong>Neoliberalism (1980s – Present):</strong> Led by Milton Friedman (Chicago School) and Friedrich Hayek, neoliberalism engineered a dramatic revival of free-market orthodoxy through privatization, deregulation, austerity, and slashing corporate taxes, resulting in unprecedented levels of global wealth concentration and corporate power."
+            ]
+          }
+        ,
+          {
+            heading: "VI. Post-Capitalist Debates: Surveillance Capitalism and Ecological Crises",
+            paragraphs: [
+              "In recent decades, critical political economy has analyzed new mutations of capitalism:<br/>• <strong>Surveillance Capitalism (Shoshana Zuboff):</strong> Monopolizes human behavioral data via digital platforms (search engines, social networks) to predict and modify citizen behavior for private profit.<br/>• <strong>Ecological Crisis:</strong> The capitalist imperative for infinite economic growth on a finite planet generates catastrophic climate change, prompting demands for 'Degrowth' and green democratic socialist planning that subordinates capital accumulation to ecological survival and planetary flourishing, demonstrating that the future of humanity depends on harmonizing economic production with democratic ethics and environmental justice."
             ]
           }
         ],
@@ -585,6 +701,13 @@ export const paper2024_summer = {
               '<strong>2. The Emergency and Democratic Resilience (1975–1977):</strong> When Prime Minister Indira Gandhi imposed internal emergency, suspended fundamental rights, and jailed opposition leaders, Indian democracy faced its gravest existential trial. In the 1977 elections, the Indian electorate decisively voted against authoritarianism, demonstrating the unbreakable democratic commitment of the masses.<br/>' +
               '<strong>3. The Era of Coalitions and the "Silent Revolution" (1989–2014):</strong> The implementation of the Mandal Commission report, the rise of regional and Dalit-Bahujan political parties (SP, BSP, RJD), and federal coalition governance democratized Indian politics from below, bringing marginalized backward castes into political leadership (the "Second Democratic Upsurge" analyzed by Yogendra Yadav).<br/>' +
               '<strong>4. Deepening at the Grassroots (73rd & 74th Amendments, 1992):</strong> Constitutionalized three-tier local self-governance, reserving one-third (later 50% in many states) of all seats and leadership positions for women, creating over 1.4 million elected women local representatives.'
+            ]
+          }
+        ,
+          {
+            heading: "VI. Institutional Safeguards and the Role of the Supreme Court",
+            paragraphs: [
+              "A defining pillar in the history of Indian democracy has been the activist role of the <strong>Supreme Court of India</strong> as the sentinel on the <em>qui vive</em>:<br/>• <strong>The Basic Structure Doctrine (<em>Kesavananda Bharati v. State of Kerala, 1973</em>):</strong> The Supreme Court established that Parliament's amending power under Article 368 is not unlimited; Parliament cannot destroy or alter the foundational core of the Constitution—including democracy, secularism, the rule of law, federalism, and judicial review.<br/>• <strong>Public Interest Litigation (PIL) Revolution:</strong> Initiated by Justices P.N. Bhagwati and V.R. Krishna Iyer in the early 1980s, the Court liberalized the strict doctrine of <em>locus standi</em>, allowing public-spirited citizens and social organizations to approach the court directly under Article 32 on behalf of bonded laborers, prisoners, and impoverished citizens."
             ]
           }
         ],
@@ -676,6 +799,13 @@ export const paper2024_summer = {
               '</tbody></table>'
             ]
           }
+        ,
+          {
+            heading: "IV. Modern Synthesis: Ronald Dworkin and Indian Constitutional Jurisprudence",
+            paragraphs: [
+              "In contemporary jurisprudence, American legal philosopher <strong>Ronald Dworkin</strong> in <em>Taking Rights Seriously</em> (1977) formulated the seminal concept of <strong>\"Rights as Trumps\"</strong>: when an individual claims a fundamental right, that claim must trump majoritarian social goals or state utilitarian calculations.<br/>The Supreme Court of India achieved a magnificent synthesis of Natural and Legal theories:<br/>• Moving away from the mechanical positivism of <em>A.K. Gopalan (1950)</em>, the Court in <em>Maneka Gandhi (1978)</em> held that Article 21 requires statutory procedure to be \"just, fair, and reasonable\", incorporating substantive natural justice into constitutional text.<br/>• In <em>K.S. Puttaswamy (2017)</em>, the Court held that the Right to Privacy is an inalienable natural right inherent in the human person, recognized rather than bestowed by the State."
+            ]
+          }
         ],
         criticalAnalysis: 'Modern constitutionalism (such as the Indian Constitution) represents an eclectic synthesis: it borrows the concept of inalienable rights from the Natural Rights school (Part III), anchors them in positive legal enforceability via judicial review (Articles 32 and 226), and balances them with Social Welfare and collective duties (Part IV and IVA).',
         conclusion: 'Theories of rights illuminate the eternal quest to safeguard individual human dignity while anchoring it in an orderly, civilized political society.'
@@ -747,6 +877,20 @@ export const paper2024_summer = {
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Neutral arbiter; does not promote any vision of the "good life".</td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Cultivates civic virtue, community solidarity, and common welfare.</td></tr>' +
               '</tbody></table>'
+            ]
+          }
+        ,
+          {
+            heading: "V. The Indian Constitutional Synthesis of Communitarian Citizenship",
+            paragraphs: [
+              "The Constitution of India provides a world-historical synthesis of liberal individual rights and communitarian collective belonging:<br/>• <strong>Constitutional Fraternity:</strong> The Preamble explicitly affirms <em>Fraternity</em>, assuring both the dignity of the individual and the unity and integrity of the Nation. Dr. Ambedkar insisted that fraternity is another name for democracy and social solidarity.<br/>• <strong>Group-Differentiated Rights (Articles 29 & 30):</strong> Departing from strict Western liberal individualism, India protects collective cultural and educational rights for religious and linguistic minorities, recognizing that individual dignity is inseparable from community survival.<br/>• <strong>Fundamental Duties (Article 51A):</strong> Added by the 42nd Amendment, Article 51A codifies communitarian civic obligations—promoting harmony, transcending sectional diversities, protecting the environment, and striving toward collective excellence."
+            ]
+          }
+        ,
+          {
+            heading: "VI. Communitarian Justice: Michael Walzer's \"Complex Equality\"",
+            paragraphs: [
+              "In <em>Spheres of Justice</em> (1983), communitarian philosopher <strong>Michael Walzer</strong> developed the influential theory of <strong>\"Complex Equality\"</strong>. Walzer argued that different social goods (wealth, political power, education, healthcare, divine grace) belong to different autonomous spheres.<br/>Justice does not require that everyone possess identical wealth (simple equality); rather, justice requires that dominance in one sphere (e.g., possessing immense wealth) must not allow an individual to purchase or dominate goods in other spheres (such as buying political elections, bribing judges, or purchasing elite university admissions). Communitarian citizenship functions to defend the autonomous boundaries of these distinct spheres of social life, safeguarding human dignity and democratic equal citizenship from market tyranny and building a just constitutional republic where the common good enriches individual freedom."
             ]
           }
         ],

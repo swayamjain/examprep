@@ -37,6 +37,13 @@ export const paper2025_summer = {
               'The Indian constitutional architecture harmonizes this philosophical correlation. While Part III enshrines justiciable <strong>Fundamental Rights</strong> (Articles 12–35), the 42nd Amendment added Part IVA declaring <strong>Fundamental Duties</strong> (Article 51A). The Supreme Court has repeatedly held (e.g., in <em>AIIMS Students\' Union v. AIIMS (2002)</em>) that Fundamental Duties cannot be ignored when interpreting the scope and reasonable restrictions of Fundamental Rights under Article 19.'
             ]
           }
+        ,
+          {
+            heading: "III. Hohfeldian Jurisprudential Analysis: Jural Correlatives",
+            paragraphs: [
+              "American jurist <strong>Wesley Newcomb Hohfeld</strong> in <em>Fundamental Legal Conceptions</em> (1919) provided the definitive analytical classification of rights and duties into <strong>Jural Correlatives</strong> (concepts that mutually imply each other):<br/>• <em>Claim (Right) ↔ Duty:</em> A claim is an affirmative entitlement in one person that necessitates a corresponding duty in another. If citizen 'A' has a claim to life, all other citizens and the state owe a duty not to kill 'A'.<br/>• <em>Liberty (Privilege) ↔ No-Right:</em> A liberty is the freedom to act without state interference, meaning others have 'no-right' to prevent it.<br/>• <em>Power ↔ Liability:</em> The legal capacity to alter legal relations (e.g., voting alters government), which subjects the state to liability.<br/>Hohfeld demonstrated that human freedom cannot be understood as solitary entitlements; it is a complex web of reciprocal rights, liberties, and duties."
+            ]
+          }
         ],
         criticalAnalysis: 'Totalitarian regimes exploit "duty" to crush human liberty, whereas unchecked hyper-individualism weaponizes "rights" to evade social responsibility. Constitutional democracy thrives only when rights and duties maintain an organic, dialectical equilibrium.',
         conclusion: 'Rights and duties are the obverse and reverse of the same moral shield. Liberty is preserved only when rights are exercised with a profound sense of duty.'
@@ -68,6 +75,20 @@ export const paper2025_summer = {
               '<strong>2. Constitutional & Institutional Office:</strong> Formal authority vested in legislative parliaments, executive prime ministers/presidents, and judicial benches.<br/>' +
               '<strong>3. Economic Dominance:</strong> Control over material wealth, taxation, public budgeting, and natural resources, which translates into political leverage.<br/>' +
               '<strong>4. Ideological and Psychological Influence:</strong> The ability to shape public opinion, beliefs, and values through media, education, and political rhetoric, securing consensual compliance (as highlighted in Antonio Gramsci\'s theory of hegemony).'
+            ]
+          }
+        ,
+          {
+            heading: "III. David Easton and Steven Lukes: Faces of Political Power",
+            paragraphs: [
+              "In modern political systems theory, <strong>David Easton</strong> defined political power as the capacity to effect the <strong>\"authoritative allocation of values for a society\"</strong>—allocating resources, prestige, and rights through binding legal sanctions.<br/>British theorist <strong>Steven Lukes</strong> in <em>Power: A Radical View</em> demonstrated that political power operates across three distinct faces:<br/>1. <em>Decision-Making Power:</em> Observable voting victories in parliamentary chambers (Robert Dahl).<br/>2. <em>Agenda-Setting Power:</em> Deciding which issues are debated and which radical redistribution issues are kept off the table (Bachrach & Baratz).<br/>3. <em>Preference-Shaping Power:</em> The supreme ideological power to shape citizens' thoughts, desires, and political consciousness through mass media and education so that they willingly accept the status quo."
+            ]
+          }
+        ,
+          {
+            heading: "IV. Legitimacy and Coercion in Political Power",
+            paragraphs: [
+              "Political scientists distinguish between raw physical power and institutionalized political authority. As Jean-Jacques Rousseau observed, naked physical force produces only temporary compliance; for political power to endure over generations, it must transform might into right and obedience into recognized civic duty."
             ]
           }
         ],
@@ -103,6 +124,20 @@ export const paper2025_summer = {
               '• <strong>Cultural Matrix:</strong> Often reinforced by shared language, folklore, literature, and social traditions, though no single cultural attribute is mandatory (e.g., multilingual Switzerland or multi-religious, multicultural India).'
             ]
           }
+        ,
+          {
+            heading: "III. Ernest Renan's Spiritual Principle and Benedict Anderson's Imagined Community",
+            paragraphs: [
+              "In his celebrated 1882 Sorbonne lecture <em>What is a Nation?</em> (<em>Qu'est-ce qu'une nation?</em>), French philosopher <strong>Ernest Renan</strong> rejected racial, linguistic, and geographical determinism, defining the nation as a spiritual soul: <em>\"A nation is a soul, a spiritual principle... a large-scale solidarity, constituted by the feeling of the sacrifices that one has made in the past and of those that one is prepared to make in the future. It supposes a past, but it resumes itself in the present by a tangible fact: consent, the clearly expressed desire to continue a common life. A nation's existence is a daily plebiscite.\"</em><br/>In 1983, <strong>Benedict Anderson</strong> synthesized this in <em>Imagined Communities</em>: the nation is an imagined political community because members will never meet face-to-face, yet imagine themselves moving together through historical time."
+            ]
+          }
+        ,
+          {
+            heading: "IV. The Multi-National State vs. the Nation-State",
+            paragraphs: [
+              "In modern political geography, theorists distinguish between a mono-ethnic nation-state (where one nationality dominates) and a composite multi-national state (like India, Canada, or Switzerland), where multiple linguistic and cultural nationalities live under a common constitutional canopy with equal democratic rights."
+            ]
+          }
         ],
         criticalAnalysis: 'A nation is distinct from a State. A State is a legal-territorial sovereign entity; a nation is a human community of sentiment. When the two coincide, we get a "Nation-State."',
         conclusion: 'A nation is an act of collective consciousness—a community bound together by the shared memory of its past and the shared will for its future.'
@@ -133,6 +168,20 @@ export const paper2025_summer = {
               'In contemporary constitutional theory, the nature of citizenship has evolved beyond uniform assimilation:<br/>' +
               '• <strong>Universal Citizenship (The Classical Liberal Model):</strong> Treats all individuals identically as abstract, equal legal units, disregarding group identities of race, gender, or religion.<br/>' +
               '• <strong>Differentiated / Multicultural Citizenship (Iris Marion Young, Will Kymlicka):</strong> Argues that true substantive equality in diverse societies requires group-differentiated rights—such as affirmative action, minority cultural protections (Articles 29-30 of the Indian Constitution), and indigenous self-governance—to prevent the marginalization of vulnerable groups.'
+            ]
+          }
+        ,
+          {
+            heading: "III. T.H. Marshall's Triad and Indian Constitutional Citizenship",
+            paragraphs: [
+              "British sociologist <strong>T.H. Marshall</strong> in <em>Citizenship and Social Class</em> (1950) charted the historical evolution of modern citizenship across three successive centuries: <em>Civil Citizenship</em> (18th c. - personal liberty, speech, contract, property); <em>Political Citizenship</em> (19th c. - voting franchise and legislative office); and <em>Social Citizenship</em> (20th c. - economic security, healthcare, and education under the welfare state).<br/>The Constitution of India established a revolutionary model of <strong>Single, Universal Citizenship</strong> under Articles 5 to 11, rejecting the dual federal citizenships of the United States. Dr. B.R. Ambedkar designed single citizenship to weld a deeply fragmented caste and linguistic society into a unified, egalitarian democratic fraternity."
+            ]
+          }
+        ,
+          {
+            heading: "IV. Substantive vs. Formal Citizenship",
+            paragraphs: [
+              "Contemporary political philosophy emphasizes the critical distinction between formal legal citizenship (mere possession of a passport or voter card) and <strong>Substantive Citizenship</strong>—the real capability of an individual to exercise their democratic freedoms without systemic poverty, illiteracy, or social caste discrimination."
             ]
           }
         ],
@@ -168,6 +217,13 @@ export const paper2025_summer = {
               '<strong>4. The Withering Away of the State:</strong> Because the state is merely an instrument of class coercion, once class distinctions are completely eliminated in the higher phase of communism, the state naturally becomes redundant and "withers away", yielding to a self-regulating cooperative administration of things.'
             ]
           }
+        ,
+          {
+            heading: "III. Dialectical Materialism, the Dictatorship of the Proletariat, and State Withering",
+            paragraphs: [
+              "Karl Marx and Friedrich Engels formulated the philosophical and political progression of communism across three distinct stages:<br/>1. <em>The Proletarian Revolution:</em> The working class overthrows the capitalist bourgeois state through organized revolution.<br/>2. <em>Socialism / Dictatorship of the Proletariat:</em> A transitional phase where the working class uses state power to nationalize industries, suppress bourgeois counter-revolution, and distribute wealth according to the principle: <em>'From each according to his ability, to each according to his contribution.'</em><br/>3. <em>Higher Phase of Pure Communism:</em> When class divisions vanish, state coercion becomes obsolete. As Friedrich Engels famously proclaimed, the state is not abolished; it <strong>'withers away'</strong>, replaced by the voluntary administration of things under the maxim: <em>'From each according to his ability, to each according to his needs!'</em>"
+            ]
+          }
         ],
         criticalAnalysis: 'While communism offered a brilliant critique of capitalist exploitation, twentieth-century historical implementations (USSR, Maoist China) degenerated into totalitarian single-party bureaucracies that suppressed human liberty rather than withering away the state.',
         conclusion: 'Communism remains one of the most influential intellectual forces in world history, representing the radical quest to liberate humanity from alienation, inequality, and wage exploitation.'
@@ -198,6 +254,20 @@ export const paper2025_summer = {
               '• <strong>The Trustee Model (Edmund Burke):</strong> In his famous 1774 address, Burke declared that a representative is not a localized delegate bound by narrow instructions. Parliament is a deliberative assembly of one nation with one interest: the common good. The representative owes his constituents not merely industry, but his mature, unbiased judgment and conscience.<br/>' +
               '• <strong>The Delegate Model:</strong> The representative acts as a strict mouthpiece and obedient transmission belt for the explicit preferences of their local constituents.<br/>' +
               '• <strong>Institutional Anchors:</strong> Separation of powers, an independent election commission, secret ballot, competitive multi-party system, rule of law, and legislative question hours to hold the executive continuously accountable.'
+            ]
+          }
+        ,
+          {
+            heading: "III. Edmund Burke's Trustee Model vs. Delegate Model of Representation",
+            paragraphs: [
+              "A classic theoretical dilemma in representative democracy concerns the relationship between the representative and the electorate:<br/>• <strong>The Trustee Model (Edmund Burke):</strong> In his celebrated <em>Speech to the Electors of Bristol</em> (1774), Burke asserted that a representative owes constituents their highest judgment and enlightened conscience, not blind obedience to localized voter passions: <em>'Your representative owes you, not his industry only, but his judgment; and he betrays, instead of serving you, if he sacrifices it to your opinion.'</em><br/>• <strong>The Delegate Model:</strong> Conversely, radical democratic theorists argue that representatives are mere delegates bound by specific mandates from constituents, functioning as mechanical mouthpieces of the popular will."
+            ]
+          }
+        ,
+          {
+            heading: "IV. Challenges of Representative Democracy in the Mass Media Age",
+            paragraphs: [
+              "In the 21st century, representative democracy confronts profound challenges: exorbitant election financing, corporate lobbying, populist polarization, and the reduction of complex policy deliberation to sensationalized soundbites on 24-hour news cycles and algorithmic social media networks."
             ]
           }
         ],
@@ -279,6 +349,13 @@ export const paper2025_summer = {
               '<strong>5. Short-Term Electoral Opportunism:</strong> Politicians prioritize myopic populist welfare handouts to win the next election over difficult, long-term national planning.'
             ]
           }
+        ,
+          {
+            heading: "VI. Substantive Democratic Deepening: Dr. B.R. Ambedkar's Social Democracy",
+            paragraphs: [
+              "In the evolution of modern democratic thought, Indian constitutional architect <strong>Dr. B.R. Ambedkar</strong> added a world-historical dimension by demonstrating that political democracy is unsustainable without <strong>Social Democracy</strong>.<br/>In his final address to the Constituent Assembly on 25 November 1949, Ambedkar issued a famous warning: <em>'We must make our political democracy a social democracy as well. Political democracy cannot last unless there lies at the base of it social democracy. What does social democracy mean? It means a way of life which recognizes liberty, equality, and fraternity as the principles of life.'</em><br/>Ambedkar showed that giving a marginalized, untouchable citizen the right to vote once every five years means nothing if they are denied water from public village wells, paid starvation wages, and terrorized by caste hierarchies."
+            ]
+          }
         ],
         criticalAnalysis: 'As Winston Churchill famously observed in 1947: "Democracy is the worst form of government except for all those other forms that have been tried from time to time." Its imperfections are self-correcting: the remedy for the ailments of democracy is deeper, more substantive democracy.',
         conclusion: 'The historical development of democracy is the epic journey of humanity from servitude to self-rule. Despite its operational challenges, democracy remains the sole political framework capable of securing freedom with human dignity.'
@@ -354,6 +431,27 @@ export const paper2025_summer = {
               '<strong>4. Threat to Political Freedom:</strong> As Hayek warned in <em>The Road to Serfdom</em>, centralizing all economic power in the state inevitably grants government total control over citizens\' livelihoods, paving the road to authoritarian tyranny.'
             ]
           }
+        ,
+          {
+            heading: "V. Fabian Socialism, Guild Socialism, and the Indian Mixed Economy",
+            paragraphs: [
+              "Beyond the Utopian and Marxist dichotomy, socialism evolved into several evolutionary, democratic traditions:<br/>• <strong>Fabian Socialism (Sidney & Beatrice Webb, George Bernard Shaw):</strong> Advocated the 'inevitability of gradualness'—achieving socialist goals peacefully through parliamentary legislation, municipal public utilities, and progressive taxation.<br/>• <strong>Guild Socialism (G.D.H. Cole):</strong> Proposed industrial democracy where self-governing trade guilds of workers control individual industries rather than a centralized, bureaucratic state.<br/>• <strong>Nehruvian Democratic Socialism in India:</strong> Under Jawaharlal Nehru, independent India adopted the Avadi Resolution (1955) for a 'Socialistic Pattern of Society', marrying constitutional democracy with a <em>Mixed Economy</em>. The state controlled the commanding heights of heavy industry, while private enterprise operated under social regulation, anchored in Articles 38 and 39 of the Constitution."
+            ]
+          }
+        ,
+          {
+            heading: "VI. Democratic Socialism vs. Revolutionary Communism: The Great Divide",
+            paragraphs: [
+              "The socialist movement historically divided into two irreconcilable strategies:<br/>• <strong>Revolutionary Communism (Leninism):</strong> Insisted that the capitalist state cannot be reformed from within; it must be violently smashed through armed insurrection, establishing a single-party 'Dictatorship of the Proletariat' that centralized all land, capital, and media in the state apparatus.<br/>• <strong>Democratic Socialism (Eduard Bernstein, Harold Laski):</strong> Argued that the introduction of universal adult suffrage allowed the working class to capture parliamentary power peacefully through democratic elections. Democratic socialists preserve multi-party competition, judicial review, and free press, achieving egalitarian redistribution through progressive taxation, universal public goods, and tripartite collective bargaining. Furthermore, democratic socialism champions workplace democracy and industrial co-determination, ensuring that corporate management includes elected worker representatives on executive boards."
+            ]
+          }
+        ,
+          {
+            heading: "VII. Amartya Sen's Social Justice Paradigm",
+            paragraphs: [
+              "Nobel laureate Amartya Sen demonstrated that democratic socialism succeeds because it expands human capabilities. By guaranteeing public health, nutrition, and schooling, society ensures that every individual possesses the substantive freedom to pursue a fulfilling human life, eliminating poverty without totalitarian coercion, proving that economic democracy and individual liberty are inherently complementary, demonstrating that social welfare and constitutional freedom reinforce each other."
+            ]
+          }
         ],
         criticalAnalysis: 'The collapse of Soviet state-command socialism demonstrated the flaws of authoritarian centralization. However, modern Democratic Socialism (as practiced in the Nordic model of Sweden, Norway, and Denmark) successfully proves that egalitarian socialist welfare can be harmoniously wedded to market dynamism and constitutional democracy.',
         conclusion: 'Socialism\'s enduring moral authority lies in its insistence that economic life must be guided by ethical justice, human dignity, and the common good of all humanity.'
@@ -409,6 +507,27 @@ export const paper2025_summer = {
               'By reducing society to a mere marketplace and citizens to competing customers, libertarianism dissolves the social glue of solidarity, fraternity, and common national destiny.'
             ]
           }
+        ,
+          {
+            heading: "V. Communitarian Critique of Libertarian Citizenship: Sandel and Taylor",
+            paragraphs: [
+              "Communitarian philosophers mounted a comprehensive critique of Nozick's libertarian model of citizenship:<br/>• <strong>Michael Sandel's Critique of the 'Unencumbered Self':</strong> In <em>Liberalism and the Limits of Justice</em> (1982), Sandel demonstrated that the libertarian view of the citizen as an isolated atom choosing ends in a vacuum is an illusion. Human beings are 'situated selves' whose moral values, language, and conscience are formed within communities.<br/>• <strong>Charles Taylor's Critique of Atomism:</strong> In <em>Philosophy and the Human Sciences</em>, Taylor proved that the individual capacity for autonomy can develop only within an enabling, supportive cultural matrix. True citizenship requires reciprocal civic virtues, active public participation, and fraternity, which libertarian market consumerism systematically erodes."
+            ]
+          }
+        ,
+          {
+            heading: "VI. Republican Citizenship: Civic Virtue and Political Participation",
+            paragraphs: [
+              "Contrasting sharply with both Libertarian passivity and narrow communitarianism, the <strong>Civic Republican model of citizenship</strong> (traced from Aristotle and Machiavelli to Hannah Arendt and Quentin Skinner) defines citizenship as an active public duty.<br/>Freedom is not merely being left alone by the state (negative liberty); true freedom is collective self-government through active deliberation in public assemblies. A citizen who retreats into private consumerism and ignores public affairs is, in classical Greek terms, an <em>'idiotes'</em>—a person without civic consciousness who invites despotism. Civic republicans insist that active democratic participation is not merely an optional hobby, but an indispensable moral duty for maintaining freedom and preventing oligarchy."
+            ]
+          }
+        ,
+          {
+            heading: "VII. Constitutional Synthesis in the Indian Model",
+            paragraphs: [
+              "The Constitution of India achieves a brilliant synthesis by balancing individual libertarian rights (Part III) with communitarian welfare mandates (Part IV) and fundamental civic duties (Article 51A), harmonizing individual liberty with collective social responsibility."
+            ]
+          }
         ],
         criticalAnalysis: 'While libertarianism provides an indispensable defense of personal freedom against state totalitarianism, as a comprehensive theory of citizenship it is fatally incomplete. A society consisting purely of atomized economic profit-maximizers without collective duties rapidly degenerates into cold social Darwinism.',
         conclusion: 'Citizenship cannot survive merely as a contract between atomized property-owners. True democratic citizenship balances individual liberty with the moral obligations of social justice and collective community well-being.'
@@ -461,6 +580,27 @@ export const paper2025_summer = {
               'Under aggressive nationalism, any criticism of the regime\'s policies or military adventures is branded as treason. Intellectual freedom, judicial independence, and a free press are ruthlessly crushed.<br/>' +
               '<strong>5. Rabindranath Tagore\'s Prophetic Critique:</strong><br/>' +
               'In his immortal 1917 lectures <em>Nationalism</em>, India\'s Nobel laureate <strong>Rabindranath Tagore</strong> condemned aggressive nationalism as an organized machine of greed and mechanical power that crushes human moral spirituality: <em>"Patriotism cannot our final spiritual shelter; my refuge is humanity. I will not buy glass for the price of diamonds, and I will never allow patriotism to triumph over humanity as long as I live."</em>'
+            ]
+          }
+        ,
+          {
+            heading: "V. Rabindranath Tagore's Humanist Critique vs. Mahatma Gandhi's Anti-Imperialist Nationalism",
+            paragraphs: [
+              "The Indian nationalist struggle produced one of the most sophisticated philosophical debates on the moral limits of nationalism between <strong>Rabindranath Tagore</strong> and <strong>Mahatma Gandhi</strong>:<br/>• <strong>Tagore's Critique of Western Nationalism:</strong> In his 1917 lectures on <em>Nationalism</em>, Tagore condemned the aggressive, mechanical nation-states of the West as organized machines of commercial greed and military imperialism. Tagore warned that when a people idolize the nation above universal moral truth and humanity, they commit spiritual suicide.<br/>• <strong>Gandhi's Inclusive, Moral Swaraj:</strong> Mahatma Gandhi agreed with Tagore's critique of aggressive chauvinism, but distinguished it from non-violent anti-colonial nationalism. For Gandhi, Indian Swaraj was an ethical quest for universal human dignity, self-restraint, and truth, grounded in composite harmony (<em>Sarva Dharma Sambhava</em>)."
+            ]
+          }
+        ,
+          {
+            heading: "VI. Hans Kohn's Dichotomy: Civic vs. Ethnic Nationalism",
+            paragraphs: [
+              "In the sociology of nationalism, <strong>Hans Kohn</strong> formulated the foundational distinction between:<br/>• <strong>Civic Nationalism (Western Model):</strong> Based on shared political principles, constitutional values, democratic laws, and voluntary individual allegiance. Membership is inclusive and open to anyone who respects the constitution, regardless of race or religion (exemplified by the Indian Constitution and the French Republic).<br/>• <strong>Ethnic Nationalism (Eastern Model):</strong> Based on biological descent, inherited bloodlines, common language, or religious orthodoxy. It is inherently exclusive and minoritizing, frequently degenerating into xenophobic bigotry and violent ethnic cleansing. The modern democratic challenge consists in sustaining civic constitutional loyalty that transcends linguistic and religious divisions, as successfully demonstrated by the founding ethos of the Republic of India."
+            ]
+          }
+        ,
+          {
+            heading: "VII. Anthony D. Smith on the Endurance of Nations",
+            paragraphs: [
+              "Ethno-symbolist scholar Anthony D. Smith showed that nations endure because they draw upon deep historical memories, heroic myths, and ancestral attachments that touch human emotional wellsprings far deeper than cold economic utility, anchoring modern statehood in cultural continuity, transforming historical heritage into modern democratic sovereign self-determination, giving moral legitimacy and democratic resilience to modern constitutional statehood."
             ]
           }
         ],
@@ -524,6 +664,27 @@ export const paper2025_summer = {
               '&nbsp;&nbsp;• <em>When Legitimacy Collapses:</em> Authority dissolves, forcing the regime to resort to raw, brutal coercive power to survive, precipitating revolution or state collapse.'
             ]
           }
+        ,
+          {
+            heading: "VI. Chester Barnard's Acceptance Theory and Hannah Arendt's Critique of Violence",
+            paragraphs: [
+              "Modern political and organizational theory revolutionized our understanding of authority through two seminal insights:<br/>• <strong>Chester Barnard's 'Acceptance Theory of Authority' (1938):</strong> Authority does not reside in the person commanding; it resides exclusively in the willingness of the subordinate to accept the command. An order has authority only if it falls within the subordinate's <strong>'Zone of Indifference'</strong>—where orders are obeyed unhesitatingly because they are seen as legitimate.<br/>• <strong>Hannah Arendt on Power and Violence (1969):</strong> In <em>On Violence</em>, Arendt established that power and violence are opposites: <em>'Where the one rules absolutely, the other is absent. Violence appears where power is in jeopardy, but left to its own course it ends in power's disappearance.'</em> Totalitarian reliance on terror marks the total death of authority."
+            ]
+          }
+        ,
+          {
+            heading: "VII. Max Weber's Warning: The \"Iron Cage\" of Modern Bureaucracy",
+            paragraphs: [
+              "While Max Weber praised rational-legal bureaucracy as the most technically efficient, predictable, and meritocratic administrative machine ever devised by human civilization, he issued a dark sociological prophecy: the risk of an <strong>'Iron Cage'</strong> (<em>stahlhartes Gehäuse</em>).<br/>In hyper-rationalized modern states, soulless bureaucratic rules, red tape, and procedural specialization threaten to dehumanize citizens, treating human beings as mere case numbers and extinguishing individual spontaneity, ethical conscience, and democratic passion. To counter this iron cage, constitutional democracies require active citizen participation, robust judicial review, and independent ombudsman institutions that keep administrative bureaucracy humanized and accountable."
+            ]
+          }
+        ,
+          {
+            heading: "VIII. Legitimacy as the Lifeblood of Authority",
+            paragraphs: [
+              "As David Beetham demonstrated, authority collapses when it loses legitimacy. Brute physical force cannot substitute for the voluntary assent of citizens. True authority is power moralized and domesticated by constitutionalism, commanding obedience through reasoned consent, converting the coercive power of the sovereign state into legitimate constitutional authority, ensuring that the state functions as a legitimate trustee of the public good."
+            ]
+          }
         ],
         criticalAnalysis: 'As political philosopher Hannah Arendt established in On Violence, power and authority are opposites when pushed to extremes: the resort to extreme physical violence is not the supreme demonstration of authority, but the definitive confession that authority has evaporated.',
         conclusion: 'Authority is the moral soul of political power, and legitimacy is the breath that sustains it. Constitutional democracy succeeds by ensuring that power is always disciplined by authority and legitimized by the consent of the governed.'
@@ -582,6 +743,20 @@ export const paper2025_summer = {
               'The rights relating to liberty find their highest constitutional expression in the Indian Constitution\'s <strong>"Golden Triangle"</strong> (Articles 14, 19, and 21):<br/>' +
               '• <strong>Article 19(1): The Six Fundamental Freedoms of Citizens:</strong> Guarantees speech and expression, peaceful assembly without arms, formation of associations/unions/cooperatives, free movement throughout India, residence in any part of India, and practicing any lawful profession or trade. These are shielded against arbitrary executive interference, subject only to narrowly tailored, exhaustively enumerated "reasonable restrictions" under clauses (2) to (6).<br/>' +
               '• <strong>Article 21: Protection of Life and Personal Liberty:</strong> The fountainhead of all liberties. Following the landmark ruling in <em>Maneka Gandhi v. Union of India (1978)</em>, the Supreme Court ruled that any procedure depriving a person of personal liberty must be "just, fair, and reasonable", establishing substantive due process in India.'
+            ]
+          }
+        ,
+          {
+            heading: "V. Ronald Dworkin's \"Rights as Trumps\" and Indian Substantive Due Process",
+            paragraphs: [
+              "In contemporary jurisprudence, legal philosopher <strong>Ronald Dworkin</strong> in <em>Taking Rights Seriously</em> (1977) formulated the concept of <strong>\"Rights as Trumps\"</strong>: fundamental rights act as trump cards held by individuals against collective utilitarian goals or parliamentary majorities. Government must treat every citizen with equal concern and respect.<br/>The Supreme Court of India adopted this doctrine in landmark cases:<br/>• In <em>Maneka Gandhi v. Union of India (1978)</em>, the Court held that the right to life and liberty under Article 21 cannot be infringed by arbitrary statutory law; the procedure must be 'just, fair, and reasonable'.<br/>• In <em>K.S. Puttaswamy (2017)</em>, a 9-judge bench ruled that the Right to Privacy is an inalienable natural right inhering in every individual as an intrinsic element of human dignity."
+            ]
+          }
+        ,
+          {
+            heading: "VI. The Three Generations of Human Rights (Karel Vasak)",
+            paragraphs: [
+              "In 1979, jurist <strong>Karel Vasak</strong> categorized the historical evolution of modern rights into three successive generational waves corresponding to the French revolutionary ideals:<br/>• <strong>First Generation (Liberty):</strong> Civil and political rights (Articles 14 to 22 of the Indian Constitution)—negative rights shielding the individual from state tyranny.<br/>• <strong>Second Generation (Equality):</strong> Socio-economic and cultural rights (Part IV DPSP)—positive claims requiring state action for employment, healthcare, and education.<br/>• <strong>Third Generation (Fraternity):</strong> Collective solidarity rights belonging to humanity as a whole—rights to a clean environment, sustainable development, peace, and humanitarian assistance."
             ]
           }
         ],
@@ -667,6 +842,13 @@ export const paper2025_summer = {
               '</tbody></table>'
             ]
           }
+        ,
+          {
+            heading: "VI. Judith Butler's Postmodern Performativity and Indian Dalit Feminism",
+            paragraphs: [
+              "In late 20th-century feminist philosophy, feminist theory expanded into radical new horizons:<br/>• <strong>Postmodern Feminism (Judith Butler):</strong> In <em>Gender Trouble</em> (1990), Butler proposed the revolutionary theory of <strong>Gender Performativity</strong>: gender is not a biological essence or fixed identity, but an ongoing performative act sustained through repeated societal gestures, speech, and bodily styling enforced by compulsory heterosexuality.<br/>• <strong>Dalit Feminism in India (Baby Kamble, Sharmila Rege):</strong> Dalit feminists exposed that mainstream Indian feminism was dominated by upper-caste urban women who ignored caste violence. A Dalit woman suffers from the 'triple burden' of gender oppression, caste untouchability, and economic exploitation, demanding an intersectional Dalit feminist standpoint."
+            ]
+          }
         ],
         criticalAnalysis: 'Liberal feminism achieved historic milestones (voting rights, inheritance reforms, workplace laws), but radical feminism exposed the hidden domestic oppression that laws alone could not touch. Together, they have profoundly enriched modern political philosophy and jurisprudence.',
         conclusion: 'Feminism has irrevocably altered our understanding of politics. By demonstrating that justice must begin within the home, it has made human freedom truly universal.'
@@ -716,6 +898,27 @@ export const paper2025_summer = {
               '&nbsp;&nbsp;• <em>Abandon Bloody Methods of Revolution:</em> Hold fast to constitutional methods; civil disobedience and unconstitutional agitation must be discarded as "the grammar of anarchy."<br/>' +
               '&nbsp;&nbsp;• <em>Beware of Bhakti / Hero-Worship in Politics:</em> No man can be great at the cost of his honor, and no nation can be great at the cost of its liberty. Bhakti in politics is a sure road to degradation and eventual dictatorship.<br/>' +
               '&nbsp;&nbsp;• <em>Establish Social and Economic Democracy:</em> Political democracy (one person, one vote) cannot endure if built on a society of caste hierarchy and economic inequality.'
+            ]
+          }
+        ,
+          {
+            heading: "VI. Epistemic Deliberation and Joshua Cohen's Five Procedural Benchmarks",
+            paragraphs: [
+              "In contemporary political philosophy, <strong>Joshua Cohen</strong> formulated the five defining criteria of an ideal deliberative democracy: (1) <em>Ongoing Association:</em> Deliberation is a permanent institutional framework; (2) <em>Inherent Equality:</em> Formal and substantive equality among all reason-givers; (3) <em>Reason-Giving Mandate:</em> Every policy must be justified by public reasons acceptable to reasonable citizens; (4) <em>Consensual Goal:</em> Aims at rational consensus rather than raw majority voting; and (5) <em>Epistemic Merit:</em> Deliberation produces cognitively smarter decisions (David Estlund, Hélène Landemore).<br/>In India, village <strong>Gram Sabhas under Article 243A</strong> institutionalize this deliberative ideal at the rural grassroots."
+            ]
+          }
+        ,
+          {
+            heading: "VII. Participatory Budgeting and Mini-Publics in Practical Governance",
+            paragraphs: [
+              "To overcome the limitations of large-scale governance, deliberative democrats have pioneered real-world institutional innovations:<br/>• <strong>Citizens' Assemblies and Deliberative Polls (James Fishkin):</strong> Randomly selected, demographically representative samples of everyday citizens are brought together with non-partisan experts to deliberate on complex moral issues (e.g., Ireland's Citizen Assemblies on abortion and marriage equality).<br/>• <strong>Participatory Budgeting (Porto Alegre):</strong> Empowering neighborhood residents to directly deliberate and vote on municipal capital spending, dramatically reducing corruption and directing public resources to the poorest urban sectors. Such empirical implementations demonstrate that deliberative democracy is not merely an abstract utopian ideal, but an operational blueprint for revitalizing democratic legitimacy in the 21st century."
+            ]
+          }
+        ,
+          {
+            heading: "VIII. Deliberative Polling in Contemporary Democracy",
+            paragraphs: [
+              "James Fishkin's Deliberative Polling proves that when ordinary citizens are given balanced information and safe deliberative spaces, their political choices become significantly more enlightened, cooperative, and public-spirited, proving that collective public reasoning is viable in modern governance, proving that deliberative democracy is the essential moral antidote to majoritarian populism."
             ]
           }
         ],
