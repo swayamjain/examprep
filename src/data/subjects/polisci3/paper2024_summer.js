@@ -18,31 +18,25 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ High Yield Concept' },
       ],
       answer: {
-        statutoryFramework: 'Philosophical & Jurisprudential Foundations: Harold Laski (A Grammar of Politics), T.H. Green (Lectures on the Principles of Political Obligation), Salmond on Jurisprudence; Part III of the Constitution of India; Universal Declaration of Human Rights (UDHR, 1948).',
+        statutoryFramework: 'Harold J. Laski (A Grammar of Politics); John Locke; Part III of the Constitution of India; Universal Declaration of Human Rights (1948).',
         sections: [
           {
-            heading: 'I. Foundational Meaning and Nature of Rights',
+            heading: '1. Meaning and Nature of Rights',
             paragraphs: [
-              'In political theory and jurisprudence, <strong>rights</strong> are recognized as the indispensable conditions of social life without which an individual cannot attain their fullest moral, intellectual, and material development. Rights are neither absolute privileges nor arbitrary licenses; they represent legitimate claims asserted by individuals against society and the sovereign state that are backed by moral consensus and legal enforceability.',
-              'As <strong>Harold J. Laski</strong> classically defined in <em>A Grammar of Politics</em>: <em>"Rights, in fact, are those conditions of social life without which no man can seek, in general, to be himself at his best."</em> Similarly, the idealist political philosopher <strong>T.H. Green</strong> emphasized that rights are powers claimed and recognized as necessary for the realization of the moral purpose of human existence. Hence, a right is always a correlative social claim: it requires social recognition by community consciousness and institutional enforcement through the legal apparatus of the State.'
+              'In political theory and jurisprudence, rights are recognized as the indispensable conditions of social life without which an individual cannot realize their moral, intellectual, and personal potential. Rights are neither absolute privileges nor arbitrary licenses; they represent legitimate claims asserted by individuals against society and the state that are backed by moral consensus and legal enforceability.',
+              'As Harold Laski classically defined, rights are those conditions of social life without which no person can seek to be at their best. Rights require social recognition by the community and institutional enforcement through the legal apparatus of the state. They are inherently correlative to duties, meaning that one person\'s right creates an obligation for others to respect that right.'
             ]
           },
           {
-            heading: 'II. Specific Kinds and Classification of Rights',
+            heading: '2. Specific Kinds of Rights',
             paragraphs: [
-              'Political scientists and jurists categorize rights into several specific, well-defined species:<br/>' +
-              '<strong>1. Natural Rights:</strong> According to classical social contract theorists like <strong>John Locke</strong>, rights are inherent in human personality and pre-date the formation of the civil state. Locke identified the three foundational natural rights as <em>Life, Liberty, and Estate (Property)</em>. These rights inhere in individuals by virtue of their common humanity.<br/>' +
-              '<strong>2. Moral Rights:</strong> Rooted in the moral conscience, ethical customs, and spiritual values of a community. Moral rights lack coercive legal sanctions; their violation cannot be remedied in a court of law but invites social disapproval (e.g., the right of aging parents to receive care and respect from their children).<br/>' +
-              '<strong>3. Legal Rights:</strong> Claims explicitly enacted, codified, and guaranteed by municipal statutory law and enforced by courts. If violated, they trigger judicial remedies. Legal rights are further divided into:<br/>' +
-              '&nbsp;&nbsp;• <em>Civil Rights:</em> Essential protections safeguarding personal security, bodily integrity, freedom of movement, and contract enforcement (e.g., Article 21 of the Indian Constitution).<br/>' +
-              '&nbsp;&nbsp;• <em>Political Rights:</em> Capacities that enable citizens to participate directly or indirectly in state governance, such as the right to vote, right to contest periodic elections, right to petition public authorities, and equal eligibility for public offices.<br/>' +
-              '&nbsp;&nbsp;• <em>Socio-Economic Rights:</em> Guarantees ensuring dignified material living conditions, including the right to work, fair wages, education, social security, and health protection (reflected in Part IV DPSP of the Indian Constitution).<br/>' +
-              '<strong>4. Fundamental & Human Rights:</strong> Inalienable, constitutionally entrenched rights elevated above ordinary legislative majorities (Part III of the Indian Constitution; Articles 1 to 30 of the UDHR, 1948).'
+              'Political scientists categorize rights into several well-defined classes. Natural rights, associated with John Locke, are considered inherent in human personality prior to the creation of the civil state, famously identified as life, liberty, and property. Moral rights stem from ethical traditions and community conscience; they lack statutory enforcement in courtrooms but carry strong social approval.',
+              'Legal rights are enacted and guaranteed by statutory law and enforced by courts. They are divided into civil rights (protecting personal liberty, bodily safety, and freedom of movement), political rights (enabling participation in government through voting and contesting elections), and socio-economic rights (guaranteeing livelihood, fair wages, education, and healthcare under welfare policies). At the highest level stand Fundamental Rights, which are constitutionally entrenched in Part III of the Indian Constitution to protect citizens against arbitrary executive or legislative interference.'
             ]
           }
         ],
-        criticalAnalysis: 'Rights must never be understood as unrestrained entitlements. A society devoid of reciprocal duties quickly descends into Hobbesian anarchy. As Mahatma Gandhi observed in Hind Swaraj, genuine rights are the natural harvest of fulfilled duties.',
-        conclusion: 'Rights constitute the ethical barometer of any political community. As Harold Laski remarked, "A state is known by the rights that it maintains."'
+        criticalAnalysis: 'Rights must never be understood as unrestrained entitlements. A society that seeks rights without performing reciprocal duties quickly descends into social disorder. As Mahatma Gandhi observed, genuine rights are the natural harvest of fulfilled duties.',
+        conclusion: 'Rights constitute the ethical benchmark of any political system. As Harold Laski remarked, a state is known by the rights that it maintains.'
       }
     },
     {
@@ -54,36 +48,26 @@ export const paper2024_summer = {
         { type: 'repeat', label: '🔥 Unit III Recurring Question' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical Framework: Ernest Gellner (Nations and Nationalism), Benedict Anderson (Imagined Communities), Anthony D. Smith (The Ethnic Origins of Nations), Ernest Renan (Qu\'est-ce qu\'une nation?).',
+        statutoryFramework: 'Ernest Renan (What is a Nation?); Mahatma Gandhi; Preamble to the Constitution of India.',
         sections: [
           {
-            heading: 'I. Conceptual Difference: Nation vs. Nationalism',
+            heading: '1. Conceptual Distinction: Nation vs. Nationalism',
             paragraphs: [
-              'The relationship between <strong>nation</strong> and <strong>nationalism</strong> is organic, dialectical, and mutually constitutive in modern political theory. To understand their relationship, one must first distinguish the entity from the ideology.',
-              'A <strong>nation</strong> is primarily a socio-cultural and psychological collectivity—a community of sentiment forged through shared historical memories, cultural symbols, common language, ethnic affiliations, and above all, a collective subjective consciousness of belonging together. As <strong>Ernest Renan</strong> famously remarked in 1882, a nation is a spiritual principle, an <em>"âme"</em> (soul), and a <em>"daily plebiscite"</em> held together by a shared heritage of triumphs and griefs.',
-              'In contrast, <strong>nationalism</strong> is an active, purposive political ideology and historical doctrine. As <strong>Ernest Gellner</strong> formulated in his seminal thesis, nationalism is essentially a <em>political principle which holds that the political and the national unit should be congruent</em>. Nationalism transforms latent cultural sentiment into active political mobilization, striving either to defend, unify, or construct an independent sovereign state.'
+              'The relationship between nation and nationalism is complementary and mutually reinforcing in political science. To understand their connection, one must first distinguish the collective human entity from the political ideology.',
+              'A nation is primarily a socio-cultural and psychological community of people bound together by shared historical memories, cultural symbols, common traditions, and a collective subjective consciousness of belonging together. As Ernest Renan observed, a nation is a spiritual principle and a "daily plebiscite" held together by a shared inheritance of past sacrifices and the present will to continue living together.',
+              'In contrast, nationalism is an active political ideology and mass movement. It is the political principle asserting that the nation has the rightful claim to sovereign self-determination and political self-government. Nationalism takes latent cultural sentiments and converts them into organized political action.'
             ]
           },
           {
-            heading: 'II. The Organic Interrelationship between the Two Concepts',
+            heading: '2. Interrelationship and the Indian Experience',
             paragraphs: [
-              'The organic interplay between nation and nationalism manifests across three critical dimensions:<br/>' +
-              '<strong>1. Nationalism as the Architect of the Modern Nation:</strong> While primordialists believed nations pre-existed modern history, modernist theorists like Gellner and <strong>Benedict Anderson</strong> proved that in many instances, <em>nationalism invents nations where they did not previously exist</em>. Through universal state schooling, print-capitalism, standardized languages, and national anthems, nationalist ideology actively welded disparate tribes and feudal groups into cohesive modern nations.<br/>' +
-              '<strong>2. Nation as the Subjective Soul and Nationalism as the Political Spear:</strong> The nation provides the cultural repository—the myths, folk traditions, and memories—while nationalism supplies the political program and ideological energy demanded to achieve territorial self-determination and sovereign statehood.<br/>' +
-              '<strong>3. Mutual Reinforcement and Degradation:</strong> Healthy civic nationalism preserves national cohesion by promoting equal citizenship under constitutional rules. However, when nationalism becomes aggressive, xenophobic, and chauvinistic, it corrupts the nation by marginalizing minority nationalities and precipitating devastating international conflicts.'
-            ]
-          }
-        ,
-          {
-            heading: "III. Indian Experience: Anti-Colonial Nationalism and Composite Nationhood",
-            paragraphs: [
-              "The historical emergence of modern India illuminates the profound symbiosis between nation and nationalism. While ancient India possessed a civilizational and cultural unity expressed through shared sacred geographies, epics, and social philosophies, a unified political nation was forged through anti-colonial nationalist mobilization led by Mahatma Gandhi, Jawaharlal Nehru, and the Indian National Congress.",
-              "Dr. B.R. Ambedkar distinguished between a passive <em>\"nationality\"</em> (a social feeling of oneness) and an active <em>\"nationalism\"</em> (the desire for a separate sovereign state). Post-independence India codified a <strong>Composite, Civic Nationalism</strong> under the Constitution, rejecting religion-based two-nation theories and guaranteeing equal citizenship under Articles 14, 15, and 16 regardless of creed or tongue."
+              'The interplay between the two concepts is deep. The nation provides the cultural repository—the shared history, language, and cultural traditions—while nationalism supplies the political energy and organizational drive needed to achieve or protect sovereign statehood. Nationalism often helps crystallize modern national identity by uniting diverse regional groups under common political goals.',
+              'In India, the freedom struggle led by Mahatma Gandhi and the Indian National Congress transformed an ancient civilizational culture into an organized, modern democratic nation. Post-independence India established a civic, composite nationalism under the Constitution, ensuring that diverse linguistic and religious groups enjoy equal rights as citizens of a single democratic republic.'
             ]
           }
         ],
-        criticalAnalysis: 'While nationalism breathed life into modern anti-colonial nations like India, Rabindranath Tagore warned against blind idolization of the nation-state, observing that aggressive nationalism mechanically crushes universal human fellowship.',
-        conclusion: 'Nation and nationalism exist in a symbiotic relationship: the nation provides the cultural identity, while nationalism provides the political will and organizational impetus to sustain that identity in the global arena.'
+        criticalAnalysis: 'While nationalism played a liberating role in anti-colonial movements, Rabindranath Tagore warned against aggressive, chauvinistic nationalism, arguing that patriotism must never be elevated above universal human morality and compassion.',
+        conclusion: 'Nation and nationalism exist in partnership: the nation is the community of shared cultural memory, while nationalism is the political will that demands its freedom, dignity, and self-governance.'
       }
     },
     {
@@ -95,35 +79,25 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Unit IV Foundational Theme' },
       ],
       answer: {
-        statutoryFramework: 'Philosophical & Legal Foundations: Aristotle (Politics, Book III); T.H. Marshall (Citizenship and Social Class); Part II (Articles 5-11) of the Constitution of India; The Citizenship Act, 1955.',
+        statutoryFramework: 'Aristotle (Politics); Part II (Articles 5–11) of the Constitution of India; The Citizenship Act, 1955.',
         sections: [
           {
-            heading: 'I. Definitional Meaning and Historical Genesis of Citizenship',
+            heading: '1. Meaning and Nature of Citizenship',
             paragraphs: [
-              '<strong>Citizenship</strong> signifies the full, equal, and permanent legal and political membership of an individual within a sovereign state. The term originates from the Latin <em>civis</em> (city inhabitant) and <em>civitas</em> (citizenship), reflecting its historical roots in ancient Greek and Roman city-states.',
-              'In classical political theory, <strong>Aristotle</strong> conceptualized the citizen not merely as a resident or subject, but as an active participant: <em>"A citizen is someone who shares in the administration of justice and in the holding of office."</em> In modern constitutional jurisprudence, citizenship represents the highest status of legal belonging, conferring comprehensive civil liberties, voting franchises, and diplomatic protection in exchange for civic loyalty, tax compliance, and constitutional allegiance.'
+              'Citizenship signifies full, equal, and permanent legal and political membership within a sovereign state. It represents the highest constitutional status an individual can hold, conferring a recognized bundle of civil liberties, voting franchises, and diplomatic protection in exchange for loyalty, obedience to laws, and civic duties.',
+              'In classical political theory, Aristotle defined a citizen not merely as a resident, but as someone who actively participates in the administration of justice and in the holding of public office. Modern political science recognizes that citizenship combines an objective legal status granting constitutional rights with a subjective civic responsibility to participate in community affairs and democratic governance.'
             ]
           },
           {
-            heading: 'II. The Triadic Dimension of Citizenship (T.H. Marshall)',
+            heading: '2. Dimensions and the Indian Model',
             paragraphs: [
-              'The most celebrated analytical framework of citizenship was propounded by the British sociologist <strong>T.H. Marshall</strong> in his 1949 treatise <em>Citizenship and Social Class</em>. Marshall demonstrated that modern citizenship evolved in three sequential waves over three centuries:<br/>' +
-              '<strong>1. Civil Citizenship (18th Century):</strong> The guarantees essential for individual liberty—freedom of speech, thought, faith, the right to own property, enter into contracts, and the right to procedural justice before independent courts.<br/>' +
-              '<strong>2. Political Citizenship (19th Century):</strong> The right to participate directly or indirectly in the exercise of political power, as an elector wielding universal adult suffrage or as an elected representative holding sovereign office.<br/>' +
-              '<strong>3. Social Citizenship (20th Century):</strong> The right to a whole range of socio-economic security, from the right to health and public education to the guarantee of a dignified living standard under a modern welfare state.'
-            ]
-          }
-        ,
-          {
-            heading: "III. The Indian Constitutional Paradigm of Single Citizenship",
-            paragraphs: [
-              "Departing from federal systems like the United States (which features dual citizenship of both the federal union and the individual state), the Constitution of India establishes a <strong>Single Uniform Citizenship</strong> throughout the entire territory of the Republic (Articles 5 to 11 and The Citizenship Act, 1955).",
-              "Dr. B.R. Ambedkar explained in the Constituent Assembly that single citizenship was deliberately designed to forge national integration, prevent regional chauvinism, and ensure that every Indian enjoys identical civil and political privileges from Kashmir to Kanyakumari. Indian citizenship can be acquired through five statutory modes: birth (<em>jus soli</em>), descent (<em>jus sanguinis</em>), registration, naturalization, and incorporation of territory."
+              'Modern citizenship encompasses civil rights that protect personal liberty and property, political rights that allow voting and running for office, and social rights that ensure economic security, education, and healthcare under the welfare state.',
+              'Departing from federal systems like the United States that have dual federal and state citizenship, the Constitution of India establishes a single uniform citizenship across the entire country under Articles 5 to 11. Dr. B.R. Ambedkar designed this single citizenship to foster national integration, prevent regional discrimination, and guarantee identical constitutional rights to every Indian citizen regardless of state of residence.'
             ]
           }
         ],
-        criticalAnalysis: 'Modern political theory differentiates between formal/legal citizenship (mere holding of a passport) and substantive citizenship (actual empowerment to exercise democratic rights without structural discrimination based on gender, caste, or wealth).',
-        conclusion: 'Citizenship is the foundational bedrock of constitutional democracy. As Chief Justice Earl Warren observed, citizenship is nothing less than the "right to have rights."'
+        criticalAnalysis: 'Modern political theory distinguishes between formal legal citizenship, which is the mere possession of official identity documents, and substantive citizenship, which is the practical ability of all individuals to exercise their democratic freedoms without systemic discrimination.',
+        conclusion: 'Citizenship is the foundation of constitutional democracy, transforming passive subjects into equal, self-governing members of the sovereign nation.'
       }
     },
     {
@@ -135,40 +109,25 @@ export const paper2024_summer = {
         { type: 'repeat', label: '🔥 Unit II Core Concept' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical Authorities: Max Weber (Economy and Society); Robert A. Dahl (The Concept of Power); Steven Lukes (Power: A Radical View); Joseph Nye (Bound to Lead / Soft Power).',
+        statutoryFramework: 'Max Weber (Economy and Society); Harold Lasswell; Constitution of India.',
         sections: [
           {
-            heading: 'I. Meaning and Nature of Power in Political Inquiry',
+            heading: '1. Meaning and Essence of Power',
             paragraphs: [
-              '<strong>Power</strong> is the central, organizing currency of political science. It denotes the relational capacity of an individual, group, or institution to affect the conduct, decisions, or dispositions of others and bring about intended outcomes, even in the presence of opposition or resistance.',
-              'Sociologist <strong>Max Weber</strong> offered the canonical sociological formulation: <em>"Power is the probability that one actor within a social relationship will be in a position to carry out his own will despite resistance, regardless of the basis on which this probability rests."</em> Similarly, political scientist <strong>Robert Dahl</strong> formulated an operational behavioral definition: <em>"A has power over B to the extent that he can get B to do something that B would not otherwise do."</em> Thus, power is essentially relational, asymmetrical, and instrumental.'
+              'Power is the central organizing concept of political science. It denotes the capacity of an individual, group, or institution to influence, control, and direct the conduct and decisions of others, even in the face of opposition or resistance.',
+              'Max Weber famously defined power as the probability that an actor within a social relationship will carry out their own will despite resistance, regardless of the basis of that probability. Power is inherently relational, asymmetrical, and instrumental, operating through coercive physical force, legal authority, economic incentives, or psychological persuasion.'
             ]
           },
           {
-            heading: 'II. Specific Classifications and Types of Power',
+            heading: '2. Classifications and Types of Power',
             paragraphs: [
-              'In contemporary political analysis, power manifests in multiple distinct modalities:<br/>' +
-              '<strong>1. Hard Power vs. Soft Power (Joseph Nye):</strong><br/>' +
-              '&nbsp;&nbsp;• <em>Hard Power:</em> Direct, coercive power executed through military force, economic sanctions, coercion, and material inducements ("carrots and sticks").<br/>' +
-              '&nbsp;&nbsp;• <em>Soft Power:</em> The ability to shape the preferences of others through co-optation, cultural appeal, political values, democratic diplomacy, and moral authority.<br/>' +
-              '&nbsp;&nbsp;• <em>Smart Power:</em> The strategic integration of hard and soft power capabilities.<br/>' +
-              '<strong>2. Steven Lukes\' Three Dimensions of Power:</strong><br/>' +
-              '&nbsp;&nbsp;• <em>First Face (Decision-Making):</em> Overt power exercised in open legislative or political conflict over observable decisions.<br/>' +
-              '&nbsp;&nbsp;• <em>Second Face (Agenda-Setting / Non-Decision-Making):</em> Covert power exercised by controlling the public agenda and preventing contested issues from being debated.<br/>' +
-              '&nbsp;&nbsp;• <em>Third Face (Ideological / Preference-Shaping):</em> Invisible, insidious power that shapes individuals\' desires, beliefs, and consciousness so that they accept their subordinate status without complaint.<br/>' +
-              '<strong>3. Coercive, Utilitarian, and Normative Power (Amitai Etzioni):</strong> Power grounded respectively in fear of physical sanctions, allocation of material rewards, or allocation of symbolic and moral values.'
-            ]
-          }
-        ,
-          {
-            heading: "III. Sociological Perspectives: Foucault and Michael Mann's IEMP Model",
-            paragraphs: [
-              "Twentieth-century political sociology broadened the concept of power beyond the state apparatus:<br/>• <strong>Michel Foucault's Discursive / Capillary Power:</strong> Foucault rejected the view that power is merely a top-down sovereign weapon held by the state. Power is omnipresent, capillary, and diffused throughout society—embedded in language, clinical medicine, prisons, schools, and psychiatric classifications (<em>\"Power is everywhere; not because it embraces everything, but because it comes from everywhere\"</em>).<br/>• <strong>Michael Mann's IEMP Model of Power:</strong> Sociologist Michael Mann identified four interconnected institutional networks through which human societies organize power: <em>Ideological</em> (meaning, religion, norms), <em>Economic</em> (production, extraction, market exchange), <em>Military</em> (physical defense and violent coercion), and <em>Political</em> (state institutional regulation and territorial law)."
+              'In political analysis, power manifests across several major forms. Coercive or Hard Power relies on physical force, military capability, penal sanctions, and economic penalties to compel obedience through fear. In contrast, Persuasive or Soft Power relies on cultural appeal, ethical leadership, democratic values, and moral authority to gain voluntary cooperation.',
+              'Power also operates at different levels of public life. It functions visibly in formal legislative debates and voting, covertly through agenda-setting by deciding which public issues are debated and which are excluded, and ideologically through education and mass media by shaping citizens\' beliefs and expectations. When power is institutionalized through constitutional law and accepted as moral by the people, it transforms into legitimate authority.'
             ]
           }
         ],
-        criticalAnalysis: 'Raw power without legitimacy is fragile, unstable, and prohibitively expensive to maintain through permanent violence. When power acquires moral justification and lawful sanction, it transforms into legitimate authority.',
-        conclusion: 'Power is the lifeblood of political action. The central quest of constitutionalism is to tame, check, and channel raw power through the rule of law.'
+        criticalAnalysis: 'Power exercised purely through fear or violence is expensive, unstable, and short-lived. Long-term political order requires power to be disciplined by the rule of law and backed by public consent.',
+        conclusion: 'Power is the driving force of state governance. In a constitutional democracy, its ultimate test is whether it serves the welfare, dignity, and rights of the people.'
       }
     },
     {
@@ -180,37 +139,25 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Unit V High Yield' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical Thinkers: Karl Marx & Friedrich Engels; Robert Owen; Claude Henri de Saint-Simon; Sidney and Beatrice Webb (Fabian Socialism); Harold Laski; Preamble to the Constitution of India (42nd Amendment, 1976).',
+        statutoryFramework: 'Karl Marx; Harold Laski; Preamble and Directive Principles (Articles 38, 39) of the Constitution of India.',
         sections: [
           {
-            heading: 'I. Foundational Concept of Socialism',
+            heading: '1. Meaning and Core Philosophy of Socialism',
             paragraphs: [
-              '<strong>Socialism</strong> arose in the early nineteenth century as a profound moral, socio-economic, and political reaction against the unchecked exploitation, class polarization, and human degradation spawned by industrial capitalism. It champions social equality, collective ownership or democratic regulation of the means of production, cooperative brotherhood, and production targeted toward human need rather than private capitalist profit.',
-              'As C.E.M. Joad famously observed, socialism has worn many hats, but all varieties share an unwavering rejection of unbridled laissez-faire individualism in favor of egalitarian social cooperation.'
+              'Socialism arose in the nineteenth century as an ethical, economic, and political response to the inequalities, harsh working conditions, and exploitation created by unregulated industrial capitalism. It advocates collective social ownership or regulation of key resources, economic planning, and production organized to meet human needs rather than private profit.',
+              'Socialism rejects laissez-faire individualism in favor of egalitarian social cooperation, asserting that the material wealth generated by society should be shared equitably among all who contribute to its creation.'
             ]
           },
           {
-            heading: 'II. Core Dimensions and Aspects of Socialism',
+            heading: '2. Core Aspects of Socialism',
             paragraphs: [
-              'Socialism is a multidimensional philosophy encompassing three paramount aspects:<br/>' +
-              '<strong>1. The Economic Aspect (Social Ownership and Planned Economy):</strong><br/>' +
-              'Socialism challenges private ownership of the instruments of production, exchange, and distribution. It replaces cutthroat market anarchy with state or cooperative ownership of heavy industries, public utilities, and financial institutions. Economic production is consciously planned to eliminate business cycles, unemployment, and capitalist rent-seeking, ensuring distributive justice.<br/>' +
-              '<strong>2. The Social & Egalitarian Aspect (Eradication of Class Divisions):</strong><br/>' +
-              'Socialism strives for substantive socio-economic equality. While recognizing natural differences in talent, it insists on radical equality of opportunity and an equitable distribution of national income. It treats education, healthcare, housing, and social security as fundamental social entitlements rather than private market commodities.<br/>' +
-              '<strong>3. The Moral & Humanistic Aspect (Cooperation over Competition):</strong><br/>' +
-              'Philosophically, socialism views human beings as inherently social and cooperative creatures whose character is deformed by competitive capitalist markets. It seeks to replace self-interested greed for wealth with fraternal solidarity, civic camaraderie, and universal social harmony.'
-            ]
-          }
-        ,
-          {
-            heading: "III. Prominent Varieties of Socialist Thought and the Indian Model",
-            paragraphs: [
-              "Across history, socialism materialized into several major schools:<br/>• <strong>Utopian Socialism (Robert Owen, Charles Fourier):</strong> Advocated peaceful voluntary establishment of cooperative model communities based on ethical brotherhood, lacking a scientific theory of class conflict.<br/>• <strong>Scientific / Marxian Socialism (Marx & Engels):</strong> Grounded in dialectical materialism and historical analysis; insisted that capitalism inevitably produces class struggle between bourgeoisie and proletariat, necessitating a proletarian revolution.<br/>• <strong>Fabian Socialism (Sidney & Beatrice Webb, George Bernard Shaw):</strong> Propounded the \"inevitability of gradualness\"—achieving socialism incrementally through democratic parliamentary reform, municipal ownership, and enlightened civil service administration.<br/>• <strong>Democratic Socialism and the Indian Preamble:</strong> Enshrined in the Preamble by the 42nd Amendment (1976), Nehruvian democratic socialism synthesized parliamentary freedom with a Mixed Economy and Directive Principles (Articles 38 & 39) to eliminate poverty without totalitarian coercion."
+              'Socialism operates across three main dimensions. The economic aspect focuses on public or cooperative ownership of major industries, natural resources, and financial institutions, replacing market anarchy with planned economic development to minimize poverty and unemployment. The social and egalitarian aspect strives to eliminate rigid class barriers by ensuring equality of opportunity and treating healthcare, education, and social security as guaranteed citizen rights.',
+              'The moral and humanistic aspect views human beings as naturally cooperative rather than purely selfish, seeking to replace aggressive commercial competition with community solidarity and mutual brotherhood. In India, democratic socialism was enshrined in the Preamble by the 42nd Amendment, and Articles 38 and 39 direct the state to secure an equitable social order and prevent the concentration of wealth.'
             ]
           }
         ],
-        criticalAnalysis: 'Socialism branches into revolutionary/Marxian socialism (demanding violent overthrow of the bourgeois state) and democratic/evolutionary socialism (Fabianism, Nehruvian socialism) which achieves egalitarian redistributive goals through constitutional parliamentary democracy.',
-        conclusion: 'The enduring relevance of socialism lies in its ethical demand that economy must serve society, rather than society serving the unconstrained accumulation of private capital.'
+        criticalAnalysis: 'Socialism branches into revolutionary Marxism, which advocates the overthrow of capitalism through class struggle, and democratic socialism, which achieves egalitarian redistribution through constitutional democracy and peaceful parliamentary legislation.',
+        conclusion: 'Socialism\'s enduring significance lies in its insistence that the economy must serve the welfare of human beings, rather than human beings serving the accumulation of private wealth.'
       }
     },
     {
@@ -222,16 +169,16 @@ export const paper2024_summer = {
         { type: 'repeat', label: '🔥 High Frequency Comparison' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical Authorities: Ernest Gellner, Benedict Anderson, Carlton Hayes, Hans Kohn (The Idea of Nationalism), Anthony D. Smith.',
+        statutoryFramework: 'Ernest Renan; Hans Kohn; Preamble to the Constitution of India.',
         sections: [
           {
-            heading: 'I. Fundamental Difference: Cultural Community vs. Active Ideology',
+            heading: '1. Fundamental Difference in Concept',
             paragraphs: [
-              'Although often often confused in everyday speech, <strong>nation</strong> and <strong>nationalism</strong> occupy fundamentally different levels in political theory in political philosophy. A nation is an existent human collectivity characterized by cultural cohesion and psychological solidarity, whereas nationalism is the ideological doctrine and political movement that activates and utilizes that collective consciousness.'
+              'Although often used interchangeably in everyday conversation, nation and nationalism represent distinct concepts in political theory. A nation is a human collectivity united by cultural affinity, shared historical memories, and psychological solidarity. In contrast, nationalism is the political ideology and organized mass movement that activates that collective sentiment into a demand for sovereign self-governance.'
             ]
           },
           {
-            heading: 'II. Comprehensive Comparative Matrix',
+            heading: '2. Comparison: Nation vs. Nationalism',
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
@@ -240,42 +187,23 @@ export const paper2024_summer = {
               '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Nationalism</th>' +
               '</tr></thead><tbody>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>1. Fundamental Nature</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">A socio-cultural, historical, and psychological community of sentiment.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">A political ideology, creed, and organized mass movement.</td></tr>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">A socio-cultural community and shared psychological identity.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">A political ideology, doctrine, and organized movement.</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>2. Primary Character</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Passive / Cohesive: It represents an identity ("who we are").</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Active / Purposive: It represents a political demand ("what we must achieve").</td></tr>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Passive and expressive: represents collective identity ("who we are").</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Active and purposive: represents a political goal ("what we demand").</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>3. Primary Objective</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Preservation of cultural identity, shared memory, and heritage.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Attainment, preservation, or expansion of sovereign statehood and political self-determination.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>4. Historical Genesis</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Evolves organically over centuries through shared historical experiences.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Emerged predominantly in modern Europe following the 18th-century French Revolution and print capitalism.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>5. Pathological Risks</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">May suffer from cultural insularity or internal ethnic fragmentation.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can degenerate into aggressive nationalism and hatred of foreigners, fascism, ethnic cleansing, and imperialist aggression.</td></tr>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Preservation of cultural memory, heritage, and mutual fraternity.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Attainment, defense, or expansion of sovereign statehood.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>4. Historical Development</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Evolves organically over centuries through shared civilizational life.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Emerged predominantly in modern times alongside the democratic nation-state.</td></tr>' +
               '</tbody></table>'
             ]
           }
-        ,
-          {
-            heading: "III. Lord Acton's Classical Critique and the Multi-National State",
-            paragraphs: [
-              "Nineteenth-century British historian <strong>Lord Acton</strong> presented a prophetic critique of the nationalist demand that every nation must form a separate sovereign state. In his essay <em>Nationality</em> (1862), Acton argued that states which contain multiple nationalities within a single constitutional union (like the British Empire or modern democratic India) are inherently more hospitable to civil liberty and tolerance than mono-ethnic nation-states.",
-              "Acton warned that when a single ethnic nation monopolizes state power, it inevitably oppresses linguistic, cultural, and religious minorities. A healthy democratic state must transcend narrow nationalism, providing a pluralistic constitutional shelter where diverse nationalities coexist under equal laws."
-            ]
-          }
-        ,
-          {
-            heading: "IV. Sociological Synthesis: Why Nation Precedes Nationalism",
-            paragraphs: [
-              "In contemporary political sociology, scholars emphasize that while a nation can exist latently as an ethnic community for centuries without demanding statehood (such as the Scots within the United Kingdom or the Catalans in Spain), nationalism emerges when economic or cultural grievances are politicized by intellectual elites.",
-              "Nationalism turns the passive cultural pride of a nation into an aggressive or assertive political campaign for sovereign self-determination, proving that while all nationalism requires a nation, not every nation inevitably develops aggressive nationalism. Constitutional statesmanship consists in cherishing national sentiment while preventing its degeneration into chauvinistic aggression."
-            ]
-          }
         ],
-        criticalAnalysis: 'As Ernest Gellner synthesized: "Nationalism is not the awakening of nations to self-consciousness; it invents nations where they do not exist." The ideology often precedes and fabricates the very nation it claims to serve.',
-        conclusion: 'In summary, the nation is the cultural vessel; nationalism is the political steam that propels it toward sovereign self-governance.'
+        criticalAnalysis: 'A nation can exist peacefully as a cultural community without demanding separate statehood, but when political grievances arise, nationalism activates that identity into a political campaign for self-determination.',
+        conclusion: 'In summary, the nation is the cultural body, while nationalism is the political spirit that propels it toward sovereign self-governance.'
       }
     },
     {
@@ -288,80 +216,56 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Core 10-Marker' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical Canon: Max Weber (Economy and Society); Bertrand de Jouvenel (Sovereignty: An Inquiry into the Political Good); Robert A. Dahl (Modern Political Analysis); Hannah Arendt (Between Past and Future); Chester Barnard (The Functions of the Executive).',
+        statutoryFramework: 'Max Weber (Economy and Society); Constitution of India.',
         sections: [
           {
-            heading: 'I. Introduction and Definitional Essence of Authority',
+            heading: '1. Meaning and Essence of Authority',
             paragraphs: [
-              'In political analysis and public jurisprudence, <strong>authority</strong> represents the moral and institutional transformation of coercive force into legitimate governance. Raw force or raw physical force can compel outward obedience through terror or overwhelming sanctions, but it cannot sustain stable, long-term political order. Stable governance requires that the right to command be perceived as rightful, just, and binding by those who are commanded.',
-              'Authority is universally conceptualized as <strong>legitimate power</strong>. When power is institutionalized, cloaked with legal validity, and accepted by subordinates as morally binding, it ceases to be mere brute power and becomes authority. As the French philosopher <strong>Bertrand de Jouvenel</strong> articulated, authority is the capacity to gain another\'s assent and compliance without resort to physical intimidation.',
-              'According to <strong>Robert Dahl</strong>, <em>"Authority is legitimate power... when power is clothed in legitimacy, a ruler commands and subjects obey voluntarily out of an inner moral conviction of duty."</em>'
+              'In political science and constitutional jurisprudence, authority represents the moral and institutional transformation of coercive force into legitimate governance. Raw physical force can compel outward obedience momentarily through fear, but it cannot sustain stable, long-term political order. Stable governance requires that the right to command be recognized as rightful, just, and binding by those who are governed.',
+              'Authority is universally defined as legitimate power. When power is institutionalized, backed by legal rules, and recognized by citizens as morally binding, it becomes authority. Citizens obey authority not out of fear of physical punishment, but out of an internal sense of legal and civic duty.'
             ]
           },
           {
-            heading: 'II. Essential Characteristics and Foundations of Authority',
+            heading: '2. Max Weber\'s Three Types of Authority',
             paragraphs: [
-              'Authority possesses several indispensable conceptual attributes:<br/>' +
-              '<strong>1. Legitimacy:</strong> The indispensable foundational pillar. Obedience is rendered not because of fear of punishment, but because the subordinate recognizes the commander\'s rightful prerogative to issue directives.<br/>' +
-              '<strong>2. Institutionalization:</strong> In modern polities, authority attaches to the <em>office</em> or the constitutional role, not to the private biological person occupying it. A police officer or judge commands obedience by virtue of statutory office, not personal muscle.<br/>' +
-              '<strong>3. Hierarchy and Delimited Scope:</strong> Authority is organized along defined constitutional and statutory channels with clear legal boundaries. An act done in excess of authority is <em>ultra vires</em> and legally void.<br/>' +
-              '<strong>4. Rational Assent and Voluntary Compliance:</strong> As <strong>Chester Barnard</strong> established in his famous "Acceptance Theory of Authority," authority flows upward: an order possesses authority only if the recipient understands it, believes it is consistent with organizational purpose, and freely decides to accept it.'
+              'Sociologist Max Weber formulated the classical classification of authority into three ideal types based on why citizens obey commands. Traditional Authority rests on long-established belief in the sanctity of age-old customs and the hereditary right of masters to rule, as seen in traditional monarchies or tribal chieftaincies where obedience is owed to a personal ruler sanctioned by custom.',
+              'Charismatic Authority rests on devotion to the extraordinary heroism, moral vision, or exceptional character of an individual leader. This form of authority is dynamic and revolutionary, disrupting established laws through the personal magnetism of figures like Mahatma Gandhi or Nelson Mandela. Because it depends on the mortal leader, charismatic authority must eventually undergo "routinization" into traditional institutions or legal rules to ensure stability upon the leader\'s departure.',
+              'Rational-Legal Authority rests on belief in the legality of enacted constitutional rules and the right of elevated public officials to issue commands within those rules. Obedience is owed not to the individual person holding office, but to the impersonal constitutional office and the legal order itself. Modern constitutional democracies governed by written laws and merit-based professional bureaucracies represent this type of authority.'
             ]
           },
           {
-            heading: 'III. Max Weber\'s Classical Tripartite Typology of Authority',
+            heading: '3. Differences Between Power and Authority',
             paragraphs: [
-              'The sociological masterwork of <strong>Max Weber</strong> in <em>Economy and Society</em> established three "ideal types" of legitimate authority based on their underlying claims to legitimacy:<br/>' +
-              '<strong>1. Traditional Authority:</strong> Grounded in an established belief in the sanctity of immemorial traditions and the legitimacy of the status of those exercising authority under them (e.g., hereditary monarchies, patriarchal chieftains, feudal lords). Obedience is owed to personal masters sanctioned by custom.<br/>' +
-              '<strong>2. Charismatic Authority:</strong> Resting on devotion to the exceptional sanctity, heroism, or exemplary character of an individual person and of the normative patterns ordained by them (e.g., Mahatma Gandhi, Joan of Arc, Napoleon Bonaparte). It is inherently unstable and revolutionary, requiring "routinization" into traditional or legal-rational forms to survive the leader\'s death.<br/>' +
-              '<strong>3. Rational-Legal Authority:</strong> Resting on a belief in the legality of enacted rules and the right of those elevated to authority under such rules to issue commands (e.g., modern constitutional democracies, independent judiciaries, civil service bureaucracies). Obedience is owed not to the person, but to the impersonal legal order.'
-            ]
-          },
-          {
-            heading: 'IV. Exhaustive Differentiation: Power vs. Authority',
-            paragraphs: [
-              'The distinction between power and authority is one of the most vital in political theory. They differ across several analytical axes:<br/>' +
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
-              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Analytical Dimension</th>' +
+              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Feature</th>' +
               '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Power</th>' +
               '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Authority</th>' +
               '</tr></thead><tbody>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>1. Foundational Nature</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Ability to compel obedience through physical, material, or psychological force.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Legitimate, institutionalized right to command and expect compliance.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>2. Moral / Legal Sanction</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can be amoral, unlawful, or coercive (e.g., armed robber, military dictator).</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Inherently cloaked in legality, moral sanction, and constitutional validation.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>3. Mode of Compliance</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Extrinsic compliance through fear of sanctions, coercion, or material bribery.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Intrinsic, voluntary compliance grounded in civic respect for legal office and duty.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>4. Structural Scope</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Diffused, informal, and dynamic; exists wherever asymmetric capacity exists.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Formal, institutionalized, structured, and strictly demarcated by constitutional rules.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>5. Stability & Cost</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Unstable, precarious, and expensive; requires constant surveillance and threat of violence.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Self-sustaining, durable, and highly economical; citizens police themselves out of moral allegiance.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>1. Fundamental Nature</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Capacity to compel obedience through force or sanctions.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Legitimate, institutionalized right to issue binding commands.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>2. Basis of Compliance</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Fear of punishment, coercion, or material rewards.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Voluntary obedience based on moral duty and respect for law.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>3. Legal and Moral Sanction</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Can be amoral, arbitrary, or unconstitutional.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Strictly rooted in constitutional rules and public legitimacy.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>4. Scope and Limits</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Often broad, informal, and dynamic.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Strictly delimited by jurisdictional rules and checks.</td></tr>' +
               '</tbody></table>'
             ]
-          }
-        ,
+          },
           {
-            heading: "V. Behavioral Jurisprudence: Chester Barnard's Acceptance Theory and Simon's Bounded Rationality",
+            heading: '4. Authority in a Constitutional Democracy',
             paragraphs: [
-              "In classical legal theory, authority was viewed as flowing hierarchically downward from the sovereign monarch or legislature to the citizen. However, modern administrative and political thinkers inverted this conception:<br/>• <strong>Chester Barnard's \"Acceptance Theory of Authority\":</strong> In <em>The Functions of the Executive</em> (1938), Barnard proved that authority flows upward from the bottom. The decision as to whether an order possesses authority lies with the person to whom it is addressed, not with the person who issues it. An individual accepts authority only if the communication falls within their <strong>\"Zone of Indifference\"</strong>—an area where orders are routinely obeyed without conscious questioning because they are perceived as legitimate and reasonable.<br/>• <strong>Herbert Simon's Theory of Bounded Rationality:</strong> Nobel laureate Herbert Simon demonstrated that citizens accept institutional authority because it saves cognitive energy. By accepting constitutional and administrative authority, individuals do not have to deliberate and calculate every single daily decision from scratch."
-            ]
-          }
-        ,
-          {
-            heading: "VI. Contemporary Challenges: Erosion of Authority in the Digital Age",
-            paragraphs: [
-              "In 21st-century constitutional democracies, traditional and legal-rational authority face unprecedented challenges from decentralized social media networks and populist political movements. When citizens lose trust in mainstream scientific, judicial, and legislative institutions, state authority weakens, forcing governments to rely increasingly on regulatory surveillance and police power."
+              'In a constitutional democracy like India, authority is strictly anchored in the Constitution as the supreme law of the land. State power is disciplined through the rule of law, separation of powers among the legislature, executive, and judiciary, and judicial review of administrative actions. This ensures that authority remains accountable to the people and dedicated to the public welfare.'
             ]
           }
         ],
-        criticalAnalysis: 'As Hannah Arendt famously observed in Between Past and Future, where force is used, authority has failed. The resort to naked violence is not a proof of supreme authority, but an admission of its collapse. Once a state must rely purely on armed troops to secure curfew obedience, it has lost authority and retains only coercive power.',
-        conclusion: 'Authority is power democratized, moralized, and circumscribed by the rule of law. It converts the sword of the sovereign into the scales of justice, securing orderly civic life.'
+        criticalAnalysis: 'Where physical force must be continuously used, authority has failed. Resorting to violence is not proof of supreme authority, but a confession that legitimate authority has eroded. A democratic state preserves authority by maintaining constitutional integrity and public trust.',
+        conclusion: 'Authority is power civilized by legitimacy and bound by the rule of law. It converts the arbitrary force of rulers into the lawful justice of constitutional governance.'
       }
     },
     {
@@ -374,70 +278,34 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Core 10-Marker' },
       ],
       answer: {
-        statutoryFramework: 'Democratic Political Canon: Joseph Schumpeter (Capitalism, Socialism and Democracy); Jürgen Habermas (Between Facts and Norms); Carole Pateman (Participation and Democratic Theory); John Stuart Mill (Considerations on Representative Government); Preamble & Articles 325-326 of the Constitution of India.',
+        statutoryFramework: 'Abraham Lincoln; Joseph Schumpeter; Jürgen Habermas; John Stuart Mill; Jean-Jacques Rousseau; Preamble and Articles 325–326 of the Constitution of India.',
         sections: [
           {
-            heading: 'I. Foundational Etymology and Meaning of Democracy',
+            heading: '1. Meaning and Concept of Democracy',
             paragraphs: [
-              '<strong>Democracy</strong> derives from two ancient Greek words: <em>demos</em> (the people) and <em>kratos</em> (rule, power, or sovereignty). In its classical formulation immortalized by Abraham Lincoln, democracy is the <em>"government of the people, by the people, for the people."</em>',
-              'However, contemporary political science recognizes that democracy is not a monolithic concept. It represents both a set of institutional procedures for selecting rulers and an egalitarian philosophical ideal of self-determination, fundamental rights, and human dignity. Across historical development, democratic theory has diverged into four prominent operational models: procedural, deliberative, participatory, and representative democracy.'
+              'Democracy originates from the ancient Greek words demos (people) and kratos (power or rule). In its most famous formulation by Abraham Lincoln, democracy is government of the people, by the people, and for the people. Modern political science recognizes that democracy is both a system of institutional arrangements for electing leaders and an ethical commitment to individual freedom, human dignity, and popular sovereignty.',
+              'Over time, democratic theory has developed into four prominent models: procedural democracy, deliberative democracy, participatory democracy, and representative democracy, each highlighting different dimensions of self-government.'
             ]
           },
           {
-            heading: 'II. Procedural Democracy (The Minimalist / Institutional Model)',
+            heading: '2. Four Major Types of Democracy',
             paragraphs: [
-              '<strong>Procedural democracy</strong> (championed by <strong>Joseph Schumpeter</strong> and <strong>Robert Dahl</strong>) conceptualizes democracy primarily as a set of institutional rules and formal mechanisms for arriving at political decisions.',
-              'In <em>Capitalism, Socialism and Democracy</em> (1942), Schumpeter defined the democratic method as <em>"that institutional arrangement for arriving at political decisions in which individuals acquire the power to decide by means of a competitive struggle for the people\'s vote."</em><br/>' +
-              '• <strong>Key Features:</strong> Periodic free and fair elections, multi-party competition, universal adult suffrage, legal protection of civil liberties, and an independent judiciary.<br/>' +
-              '• <strong>Limitation:</strong> Procedural democracy risks reducing democracy to mere "electoralism". A state may hold flawless periodic elections yet remain plagued by stark economic inequalities, caste oppression, or marginalization of vulnerable groups. Critics argue that procedure without substantive socio-economic equality produces an empty shell.'
+              'Procedural Democracy, associated with thinkers like Joseph Schumpeter, views democracy primarily as a set of formal institutional rules. It focuses on the competitive electoral process: periodic free and fair elections, multi-party competition, universal adult franchise, and constitutional checks and balances. Critics note that while procedural democracy ensures regular elections, it can risk reducing democracy to a mechanical voting ritual without resolving underlying social and economic inequalities.',
+              'Deliberative Democracy, pioneered by Jürgen Habermas, shifts attention from voting to the quality of public reasoning. It asserts that political decisions are legitimate only if they result from open, rational, and inclusive public discussion among equal citizens. Under Habermas\'s ideal speech situation, citizens debate free from coercion, allowing decisions to be guided by the strength of the better argument, which educates voters and builds mutual consensus.',
+              'Participatory Democracy, rooted in the political thought of Jean-Jacques Rousseau, rejects the idea that citizen involvement should be limited to voting once every few years. It advocates for the continuous, direct involvement of ordinary citizens in political, economic, and community decision-making. Active local participation exercises an educational influence, fostering civic responsibility and public spirit among citizens.',
+              'Representative Democracy, championed by John Stuart Mill, is the practical model for modern large-scale nation-states. Because direct democracy is physically impossible for millions of citizens across vast territories, the people elect representatives to deliberate and pass laws on their behalf. It combines popular sovereignty with division of labor, operating through institutional checks, parliamentary question hours, and periodic electoral accountability.'
             ]
           },
           {
-            heading: 'III. Deliberative Democracy (The Discursive / Rational Model)',
+            heading: '3. Grassroots and Substantive Democracy in India',
             paragraphs: [
-              '<strong>Deliberative democracy</strong>, formulated prominently by German philosopher <strong>Jürgen Habermas</strong>, <strong>Joshua Cohen</strong>, and <strong>Amy Gutmann</strong>, shifts the focus from vote-counting to public reasoning. It asserts that political decisions are legitimate only if they emerge from open, inclusive, and rational public deliberation among equal citizens.',
-              '• <strong>Theoretical Core:</strong> In Habermas\'s concept of the <em>"Ideal Speech Situation"</em>, participants set aside brute force, material wealth, and private interests to be persuaded solely by the "unforced force of the better argument" (<em>der zwanglose Zwang des besseren Arguments</em>).<br/>' +
-              '• <strong>Distinction from Aggregative Models:</strong> While procedural democracy merely aggregates pre-existing selfish voter preferences at the ballot box, deliberative democracy transforms citizens\' preferences through reflective public discourse and mutual understanding.<br/>' +
-              '• <strong>Core Value:</strong> Protects minority viewpoints from being steamrolled by raw majoritarian numbers.'
-            ]
-          },
-          {
-            heading: 'IV. Participatory Democracy (The Direct / Radical Model)',
-            paragraphs: [
-              '<strong>Participatory democracy</strong>, revived by political theorists like <strong>Carole Pateman</strong> (<em>Participation and Democratic Theory</em>) and <strong>C.B. Macpherson</strong>, traces its lineage to <strong>Jean-Jacques Rousseau</strong>. It rejects the elitist idea that citizens should be passive consumers whose role is limited to casting a vote once every five years.',
-              '• <strong>Theoretical Tenets:</strong> Demands broad, direct, and continuous involvement of ordinary citizens in political, social, and economic decision-making across all public institutions, local councils, workplaces, and universities.<br/>' +
-              '• <strong>Educative Function:</strong> Pateman argues that active participation possesses an indispensable psychological and educative effect: the more people participate in neighborhood assemblies and local governance, the more public-spirited, knowledgeable, and competent they become.<br/>' +
-              '• <strong>Real-World Manifestation:</strong> Grassroots Panchayati Raj institutions under the 73rd and 74th Constitutional Amendments in India, Gram Sabhas, participatory budgeting (as pioneered in Porto Alegre, Brazil), and public referendums.'
-            ]
-          },
-          {
-            heading: 'V. Representative Democracy (The Constitutional / Indirect Model)',
-            paragraphs: [
-              '<strong>Representative democracy</strong> (noting the paper\'s typo "repetitive" which refers to representative democracy) is the prevailing model in modern large-scale nation-states. Because direct democracy is physically impracticable across millions of citizens in vast territories, citizens elect representatives to act on their behalf in sovereign legislative assemblies.',
-              '• <strong>Classical Philosophy:</strong> <strong>John Stuart Mill</strong> in <em>Considerations on Representative Government</em> (1861) argued that representative government combines popular sovereignty with elite professional competence and division of labor.<br/>' +
-              '• <strong>Models of Representation:</strong><br/>' +
-              '&nbsp;&nbsp;• <em>Trustee Model (Edmund Burke):</em> Representatives exercise their enlightened, mature conscience and judgment for the common good, rather than being mere mouthpieces of localized voter whims.<br/>' +
-              '&nbsp;&nbsp;• <em>Delegate Model:</em> Representatives act as bound agents carrying explicit instructions from their constituents.<br/>' +
-              '• <strong>Constitutional Mechanisms:</strong> Checks and balances, separation of powers, bicameral legislatures, periodic accountability at elections, and rule of law.'
-            ]
-          }
-        ,
-          {
-            heading: "VI. Epistemic and Digital Democracy in the 21st Century",
-            paragraphs: [
-              "In the contemporary era, democratic theory has expanded into cutting-edge paradigms:<br/>• <strong>Epistemic Democracy (David Estlund, Hélène Landemore):</strong> Grounded in the Condorcet Jury Theorem, epistemic democratic theory asserts that democracy is not merely ethically legitimate; it is <em>intellectually superior</em>. A diverse group of ordinary citizens deliberating together consistently makes wiser, more accurate collective decisions than an insulated elite of technocrats or oligarchs.<br/>• <strong>Digital and Liquid Democracy:</strong> Deploys modern internet communication technologies to combine the advantages of direct and representative democracy. In platforms like Taiwan's open-source <em>vTaiwan</em> consensus system, citizens deliberate on legislative drafts online in real time, bridging the gulf between elected parliamentarians and the grassroots populace, demonstrating how technological innovation can bridge the historic gap between citizens and state policy."
-            ]
-          }
-        ,
-          {
-            heading: "VII. Substantive Democracy: Bridging the Gulf between Form and Reality",
-            paragraphs: [
-              "Political scientists emphasize the vital distinction between formal/procedural democracy and <strong>Substantive Democracy</strong>. While procedural democracy guarantees the right to vote, substantive democracy ensures that citizens possess the real, material capabilities—education, healthcare, nutritional security, and freedom from caste discrimination—required to exercise their democratic rights autonomously, as emphasized by Nobel laureate Amartya Sen's Capability Approach, ensuring that democracy empowers human life in substantive reality rather than remaining a formal paper ritual."
+              'The Constitution of India incorporates elements of all four models. It maintains procedural integrity through the independent Election Commission, exercises representative governance through Parliament and State Assemblies, and fosters participatory and deliberative democracy at the grassroots level through Panchayati Raj institutions and village Gram Sabhas under Articles 243A to 243O.',
+              'Furthermore, as Dr. B.R. Ambedkar stressed, India\'s constitutional goal is substantive democracy—ensuring that formal political equality (one person, one vote) is backed by social and economic democracy that eradicates caste discrimination and poverty.'
             ]
           }
         ],
-        criticalAnalysis: 'These four types are not mutually exclusive antagonistic camps; rather, an optimal constitutional democracy synthesizes them: it operates through robust representative institutions, anchored in inviolable procedural safeguards, constantly invigorated by local participatory bodies (Gram Sabhas), and guided by rational public deliberation.',
-        conclusion: 'True democracy is neither mere head-counting nor majoritarian despotism; it is a profound ethical commitment to equal citizenship, human dignity, and collective self-determination.'
+        criticalAnalysis: 'These four types are not conflicting rivals; rather, a successful constitutional democracy synthesizes them: operating through representative institutions, protected by procedural rules, deepened through local participatory forums, and guided by rational public deliberation.',
+        conclusion: 'Democracy is more than an election mechanism; it is an enduring constitutional commitment to human dignity, equal rights, and government by the consent of the governed.'
       }
     },
     {
@@ -450,64 +318,39 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Core 10-Marker' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical Foundations: Ernest Renan (What is a Nation?); Benedict Anderson (Imagined Communities: Reflections on the Origin and Spread of Nationalism); Ernest Gellner (Nations and Nationalism); Anthony D. Smith (Theories of Nationalism); Carlton Hayes; Hans Kohn.',
+        statutoryFramework: 'Ernest Renan (What is a Nation?); Benedict Anderson; Rabindranath Tagore; Mahatma Gandhi; Constitution of India.',
         sections: [
           {
-            heading: 'I. Comprehensive Definition and Nature of the Nation',
+            heading: '1. Meaning and Concept of a Nation',
             paragraphs: [
-              'A <strong>nation</strong> is one of the most powerful, complex social formations in modern political sociology. It is fundamentally a distinct human collectivity bound by a deep, subjective consciousness of common identity, shared historical destiny, cultural affinity, and mutual belonging.',
-              'Unlike the <strong>State</strong> (which is a legal-political construct possessing definite territory, government, and monopoly over legitimate coercive force), a nation is a psychological and cultural entity. A population may constitute a nation without possessing an independent sovereign state (e.g., the Kurds or Palestinians).',
-              'Classical political definitions illuminate this nature:<br/>' +
-              '• <strong>Ernest Renan (1882):</strong> Defined the nation as <em>"a soul, a spiritual principle."</em> Two things constitute this soul: one is the possession in common of a rich legacy of memories from the past; the other is the present-day consent, the desire to live together, and the will to perpetuate the heritage received in common.<br/>' +
-              '• <strong>Benedict Anderson (1983):</strong> Famously formulated the nation as an <em>"imagined political community—and imagined as both inherently limited and sovereign."</em> It is imagined because members of even the smallest nation will never know most of their fellows, yet in the minds of each lives the image of their communion. It is limited because it possesses finite, elastic boundaries beyond which lie other nations.'
+              'A nation is fundamentally a distinct human community bound together by a shared consciousness of common identity, historical destiny, cultural affinity, and mutual belonging. Unlike the state, which is a legal-political entity possessing sovereign power over a definite territory, a nation is a psychological and cultural community.',
+              'In his classic 1882 lecture, French philosopher Ernest Renan defined a nation as a "spiritual principle" resting on two pillars: a shared inheritance of past historical memories and present-day consent—the collective will to live together and continue their shared heritage. Modern political thinker Benedict Anderson described the nation as an "imagined political community," because members of even small nations will never meet most of their fellow citizens, yet in the minds of each lives the image of their shared communion.'
             ]
           },
           {
-            heading: 'II. Objective vs. Subjective Elements Constituting a Nation',
+            heading: '2. Objective and Subjective Elements of a Nation',
             paragraphs: [
-              'Political theorists divide the constituents of a nation into two categories:<br/>' +
-              '<strong>1. Objective Factors:</strong> Shared race or ethnic descent, common language, geographical contiguity, shared religion, and shared historical experiences. However, none of these objective factors is individually indispensable. For example, Switzerland is a vibrant nation with four official languages and multiple religious confessions.<br/>' +
-              '<strong>2. Subjective Factor (The Paramount Element):</strong> The psychological will to coalesce—the intense inner sentiment of oneness and belonging to a common collective destiny. Without this subjective solidarity, all objective criteria fail to produce a nation.'
+              'Political scientists categorize the elements forming a nation into objective and subjective factors. Objective factors include common language, geographical contiguity, shared religious traditions, and common ancestry. However, none of these objective factors is individually mandatory. For instance, Switzerland is a cohesive nation despite possessing four official languages and multiple religious traditions.',
+              'The decisive element is the subjective factor: the psychological feeling of "we-ness," emotional brotherhood, and the shared desire to journey together through history. Without this subjective will, objective similarities alone cannot create a nation.'
             ]
           },
           {
-            heading: 'III. The Dynamic Relationship between Nation and Nationalism',
+            heading: '3. Relationship Between Nation and Nationalism',
             paragraphs: [
-              'The relationship between nation and nationalism is a central debate in modern political theory, analyzed through three major intellectual paradigms:<br/>' +
-              '<strong>1. The Modernist Paradigm (Gellner, Anderson, Hobsbawm): Nationalism Creates the Nation:</strong><br/>' +
-              'Modernist theorists convincingly demonstrated that nationalism is not the natural awakening of pre-existing ancient nations. Rather, <strong>nationalism came first</strong>. As feudal agricultural societies transformed into industrialized economies, capitalism required a standardized, literate, culturally uniform workforce. <strong>Ernest Gellner</strong> argued that modern industrial states deployed nationalism to invent nations, creating unified national cultures through state-controlled education, print-capitalism, and bureaucratic centralization.<br/>' +
-              '<strong>2. The Ethno-Symbolist Paradigm (Anthony D. Smith): The Nation Pre-exists and Anchors Nationalism:</strong><br/>' +
-              'Smith countered modernists by arguing that modern nations could not be conjured out of thin air. Nationalism succeeds only because it builds upon pre-existing ethnic cores (<em>ethnies</em>)—shared ancestral myths, historic memories, sacred homelands, and cultural symbols accumulated over centuries. Nationalism acts as the political catalyst that politicizes these pre-existing cultural materials.<br/>' +
-              '<strong>3. Dialectical Functional Relationship:</strong><br/>' +
-              '&nbsp;&nbsp;• <em>The Nation provides the Soul; Nationalism provides the Sword:</em> The nation provides the collective identity, cultural repository, and emotional loyalty; nationalism provides the ideological organization, doctrine, and political mobilization.<br/>' +
-              '&nbsp;&nbsp;• <em>The Drive toward Statehood:</em> Nationalism insists that every nation has the moral and political right to sovereign self-determination and its own sovereign state (the "Nation-State" ideal).'
+              'The relationship between nation and nationalism is dynamic and mutually reinforcing. The nation provides the cultural foundation—the shared memories, language, folklore, and historical identity—while nationalism provides the political ideology and organizational energy needed to protect or achieve sovereign statehood.',
+              'Nationalism asserts that each nation has a rightful claim to self-determination and should possess its own sovereign state, giving rise to the modern concept of the nation-state. In many cases, nationalism actively helped weld disparate regional and tribal groups into cohesive modern nations through public education, transportation networks, and national institutions.'
             ]
           },
           {
-            heading: 'IV. Typologies of Nationalism and their Impact on the Nation',
+            heading: '4. The Indian Experience: Composite Nationhood',
             paragraphs: [
-              'The character of nationalism directly determines the health and stability of the nation:<br/>' +
-              '<strong>1. Civic / Liberal Nationalism (Hans Kohn):</strong> Grounded in shared political principles, constitutional values, equal citizenship, and the rule of law. It is inclusive and welcoming of diversity (e.g., the foundational ethos of Indian constitutional democracy and post-war Western democracies).<br/>' +
-              '<strong>2. Ethnic / Cultural Nationalism:</strong> Grounded in exclusive bloodlines, race, or religious orthodoxy. It is inherently exclusionary, treating minorities as secondary subjects and frequently degenerating into xenophobic chauvinism, ethnic conflict, and authoritarianism.'
-            ]
-          }
-        ,
-          {
-            heading: "V. Post-Colonial Subaltern Critique: Partha Chatterjee's \"Nation and Its Fragments\"",
-            paragraphs: [
-              "Leading Indian political theorist <strong>Partha Chatterjee</strong> in <em>The Nation and Its Fragments</em> (1993) delivered a profound critique of Western modernist theories (particularly Benedict Anderson). Anderson had implied that post-colonial nations were mere \"modular\" imitations fabricated along European lines.<br/>Chatterjee demonstrated that anti-colonial nationalism in India asserted its sovereignty long before it waged political battles for sovereign statehood. It did so by dividing society into two distinct spheres:<br/>• <strong>The Material / Outer Domain:</strong> The realm of science, technology, industrial economy, and statecraft. Here, Indian nationalists recognized Western superiority and sought to imitate and master Western techniques.<br/>• <strong>The Spiritual / Inner Domain:</strong> The realm of language, religion, art, family life, and cultural values. In this domain, Indian society fiercely resisted colonial intrusion, creating a sovereign modern national culture that was distinctly Indian and non-Western."
-            ]
-          }
-        ,
-          {
-            heading: "VI. Post-Colonial Territorialization and the Challenge of Secession",
-            paragraphs: [
-              "In post-colonial continental states like India, nationalism has had to continually negotiate with sub-national linguistic and regional movements. Through institutional accommodations such as the Linguistic Reorganization of States (1956), regional federal autonomy, and the Eighth Schedule recognizing 22 official languages, the Indian state successfully reconciled regional national sentiments with pan-Indian civic nationalism, averting violent ethnic fragmentation and demonstrating that federal pluralism is the greatest guarantor of sovereign territorial unity in diverse post-colonial democracies."
+              'India presents a celebrated example of composite, civic nationhood. While ancient India shared a civilizational and cultural affinity, modern political nationhood was forged during the anti-colonial freedom struggle led by Mahatma Gandhi and the national movement.',
+              'The Constitution of India codified an inclusive civic nationalism, guaranteeing fundamental rights and non-discrimination under Articles 14, 15, and 16, while protecting cultural and educational rights of diverse minorities under Articles 29 and 30. Rabindranath Tagore wisely warned that nationalism must remain anchored in universal human morality and mutual respect, avoiding the aggressive chauvinism that leads to conflict.'
             ]
           }
         ],
-        criticalAnalysis: 'Nationalism is a double-edged sword. When fighting colonial subjugation or imperial oppression, it is an emancipatory, heroic force creating sovereign nations. But when captured by majoritarian bigotry, aggressive nationalism turns inward, cannibalizing the pluralistic fabric of the very nation it claims to exalt.',
-        conclusion: 'Nation and nationalism exist in perpetual dialogue: the nation is the community of shared historical imagination, while nationalism is the political will that demands its freedom, dignity, and sovereignty in a world of nation-states.'
+        criticalAnalysis: 'Nationalism can be an inspiring force when liberating people from colonial oppression and uniting diverse communities. However, when captured by majoritarian intolerance, aggressive nationalism turns inward and damages the pluralistic fabric of the very nation it claims to protect.',
+        conclusion: 'Nation and nationalism exist in partnership: the nation is the community of shared historical memory, while nationalism is the political will that demands its freedom, dignity, and sovereignty under democratic constitutionalism.'
       }
     },
     {
@@ -520,67 +363,40 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Core 10-Marker' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical Canon: Max Weber (The Theory of Social and Economic Organization); David Beetham (The Legitimation of Power); Seymour Martin Lipset (Political Man); Jürgen Habermas (Legitimation Crisis); Jean-Jacques Rousseau (The Social Contract).',
+        statutoryFramework: 'Max Weber (Economy and Society); Jean-Jacques Rousseau; Jürgen Habermas; Constitution of India.',
         sections: [
           {
-            heading: 'I. Comprehensive Definition and Conceptual Architecture of Authority',
+            heading: '1. Meaning and Concept of Authority',
             paragraphs: [
-              '<strong>Authority</strong> is the institutionalized, recognized right of an individual, organ, or institution to issue binding commands and make authoritative decisions, coupled with an acknowledged moral obligation on the part of subordinates to obey.',
-              'In political philosophy, authority solves the foundational dilemma articulated by <strong>Jean-Jacques Rousseau</strong> in <em>The Social Contract</em>: <em>"The strongest is never strong enough to be always the master, unless he transforms strength into right, and obedience into duty."</em> Force creates only physical necessity; authority alone creates moral and legal obligation.',
-              'Authority is universally formulated by modern political theorists as <strong>Power + Legitimacy</strong>. Without legitimacy, power is mere armed force; with legitimacy, power operates smoothly, voluntarily, and economically as authority.'
+              'Authority is the institutionalized, recognized right of a government organ, public official, or institution to issue binding decisions and commands, accompanied by a recognized moral obligation on the part of citizens to obey. In political philosophy, authority solves the foundational dilemma articulated by Jean-Jacques Rousseau: the strongest ruler is never strong enough to remain master permanently unless he transforms raw strength into right and obedience into duty.',
+              'Modern political science formulates authority as legitimate power. Without legitimacy, power is mere armed coercion; with legitimacy, power operates smoothly, voluntarily, and stably as recognized constitutional authority.'
             ]
           },
           {
-            heading: 'II. The Concept of Legitimacy in Political Theory',
+            heading: '2. Concept of Legitimacy in Politics',
             paragraphs: [
-              'The word <strong>legitimacy</strong> derives from the Latin <em>legitimus</em> (lawful or conforming to law). However, in political science, legitimacy is far broader than mere legal validity. It denotes the normative belief, psychological conviction, and public consensus among citizens that the established political system, its rulers, and its laws are morally rightful, just, and worthy of voluntary obedience.',
-              'As sociologist <strong>Seymour Martin Lipset</strong> formulated in <em>Political Man</em>: <em>"Legitimacy involves the capacity of the system to engender and maintain the belief that the existing political institutions are the most appropriate ones for the society."</em> A political order that enjoys robust legitimacy does not need an army of police officers on every corner; citizens internalize legal compliance as civic duty.'
+              'Legitimacy denotes the moral belief, psychological conviction, and societal consensus among citizens that their political system, governing institutions, and enacted laws are rightful, just, and worthy of voluntary obedience. Legitimacy transforms brute coercive force into respected authority.',
+              'A government with strong legitimacy does not require constant police presence to enforce laws; citizens obey because they recognize the rightful authority of the legal order. Conversely, when a regime loses legitimacy, it must rely increasingly on police batons, state surveillance, and physical coercion, making long-term stability impossible.'
             ]
           },
           {
-            heading: 'III. How Do We Determine the Legitimacy of Authority? (David Beetham\'s Criteria)',
+            heading: '3. Determining the Legitimacy of Authority',
             paragraphs: [
-              'While Max Weber analyzed legitimacy primarily as the subjective belief of subordinates, the eminent political theorist <strong>David Beetham</strong> in his landmark treatise <em>The Legitimation of Power</em> (1991) proved that legitimacy is not merely a subjective psychological feeling, but an objective, verifiable condition satisfying three non-negotiable criteria:<br/>' +
-              '<strong>1. Legal Validity (Conformity to Established Rules):</strong><br/>' +
-              'Power can only claim legitimate authority if it is acquired, constituted, and exercised in strict conformity with pre-established, transparent constitutional and statutory rules. Usurpation through military coups, electoral fraud, or unconstitutional decree invalidates legitimacy <em>ab initio</em>.<br/>' +
-              '<strong>2. Justifiability of Rules in Terms of Shared Beliefs:</strong><br/>' +
-              'The rules themselves must be morally justifiable according to the shared political and cultural beliefs of both rulers and ruled. In a modern democracy, rules are justifiable only if they reflect universal human dignity, equality, popular sovereignty, and protection of fundamental rights. A legally enacted statute authorizing racial apartheid or untouchability fails this test and loses moral legitimacy.<br/>' +
-              '<strong>3. Express Consent and Public Reaffirmation by the Ruled:</strong><br/>' +
-              'Legitimate authority requires observable, affirmative actions of consent and recognition by the citizenry. This is demonstrated through participating in periodic free and fair elections, oaths of allegiance, civic dialogue, and the absence of systemic civil rebellion.'
+              'Political scientists evaluate the legitimacy of authority using three essential criteria. First, legal validity requires that power must be acquired and exercised strictly in accordance with pre-established constitutional and statutory rules. Authority seized through military coups, unconstitutional decrees, or electoral fraud lacks legitimacy.',
+              'Second, the rules themselves must be morally justifiable according to the shared values and principles of justice held by the people. In modern democracies, rules are justifiable only if they respect human dignity, equal rights, and the rule of law. A statute that discriminates against minorities or enforces oppression loses moral legitimacy even if passed by a formal majority.',
+              'Third, legitimacy requires expressed consent from the governed, demonstrated through participation in periodic free and fair elections, public deliberation, civic involvement, and the absence of systemic civil revolt.'
             ]
           },
           {
-            heading: 'IV. Sources and Modalities of Determining Legitimacy (Weberian & Modern Dimensions)',
+            heading: '4. Causes of Legitimacy Crises',
             paragraphs: [
-              'Political scientists apply several operational tests to assess the legitimacy of authority in practice:<br/>' +
-              '<strong>1. Procedural / Input Legitimacy:</strong> Are political authorities chosen through institutionalized, transparent, and fair democratic procedures? Free and fair elections with high turnout confirm procedural legitimacy.<br/>' +
-              '<strong>2. Performance / Output Legitimacy:</strong> Can the authorities effectively deliver public goods, maintain security, guarantee justice, manage economic prosperity, and safeguard welfare? As Lipset noted, if a regime consistently fails to solve crises of governance, its legitimacy erodes regardless of its formal legal status.<br/>' +
-              '<strong>3. Constitutional Legitimacy:</strong> Does authority operate strictly within constitutional checks, judicial review, and separation of powers, respecting the rule of law?'
-            ]
-          },
-          {
-            heading: 'V. Legitimation Crises and Erosion of Authority',
-            paragraphs: [
-              'German critical theorist <strong>Jürgen Habermas</strong> in <em>Legitimation Crisis</em> (1973) warned that modern democratic welfare states face acute legitimation deficits when they fail to reconcile the irreconcilable demands of capitalist profit accumulation and mass democratic welfare. When governments cannot fulfill their welfare promises, public cynicism grows, voter apathy surges, and the state experiences a dangerous crisis of authority.'
-            ]
-          }
-        ,
-          {
-            heading: "VI. Causes and Dynamics of Legitimacy Crises (Habermas & Beetham)",
-            paragraphs: [
-              "Political authority faces an existential <strong>Legitimacy Crisis</strong> when there occurs a fundamental breakdown between state performance and public moral expectations:<br/>• <strong>Jürgen Habermas's Theory of Legitimation Crisis (1973):</strong> In late-capitalist modern welfare states, the government faces structural overload. It must facilitate private corporate profit accumulation to keep the economy afloat, while simultaneously winning mass democratic votes by promising expansive public healthcare, pensions, and equal welfare. When economic stagnation prevents the delivery of these welfare promises, citizens realize the state primarily serves corporate oligarchs, triggering a catastrophic deficit of public trust and loyalty.<br/>• <strong>Institutional Corruption and Judicial Compromise:</strong> When referee institutions—the judiciary, election commissions, and law enforcement agencies—lose their perceived independence and become partisan instruments of the ruling party, the constitutional legitimacy of all state authority collapses."
-            ]
-          }
-        ,
-          {
-            heading: "VII. Epistemic and Performance Dimensions of Legitimacy in Modern Governance",
-            paragraphs: [
-              "Contemporary political philosophy emphasizes that legitimate authority in the 21st century requires not only democratic election (input legitimacy) and welfare delivery (output legitimacy), but also <strong>Throughput Legitimacy</strong>—the procedural transparency, ethical integrity, and responsiveness of administrative governance. When administrative processes are captured by bureaucratic corruption or corporate lobbying, public trust collapses regardless of electoral mandates, demonstrating that administrative throughput integrity is the bedrock of enduring democratic stability, ensuring that state decisions are justified through public reason and institutional integrity."
+              'Political authority faces an existential crisis when a fundamental breakdown occurs between governmental performance and public expectations. As Jürgen Habermas explained, modern democratic welfare states experience legitimation crises when they fail to deliver on promises of public healthcare, education, and economic security, while being seen as favoring wealthy corporate interests.',
+              'Furthermore, when referee institutions—such as the judiciary, election commission, and law enforcement agencies—lose their perceived independence and are used as partisan instruments by the ruling party, the constitutional legitimacy of all state authority is undermined.'
             ]
           }
         ],
-        criticalAnalysis: 'Legitimacy is neither permanent nor unconditional. It is a perishable political asset that must be daily earned through constitutional adherence, equitable justice, and transparent accountability. When rulers substitute propaganda and intimidation for genuine legitimacy, authority crumbles into fragile authoritarian tyranny.',
-        conclusion: 'Determining the legitimacy of authority is the ultimate litmus test of political governance. Authority stripped of legitimacy is nothing more than armed coercion masquerading as law.'
+        criticalAnalysis: 'Legitimacy is not permanent or unconditional; it must be continuously earned through constitutional integrity, fair justice, and responsive governance. When rulers replace genuine legitimacy with state propaganda and intimidation, authority crumbles into fragile tyranny.',
+        conclusion: 'Determining the legitimacy of authority is the ultimate test of political governance. Authority stripped of legitimacy is nothing more than armed coercion masquerading as law.'
       }
     },
     {
@@ -592,61 +408,38 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Unit V Critical Analytical Essay' },
       ],
       answer: {
-        statutoryFramework: 'Theoretical References: Adam Smith (The Wealth of Nations); Karl Marx (Das Kapital; The German Ideology); Milton Friedman (Capitalism and Freedom); Friedrich Hayek (The Road to Serfdom); Max Weber (The Protestant Ethic and the Spirit of Capitalism); Louis Althusser (Ideology and Ideological State Apparatuses).',
+        statutoryFramework: 'Adam Smith (The Wealth of Nations); Karl Marx; Max Weber; Constitution of India.',
         sections: [
           {
-            heading: 'I. Foundational Definition and Structural Elements of Capitalism',
+            heading: '1. Meaning and Structure of Capitalism',
             paragraphs: [
-              '<strong>Capitalism</strong> is historically understood as a socio-economic mode of production characterized by private ownership of the means of production, competitive market exchange, voluntary wage labor, capital accumulation, and the allocation of resources guided by the price mechanism and profit motive.',
-              'Historically pioneered in Western Europe from the sixteenth century and accelerated by the Industrial Revolution, capitalism restructured human civilization by establishing free market exchange as the central mechanism for organizing material human life. It created an economic machine of unprecedented technological power while generating profound social contradictions that demand constant regulatory state oversight.'
+              'Capitalism is a socio-economic mode of production characterized by private ownership of the means of production, competitive market exchange, wage labor, capital accumulation, and the allocation of goods and services through the price mechanism and profit motive.',
+              'Emerging in Western Europe from the 16th century and expanding rapidly with the Industrial Revolution, capitalism reorganized human society by making competitive market exchange the central mechanism for organizing economic life, driving technological innovation while creating deep social inequalities that require regulatory oversight.'
             ]
           },
           {
-            heading: 'II. The Ideological Underpinnings and Ideologies of Capitalism',
+            heading: '2. Ideological Doctrines Associated with Capitalism',
             paragraphs: [
-              'Although capitalism operates as an economic mechanism, it has produced and allied with several distinct, coherent ideological doctrines to justify and legitimize its operations:<br/>' +
-              '<strong>1. Classical Laissez-Faire Liberalism (Adam Smith, David Ricardo):</strong><br/>' +
-              'Articulated in Adam Smith\'s <em>The Wealth of Nations</em> (1776), this ideology contends that individuals pursuing their own self-interest in a competitive free market are led by an <em>"Invisible Hand"</em> to promote the general public good far more effectively than any state planner could. It demands a minimal "night-watchman" state restricted to national defense, domestic order, and contract enforcement.<br/>' +
-              '<strong>2. Neo-Liberalism / Free-Market Libertarianism (Hayek, Friedman):</strong><br/>' +
-              'Resurrected in the late twentieth century, neo-liberalism exalts the market as an infallible epistemic instrument superior to human planning. Friedrich Hayek argued in <em>The Road to Serfdom</em> that state economic intervention inevitably leads to totalitarian tyranny. It advocates sweeping deregulation, privatization, free capital flows, and radical reduction of welfare spending.<br/>' +
-              '<strong>3. Social Market / Keynesian Welfare Capitalism (John Maynard Keynes):</strong><br/>' +
-              'Recognizing that unfettered free markets generate devastating depressions and mass unemployment, Keynesian ideology advocates managed capitalism where state fiscal intervention, progressive taxation, and strong welfare nets stabilize markets and secure social harmony.'
+              'Although capitalism operates as an economic mechanism, it has produced and allied with several distinct ideological doctrines to justify its operations. Classical Laissez-Faire Liberalism, articulated by Adam Smith in The Wealth of Nations (1776), argued that individuals pursuing their self-interest in a competitive market are led by an "invisible hand" to promote the public good far more effectively than state planners, advocating a minimal state limited to defense, police, and contracts.',
+              'In the 20th century, Neoliberalism revived free-market orthodoxy, arguing that state intervention leads to inefficiency and advocating deregulation, privatization, and reduced public spending. In contrast, Social Market and Welfare Capitalism recognized that unregulated markets lead to severe recessions and unemployment, advocating state regulation, progressive taxation, and strong social safety nets to stabilize the economy and protect human dignity.'
             ]
           },
           {
-            heading: 'III. Why is Capitalism Argued NOT to be an Ideology? (The Orthodox / Analytical Perspective)',
+            heading: '3. Why Capitalism is Argued Not to be an Ideology',
             paragraphs: [
-              'In political science, purists and non-Marxist political scientists frequently maintain that <strong>capitalism is strictly an economic system, not a political ideology</strong>, based on several key theoretical distinctions:<br/>' +
-              '<strong>1. Difference in Ontological Scope:</strong> An ideology (like Liberalism, Socialism, or Fascism) is a comprehensive, holistic worldview (<em>Weltanschauung</em>) containing an overarching philosophical theory of human nature, ethics, history, society, and sovereign political authority. Capitalism, strictly speaking, is an economic technique of production, asset ownership, and price determination; it does not in itself prescribe how a constitution should be framed, how laws should be judged, or how family morality should be maintained.<br/>' +
-              '<strong>2. Ideological Neutrality and Compatibility with Divergent Regimes:</strong> Capitalism lacks an intrinsic political form. It has operated alongside widely differing political ideologies: liberal constitutional democracy (United States, UK), social democracy (Scandinavian nations), military dictatorships (Chile under Pinochet), fascism (Nazi Germany), and state-authoritarian communism (contemporary China\'s "State Capitalism"). An entity that can comfortably exist under both freedom and totalitarianism cannot be a self-contained political ideology.<br/>' +
-              '<strong>3. Reliance on External Political Ideologies for Moral Justification:</strong> When capitalists need to justify property rights and personal liberty, they borrow from the political ideology of <em>Liberalism</em>. When they need to justify social safety nets, they borrow from <em>Social Democracy</em>. Capitalism itself offers no independent moral philosophy.'
+              'In political science, scholars often argue that capitalism is strictly an economic system rather than a political ideology. An ideology, such as Liberalism or Socialism, is a comprehensive worldview containing an overarching philosophy of human nature, ethics, history, and constitutional government. Capitalism, strictly speaking, is an economic technique of asset ownership, production, and market exchange; it does not in itself prescribe how a constitution should be structured or how moral life should be conducted.',
+              'Furthermore, capitalism has operated alongside vastly different political ideologies throughout history: liberal constitutional democracy (United States, UK), social democracy (the Nordic nations), authoritarian military regimes, and state-controlled single-party systems (contemporary China). An economic arrangement that functions under both democratic freedom and authoritarian control cannot be considered a self-contained political ideology on its own. Moreover, capitalism relies on external political philosophies—such as Liberalism to justify property rights, or Social Democracy to justify public welfare.'
             ]
           },
           {
-            heading: 'IV. The Marxist Counter-Critique: Capitalism as Supreme "Invisible" Ideology',
+            heading: '4. The Marxist Critique: Capitalism as Ideology',
             paragraphs: [
-              'Conversely, the Marxist and critical traditions (<strong>Karl Marx</strong>, <strong>Antonio Gramsci</strong>, <strong>Louis Althusser</strong>) mount a devastating counter-argument: the claim that capitalism is "not an ideology" is itself the ultimate triumph of <strong>bourgeois ideology</strong>.<br/>' +
-              '• <strong>Ideology as False Consciousness:</strong> In <em>The German Ideology</em>, Marx proved that the ruling material class is also the ruling intellectual class. Capitalism naturalizes itself, presenting historically contingent capitalist relations—private greed, commodification of human labor, and market competition—as universal, unalterable laws of "human nature".<br/>' +
-              '• <strong>Cultural Hegemony (Gramsci):</strong> Capitalism manufactures ideological hegemony across civil society, schools, media, and churches, making the capitalist worldview common sense so that citizens cannot even imagine an alternative economic order.'
-            ]
-          }
-        ,
-          {
-            heading: "V. The Evolution of Capitalist Ideology: From Laissez-Faire to Neoliberalism and Social Market Economy",
-            paragraphs: [
-              "Capitalism has evolved through three distinct ideological paradigms over the past two centuries:<br/>• <strong>Classical Laissez-Faire Capitalism (18th–19th Century):</strong> Adam Smith, David Ricardo, and John Stuart Mill advocated minimal state interference, free trade, and unregulated markets.<br/>• <strong>Keynesian Welfare Capitalism (Post-WWII – 1970s):</strong> Influenced by John Maynard Keynes, governments deployed fiscal stimulus, state infrastructure investments, full employment targets, and universal public healthcare to rescue capitalism from the Great Depression.<br/>• <strong>Neoliberalism (1980s – Present):</strong> Led by Milton Friedman (Chicago School) and Friedrich Hayek, neoliberalism engineered a dramatic revival of free-market orthodoxy through privatization, deregulation, austerity, and slashing corporate taxes, resulting in unprecedented levels of global wealth concentration and corporate power."
-            ]
-          }
-        ,
-          {
-            heading: "VI. Post-Capitalist Debates: Surveillance Capitalism and Ecological Crises",
-            paragraphs: [
-              "In recent decades, critical political economy has analyzed new mutations of capitalism:<br/>• <strong>Surveillance Capitalism (Shoshana Zuboff):</strong> Monopolizes human behavioral data via digital platforms (search engines, social networks) to predict and modify citizen behavior for private profit.<br/>• <strong>Ecological Crisis:</strong> The capitalist imperative for infinite economic growth on a finite planet generates catastrophic climate change, prompting demands for 'Degrowth' and green democratic socialist planning that subordinates capital accumulation to ecological survival and planetary flourishing, demonstrating that the future of humanity depends on harmonizing economic production with democratic ethics and environmental justice."
+              'Conversely, the Marxist tradition argues that the claim that capitalism is "not an ideology" is itself the ultimate triumph of capitalist ideology. Karl Marx showed that the class controlling material production also controls the ideas of society. Capitalism presents historically specific market relations—private profit, wage labor, and competition—as natural, eternal laws of human nature, hiding class exploitation behind the facade of neutral economic science.'
             ]
           }
         ],
-        criticalAnalysis: 'Analytically, capitalism is an economic mode of production; functionally and sociologically, it is saturated with ideological assumptions about human greed for wealth, property supremacy, and individualism that govern modern society.',
-        conclusion: 'Whether classified as an economic system reliant on Liberalism or as the dominant hegemonic ideology of the modern age, capitalism remains the defining material framework of contemporary civilization.'
+        criticalAnalysis: 'Analytically, capitalism is an economic mode of production; sociologically, it is deeply saturated with ideological values regarding private property, wealth accumulation, and individualism that shape modern society.',
+        conclusion: 'Whether viewed as an economic technique reliant on Liberalism or as the dominant economic framework of the modern era, capitalism remains a central force shaping contemporary civilization.'
       }
     },
     {
@@ -659,60 +452,40 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ High Yield Indian Polity Theme' },
       ],
       answer: {
-        statutoryFramework: 'Constitutional Documents: Indian Councils Acts (1861, 1892, 1909); Government of India Acts (1919, 1935); Objectives Resolution (1946); Constitution of India (1950, Preamble & Articles 325-326); Representation of the People Acts, 1950 & 1951; 73rd & 74th Constitutional Amendment Acts (1992).',
+        statutoryFramework: 'Government of India Acts (1919, 1935); Constitution of India (1950, Preamble & Articles 325–326); Representation of the People Acts, 1950 & 1951; 73rd & 74th Amendments (1992).',
         sections: [
           {
-            heading: 'I. Introduction: The Unique Miracle of Indian Democracy',
+            heading: '1. Meaning and Uniqueness of Indian Democracy',
             paragraphs: [
-              'The trajectory of Indian democracy is one of the most extraordinary political achievements in global constitutional history. Unlike Western democracies where democratic rights and universal franchise were conceded gradually over centuries to an already industrialized, educated, and relatively homogeneous population, India leaped into full-fledged constitutional democracy in 1950 despite overwhelming poverty, widespread illiteracy, deep social hierarchies of caste, and the traumatic religious bloodshed of Partition.',
-              'As political historian <strong>Ramachandra Guha</strong> noted, India defied all classical political science theories that insisted democracy could survive only in wealthy, literate, and culturally homogeneous nations.'
+              'The history of Indian democracy is one of the most remarkable political achievements in modern constitutional history. Unlike Western democracies where voting rights were granted gradually over centuries to an already industrialized, educated, and relatively uniform population, India embraced full constitutional democracy in 1950 amidst widespread poverty, massive illiteracy, entrenched caste hierarchies, and the trauma of Partition.',
+              'India proved that democracy is not a luxury reserved only for wealthy and literate societies, but an empowering instrument through which diverse citizens can achieve self-determination, social justice, and national unity.'
             ]
           },
           {
-            heading: 'II. Ancient & Indigenous Democratic Roots: Republics and Self-Governing Councils',
+            heading: '2. Ancient Roots and the Colonial Struggle',
             paragraphs: [
-              'Democratic values in India did not originate purely from British colonial rule. Historical inquiry reveals ancient republican traditions:<br/>' +
-              '• <strong>Vedic Assemblies:</strong> The Rigveda and Atharvaveda describe democratic assemblies like the <strong>Sabha</strong> (council of elders) and <strong>Samiti</strong> (general assembly of the people), which deliberated public affairs and exercised control over the monarch.<br/>' +
-              '• <strong>Ancient Republics (Mahajanapadas & Ganasanghas):</strong> During the 6th century BCE, prominent oligarchic republics flourished across northern India, most notably the <strong>Licchavis of Vaishali</strong>, the Sakyas, and the Mallas. Decisions were made through open debate, voting with wooden markers (<em>salaka</em>), and consensus, as recorded in Buddhist monastic vinaya codes.<br/>' +
-              '• <strong>Village Panchayats:</strong> Throughout medieval centuries, rural village councils maintained traditions of localized community deliberation and collective conflict resolution.'
+              'Democratic values in India have both ancient roots and modern origins. Ancient texts describe early assemblies like the Sabha and Samiti that deliberated public affairs, while republics like the Licchavis of Vaishali in the 6th century BCE practiced open debate and voting in public assemblies. Throughout the medieval era, village panchayats maintained local community decision-making traditions.',
+              'Modern institutional democracy developed through the anti-colonial freedom struggle against British imperial rule. While the colonial British government conceded limited representative councils with highly restricted property-based voting under the Government of India Acts of 1919 and 1935, the Indian National Movement under Mahatma Gandhi, Jawaharlal Nehru, and Sardar Patel transformed democracy into a mass popular demand. Landmark declarations like the Karachi Resolution of 1931 pledged universal adult franchise, fundamental civil liberties, and secular equality.'
             ]
           },
           {
-            heading: 'III. The Colonial Crucible, Nationalist Struggle & Legislative Evolution',
+            heading: '3. The Constituent Assembly and Universal Franchise',
             paragraphs: [
-              'Modern institutional democracy developed through a century of anti-colonial struggle against British imperial despotism:<br/>' +
-              '• <strong>Gradual Legislative Concessions:</strong> The British Crown introduced piecemeal representative institutions to co-opt Indian elites—the <em>Indian Councils Acts of 1861 and 1892</em>, the <em>Morley-Minto Reforms (1909)</em>, and the <em>Government of India Act, 1919</em> (introducing provincial dyarchy). However, the franchise was extremely restricted, based on property and tax qualifications, covering less than 3% of the populace.<br/>' +
-              '• <strong>The Government of India Act, 1935:</strong> Introduced provincial autonomy and direct elections (expanding the franchise to roughly 14% of adults), establishing the basic administrative scaffolding later adapted into the 1950 Constitution.<br/>' +
-              '• <strong>The Freedom Movement as a Democratic Crucible:</strong> Led by the Indian National Congress under <strong>Mahatma Gandhi</strong>, <strong>Jawaharlal Nehru</strong>, and <strong>Sardar Patel</strong>, the mass struggle transformed democracy from an elite parliamentary game into a popular mass consciousness. The <strong>Nehru Report (1928)</strong> and the <strong>Karachi Resolution (1931)</strong> explicitly pledged universal adult franchise, fundamental civil liberties, and religious neutrality.'
+              'Between 1946 and 1949, the Constituent Assembly drafted the Constitution of India under the leadership of Dr. B.R. Ambedkar. The assembly made the historic decision to grant immediate Universal Adult Franchise under Article 326 to every Indian citizen regardless of gender, caste, religion, or wealth.',
+              'Dr. Ambedkar issued a memorable warning on 25 November 1949, reminding the nation that on 26 January 1950, India was entering a life of contradictions: possessing political equality (one person, one vote) while enduring deep social and economic inequalities. He urged the country to establish social and economic democracy, warning that political democracy cannot survive if built on an unequal social foundation.'
             ]
           },
           {
-            heading: 'IV. The Constituent Assembly (1946–1949) and Constitutional Founding',
+            heading: '4. Post-Independence Milestones and Consolidation',
             paragraphs: [
-              'Between 1946 and 1949, the Constituent Assembly drafted the world\'s longest written democratic constitution. The assembly made a revolutionary, courageous choice: granting immediate <strong>Universal Adult Franchise (Article 326)</strong> to every Indian citizen aged 21 (later 18) regardless of gender, caste, creed, or wealth.',
-              'Chief architect <strong>Dr. B.R. Ambedkar</strong> delivered a profound prophetic warning on 25 November 1949: <em>"On 26th January 1950, we are going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality... We must remove this contradiction at the earliest possible moment or else those who suffer from inequality will blow up the structure of political democracy which this Assembly has so laboriously built up."</em>'
-            ]
-          },
-          {
-            heading: 'V. Post-Independence Epochs of Democratic Consolidation',
-            paragraphs: [
-              'The history of post-1950 Indian democracy spans several defining phases:<br/>' +
-              '<strong>1. The Nehruvian Era and the First General Elections (1951–1964):</strong> The 1951–52 elections—the "greatest democratic gamble in history"—were executed with flawless impartiality under Chief Election Commissioner Sukumar Sen, proving that illiterate peasants were fully competent democratic electors. Nehru nurtured parliamentary conventions, free press, and an independent judiciary.<br/>' +
-              '<strong>2. The Emergency and Democratic Resilience (1975–1977):</strong> When Prime Minister Indira Gandhi imposed internal emergency, suspended fundamental rights, and jailed opposition leaders, Indian democracy faced its gravest existential trial. In the 1977 elections, the Indian electorate decisively voted against authoritarianism, demonstrating the unbreakable democratic commitment of the masses.<br/>' +
-              '<strong>3. The Era of Coalitions and the "Silent Revolution" (1989–2014):</strong> The implementation of the Mandal Commission report, the rise of regional and Dalit-Bahujan political parties (SP, BSP, RJD), and federal coalition governance democratized Indian politics from below, bringing marginalized backward castes into political leadership (the "Second Democratic Upsurge" analyzed by Yogendra Yadav).<br/>' +
-              '<strong>4. Deepening at the Grassroots (73rd & 74th Amendments, 1992):</strong> Constitutionalized three-tier local self-governance, reserving one-third (later 50% in many states) of all seats and leadership positions for women, creating over 1.4 million elected women local representatives.'
-            ]
-          }
-        ,
-          {
-            heading: "VI. Institutional Safeguards and the Role of the Supreme Court",
-            paragraphs: [
-              "A defining pillar in the history of Indian democracy has been the activist role of the <strong>Supreme Court of India</strong> as the sentinel on the <em>qui vive</em>:<br/>• <strong>The Basic Structure Doctrine (<em>Kesavananda Bharati v. State of Kerala, 1973</em>):</strong> The Supreme Court established that Parliament's amending power under Article 368 is not unlimited; Parliament cannot destroy or alter the foundational core of the Constitution—including democracy, secularism, the rule of law, federalism, and judicial review.<br/>• <strong>Public Interest Litigation (PIL) Revolution:</strong> Initiated by Justices P.N. Bhagwati and V.R. Krishna Iyer in the early 1980s, the Court liberalized the strict doctrine of <em>locus standi</em>, allowing public-spirited citizens and social organizations to approach the court directly under Article 32 on behalf of bonded laborers, prisoners, and impoverished citizens."
+              'The history of post-1950 Indian democracy includes several defining milestones. The first general elections of 1951–52 proved that millions of poor and illiterate citizens were thoughtful and responsible electors, establishing firm democratic conventions under Jawaharlal Nehru.',
+              'When Prime Minister Indira Gandhi imposed the internal Emergency from 1975 to 1977, suspending fundamental rights, Indian democracy faced its greatest test. In the 1977 elections, the Indian electorate decisively voted to restore constitutional democracy, proving the public\'s unbreakable commitment to freedom.',
+              'In subsequent decades, Indian democracy deepened through the rise of backward caste and regional parties, bringing marginalized communities into political power. Furthermore, the 73rd and 74th Constitutional Amendments in 1992 institutionalized local self-government, reserving seats for women and creating over a million elected women local leaders, while the Supreme Court\'s Basic Structure Doctrine in Kesavananda Bharati (1973) ensured that Parliament cannot abolish democracy or the rule of law.'
             ]
           }
         ],
-        criticalAnalysis: 'Contemporary Indian democracy faces formidable challenges: criminalization of politics, gargantuan money power in elections, religious polarization, institutional stress on independent regulatory bodies, and socio-economic inequality. Yet, the voter turnout among the poor and marginalized remains remarkably robust.',
-        conclusion: 'The history of Indian democracy is the triumphant saga of a diverse civilization establishing and preserving the world\'s largest constitutional democracy against all historical odds.'
+        criticalAnalysis: 'While contemporary Indian democracy faces challenges from expensive election campaigning, criminalization in politics, and social divisions, the high voter turnout among the poor and marginalized demonstrates the deep legitimacy of the democratic process.',
+        conclusion: 'The history of Indian democracy is the inspiring story of a diverse civilization establishing and sustaining the world\'s largest constitutional democracy against all historical odds.'
       }
     },
     {
@@ -725,90 +498,67 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Core 10-Marker' },
       ],
       answer: {
-        statutoryFramework: 'Philosophical Jurisprudence: John Locke (Second Treatise of Government); Thomas Paine (Rights of Man); Jeremy Bentham (Anarchical Fallacies); Edmund Burke (Reflections on the Revolution in France); Harold J. Laski (A Grammar of Politics); T.H. Green (Principles of Political Obligation); Karl Marx (On the Jewish Question).',
+        statutoryFramework: 'John Locke; Jeremy Bentham; Edmund Burke; Harold Laski; T.H. Green; Karl Marx; Part III of the Constitution of India.',
         sections: [
           {
-            heading: 'I. Foundational Concept and Theoretical Quest of Rights',
+            heading: '1. Meaning and Theoretical Foundations of Rights',
             paragraphs: [
-              'In political philosophy and jurisprudence, the concept of <strong>rights</strong> answers fundamental questions: Where do human rights come from? Are they gifts conferred by the sovereign State, ancient historical inheritances, or innate moral endowments belonging to human beings by virtue of existence?',
-              'Over centuries of theoretical inquiry, six major philosophical schools developed distinct theories of rights: the Natural Rights Theory, the Legal/Positivist Theory, the Historical Theory, the Social Welfare Theory, the Idealist/Moral Theory, and the Marxist Theory.'
+              'In political philosophy and constitutional law, theories of rights seek to answer fundamental questions: Where do human rights come from? Are they inherent in human existence, created by the sovereign state, or inherited through historical tradition? Over centuries of political thought, six major philosophical theories have emerged to explain the origin, nature, and justification of rights.'
             ]
           },
           {
-            heading: 'II. Detailed Analysis of the Six Prominent Theories of Rights',
+            heading: '2. Analysis of the Major Theories of Rights',
             paragraphs: [
-              '<strong>1. The Theory of Natural Rights (Locke, Paine, Rousseau):</strong><br/>' +
-              '• <em>Core Doctrine:</em> Rights are inherent in the individual, prepolitical, and independent of any government or positive law. Individuals enjoyed them in the "state of nature" before entering the social contract.<br/>' +
-              '• <strong>John Locke</strong> identified natural rights to <em>Life, Liberty, and Property</em> as inalienable endowments. The primary purpose of the state is merely to act as an impartial trustee to protect these pre-existing natural rights. If a ruler breaches this trust, citizens retain the natural right of revolution.<br/>' +
-              '• <em>Criticism:</em> Bentham famously dismissed natural rights as "nonsense upon stilts", arguing that rights cannot exist without an organized state and enforceability.<br/><br/>' +
-              '<strong>2. The Legal / Positivist Theory of Rights (Bentham, Austin, Hobbes):</strong><br/>' +
-              '• <em>Core Doctrine:</em> Directly opposes natural rights theory. Rights are neither natural nor prepolitical; they are purely the creations of the sovereign State, enacted through positive statutory law, and backed by coercive enforcement.<br/>' +
-              '• <strong>Jeremy Bentham</strong> insisted: <em>"Right is with me the child of law... A natural right is a son that never had a father."</em> An individual possesses only those rights that the sovereign state chooses to recognize and enforce.<br/>' +
-              '• <em>Criticism:</em> By making rights completely dependent on the sovereign, this theory leaves no moral ground for citizens to oppose tyrannical or unjust laws enacted by totalitarian states.<br/><br/>' +
-              '<strong>3. The Historical / Prescriptive Theory of Rights (Edmund Burke):</strong><br/>' +
-              '• <em>Core Doctrine:</em> Rights are neither natural abstractions nor sudden sovereign decrees; they are the organic fruit of historical development, crystallized through centuries of continuous customs, traditions, and prescriptive usage.<br/>' +
-              '• <strong>Edmund Burke</strong> in <em>Reflections on the Revolution in France</em> (1790) rejected abstract "metaphysical" human rights in favor of the concrete historical "rights of Englishmen" inherited through centuries of common law practice.<br/>' +
-              '• <em>Criticism:</em> Uncritically sanctifies past traditions, preventing progressive reforms against oppressive customs like caste untouchability, slavery, or gender subjugation.<br/><br/>' +
-              '<strong>4. The Social Welfare Theory of Rights (Harold Laski, Roscoe Pound):</strong><br/>' +
-              '• <em>Core Doctrine:</em> Synthesizes rights with the collective common good. Rights are the conditions of social life created and recognized by the community because they contribute to the maximum happiness and welfare of society.<br/>' +
-              '• <strong>Harold Laski</strong> asserted that rights are claims that can be justified only in terms of their contribution to the common social well-being. An individual cannot claim a right that runs counter to the general good of society.<br/>' +
-              '• <em>Criticism:</em> "Social welfare" can be vague and subjective, potentially opening the door for majorities to extinguish individual liberties in the name of the "greater public interest."<br/><br/>' +
-              '<strong>5. The Idealist / Moral Theory of Rights (T.H. Green, Immanuel Kant):</strong><br/>' +
-              '• <em>Core Doctrine:</em> Grounded in the moral nature of human beings. Rights are the necessary external conditions enabling human beings to realize their highest moral potential and self-development.<br/>' +
-              '• <strong>T.H. Green</strong> emphasized two inseparable elements: the individual\'s internal moral claim to self-realization, and the social recognition by the community that this claim is necessary for the collective moral good.<br/>' +
-              '• <em>Criticism:</em> Idealistic and abstract; places excessive reliance on the moral conscience of society.<br/><br/>' +
-              '<strong>6. The Marxist Theory of Rights (Karl Marx):</strong><br/>' +
-              '• <em>Core Doctrine:</em> Class critique of bourgeois rights. In capitalist society, formal civil and political rights (like property and free contract) merely reflect and protect bourgeois economic domination, reducing human freedom to an egoistic market transaction.<br/>' +
-              '• Marx argued that true human emancipation requires overcoming capitalist wage exploitation through socio-economic transformation and collective control of material resources.'
+              'The Theory of Natural Rights, championed by John Locke and Thomas Paine, asserts that rights are innate, inalienable endowments inherent in human nature, existing prior to any government or positive law. Locke identified life, liberty, and property as natural rights. In this view, the state does not create rights; it acts merely as a trustee to protect them, and citizens retain the right to resist if the state violates this trust.',
+              'The Legal or Positivist Theory, formulated by Jeremy Bentham, directly opposes natural rights. It holds that rights are created entirely by the sovereign state through positive statutory legislation and enforced by courts. Bentham dismissed natural rights as "nonsense upon stilts," arguing that a right cannot exist without a state law to enforce it. However, critics point out that this theory leaves citizens with no moral basis to challenge tyrannical laws enacted by authoritarian regimes.',
+              'The Historical Theory, associated with Edmund Burke, argues that rights are the organic product of centuries of continuous national customs, traditions, and common law conventions inherited by a civilization, rejecting abstract metaphysical rights in favor of established historical practices.',
+              'The Social Welfare Theory, articulated by Harold Laski, harmonizes individual rights with the collective common good. Rights are claims recognized by society because they contribute to the greatest general welfare and human flourishing. An individual cannot claim a right that harms the common good of the community.',
+              'The Idealist or Moral Theory, supported by T.H. Green, grounds rights in the moral nature of human beings. Rights are the necessary external conditions that enable individuals to realize their highest moral potential and self-perfection, requiring both individual moral assertion and social recognition.',
+              'Finally, the Marxist Theory, formulated by Karl Marx, critiques formal bourgeois rights (such as private property and contract) as legal instruments that protect capitalist economic exploitation, arguing that true human emancipation requires overcoming economic inequality through collective control of material resources.'
             ]
           },
           {
-            heading: 'III. Comparative Overview Matrix',
+            heading: '3. Comparison of Major Theories of Rights',
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
               '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Theory</th>' +
-              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Key Thinkers</th>' +
-              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Origin of Rights</th>' +
+              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Key Thinker</th>' +
+              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Source of Rights</th>' +
               '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Role of the State</th>' +
               '</tr></thead><tbody>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Natural Rights</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">John Locke, Thomas Paine</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Nature / Human existence (Pre-political)</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">John Locke</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Human nature and reason (Pre-political).</td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Trustee that recognizes and protects pre-existing rights.</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Legal Positivism</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Jeremy Bentham, John Austin</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Sovereign Statutory Law</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Sole creator and enforcer of all rights.</td></tr>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Jeremy Bentham</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Sovereign state and statutory law.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Sole creator and enforcer of rights.</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Historical</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Edmund Burke, Savigny</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Long-standing customs & prescription</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Sanctifies and codifies historical traditions.</td></tr>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Edmund Burke</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Long-standing customs and conventions.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Codifies and preserves historical traditions.</td></tr>' +
               '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Social Welfare</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Harold Laski, Roscoe Pound</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Social utility & common good</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Harold Laski</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Social utility and the common good.</td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Harmonizes individual claims with social welfare.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Idealist / Moral</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">T.H. Green, Immanuel Kant</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Moral personality and self-realization</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Removes hindrances to moral self-development.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Marxist</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Karl Marx, V.I. Lenin</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Class relations and economic base</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Bourgeois instrument; must be superseded by socialism.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Moral / Idealist</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">T.H. Green</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Moral personality and self-realization.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Maintains conditions for moral self-development.</td></tr>' +
               '</tbody></table>'
             ]
-          }
-        ,
+          },
           {
-            heading: "IV. Modern Synthesis: Ronald Dworkin and Indian Constitutional Jurisprudence",
+            heading: '4. Synthesis in the Indian Constitution',
             paragraphs: [
-              "In contemporary jurisprudence, American legal philosopher <strong>Ronald Dworkin</strong> in <em>Taking Rights Seriously</em> (1977) formulated the seminal concept of <strong>\"Rights as Trumps\"</strong>: when an individual claims a fundamental right, that claim must trump majoritarian social goals or state utilitarian calculations.<br/>The Supreme Court of India achieved a magnificent synthesis of Natural and Legal theories:<br/>• Moving away from the mechanical positivism of <em>A.K. Gopalan (1950)</em>, the Court in <em>Maneka Gandhi (1978)</em> held that Article 21 requires statutory procedure to be \"just, fair, and reasonable\", incorporating substantive natural justice into constitutional text.<br/>• In <em>K.S. Puttaswamy (2017)</em>, the Court held that the Right to Privacy is an inalienable natural right inherent in the human person, recognized rather than bestowed by the State."
+              'The Constitution of India achieves a comprehensive synthesis of these theories. It incorporates the moral concept of inalienable rights from the Natural Rights school into Part III, anchors them in positive legal enforceability via judicial review under Articles 32 and 226, and balances them with Social Welfare and collective duties through Directive Principles (Part IV) and Fundamental Duties (Part IVA).'
             ]
           }
         ],
-        criticalAnalysis: 'Modern constitutionalism (such as the Indian Constitution) represents an eclectic synthesis: it borrows the concept of inalienable rights from the Natural Rights school (Part III), anchors them in positive legal enforceability via judicial review (Articles 32 and 226), and balances them with Social Welfare and collective duties (Part IV and IVA).',
-        conclusion: 'Theories of rights illuminate the eternal quest to safeguard individual human dignity while anchoring it in an orderly, civilized political society.'
+        criticalAnalysis: 'Without the moral vision of natural rights, state law can degenerate into authoritarianism; without positive legal enforcement and courts, natural rights remain abstract ideals incapable of defending citizens against oppression.',
+        conclusion: 'Theories of rights illuminate humanity\'s enduring effort to protect individual dignity while sustaining an orderly, just, and civilized society.'
       }
     },
     {
@@ -821,81 +571,57 @@ export const paper2024_summer = {
         { type: 'yield', label: '⚡ Core 10-Marker' },
       ],
       answer: {
-        statutoryFramework: 'Communitarian Authorities: Michael Sandel (Liberalism and the Limits of Justice); Charles Taylor (Sources of the Self); Michael Walzer (Spheres of Justice); Alasdair MacIntyre (After Virtue); Amitai Etzioni (The Spirit of Community); Article 51A (Fundamental Duties) of the Constitution of India.',
+        statutoryFramework: 'Michael Sandel (Liberalism and the Limits of Justice); Aristotle; Preamble and Article 51A of the Constitution of India.',
         sections: [
           {
-            heading: 'I. Genesis of the Communitarian Critique of Liberal Citizenship',
+            heading: '1. Meaning and Origin of Communitarian Citizenship',
             paragraphs: [
-              'During the 1980s and 1990s, a major theoretical debate emerged in political philosophy: the confrontation between <strong>Liberal/Libertarian Individualism</strong> (exemplified by John Rawls and Robert Nozick) and <strong>Communitarianism</strong> (championed by Michael Sandel, Charles Taylor, Michael Walzer, and Alasdair MacIntyre).',
-              'Communitarians targeted the core liberal conception of the individual. In <em>Liberalism and the Limits of Justice</em> (1982), <strong>Michael Sandel</strong> critiqued the liberal model for assuming an <strong>"unencumbered self"</strong>—an isolated, atomized individual who chooses their values in a vacuum, detached from family, culture, historical attachments, and community. Sandel demonstrated that human beings are fundamentally "situated selves" whose very identity, moral vocabulary, and sense of purpose are constituted by the communities in which they are embedded.'
+              'Communitarian theories of citizenship emerged in the late 20th century as a critical response to extreme liberal individualism. Communitarian thinkers like Michael Sandel argued that liberalism mistakenly portrays the individual as an "unencumbered self"—an isolated atom choosing values in a vacuum, detached from family, culture, and community ties.',
+              'In contrast, communitarianism maintains that human beings are fundamentally "situated selves" whose language, moral values, and self-understanding are nurtured within communities. Citizenship is not merely a legal contract or a set of claims against the state; it is an active moral practice of shared belonging, civic participation, and mutual solidarity devoted to the common good.'
             ]
           },
           {
-            heading: 'II. Core Tenets of the Communitarian Theory of Citizenship',
+            heading: '2. Core Principles of Communitarian Citizenship',
             paragraphs: [
-              'The communitarian theory reimagines citizenship along several foundational principles:<br/>' +
-              '<strong>1. Citizenship as Shared Membership and Belonging:</strong> Citizenship is not a commercial transaction or a bundle of legal claims against the state. It is an affective bond of cultural belonging and moral solidarity within a concrete political community.<br/>' +
-              '<strong>2. Primacy of the Common Good over Atomistic Individual Rights:</strong> While liberals prioritize individual rights over the good ("the right is prior to the good"), communitarians insist that genuine rights are unintelligible without a shared understanding of the <strong>Common Good</strong>. Individual flourishing is possible only within a healthy, thriving community.<br/>' +
-              '<strong>3. Reciprocal Civic Obligations and Duties:</strong> Communitarian citizenship balances rights with rigorous civic duties. Citizens owe duties of loyalty, mutual assistance, community service, and active participation in local public affairs.<br/>' +
-              '<strong>4. Civic Republican Virtue and Active Participation:</strong> Reviving the civic republicanism of Aristotle and Rousseau, communitarians view citizenship not as passive legal status, but as active political practice. Passive consumers of rights must become active co-creators of common public destiny.'
+              'Communitarian citizenship is defined by several key principles. First, it asserts the primacy of the common good over pure individual self-interest, arguing that individual flourishing is possible only within a healthy, supportive community. Second, it balances individual rights with reciprocal civic duties, emphasizing that citizens owe obligations of loyalty, mutual assistance, and community service.',
+              'Third, reviving the classical civic republicanism of Aristotle, communitarianism views citizenship as an active moral virtue. It rejects the idea of citizens as passive consumers of state services, calling on individuals to participate actively in public debate and community self-governance.'
             ]
           },
           {
-            heading: 'III. Concrete Examples and Real-World Applications',
+            heading: '3. Real-World Examples of Communitarian Citizenship',
             paragraphs: [
-              'Communitarian theories of citizenship are reflected in prominent practical examples across global and Indian governance:<br/>' +
-              '<strong>1. Switzerland\'s Multi-Tiered Communal Citizenship:</strong><br/>' +
-              'In Switzerland, citizenship is rooted primarily in the local municipality (<em>Gemeindebürgerrecht</em>). Swiss federal citizenship is entirely derived from belonging to a local commune and canton. Local citizens regularly vote in communal assemblies to deliberate local policies and decide on naturalization of new members, illustrating citizenship as an active, localized, community-embedded practice.<br/>' +
-              '<strong>2. Constitutional Architecture of India (Fraternity and Fundamental Duties):</strong><br/>' +
-              'The Indian Constitution incorporates profound communitarian dimensions alongside individual rights:<br/>' +
-              '• <em>The Preamble\'s Guarantee of Fraternity:</em> Dr. Ambedkar insisted that liberty and equality cannot survive without <strong>Fraternity</strong>—a sense of common brotherhood among all Indians.<br/>' +
-              '• <em>Fundamental Duties (Article 51A):</em> Inserted by the 42nd Amendment, enjoining citizens to cherish noble ideals of the freedom struggle, protect national composite culture, defend the nation, and promote harmony transcending religious or linguistic diversities.<br/>' +
-              '• <em>Protection of Minority and Tribal Community Rights (Articles 29, 30, and Fifth/Sixth Schedules):</em> Recognizes group-differentiated collective rights to preserve communal language, script, and autonomous tribal councils.<br/>' +
-              '<strong>3. Indigenous Customary Citizenship and Communitarian Practices:</strong><br/>' +
-              'Among indigenous communities (such as the Khasi, Garo, or Naga traditional councils in North-East India), individual rights are inseparably linked to customary duties to the clan, community land management, and ancestral village assemblies (<em>Dorbar Shnong</em>).'
+              'Communitarian citizenship is reflected in several practical governance models worldwide. A prominent European example is Switzerland, where citizenship is rooted in local municipal communes where citizens gather in assemblies to deliberate local policies and decide on naturalization, demonstrating citizenship as an active, localized, community-embedded practice.',
+              'The Constitution of India provides a world-historical example of communitarian constitutionalism. The Preamble explicitly couples individual dignity with national unity through the principle of Fraternity, which Dr. B.R. Ambedkar described as a sense of common brotherhood necessary for democracy. Furthermore, the 42nd Amendment added Fundamental Duties under Article 51A, obligating citizens to preserve composite culture, protect the environment, and promote harmony transcending regional and religious divisions.',
+              'Additionally, Articles 29 and 30 protect group-differentiated collective rights for linguistic and religious minorities, recognizing that individual dignity is inseparable from the preservation of one\'s cultural community.'
             ]
           },
           {
-            heading: 'IV. Communitarian vs. Liberal Citizenship: Comparative Synthesis',
+            heading: '4. Communitarian vs. Liberal Citizenship',
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
-              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Analytical Feature</th>' +
-              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Liberal / Libertarian Model</th>' +
-              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Communitarian Model</th>' +
+              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Feature</th>' +
+              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Liberal Citizenship</th>' +
+              '<th style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Communitarian Citizenship</th>' +
               '</tr></thead><tbody>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Conception of Individual</strong></td>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>1. View of the Individual</strong></td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Autonomous, self-interested, "unencumbered self".</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Socially embedded, culturally constituted "situated self".</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Nature of Citizenship</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Formal legal status; protective shield against state interference.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Active civic practice, affective belonging, and shared moral life.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Rights vs. Duties</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Socially embedded, culturally nurtured "situated self".</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>2. Nature of Citizenship</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Formal legal status and shield against state interference.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Active civic practice, mutual solidarity, and belonging.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>3. Rights vs. Duties</strong></td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Primacy of negative individual rights over collective goals.</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Balancing individual rights with communal duties and common good.</td></tr>' +
-              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>Role of the State</strong></td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Neutral arbiter; does not promote any vision of the "good life".</td>' +
-              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Cultivates civic virtue, community solidarity, and common welfare.</td></tr>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Harmony between individual rights and community duties.</td></tr>' +
+              '<tr><td style="padding:8px; border:1px solid rgba(255,255,255,0.1);"><strong>4. Role of the State</strong></td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Neutral arbiter enforcing procedural rules.</td>' +
+              '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Activist role cultivating civic virtue and common welfare.</td></tr>' +
               '</tbody></table>'
             ]
           }
-        ,
-          {
-            heading: "V. The Indian Constitutional Synthesis of Communitarian Citizenship",
-            paragraphs: [
-              "The Constitution of India provides a world-historical synthesis of liberal individual rights and communitarian collective belonging:<br/>• <strong>Constitutional Fraternity:</strong> The Preamble explicitly affirms <em>Fraternity</em>, assuring both the dignity of the individual and the unity and integrity of the Nation. Dr. Ambedkar insisted that fraternity is another name for democracy and social solidarity.<br/>• <strong>Group-Differentiated Rights (Articles 29 & 30):</strong> Departing from strict Western liberal individualism, India protects collective cultural and educational rights for religious and linguistic minorities, recognizing that individual dignity is inseparable from community survival.<br/>• <strong>Fundamental Duties (Article 51A):</strong> Added by the 42nd Amendment, Article 51A codifies communitarian civic obligations—promoting harmony, transcending sectional diversities, protecting the environment, and striving toward collective excellence."
-            ]
-          }
-        ,
-          {
-            heading: "VI. Communitarian Justice: Michael Walzer's \"Complex Equality\"",
-            paragraphs: [
-              "In <em>Spheres of Justice</em> (1983), communitarian philosopher <strong>Michael Walzer</strong> developed the influential theory of <strong>\"Complex Equality\"</strong>. Walzer argued that different social goods (wealth, political power, education, healthcare, divine grace) belong to different autonomous spheres.<br/>Justice does not require that everyone possess identical wealth (simple equality); rather, justice requires that dominance in one sphere (e.g., possessing immense wealth) must not allow an individual to purchase or dominate goods in other spheres (such as buying political elections, bribing judges, or purchasing elite university admissions). Communitarian citizenship functions to defend the autonomous boundaries of these distinct spheres of social life, safeguarding human dignity and democratic equal citizenship from market tyranny and building a just constitutional republic where the common good enriches individual freedom."
-            ]
-          }
         ],
-        criticalAnalysis: 'While communitarianism offers a vital antidote to atomistic selfishness, critics (including feminists and liberal theorists) warn that uncritical glorification of "community" can stifle individual dissent, enforce conformism, and justify oppressive patriarchal and caste traditions in the name of cultural preservation.',
-        conclusion: 'Communitarian theory reminds us that rights cannot endure without the social bonds of community, civic duty, and mutual fraternity that sustain democratic citizenship.'
+        criticalAnalysis: 'While communitarianism provides an essential remedy against atomized selfishness, critics caution that uncritical devotion to community traditions can sometimes suppress individual freedom or justify discriminatory social customs. Communitarian duties must therefore always be balanced by constitutional fundamental rights.',
+        conclusion: 'Communitarian theory reminds us that rights cannot survive without the social bonds of community, civic duty, and mutual fraternity that sustain democratic citizenship.'
       }
     }
   ]
