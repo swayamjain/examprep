@@ -14,46 +14,45 @@ export const q2ToQ5 = [
       statutoryFramework: 'Part III of the Constitution of India (Articles 12 to 35); Articles 51(c) and 253; Universal Declaration of Human Rights (UDHR, 1948); International Covenant on Civil and Political Rights (ICCPR, 1966); International Covenant on Economic, Social and Cultural Rights (ICESCR, 1966).',
       sections: [
         {
-          heading: 'I. Introduction and Philosophical Genesis of Part III',
+          heading: 'I. Meaning and Origin of Fundamental Rights in India',
           paragraphs: [
-            'Fundamental Rights enshrined in Part III of the Constitution of India represent the bedrock of constitutional democracy, civil liberty, and the rule of law. Described by Dr. B.R. Ambedkar as the "most criticized part of the Constitution" and reverently termed the "Magna Carta of India", Fundamental Rights were conceived as an inviolable charter designed to preserve human dignity and protect the individual against the arbitrary exercise of state authority.',
-            'The historical necessity of entrenching fundamental rights into the supreme organic law arose directly out of the agonizing colonial experience. Under British rule, Indian citizens were subjected to arbitrary preventative arrests, draconian press censorship, denial of public assembly, and racial discrimination. The nationalist leadership consistently maintained that independent India must guarantee justiciable civil liberties. As early as the Constitution of India Bill, 1895, followed by the landmark Commonwealth of India Bill (1925), the Motilal Nehru Report (1928), and the Sapru Committee Report (1945), the demand for fundamental rights was central to the independence movement. When the Constituent Assembly met, it resolved that fundamental rights should not be left to the fluctuating majorities of ordinary legislatures, but should be placed on a constitutional pedestal as supreme law.'
+            'Fundamental Rights in Part III of the Constitution of India form the foundation of our democracy, personal liberty, and the rule of law. Described by Dr. B.R. Ambedkar as the "most criticized part of the Constitution" and popularly known as the "Magna Carta of India", Fundamental Rights were created to protect individual dignity and prevent the government from acting arbitrarily.',
+            'The demand for guaranteed rights grew directly out of India\'s colonial experience under British rule, where Indians suffered arbitrary arrests, press censorship, and harsh discrimination. The freedom movement consistently demanded enforceable rights—from the Constitution of India Bill (1895) and the Motilal Nehru Report (1928) to the Sapru Committee (1945). When the Constituent Assembly drafted the Constitution, it placed these basic rights above ordinary laws so that no ruling party could easily take them away.'
           ]
         },
         {
-          heading: 'II. Nature and Characteristics of Fundamental Rights under the Indian Constitution',
+          heading: 'II. Core Characteristics of Fundamental Rights under Part III',
           paragraphs: [
-            'Fundamental Rights under the Indian Constitution possess several distinctive legal characteristics:<br/>' +
-            '<strong>1. Constitutional Supremacy and Inviolability (Article 13):</strong> Unlike ordinary statutory rights that can be amended, altered, or repealed by simple legislative majorities, Fundamental Rights are protected by Article 13. Any legislative enactment, administrative order, ordinance, rule, or custom inconsistent with Part III is void to the extent of such inconsistency.<br/>' +
-            '<strong>2. Direct Justiciability and Constitutional Remedies (Article 32):</strong> A right without an effective remedy is a hollow declaration. Article 32 is itself a Fundamental Right, guaranteeing an aggrieved person the constitutional right to petition the Supreme Court directly for the enforcement of Part III without exhausting lower appellate remedies. The Supreme Court is appointed as the "guarantor and protector" of fundamental rights.<br/>' +
-            '<strong>3. Integral Part of the Basic Structure:</strong> In the landmark 13-Judge ruling in <em>Kesavananda Bharati v. State of Kerala (1973)</em>, the Supreme Court established that the core and essence of Fundamental Rights forms an inalienable component of the Basic Structure of the Constitution, placing them beyond the constituent amending power of Parliament under Article 368.<br/>' +
-            '<strong>4. Negative Injunctions and Positive Mandates:</strong> Many fundamental rights operate as negative prohibitions restricting state action (e.g., Article 14 prohibiting denial of equality, Article 21 prohibiting deprivation of life and personal liberty without fair procedure). Other provisions impose positive affirmative obligations on the State to uplift marginalized communities (e.g., Article 15(3)-(6), Article 16(4), and Article 21A guaranteeing free elementary education).<br/>' +
-            '<strong>5. Non-Waiver Doctrine:</strong> In <em>Basheshar Nath v. CIT (1959)</em>, the Supreme Court held that an Indian citizen cannot waive their Fundamental Rights. Because Part III is founded on broad public policy, rights cannot be bargained away by private consent.'
+            'Fundamental Rights under the Indian Constitution possess five key legal features:<br/>' +
+            '• <strong>1. Protected Against Ordinary Laws (Article 13):</strong> Fundamental Rights are superior to ordinary statutes. Any law, government order, ordinance, or custom that violates a Fundamental Right is unconstitutional and void.<br/>' +
+            '• <strong>2. Directly Enforceable in Court (Article 32):</strong> A right without a remedy is useless. Article 32 gives every citizen the direct right to approach the Supreme Court with writ petitions (such as Habeas Corpus or Mandamus) if their rights are violated. Dr. Ambedkar called Article 32 the "heart and soul" of the Constitution.<br/>' +
+            '• <strong>3. Part of the Inviolable Basic Structure:</strong> In the landmark <em>Kesavananda Bharati (1973)</em> case, the Supreme Court held that the core values of Fundamental Rights cannot be destroyed even by constitutional amendments under Article 368.<br/>' +
+            '• <strong>4. Both Prohibitions on State and Positive Protections:</strong> Some rights act as negative restrictions on state power (e.g., Article 14 prohibiting arbitrary discrimination, Article 21 protecting against unfair deprivation of liberty). Others place positive duties on the State to uplift weaker sections (e.g., Article 15(4) and Article 21A for free education).<br/>' +
+            '• <strong>5. Rights Cannot Be Waived:</strong> In <em>Basheshar Nath v. CIT (1959)</em>, the Supreme Court ruled that an Indian citizen cannot give up or waive their Fundamental Rights, because these rights exist for the public good of the entire society.'
           ]
         },
         {
-          heading: 'III. The International Horizon: Concept and Evolution of Human Rights',
+          heading: 'III. What Are Human Rights? (International Foundation)',
           paragraphs: [
-            'Human rights are universal, inalienable moral entitlements inherent in all human beings by virtue of their humanity, regardless of race, sex, nationality, language, or religion. The philosophical foundation of human rights traces back to the natural law theories of John Locke, Jean-Jacques Rousseau, and Thomas Paine, asserting that individuals are born free and equal with natural rights that no sovereign may legitimately abrogate.',
-            'The cataclysm of the Second World War and the atrocities of the Holocaust galvanized the international community to formulate a universal legal consensus. On 10th December 1948, the United Nations General Assembly adopted the <strong>Universal Declaration of Human Rights (UDHR)</strong>. The UDHR proclaimed that "recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world." The UDHR was subsequently codified into binding international treaties: the <strong>International Covenant on Civil and Political Rights (ICCPR, 1966)</strong> and the <strong>International Covenant on Economic, Social and Cultural Rights (ICESCR, 1966)</strong>, collectively forming the International Bill of Human Rights.'
+            'Human rights are universal moral entitlements that belong to every human being simply by being born human. They do not depend on citizenship, race, religion, or gender. Following the horrors of the Second World War, the global community united to protect human dignity.',
+            'On 10th December 1948, the United Nations adopted the <strong>Universal Declaration of Human Rights (UDHR)</strong>, proclaiming that freedom, justice, and peace in the world depend on recognizing the equal and inalienable rights of all humans. The UDHR was later expanded into two binding covenants: the <strong>ICCPR (Civil & Political Rights, 1966)</strong> and the <strong>ICESCR (Economic, Social & Cultural Rights, 1966)</strong>.'
           ]
         },
         {
-          heading: 'IV. Organic Relationship and Harmonious Alignment between Fundamental Rights and Human Rights',
+          heading: 'IV. Relationship Between Fundamental Rights and Human Rights',
           paragraphs: [
-            'The relationship between Fundamental Rights and International Human Rights is organic and symbiotic. The drafting of the Indian Constitution coincided directly with the formulation of the UDHR. Dr. B.R. Ambedkar and the drafting committee drew substantial inspiration from the UDHR. The framers effectively bifurcated the international catalogue of human rights into two complementary constitutional halves:<br/>' +
-            '• <strong>Civil and Political Rights</strong> (Articles 1 to 21 of the UDHR) were incorporated into <strong>Part III as justiciable Fundamental Rights</strong> (Right to Equality, Freedoms, Protection in Conviction, Life and Liberty, Religious Autonomy, and Constitutional Remedies).<br/>' +
-            '• <strong>Economic, Social, and Cultural Rights</strong> (Articles 22 to 28 of the UDHR) were incorporated into <strong>Part IV as Directive Principles of State Policy</strong> (Right to Work, Living Wage, Maternity Relief, Free Education, and Health).',
-            'Under classical Indian constitutional doctrine, India follows the dualist model of international law. In accordance with Article 51(c) and Article 253, international conventions and treaties signed by the President of India do not automatically become enforceable in municipal courts unless Parliament enacts domestic enabling legislation. However, Indian constitutional courts have bridged this dualist gap through judicial interpretation. Where domestic law is silent or contains an ambiguous legislative vacuum, courts have held that international human rights norms and conventions must be read directly into domestic Fundamental Rights to enlarge their scope, provided there is no explicit municipal conflict.'
+            'The relationship between Fundamental Rights and Human Rights is deeply connected and harmonious:<br/>' +
+            '• <strong>Division into Parts III and IV:</strong> When drafting the Constitution, the framers divided international human rights into two complementary parts:<br/>' +
+            '&nbsp;&nbsp;(a) <em>Civil and Political Rights</em> (Articles 1–21 of UDHR) became enforceable <strong>Fundamental Rights in Part III</strong> (Equality, Freedom of Speech, Protection of Life and Liberty, Religious Freedom).<br/>' +
+            '&nbsp;&nbsp;(b) <em>Economic, Social, and Cultural Rights</em> (Articles 22–28 of UDHR) became <strong>Directive Principles in Part IV</strong> (Right to Work, Fair Wages, Public Health, Education).<br/>' +
+            '• <strong>Reading International Treaties into Indian Rights:</strong> India follows the rule that international treaties require domestic legislation to become binding law (Article 253). However, the Supreme Court has creatively filled legal gaps by interpreting Fundamental Rights in light of international human rights treaties, expanding personal freedoms without needing new statutes.'
           ]
         },
         {
-          heading: 'V. Judicial Integration of International Human Rights into Indian Law',
+          heading: 'V. Everyday Practical Scenarios & Judicial Application',
           paragraphs: [
-            'The Supreme Court has repeatedly expanded domestic fundamental rights by reading international treaties into Part III:<br/>' +
-            '• In <em>Prem Shankar Shukla v. Delhi Administration (1980)</em>, Justice Krishna Iyer drew upon Article 5 of the UDHR and the UN Standard Minimum Rules for the Treatment of Prisoners to hold that the routine handcuffing of undertrial prisoners violates human dignity under Article 21.<br/>' +
-            '• In <em>Vishaka v. State of Rajasthan (1997)</em>, the Court faced a total legislative vacuum regarding workplace sexual harassment. Relying on Article 11 and Article 24 of the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW), the Court formulated binding guidelines to enforce Articles 14, 19(1)(g), and 21.<br/>' +
-            '• In <em>National Legal Services Authority (NALSA) v. Union of India (2014)</em>, the Court relied on the Yogyakarta Principles on the Application of International Human Rights Law in relation to Sexual Orientation and Gender Identity, holding that transgender persons are entitled to fundamental rights under Articles 14, 15, 19, and 21.'
+            '<em>Everyday Example 1 (Workplace Safety for Women):</em> When there was no specific law protecting working women from sexual harassment, the Supreme Court in <em>Vishaka (1997)</em> used the international CEDAW treaty to read the right to a safe workplace directly into Articles 14, 19(1)(g), and 21.<br/>' +
+            '<em>Everyday Example 2 (Prisoner Dignity):</em> In <em>Prem Shankar Shukla (1980)</em>, the Court used the UDHR and UN Minimum Rules for Prisoners to rule that routinely putting handcuffs on undertrial prisoners violates their constitutional dignity under Article 21.'
           ]
         }
       ],
@@ -61,23 +60,23 @@ export const q2ToQ5 = [
         {
           name: 'Maneka Gandhi v. Union of India',
           citation: '(1978) 1 SCC 248 (7-Judge Constitution Bench)',
-          facts: 'The Regional Passport Office impounded the petitioner’s passport under Section 10(3)(c) of the Passports Act in public interest without assigning reasons or providing a hearing.',
-          ratio: 'The Supreme Court imported international human rights standards of natural justice into Article 21. Justice Bhagwati held that procedural fairness under Article 21 must be read in consonance with universal human rights, rejecting narrow domestic formalism.'
+          facts: 'The government impounded Maneka Gandhi\'s passport in "public interest" without giving reasons or granting an opportunity to be heard.',
+          ratio: 'The Supreme Court imported international standards of natural justice into Article 21. Any procedure depriving a person of life or personal liberty must be "just, fair, and reasonable", not arbitrary or oppressive.'
         },
         {
           name: 'Vishaka v. State of Rajasthan',
           citation: 'AIR 1997 SC 3011',
-          facts: 'Brutal gang-rape of a social worker highlighted the lack of statutory protection for women against sexual harassment at workplaces.',
-          ratio: 'Chief Justice J.S. Verma held that international conventions and human rights norms are to be read into domestic Fundamental Rights to enlarge their meaning when there is no statutory conflict, formulating binding workplace guidelines based on CEDAW.'
+          facts: 'A social worker was brutally assaulted while doing government work against child marriage, highlighting the total lack of protection against workplace harassment.',
+          ratio: 'The Supreme Court ruled that in the absence of domestic legislation, international human rights treaties (like CEDAW) must be read directly into Articles 14, 19, and 21 to create enforceable workplace safeguards.'
         },
         {
           name: 'Justice K.S. Puttaswamy (Retd.) v. Union of India',
           citation: '(2017) 10 SCC 1 (9-Judge Constitution Bench)',
-          facts: 'Constitutional challenge to mandatory biometric data collection under the Aadhaar scheme on grounds of privacy violation.',
-          ratio: 'The 9-Judge Bench unanimously held that the Right to Privacy is an inalienable human right recognized under Article 12 of the UDHR and Article 17 of the ICCPR, which naturally inheres in the guarantee of life and personal liberty under Article 21.'
+          facts: 'The mandatory collection of citizens\' biometric data under the Aadhaar scheme was challenged as a violation of personal privacy.',
+          ratio: 'The 9-Judge Bench unanimously held that the Right to Privacy is an inalienable fundamental right protected under Article 21, drawing support from Article 12 of the UDHR and Article 17 of the ICCPR.'
         }
       ],
-      conclusion: 'Fundamental Rights and International Human Rights are complementary. Human Rights provide the universal philosophical foundation, while Fundamental Rights provide the enforceable constitutional reality in India. Part III represents the domestic realization of universal human dignity and liberty.'
+      conclusion: 'In summary, Human Rights provide the universal moral foundation, while Fundamental Rights provide the enforceable constitutional reality in India. Part III translates universal human dignity into practical legal protection for every citizen.'
     }
   },
   {

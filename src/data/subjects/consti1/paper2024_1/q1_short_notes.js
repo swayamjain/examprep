@@ -211,21 +211,27 @@ export const q1ShortNotes = [
       statutoryFramework: 'Article 16 of the Constitution of India; amended by the 77th, 81st, 85th, and 103rd Constitutional Amendment Acts.',
       sections: [
         {
-          heading: 'I. The General Guarantee of Equal Opportunity (Article 16(1) & (2))',
+          heading: 'I. The General Rule: Equal Opportunity for All Citizens (Article 16(1) & (2))',
           paragraphs: [
-            'Article 16 is an explicit application of the broad equality principle in Article 14, focused specifically on employment and appointment to offices under the State. Public employment in India is not merely a source of livelihood; it is a mechanism of state power and governance. Therefore, Article 16 ensures equal access to public employment for all citizens.',
-            '<strong>Article 16(1)</strong> guarantees equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State. This right applies to all stages of service: recruitment, selection, probation, promotion, seniority, and retrenchment.<br/>' +
-            '<strong>Article 16(2)</strong> prohibits discrimination in state employment on seven specific grounds: <em>religion, race, caste, sex, descent, place of birth, residence, or any of them</em>.'
+            'Article 16 applies the general principle of equality (from Article 14) specifically to government jobs and appointments. In India, a government job is not just a way to earn a living; it gives a citizen a direct voice in administration and governance. Therefore, the Constitution ensures that every citizen has a fair and equal chance to apply for and hold public office.',
+            '• <strong>Article 16(1) (Equality of Opportunity):</strong> Guarantees equal opportunity for all citizens in matters of government employment or appointment to any office under the State. This protection covers every stage of employment: advertisement of posts, selection tests, interviews, appointment, salary scales, promotions, and retirement.<br/>' +
+            '• <strong>Article 16(2) (Specific Non-Discrimination Grounds):</strong> Prohibits the State from discriminating against any citizen on seven specific grounds: <em>religion, race, caste, sex, descent, place of birth, residence, or any of them</em>. No citizen can be disqualified or declared ineligible on these grounds alone.'
           ]
         },
         {
-          heading: 'II. Enabling Exception Clauses and Substantive Equality (Article 16(3) to 16(6))',
+          heading: 'II. Affirmative Action and Special Exceptions (Article 16(3) to 16(6))',
           paragraphs: [
-            'Formal equality between unequals perpetuates injustice. Therefore, Article 16 incorporates enabling clauses to secure substantive equality:<br/>' +
-            '<strong>1. Residential Qualifications (Article 16(3)):</strong> Empowers Parliament (not State Legislatures) to prescribe residential requirements for appointments within a State/UT.<br/>' +
-            '<strong>2. Reservation for Backward Classes (Article 16(4)):</strong> Enables the State to provide reservations for any backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State.<br/>' +
-            '<strong>3. Promotions and Seniority (Articles 16(4A) & 16(4B)):</strong> Added by the 77th and 85th Amendments to permit reservations in promotions with consequential seniority for SCs and STs, and the carry-forward rule for unfilled vacancies.<br/>' +
-            '<strong>4. Economically Weaker Sections (Article 16(6)):</strong> Inserted by the 103rd Amendment Act, 2019, permitting up to 10% reservation for EWS citizens other than SC/ST/OBCs.'
+            'Treating unequals equally only increases inequality. For true equality, the Constitution permits positive help (affirmative action) for backward and disadvantaged groups through special exceptions:<br/>' +
+            '<strong>1. Residence Requirement (Article 16(3)):</strong> Parliament (not State Legislatures) may make a law requiring residence within a particular State or Union Territory for certain local government posts.<br/>' +
+            '<strong>2. Reservation for Backward Classes (Article 16(4)):</strong> Allows the State to reserve seats for any backward class of citizens that is not adequately represented in government services.<br/>' +
+            '<strong>3. Promotion Quotas and Seniority (Articles 16(4A) & 16(4B)):</strong> Permits reservation in promotions with natural seniority for Scheduled Castes (SCs) and Scheduled Tribes (STs), and allows unfilled reserved seats to be carried forward to the next year.<br/>' +
+            '<strong>4. Economically Weaker Sections (Article 16(6)):</strong> Added by the 103rd Amendment Act (2019), allowing up to 10% reservation for financially disadvantaged citizens from general (unreserved) categories.'
+          ]
+        },
+        {
+          heading: 'III. Everyday Practical Example & Key Rules to Remember',
+          paragraphs: [
+            '<em>Everyday Example:</em> Suppose the State Public Service Commission advertises 1,000 officer posts. All citizens who meet the educational criteria can apply under Article 16(1). The State can set aside posts for SC, ST, OBC, and EWS candidates under Article 16(4) and 16(6). However, as ruled in the famous <em>Indra Sawhney (Mandal)</em> case, total reservations cannot cross 50%, and wealthy individuals within the OBC category ("creamy layer") must be excluded so that benefits reach genuinely needy families.'
           ]
         }
       ],
@@ -233,17 +239,17 @@ export const q1ShortNotes = [
         {
           name: 'State of Kerala v. N.M. Thomas',
           citation: '(1976) 2 SCC 310',
-          facts: 'Exemption granted to lower-cadre SC/ST government employees from clearing departmental tests for promotion.',
-          ratio: 'The 7-Judge Bench held that Article 16(4) is not an exception to Article 16(1), but an emphatic statement of substantive equality. Equality requires affirmative classification to assist the disadvantaged.'
+          facts: 'Lower-level SC and ST government clerks were given extra time to pass departmental promotion tests.',
+          ratio: 'The 7-Judge Bench held that Article 16(4) is not an exception to Article 16(1), but an active method of achieving real, substantive equality. Helping historically disadvantaged groups is part of true equality.'
         },
         {
           name: 'Indra Sawhney v. Union of India (Mandal Case)',
           citation: 'AIR 1993 SC 477 (9-Judge Constitution Bench)',
-          facts: 'Challenge to the implementation of the Mandal Commission report granting 27% reservations to Other Backward Classes (OBCs).',
-          ratio: 'Upheld 27% OBC reservations subject to: (1) Exclusion of the "Creamy Layer"; (2) An upper ceiling of 50% on total reservations; and (3) Confinement of Article 16(4) to initial entry posts, not promotions.'
+          facts: 'The Central Government implemented 27% reservation for Other Backward Classes (OBCs) in central public services based on the Mandal Commission report.',
+          ratio: 'The Supreme Court upheld 27% OBC reservation with three vital safeguards: (1) Wealthy individuals ("creamy layer") must be excluded; (2) Total reservations must not exceed the 50% ceiling; and (3) Reservations under Art. 16(4) apply only to initial entry, not promotions.'
         }
       ],
-      conclusion: 'Article 16 balances meritocracy with affirmative social justice, ensuring that public institutions reflect the pluralistic composition of Indian society.'
+      conclusion: 'Article 16 strikes an ideal balance between individual merit and social justice, ensuring that government offices reflect all sections of Indian society while keeping administration efficient.'
     }
   },
   {
@@ -258,20 +264,29 @@ export const q1ShortNotes = [
       statutoryFramework: 'Preamble (word "SECULAR" inserted by 42nd Amendment, 1976); Articles 25, 26, 27, 28, 15(1), and 16(2) of the Constitution of India.',
       sections: [
         {
-          heading: 'I. The Indian Conception: Positive Secularism vs. Western Strict Separation',
+          heading: 'I. The Indian Meaning of Secularism: Positive Respect, Not Wall of Separation',
           paragraphs: [
-            'Secularism is one of the foundational pillars of the Indian constitutional order. However, the Indian model of secularism differs significantly from the Western, American, or French model of strict secularism. Western secularism is rooted in the doctrine of the "wall of separation" between Church and State—requiring mutual exclusion where the State takes no cognizance of religion, and religious bodies exercise no civic influence.',
-            'In contrast, Indian secularism is characterized by <strong>Positive Secularism</strong> embodied in the ancient philosophical concept of <em>"Sarva Dharma Sambhava"</em> (equal respect and protection for all religions) combined with <em>"Dharma Nirpekshta"</em> (the State has no state religion and remains neutral). The Indian State does not maintain a hostile wall of separation from religion; rather, it maintains an equidistant relationship with all faiths, guaranteeing individual religious freedom while retaining the constitutional authority to intervene for social reform.'
+            'Secularism is a fundamental feature of the Indian Constitution. However, Indian secularism is very different from Western models (like France or the USA). In the West, secularism means a strict "wall of separation" between Church and State—the government ignores religion completely, and religion has no role in public life.',
+            'In contrast, India practices <strong>Positive Secularism</strong>. This is based on two core ideas:<br/>' +
+            '• <em>Sarva Dharma Sambhava:</em> Equal respect and equal protection for all religious communities.<br/>' +
+            '• <em>Dharma Nirpekshta:</em> The Indian State has no official state religion and treats all citizens equally regardless of their faith.<br/>' +
+            'The Indian State does not oppose religion; it maintains an equal distance from all religions while retaining the power to step in and end social evils (like untouchability or child marriage).'
           ]
         },
         {
-          heading: 'II. Constitutional Architecture of Religious Freedom (Articles 25 to 28)',
+          heading: 'II. Constitutional Protection of Religious Freedom (Articles 25 to 28)',
           paragraphs: [
-            'The secular framework is embedded across several provisions:<br/>' +
-            '<strong>1. Individual Freedom of Conscience (Article 25):</strong> Guarantees all persons the freedom of conscience and the right freely to profess, practice, and propagate religion, subject to public order, morality, and health.<br/>' +
-            '<strong>2. Collective Denominational Autonomy (Article 26):</strong> Protects the right of religious denominations to manage their own affairs in matters of religion.<br/>' +
-            '<strong>3. Prohibition of Religious Taxation (Article 27):</strong> Prohibits the State from compelling any person to pay taxes where the proceeds are specifically appropriated for promoting any particular religion.<br/>' +
-            '<strong>4. Ban on Religious Instruction in State Institutions (Article 28):</strong> Completely prohibits religious instruction in educational institutions wholly maintained out of State funds.'
+            'The Constitution guarantees freedom of religion through four key articles:<br/>' +
+            '<strong>1. Individual Freedom of Conscience (Article 25):</strong> Every individual has the right to believe, practice, and propagate their religion, subject to public order, health, and morality. The State can also regulate economic activities connected with religion and reform Hindu religious institutions (like opening temples to all castes).<br/>' +
+            '<strong>2. Freedom of Religious Groups (Article 26):</strong> Every religious denomination has the right to establish institutions, own property, and manage its religious affairs.<br/>' +
+            '<strong>3. No Taxes to Promote One Religion (Article 27):</strong> The State cannot force any taxpayer to pay money for the promotion or maintenance of any specific religion.<br/>' +
+            '<strong>4. Ban on Religious Instruction in State Schools (Article 28):</strong> No religious teaching is allowed in schools wholly run and funded by government money.'
+          ]
+        },
+        {
+          heading: 'III. Practical Everyday Example & Key Takeaway',
+          paragraphs: [
+            '<em>Everyday Example:</em> The Indian Government helps organize security, sanitation, and transport for Hindu pilgrims during the Kumbh Mela and also provides logistical arrangements for Muslim citizens going on the Haj pilgrimage. The State does not prefer one faith over another; it assists citizens of all religions equally without adopting an official religion.'
           ]
         }
       ],
@@ -279,17 +294,17 @@ export const q1ShortNotes = [
         {
           name: 'S.R. Bommai v. Union of India',
           citation: '(1994) 3 SCC 1 (9-Judge Constitution Bench)',
-          facts: 'Dismissal of State Governments following the demolition of the Babri Masjid under Article 356 for violating secular constitutional governance.',
-          ratio: 'The Supreme Court ruled that Secularism is an inviolable part of the Basic Structure of the Constitution. State power cannot be aligned with any religious cause, and any political party pursuing a non-secular path is liable to constitutional action.'
+          facts: 'State Governments were dismissed after the demolition of the Babri Masjid for failing to uphold secular constitutional governance.',
+          ratio: 'The 9-Judge Bench ruled that Secularism is an unshakeable part of the Basic Structure of the Indian Constitution. State power cannot be used to promote any religion, and politics must not be mixed with religious extremism.'
         },
         {
           name: 'Aruna Roy v. Union of India',
           citation: '(2002) 7 SCC 368',
-          facts: 'Challenge to NCERT curriculum teaching universal moral and value education based on comparative religions under Article 28.',
-          ratio: 'The Supreme Court held that secularism does not mean anti-religion or total ignorance of religions; teaching universal moral values derived from different religions does not violate Article 28.'
+          facts: 'A petition challenged the NCERT school curriculum that introduced basic moral education derived from various world religions.',
+          ratio: 'The Supreme Court held that secularism does not mean hostility toward religion. Teaching universal moral values such as truth, peace, and love found across all major religions does not violate Article 28.'
         }
       ],
-      conclusion: 'Indian secularism preserves religious liberty while permitting the State to enact progressive social legislation (such as opening Hindu temples to all castes and prohibiting discriminatory customs), reflecting the pluralistic ethos of the Constitution.'
+      conclusion: 'Indian secularism harmonizes religious freedom with social reform, treating every citizen equally without establishing an official State religion.'
     }
   }
 ];

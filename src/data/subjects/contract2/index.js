@@ -28,3 +28,4 @@ export const lawOfContract2 = {
     paper2024_winter,
   ],
 };
+
