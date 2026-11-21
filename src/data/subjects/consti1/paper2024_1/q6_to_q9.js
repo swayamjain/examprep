@@ -3,310 +3,290 @@
 
 export const q6ToQ9 = [
   {
-    id: 'p1-q6',
-    qNum: 'Q6',
-    marks: 10,
-    question: 'Explain the Cultural and Educational Rights of Minorities under Indian Constitution.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Reappeared in 2025 Paper' },
+    "id": "p1-q6",
+    "qNum": "Q6",
+    "marks": 10,
+    "question": "Explain the Cultural and Educational Rights of Minorities under Indian Constitution.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Reappeared in 2025 Paper"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Articles 29 and 30 of the Constitution of India; National Commission for Minorities Act, 1992; 44th Constitutional Amendment Act, 1978 (inserting Article 30(1A)).',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Articles 29 and 30 of the Constitution of India; National Commission for Minorities Act, 1992; 44th Constitutional Amendment Act, 1978 (inserting Article 30(1A)).",
+      "sections": [
         {
-          heading: 'I. Foundational Philosophy and Constitutional Protection of Pluralism',
-          paragraphs: [
-            'India is a multi-religious, multi-linguistic, and multi-cultural subcontinent. In framing the Constitution, the founding fathers recognized that true democracy does not consist of majoritarian rule; it requires safeguarding minority communities against cultural assimilation and majoritarian domination. Articles 29 and 30—collectively grouped under the heading "Cultural and Educational Rights"—stand as a vital constitutional pledge to preserve India’s pluralistic mosaic.',
-            'As Chief Justice S.R. Das observed in the landmark advisory opinion in <em>In re Kerala Education Bill (1958)</em>, these rights were designed to inspire a sense of security and confidence in the minds of religious and linguistic minorities that their distinct cultural identity, faith, language, and heritage would be perpetually protected under the secular canopy of the Republic.'
+          "heading": "I. Why Did the Framers Protect Minorities?",
+          "paragraphs": [
+            "India is a land of incredible diversity, home to dozens of religions, languages, and cultures. In framing the Constitution, our founding fathers recognized that true democracy does not mean the majority can crush or absorb minority groups. To make minorities feel secure in independent India, the framers enacted <strong>Articles 29 and 30</strong> under the heading <em>\"Cultural and Educational Rights\"</em>.",
+            "As Chief Justice S.R. Das observed in <em>In re Kerala Education Bill (1958)</em>, these provisions are a sacred constitutional pledge to religious and linguistic minorities that their distinct identity, faith, language, and culture will be forever protected under India's secular Constitution."
           ]
         },
         {
-          heading: 'II. Detailed Analysis of Article 29: Protection of Interests of Minorities',
-          paragraphs: [
-            'Although placed under the heading of minority rights, Article 29 contains two distinct guarantees of profound importance:<br/>' +
-            '<strong>1. Article 29(1) (Right to Conserve Distinct Language, Script, or Culture):</strong> It provides that any section of the citizens residing in the territory of India having a distinct language, script, or culture of its own shall have the right to conserve the same. It is vital to note that unlike Article 30, Article 29(1) is not confined to minorities. The phrase "any section of the citizens" includes both minority and majority communities. The right to conserve a language includes the right to advocate for its preservation, conduct literary programs, and agitate for its protection (<em>Jagdev Singh Sidhanti v. Pratap Singh Daulta, 1965</em>).<br/>' +
-            '<strong>2. Article 29(2) (Non-Discrimination in Educational Admissions):</strong> Guarantees that no citizen shall be denied admission into any educational institution maintained by the State or receiving aid out of State funds on grounds only of <em>religion, race, caste, language, or any of them</em>. In <em>State of Bombay v. Bombay Education Society (1954)</em>, the Supreme Court struck down a state government circular prohibiting Anglo-Indian schools receiving state aid from admitting non-English speaking pupils, holding that Article 29(2) confers an individual right on every citizen irrespective of their community.'
+          "heading": "II. Article 29: Protection of Language, Script, and Culture",
+          "paragraphs": [
+            "Article 29 contains two separate and powerful guarantees:<br/>• <strong>1. Right to Conserve Language, Script, or Culture (Article 29(1)):</strong> Any section of citizens residing in India with a distinct language, script, or culture has the fundamental right to conserve (protect and preserve) it. Notice that Article 29(1) uses the broad phrase <em>\"any section of the citizens\"</em>. This means it protects <strong>both minorities and majorities</strong>. For example, Hindi speakers in Tamil Nadu or Tamil speakers in Delhi have the full right to preserve and promote their language and literature (*Jagdev Singh Sidhanti*).<br/>• <strong>2. No Discrimination in State-Aided Schools (Article 29(2)):</strong> No citizen can be denied admission into any educational institution maintained by the State or receiving aid out of government funds on grounds only of <em>religion, race, caste, language, or any of them</em>. In <em>State of Bombay v. Bombay Education Society (1954)</em>, the Supreme Court struck down a state government order barring Indian children from English-medium schools receiving state aid, ruling that Article 29(2) is a personal right of every student."
           ]
         },
         {
-          heading: 'III. Detailed Analysis of Article 30: Right of Minorities to Establish and Administer Educational Institutions',
-          paragraphs: [
-            'Article 30 is a special fundamental right conferred exclusively on minorities:<br/>' +
-            '<strong>1. Beneficiaries under Article 30(1):</strong> Confined to two distinct classes of minorities: (a) <strong>Religious Minorities</strong>, and (b) <strong>Linguistic Minorities</strong>. Sects or philosophical groups that are not distinct religions or languages (such as the Arya Samaj within Hinduism) cannot claim the status of a religious minority (<em>DAV College, Jullundur v. State of Punjab, 1971</em>).<br/>' +
-            '<strong>2. The Dual Right ("To Establish and Administer"):</strong> The words "establish and administer" must be read conjunctively. To claim the constitutional protection of Article 30, the minority community must show that the educational institution was both established by it and is administered by it (<em>S. Azeez Basha v. Union of India, 1968 - Aligarh Muslim University Case</em>).<br/>' +
-            '<strong>3. Autonomy of Choice:</strong> Minorities have the unfettered liberty to establish educational institutions of their choice—meaning the institution is not required to teach only religious tenets or language; it may be an institution of general, professional, technical, or secular education.<br/>' +
-            '<strong>4. Non-Discrimination in Grant of State Aid (Article 30(2)):</strong> The State shall not, in granting aid to educational institutions, discriminate against any educational institution on the ground that it is under the management of a minority.'
+          "heading": "III. Article 30: Right of Minorities to Establish and Run Institutions",
+          "paragraphs": [
+            "While Article 29 protects all citizens, <strong>Article 30</strong> is a special fundamental right granted exclusively to minorities:<br/>• <strong>Two Types of Minorities (Article 30(1)):</strong> Conferred strictly on (a) <strong>Religious Minorities</strong> and (b) <strong>Linguistic Minorities</strong>. Sub-sects or philosophical groups within a religion (like Arya Samaj within Hinduism) cannot claim separate minority status (*DAV College, Jullundur*).<br/>• <strong>Twin Right (\"To Establish and Administer\"):</strong> The words <em>establish</em> and <em>administer</em> must be proved together. To claim Article 30 protection, the minority community must show that it both founded the institution and runs its management (*Azeez Basha v. Union of India - AMU Case*).<br/>• <strong>Full Choice of Education:</strong> Minorities are free to set up general, scientific, commercial, and professional colleges (like medical or engineering colleges); they are not restricted to teaching religion or language.<br/>• <strong>No Discrimination in Government Grants (Article 30(2)):</strong> The State cannot deny financial aid to a school simply because it is managed by a minority community."
           ]
         },
         {
-          heading: 'IV. The Unit for Determining Minority Status: State vs. Nation',
-          paragraphs: [
-            'A historic controversy arose as to whether a religious or linguistic community should be classified as a "minority" with reference to the population of the entire country or the population of the particular State concerned. This was definitively resolved by the 11-Judge Constitution Bench in <em>T.M.A. Pai Foundation v. State of Karnataka (2002)</em>.<br/>' +
-            'The Court held that because the reorganization of States in India was effected on a linguistic basis, <strong>the unit for determining both linguistic and religious minorities is the State</strong>, and not the whole of India. Thus, a community that is a numerical majority in the country as a whole (such as Hindus) may constitute a religious minority in States where it is numerically less than 50% of the population (such as Jammu & Kashmir, Punjab, Meghalaya, Mizoram, Nagaland, and Lakshadweep).'
+          "heading": "IV. Who is a Minority? The State is the Unit (*T.M.A. Pai*)",
+          "paragraphs": [
+            "For years, jurists debated whether minority status should be calculated across the entire country or state by state. In the historic 11-Judge Constitution Bench ruling in <strong>T.M.A. Pai Foundation v. State of Karnataka (2002)</strong>, the Supreme Court definitively resolved this issue:<br/>Because Indian states were reorganized on a linguistic basis, <strong>the unit for determining both religious and linguistic minorities is the State</strong>, and not the whole of India. For example, Hindus—who are a majority nationally—are a religious minority in Jammu & Kashmir, Punjab, Meghalaya, Nagaland, Mizoram, and Lakshadweep, and are entitled to Article 30 protections in those states."
           ]
         },
         {
-          heading: 'V. Extent of Permissible State Regulation: Administration vs. Mal-Administration',
-          paragraphs: [
-            'Does the right under Article 30 confer an absolute, unregulated licence on minority managements? The Supreme Court has consistently held that the right to administer is not the right to "mal-administer". The State has legitimate regulatory power to maintain academic excellence:<br/>' +
-            '• <em>Permissible Regulations:</em> The State can prescribe minimum academic qualifications for teachers, conditions of employment, welfare of staff, syllabus, health, and hygiene standards. Such regulations do not destroy minority character; they promote educational excellence.<br/>' +
-            '• <em>Impermissible Interference:</em> The State cannot take over the management, impose a managing committee of outsiders, or force admissions so as to destroy the minority character of the institution.<br/>' +
-            '• In <em>P.A. Inamdar v. State of Maharashtra (2005)</em>, a 7-Judge Bench held that the State cannot enforce its reservation quota policy on private unaided educational institutions, whether minority or non-minority.'
+          "heading": "V. Extent of Government Regulation: Administration vs. Maladministration",
+          "paragraphs": [
+            "Does Article 30 give minority colleges an absolute right to run without rules? The Supreme Court answered <strong>NO</strong>. The right to administer is not a right to <em>mal-administer</em>:<br/>• <strong>Valid Regulations:</strong> The government can fix minimum academic qualifications for teachers, staff welfare rules, syllabus standards, and hygiene norms to ensure educational excellence.<br/>• <strong>Invalid Takeovers:</strong> The government cannot take over the management, impose outside trustees, or interfere with day-to-day administration.<br/>• <strong>No Forced Quotas on Unaided Colleges:</strong> In <em>P.A. Inamdar (2005)</em>, a 7-Judge Bench ruled that the State cannot impose reservation quotas on private unaided minority educational institutions."
+          ]
+        },
+        {
+          "heading": "VI. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> A Christian charitable trust establishes an unaided dental college in Kerala. The state government issues an order taking away the trust's power to select its Principal and mandates a 50% state quota for admissions. The trust challenges the order in the High Court under Article 30. Applying the rulings in <em>T.M.A. Pai</em> and <em>P.A. Inamdar</em>, the Court strikes down the government order. The trust has complete administrative autonomy to appoint qualified staff and admit students on merit, provided it follows standard dental council qualification rules."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'In re Kerala Education Bill',
-          citation: 'AIR 1958 SC 956 (7-Judge Constitution Bench)',
-          facts: 'The Kerala Education Bill sought to impose extensive state control over the appointment of teachers and administration of private aided schools, including minority institutions.',
-          ratio: 'Chief Justice S.R. Das held that the right to administer is not the right to mal-administer. Reasonable regulations to secure the efficiency of instruction, discipline, and health of students do not violate Article 30(1).'
+          "name": "In re Kerala Education Bill",
+          "citation": "AIR 1958 SC 956 (7-Judge Bench)",
+          "facts": "The Kerala state bill sought to take over teacher appointments and management in private aided minority schools.",
+          "ratio": "Chief Justice S.R. Das held that the right to administer is not a right to mal-administer. Reasonable regulations to maintain educational standards are valid, but destroying minority management violates Article 30(1)."
         },
         {
-          name: 'T.M.A. Pai Foundation v. State of Karnataka',
-          citation: '(2002) 8 SCC 481 (11-Judge Constitution Bench)',
-          facts: 'Exhaustive challenge concerning government control over admissions, fee regulation, and administration in private and minority professional colleges.',
-          ratio: 'The 11-Judge Bench held that: (1) The unit to determine minority status is the State; (2) Unaided minority institutions have substantial administrative autonomy in admissions based on merit; (3) Aided minority institutions must admit a reasonable percentage of non-minority students.'
+          "name": "T.M.A. Pai Foundation v. State of Karnataka",
+          "citation": "(2002) 8 SCC 481 (11-Judge Constitution Bench)",
+          "facts": "A comprehensive challenge regarding state control over admissions and fees in private minority professional institutions.",
+          "ratio": "The 11-Judge Bench held that: (1) The unit to determine minority status is the State; (2) Unaided minority institutions enjoy substantial administrative freedom based on merit; (3) Regulations must not destroy minority character."
         },
         {
-          name: 'P.A. Inamdar v. State of Maharashtra',
-          citation: '(2005) 6 SCC 537 (7-Judge Constitution Bench)',
-          facts: 'State governments sought to impose seat reservations and fee structures on private unaided medical and engineering colleges.',
-          ratio: 'The Court ruled that the State cannot impose reservation quotas on private unaided educational institutions, whether minority or non-minority. Autonomy in admissions is essential to administrative freedom.'
+          "name": "P.A. Inamdar v. State of Maharashtra",
+          "citation": "(2005) 6 SCC 537 (7-Judge Bench)",
+          "facts": "State governments sought to enforce state reservation quotas and fee committees on private unaided professional colleges.",
+          "ratio": "The Supreme Court ruled that the State cannot enforce seat reservation quotas on private unaided educational institutions, whether minority or non-minority. Autonomy in admissions is central to Article 30."
         }
       ],
-      conclusion: 'Articles 29 and 30 balance cultural preservation with academic excellence, embodying the constitutional promise of pluralistic democracy under the UGC NEP curriculum.'
+      "criticalAnalysis": "Articles 29 and 30 balance cultural preservation with academic excellence. They protect minorities from forced assimilation while ensuring that students receive quality modern education.",
+      "conclusion": "In conclusion, Articles 29 and 30 form the cornerstone of cultural pluralism in India, guaranteeing that minority communities can preserve their heritage and manage educational institutions with dignity and autonomy."
     }
   },
   {
-    id: 'p1-q7',
-    qNum: 'Q7',
-    marks: 10,
-    question: 'Where there is a right, there is a remedy. What are the Constitutional remedies available to persons whose Fundamental Rights have been infringed ?',
-    flairs: [
-      { type: 'repeat', label: '🔥 Reappeared in 2025 Paper' },
+    "id": "p1-q7",
+    "qNum": "Q7",
+    "marks": 10,
+    "question": "Where there is a right, there is a remedy. What are the Constitutional remedies available to persons whose Fundamental Rights have been infringed ?",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Reappeared in 2025 Paper"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Articles 32 and 226 of the Constitution of India; Article 359 (Non-suspension of Article 20 and 21 post-44th Amendment).',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Articles 32 and 226 of the Constitution of India; Article 359 (Non-suspension of Articles 20 & 21 post-44th Amendment).",
+      "sections": [
         {
-          heading: 'I. The Maxim "Ubi Jus Ibi Remedium" and Constitutional Primacy of Remedies',
-          paragraphs: [
-            'The ancient Latin maxim <em>"Ubi jus ibi remedium"</em>—where there is a legal right, there must be a legal remedy—lies at the very foundation of constitutional jurisprudence. A declaration of fundamental rights in a written constitution, no matter how eloquently worded, is nothing more than a hollow paper promise if citizens do not possess an effective, expeditious, and accessible judicial mechanism to enforce those rights against state encroachment. Recognizing this fundamental truth, the framers of the Indian Constitution did not leave the protection of fundamental rights to the ordinary procedures of civil and criminal courts.',
-            'Instead, they elevated the remedy itself into a Fundamental Right. Dr. B.R. Ambedkar, when asked in the Constituent Assembly which was the most important provision in the Constitution without which it would be a nullity, famously replied:<br/>' +
-            '<em>"If I was asked to name any particular article in this Constitution as the most important—an article without which this Constitution would be a nullity—I could not refer to any other article except this one. It is the very soul of the Constitution and the very heart of it... Article 32."</em>'
+          "heading": "I. The Maxim \"Ubi Jus Ibi Remedium\" and Constitutional Remedies",
+          "paragraphs": [
+            "The ancient Latin legal maxim <strong>\"Ubi jus ibi remedium\"</strong> means: <em>where there is a legal right, there must be a legal remedy</em>. A long list of Fundamental Rights written on paper is completely useless if citizens have no quick, fearless court machinery to enforce them when the government violates them.",
+            "The framers of the Indian Constitution recognized this truth and did something revolutionary: they turned the <strong>remedy itself into a Fundamental Right</strong> under <strong>Article 32</strong>. When Dr. B.R. Ambedkar was asked which was the single most important article in the entire Constitution, he replied without hesitation:<br/><em>\"If I was asked to name any particular article in this Constitution as the most important—an article without which this Constitution would be a nullity—I could not refer to any other article except this one. It is the very soul of the Constitution and the very heart of it... Article 32.\"</em>"
           ]
         },
         {
-          heading: 'II. Article 32: The Supreme Court as the Protector and Guarantor',
-          paragraphs: [
-            'Article 32 possesses several unique constitutional dimensions:<br/>' +
-            '<strong>1. A Fundamental Right in Itself:</strong> Article 32 is placed squarely within Part III. Therefore, moving the Supreme Court by appropriate proceedings for the enforcement of fundamental rights is not a mere discretionary remedy; it is a guaranteed constitutional right.<br/>' +
-            '<strong>2. Obligation of the Supreme Court:</strong> Unlike under ordinary appellate jurisdiction or under Article 136 where the Court has discretion, under Article 32 the Supreme Court cannot refuse to entertain a valid petition on grounds of alternative remedies if a clear infringement of Part III is demonstrated.<br/>' +
-            '<strong>3. Unlimited Scope of Judicial Orders:</strong> Under Article 32(2), the Supreme Court has the power to issue directions, orders, or writs, including writs in the nature of <em>Habeas Corpus, Mandamus, Prohibition, Quo Warranto, and Certiorari</em>, whichever may be appropriate.'
+          "heading": "II. Difference Between Article 32 and Article 226",
+          "paragraphs": [
+            "The Constitution gives writ powers to both the Supreme Court and the High Courts, but with key differences:<br/>• <strong>Guaranteed Right vs. Discretionary Power:</strong> Article 32 is itself a Fundamental Right. The Supreme Court cannot refuse to hear a citizen whose rights are breached. Article 226 is a constitutional power in the High Courts.<br/>• <strong>Scope of Rights Enforced:</strong> The Supreme Court under Article 32 can issue writs <strong>ONLY</strong> to enforce Fundamental Rights (Part III). The High Courts under Article 226 have wider power: they can issue writs to enforce Fundamental Rights <em>\"and for any other purpose\"</em> (including ordinary legal and statutory rights).<br/>• <strong>Territory:</strong> Supreme Court writs run across all of India. High Court writs run within their state territory or where the cause of action arises.<br/>• <strong>Relaxation of Locus Standi (Public Interest Litigation):</strong> Under traditional law, only the aggrieved person could file a writ. But under Article 32 and Article 226, the Supreme Court relaxed this rule: any public-spirited citizen or NGO acting in good faith can file a petition for poor, exploited individuals who cannot access court (*S.P. Gupta*).<br/>• <strong>Alternative Remedy Rule:</strong> High Courts normally ask litigants to exhaust statutory appeals first, but in <em>Whirlpool Corporation (1998)</em>, the Court laid down three iron exceptions where a writ lies directly: (1) violation of Fundamental Rights; (2) breach of natural justice; or (3) total lack of jurisdiction."
           ]
         },
         {
-          heading: 'III. Article 226: High Court Jurisdiction and Comparison with Article 32',
-          paragraphs: [
-            'Under Article 226, the High Courts possess extraordinary writ jurisdiction. A comparative analysis reveals key distinctions:<br/>' +
-            '• <strong>Substantive Reach:</strong> Article 32 can be invoked <em>only</em> for the enforcement of Fundamental Rights in Part III. Article 226 can be invoked for Fundamental Rights <em>as well as</em> "for any other purpose" (i.e., enforcement of ordinary legal and statutory rights). Therefore, the High Court’s writ jurisdiction is substantively broader than that of the Supreme Court.<br/>' +
-            '• <strong>Territorial Jurisdiction:</strong> The Supreme Court\'s jurisdiction extends throughout the territory of India. A High Court’s jurisdiction is confined to its territorial limits, or where the cause of action wholly or in part arises.<br/>' +
-            '• <strong>Nature of Right:</strong> While Article 32 is a Fundamental Right, Article 226 is a constitutional power, and the High Court may exercise discretion if an effective alternative remedy exists.<br/>' +
-            '• <strong>Basic Structure:</strong> In <em>L. Chandra Kumar (1997)</em>, the 7-Judge Bench ruled that judicial review under both Articles 32 and 226 is an integral part of the Basic Structure.'
+          "heading": "III. The Five Prerogative Writs Explained in Simple Words",
+          "paragraphs": [
+            "Both courts have the power to issue five historic prerogative writs borrowed from English law:<br/><strong>1. Habeas Corpus (\"Produce the Body\"):</strong> A court order commanding police or any private jailer to produce a detained person in court. If the detention lacks legal authority, the court sets the person free immediately (*Sunil Batra*).<br/><strong>2. Mandamus (\"We Command\"):</strong> A court order directed to any public officer, municipal board, or government department, ordering them to perform a mandatory public or statutory duty that they have refused or neglected to perform (*Ratlam Municipality*).<br/><strong>3. Prohibition (\"To Forbid\"):</strong> A preventive order issued to a lower court or tribunal to stop it from continuing proceedings that exceed its legal jurisdiction.<br/><strong>4. Certiorari (\"To be Certified\"):</strong> A corrective order issued to quash an order already passed by a lower court or tribunal that acted without jurisdiction or committed a patent error of law on the record (*Syed Yakoob*).<br/><strong>5. Quo Warranto (\"By What Authority\"):</strong> Issued to challenge a person holding a substantive public office to prove their legal qualifications. If they lack statutory qualifications, the court removes them from office."
           ]
         },
         {
-          heading: 'IV. The Five Prerogative Writs Explained in Detail',
-          paragraphs: [
-            'The Constitution empowers the higher judiciary to issue five classical prerogative writs:<br/>' +
-            '<strong>1. Writ of Habeas Corpus ("To have the body"):</strong> Directed against wrongful confinement or unlawful detention by the State or private parties. Releases the detenu immediately (e.g., <em>Sunil Batra</em> against prisoner torture; <em>Rudul Sah</em>).<br/>' +
-            '<strong>2. Writ of Mandamus ("We Command"):</strong> Issued to compel a public official, government, or statutory body to perform a mandatory public legal duty they have failed or refused to perform (e.g., <em>Lotus Hotels</em>).<br/>' +
-            '<strong>3. Writ of Prohibition:</strong> A preventive writ issued to an inferior court or quasi-judicial tribunal to stop it from exceeding its jurisdiction or acting contrary to natural justice.<br/>' +
-            '<strong>4. Writ of Certiorari ("To be certified"):</strong> A corrective writ issued to quash an order already passed by an inferior court or tribunal that acted without jurisdiction, in excess of jurisdiction, or with an error of law apparent on the face of the record.<br/>' +
-            '<strong>5. Writ of Quo Warranto ("By what authority"):</strong> Inquires into the substantive legality of the claim which a person asserts to an independent public office, ousting an unlawful usurper.'
+          "heading": "IV. Monetary Compensation for Human Rights Violations",
+          "paragraphs": [
+            "In landmark decisions like <em>Rudul Sah (1983)</em> and <em>Nilabati Behera (1993)</em>, the Supreme Court created a new public law remedy under Article 32: <strong>awarding monetary compensation</strong> against the government for illegal detention and custodial deaths, ruling that sovereign immunity cannot protect the state when Fundamental Rights are crushed."
           ]
         },
         {
-          heading: 'V. Creation of Public Law Damages (Constitutional Torts)',
-          paragraphs: [
-            'A major innovation of the Supreme Court under Article 32 is the doctrine of <strong>Monetary Compensation for Constitutional Torts</strong>. In <em>Rudul Sah v. State of Bihar (1983)</em>, an acquitted prisoner was detained unlawfully for 14 years. The Court held that Article 32 is not confined to issuing traditional writs; the Court has the inherent power to award monetary damages against the State for blatant violations of Article 21, establishing the principle that sovereign immunity does not apply to public law remedies for fundamental rights violations.'
+          "heading": "V. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> Police secretly arrest an investigative journalist at midnight without an arrest memo and lock him up for 4 days without producing him before a magistrate, violating Article 22(2). His wife files an urgent Habeas Corpus petition under Article 226 in the High Court. The High Court commands police to produce the journalist within 4 hours, discovers the arrest was completely illegal, orders his immediate release, and awards ₹1,00,000 compensation against the state (*Nilabati Behera*)."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'L. Chandra Kumar v. Union of India',
-          citation: '(1997) 3 SCC 261 (7-Judge Constitution Bench)',
-          facts: 'Parliament enacted the Administrative Tribunals Act, 1985 excluding High Court writ jurisdiction under Articles 226/227.',
-          ratio: 'The 7-Judge Bench held that writ jurisdiction under Articles 32 and 226 is an inalienable component of the Basic Structure of the Constitution and cannot be excluded even by constitutional amendment.'
+          "name": "Sunil Batra v. Delhi Administration",
+          "citation": "AIR 1980 SC 1579",
+          "facts": "A prisoner wrote a letter to a Supreme Court judge reporting brutal physical torture inflicted on a fellow prisoner by jail wardens.",
+          "ratio": "The Supreme Court treated the letter as a Habeas Corpus petition, holding that the writ is available not only to free persons from illegal custody, but also to protect convicted prisoners from torture and inhuman jail conditions."
         },
         {
-          name: 'Rudul Sah v. State of Bihar',
-          citation: '(1983) 3 SCC 141',
-          facts: 'The petitioner was detained in prison for 14 years after being acquitted by the Sessions Court.',
-          ratio: 'The Supreme Court ordered immediate release and awarded exemplary monetary compensation under Article 32, establishing the doctrine of public law damages for constitutional torts.'
+          "name": "Municipal Council, Ratlam v. Vardhichand",
+          "citation": "AIR 1980 SC 1622",
+          "facts": "Citizens of Ratlam suffered from open, overflowing stinking sewers spreading disease; the municipal corporation pleaded lack of funds.",
+          "ratio": "The Supreme Court issued a Writ of Mandamus ordering the municipality to construct drains and clean the city, holding that public bodies cannot plead lack of funds to avoid statutory duties."
         },
         {
-          name: 'Nilabati Behera v. State of Orissa',
-          citation: '(1993) 2 SCC 746',
-          facts: 'A 22-year-old youth died in police lock-up as a result of custodial torture; police claimed suicide.',
-          ratio: 'Awarded compensation under Article 32, ruling that state liability for violation of fundamental rights is a public law remedy independent of sovereign immunity in private law.'
+          "name": "Nilabati Behera v. State of Orissa",
+          "citation": "(1993) 2 SCC 746",
+          "facts": "A 22-year-old youth died in police lock-up from custodial beating; police falsely claimed he escaped and was hit by a train.",
+          "ratio": "The Supreme Court awarded monetary compensation under Article 32, establishing that state liability for crushing fundamental rights is an independent public law remedy unaffected by sovereign immunity."
         }
       ],
-      conclusion: 'Articles 32 and 226 form the protective armor of the Indian citizen, transforming abstract fundamental rights into living, enforceable constitutional realities.'
+      "criticalAnalysis": "Articles 32 and 226 give real teeth to the Constitution. Without accessible writ remedies, fundamental freedoms would be empty promises against police brutality and bureaucratic delay.",
+      "conclusion": "In conclusion, the writ jurisdictions of the Supreme Court and High Courts turn the ancient maxim \"ubi jus ibi remedium\" into a living reality, defending personal freedom against arbitrary state power."
     }
   },
   {
-    id: 'p1-q8',
-    qNum: 'Q8',
-    marks: 10,
-    question: 'Define the term "State" under Article 12 of the Constitution. Explain the judicial interpretation of "other authorities".',
-    flairs: [
-      { type: 'repeat', label: '🔥 Appeared in 2024 & 2025 Papers' },
+    "id": "p1-q8",
+    "qNum": "Q8",
+    "marks": 10,
+    "question": "Define the term \"State\" under Article 12 of the Constitution. Explain the judicial interpretation of \"other authorities\".",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Appeared in 2024 & 2025 Papers"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Article 12 of the Constitution of India; General Clauses Act, 1897 (Section 3(31) for Local Authorities).',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Article 12 of the Constitution of India; General Clauses Act, 1897 (Section 3(31) for Local Authorities).",
+      "sections": [
         {
-          heading: 'I. Constitutional Purpose and Structural Anatomy of Article 12',
-          paragraphs: [
-            'Fundamental Rights guaranteed in Part III are primarily enforceable against the State. They are designed as constitutional checks against the arbitrary exercise of governmental power. Therefore, before determining whether a fundamental right has been infringed, the threshold inquiry is whether the violating entity is "the State". Article 12 serves as the constitutional gateway to Part III.',
-            'Article 12 provides that: <em>\'In this Part, unless the context otherwise requires, "the State" includes—<br/>(1) The Government and Parliament of India;<br/>(2) The Government and the Legislature of each of the States;<br/>(3) All local authorities within the territory of India or under the control of the Government of India; and<br/>(4) Other authorities within the territory of India or under the control of the Government of India.\'</em>',
-            'While the first three categories are relatively straightforward—local authorities being defined under Section 3(31) of the General Clauses Act as Municipalities, District Boards, Panchayats, and Port Trusts—the phrase <strong>"other authorities"</strong> is not defined in the Constitution, generating significant constitutional jurisprudence.'
+          "heading": "I. Why Must We Define the \"State\" under Article 12?",
+          "paragraphs": [
+            "Fundamental Rights in Part III were created primarily as constitutional shields to protect citizens from governmental oppression and executive abuse. Therefore, before a citizen can file a writ petition in court claiming that their Fundamental Rights have been violated, they must first establish that the offending body is the <strong>\"State\"</strong>.",
+            "Article 12 acts as the constitutional gateway to Part III. It gives a binding definition of \"the State\" so that courts and citizens know exactly which authorities must respect Fundamental Rights."
           ]
         },
         {
-          heading: 'II. The Earliest Restrictive Approach: The Ejusdem Generis Fallacy',
-          paragraphs: [
-            'In the early post-independence era, High Courts took a narrow view of "other authorities". In <em>University of Madras v. Shantha Bai (1954)</em>, the Madras High Court applied the statutory interpretation rule of <strong>ejusdem generis</strong> (of the same kind), holding that "other authorities" could only mean bodies exercising governmental or sovereign functions. Consequently, statutory universities, educational boards, and commercial bodies were held to be outside Article 12.',
-            'The Supreme Court firmly rejected this approach in <em>Ujjam Bai v. State of U.P. (1962)</em> and <em>Rajasthan State Electricity Board v. Mohan Lal (1967)</em>. The Court held that <em>ejusdem generis</em> had no application because there is no common genus in Article 12. "Other authorities" includes all bodies created by statute on which powers are conferred by law, even if they engage in commercial trade.'
+          "heading": "II. The Four Organs of the State under Article 12",
+          "paragraphs": [
+            "Under Article 12, the expression \"the State\" includes four distinct categories:<br/><strong>1. Government and Parliament of India:</strong> The Union Executive (President, Prime Minister, Ministries) and Union Parliament (Lok Sabha & Rajya Sabha).<br/><strong>2. Government and Legislature of each State:</strong> State Governors, Chief Ministers, state departments, and State Legislative Assemblies.<br/><strong>3. Local Authorities:</strong> Defined under Section 3(31) of the General Clauses Act, 1897 as Municipal Corporations, District Boards, Zilla Parishads, Panchayats, and Port Trusts.<br/><strong>4. Other Authorities:</strong> The most dynamic and debated phrase in Article 12, covering modern state corporations, boards, and public undertakings."
           ]
         },
         {
-          heading: 'III. The Watershed Revolution: Corporate Mask and the Agency/Instrumentality Doctrine',
-          paragraphs: [
-            'In a modern welfare state, the government frequently operates through corporate entities, statutory corporations, and registered societies. If such bodies were held to be outside Article 12, the State could easily bypass Fundamental Rights by delegating public functions to corporate entities. In <em>Sukhdev Singh v. Bhagatram (1975)</em>, statutory corporations (LIC, ONGC, IFC) were held to be "State". Justice K.K. Mathew delivered a concurring opinion arguing that if a corporation is an instrumentality or agency of the government, it must be subject to the same constitutional limitations as the State itself.',
-            'This led to the landmark decision in <em>Ramana Dayaram Shetty v. International Airport Authority of India (1979)</em>, where Justice P.N. Bhagwati formulated the comprehensive <strong>"Instrumentality or Agency" Test</strong>. These principles were codified into six distinct criteria in <em>Ajay Hasia v. Khalid Mujib Sehravardi (1981)</em>:<br/>' +
-            '<strong>1. Share Capital:</strong> Entire share capital held by the Government.<br/>' +
-            '<strong>2. Financial Assistance:</strong> Financial assistance meeting almost the entire expenditure of the corporation.<br/>' +
-            '<strong>3. Monopoly Status:</strong> Monopoly status conferred or protected by the State.<br/>' +
-            '<strong>4. Deep and Pervasive State Control:</strong> Deep, extensive, and pervasive governmental control over administration.<br/>' +
-            '<strong>5. Public Importance:</strong> Functions of public importance closely related to governmental functions.<br/>' +
-            '<strong>6. Department Transfer:</strong> Department of government transferred to the corporation.'
+          "heading": "III. Evolution of \"Other Authorities\" & The Six-Factor Agency Test",
+          "paragraphs": [
+            "• <strong>Rejection of the Narrow Rule (*Ejusdem Generis*):</strong> Early courts held that \"other authorities\" only included bodies doing sovereign government duties. In <em>Rajasthan Electricity Board v. Mohan Lal (1967)</em>, the Supreme Court rejected this narrow view, ruling that any body created by a statute with legal powers is an \"other authority\", even if it runs a commercial trade.<br/>• <strong>The Airport Authority Precedent (*Ramana Dayaram Shetty, 1979*):</strong> Justice Bhagwati held that the International Airport Authority, though a statutory corporation, was an instrumentality of the State. When the government invites tenders or distributes public contracts, it cannot pick and choose favorites arbitrarily; it must act fairly under Article 14.<br/>• <strong>Lifting the Corporate Veil (*Ajay Hasia Test*):</strong> In a modern welfare state, the government runs airlines, power boards, and banks through government companies. To prevent the government from escaping Fundamental Rights behind corporate masks, <strong>Justice P.N. Bhagwati</strong> laid down the definitive <strong>Six-Factor Agency/Instrumentality Test</strong> in <em>Ajay Hasia v. Khalid Mujib (1981)</em>:<br/>1. <em>Share Capital:</em> Entire or majority share capital held by the Government.<br/>2. <em>Financial Aid:</em> Substantial government funding meeting almost the entire expenditure.<br/>3. <em>Monopoly Status:</em> Monopoly status conferred or protected by the State.<br/>4. <em>Deep and Pervasive Control:</em> Day-to-day administrative and managerial control exercised by the State.<br/>5. <em>Public Importance:</em> Functions of vital public importance closely related to government duties.<br/>6. <em>Department Transfer:</em> Transfer of a government department to the corporation."
           ]
         },
         {
-          heading: 'IV. The Modern Refinement: Pradeep Kumar Biswas (Cumulative Domination Test)',
-          paragraphs: [
-            'By the late 1990s, the expansive interpretation threatened to bring purely autonomous institutions under state bureaucracy. In <em>Pradeep Kumar Biswas v. Indian Institute of Chemical Biology (2002)</em>, a 7-Judge Constitution Bench revisited <em>Ajay Hasia</em> and overruled <em>Sabhajit Tewary (1975)</em>.<br/>' +
-            'The Court held that the <em>Ajay Hasia</em> factors are not rigid checkboxes. The decisive test is whether the body is <strong>functionally, financially, and administratively dominated by or under the pervasive control of the Government</strong>. If such control is merely regulatory or incidental, the body is not "State".'
+          "heading": "IV. Modern Rule: Pradeep Kumar Biswas & Status of Judiciary",
+          "paragraphs": [
+            "• <strong>Cumulative Domination (*Pradeep Kumar Biswas, 2002*):</strong> A 7-Judge Constitution Bench clarified that the <em>Ajay Hasia</em> factors are not mechanical checkboxes. The real test is whether the body is <strong>functionally, financially, and administratively dominated</strong> by the government. In doing so, the 7-Judge Bench explicitly overruled the older decision in <em>Sabhajit Tewary (1975)</em> which had mistakenly excluded registered societies like CSIR.<br/>• <strong>Is the Judiciary \"State\"?</strong> When courts perform administrative tasks (such as appointing court staff), they are State under Article 12. But when deciding judicial disputes between parties, courts are not State, because judicial judgments cannot be quashed via Article 32 writs (*Naresh Mirajkar*).<br/>• <strong>Private Sports Bodies (BCCI):</strong> In <em>Zee Telefilms (2005)</em>, the Court held that BCCI is not \"State\" under Article 12 because it receives no state funds or deep control, though it is subject to Article 226 for public functions."
           ]
         },
         {
-          heading: 'V. Status of the Judiciary and Private Bodies',
-          paragraphs: [
-            '• <strong>Is Judiciary "State"?</strong> When the judiciary acts in an administrative capacity (e.g., appointing court staff), it is "State" under Article 12. However, when acting judicially, superior courts are not "State" because judicial orders cannot be challenged via Article 32 writs (<em>Naresh Shridhar Mirajkar v. State of Maharashtra, 1967</em>).<br/>' +
-            '• <strong>Private Bodies Performing Public Functions:</strong> In <em>Zee Telefilms Ltd. v. Union of India (2005)</em>, the Court held that BCCI is not "State" under Article 12 because it is not financially aided or under deep state control. However, because it performs a public function, it is amenable to writ jurisdiction under Article 226 before the High Courts.'
+          "heading": "V. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> An electrical engineer is employed on a 3-year contract by a state-owned power transmission corporation. The Managing Director abruptly terminates her contract without any inquiry or explanation because she reported substandard equipment. If this were a purely private firm, she could only sue for 1 month's salary for breach of contract. But because the power corporation satisfies the <em>Ajay Hasia</em> agency test (government-owned, state-controlled, public utility), it is \"State\" under Article 12. She files an Article 226 writ in the High Court; the Court quashes her arbitrary dismissal as a violation of Article 14 and orders her reinstatement with full back pay."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'Rajasthan State Electricity Board v. Mohan Lal',
-          citation: 'AIR 1967 SC 1857',
-          facts: 'Permanent employees of the state electricity board were denied promotions; board claimed it was a commercial corporation outside Article 12.',
-          ratio: 'Rejected the ejusdem generis doctrine. Held that "other authorities" includes all bodies created by statute on which powers are conferred by law, even if engaged in commercial trade.'
+          "name": "Rajasthan State Electricity Board v. Mohan Lal",
+          "citation": "AIR 1967 SC 1857",
+          "facts": "Employees of the state electricity board were denied promotions; the board argued it was a commercial corporation outside Article 12.",
+          "ratio": "The Supreme Court rejected the ejusdem generis doctrine. Held that \"other authorities\" includes all bodies created by statute on which powers are conferred by law, even if engaged in commercial trade."
         },
         {
-          name: 'Ajay Hasia v. Khalid Mujib Sehravardi',
-          citation: '(1981) 1 SCC 722',
-          facts: 'Admissions to a Regional Engineering College registered as a society were challenged as arbitrary under Article 14.',
-          ratio: 'Codified the 6-factor instrumentality test. Held that corporate form (society or company) is irrelevant if the entity is an agency or instrumentality of the government.'
+          "name": "Ajay Hasia v. Khalid Mujib Sehravardi",
+          "citation": "(1981) 1 SCC 722",
+          "facts": "Admissions to Regional Engineering College, Srinagar (registered as a private society) were challenged as arbitrary under Article 14.",
+          "ratio": "The Constitution Bench codified the 6-factor Agency/Instrumentality Test. Held that the corporate form (society or company) is irrelevant; if an entity is an agency or instrumentality of the government, it is \"State\" under Article 12."
         },
         {
-          name: 'Pradeep Kumar Biswas v. Indian Institute of Chemical Biology',
-          citation: '(2002) 5 SCC 111 (7-Judge Constitution Bench)',
-          facts: 'Comprehensive review of whether CSIR (Council of Scientific and Industrial Research) is "State" under Article 12.',
-          ratio: 'Overruled Sabhajit Tewary. Established that a body is "State" if it is functionally, financially, and administratively dominated by the government.'
+          "name": "Pradeep Kumar Biswas v. Indian Institute of Chemical Biology",
+          "citation": "(2002) 5 SCC 111 (7-Judge Constitution Bench)",
+          "facts": "Re-examination of whether CSIR (Council of Scientific and Industrial Research) is \"State\" under Article 12.",
+          "ratio": "The 7-Judge Bench ruled that a body is \"State\" only if it is functionally, financially, and administratively dominated by the government, rather than merely subject to regulatory supervision."
         }
       ],
-      conclusion: 'The evolution of "other authorities" ensures that fundamental rights follow state power, preventing the State from evading constitutional obligations behind corporate structures.'
+      "criticalAnalysis": "Article 12 ensures that state power cannot escape constitutional discipline. As the government privatizes and corporatizes public duties, the agency test ensures that citizens' fundamental freedoms follow public power wherever it goes.",
+      "conclusion": "In conclusion, the expansive interpretation of \"other authorities\" under Article 12 ensures that all instruments of government power remain strictly accountable to the Fundamental Rights enshrined in Part III."
     }
   },
   {
-    id: 'p1-q9',
-    qNum: 'Q9',
-    marks: 10,
-    question: 'Critically examine the doctrine of judicial review with the help of leading cases.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Reappeared in 2025 Paper' },
+    "id": "p1-q9",
+    "qNum": "Q9",
+    "marks": 10,
+    "question": "Critically examine the doctrine of judicial review with the help of leading cases.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Reappeared in 2025 Paper"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Articles 13, 32, 136, 226, and 227 of the Constitution of India; Basic Structure Doctrine under Article 368.',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Articles 13, 32, 136, 226, and 227 of the Constitution of India; Basic Structure Doctrine under Article 368.",
+      "sections": [
         {
-          heading: 'I. Concept, Definition, and Historical Origins of Judicial Review',
-          paragraphs: [
-            'Judicial Review is the power of the judiciary to examine the constitutionality of legislative enactments, executive orders, and administrative actions, and to declare them null and void if they violate constitutional provisions. It serves as the primary mechanism for upholding the Rule of Law and constitutional supremacy in a democratic republic.',
-            'Unlike the British constitutional system based on the doctrine of <strong>Parliamentary Sovereignty</strong> (where an Act of Parliament is supreme and cannot be invalidated by any court), India adopted the doctrine of <strong>Constitutional Supremacy</strong>. In India, Parliament and State Legislatures are creatures of the Constitution; their legislative powers are limited by the distribution of legislative powers (Seventh Schedule) and by Fundamental Rights (Part III). Judicial review is the constitutional mechanism that prevents legislative and executive overreach.',
-            'Judicial review originated in the United States in the landmark decision of Chief Justice John Marshall in <em>Marbury v. Madison (1803)</em>. However, while in the US Constitution judicial review was judicially inferred, in the Indian Constitution it is expressly entrenched in Articles 13, 32, 136, 226, and 227. As Chief Justice Patanjali Sastri stated in <em>State of Madras v. V.G. Row (1952)</em>, the Supreme Court is appointed as the "sentinel on the qui vive" to protect constitutional rights.'
+          "heading": "I. What is Judicial Review and Its Historical Origin",
+          "paragraphs": [
+            "<strong>Judicial Review</strong> is the constitutional power of superior courts (the Supreme Court and High Courts) to examine the legal validity of laws passed by Parliament and State Legislatures, as well as executive orders, and to declare them null and void if they violate the Constitution.",
+            "• <strong>Constitutional Supremacy vs. Parliamentary Sovereignty:</strong> In the United Kingdom, Parliament is supreme; no court can strike down an Act of Parliament. In India, we have <strong>Constitutional Supremacy</strong>. Parliament and State Assemblies are created by the Constitution and must work within its boundaries. Judicial review is the supreme legal tool that keeps every organ of government within its limits.",
+            "• <strong>Origin and Sentinel on the Qui Vive:</strong> Judicial review originated in the United States in the famous case of <em>Marbury v. Madison (1803)</em>. In India, it is expressly written into Articles 13, 32, and 226. As Chief Justice Patanjali Sastri stated in <em>State of Madras v. V.G. Row (1952)</em>, the Supreme Court is the <strong>\"sentinel on the qui vive\"</strong>—the watchful constitutional guardian protecting citizens' rights."
           ]
         },
         {
-          heading: 'II. The Three Established Grounds for Exercising Judicial Review',
-          paragraphs: [
-            'A legislative enactment or state action in India can be challenged and invalidated on three primary grounds:<br/>' +
-            '<strong>1. Lack of Legislative Competence:</strong> Under the federal scheme of Article 246 and the Seventh Schedule, Parliament and State Legislatures must operate strictly within their respective fields (Union List, State List, Concurrent List). If a legislature encroaches upon a field outside its competence, the law is struck down applying the Doctrine of Pith and Substance.<br/>' +
-            '<strong>2. Violation of Fundamental Rights (Part III):</strong> Under Article 13(2), the State is expressly prohibited from making any law that takes away or abridges Fundamental Rights; any law made in contravention is void.<br/>' +
-            '<strong>3. Violation of Express Constitutional Limitations:</strong> Even if a law is within legislative competence and does not violate Part III, it can be invalidated if it violates other express constitutional provisions, such as Article 301 (Freedom of Trade and Commerce) or the Basic Structure of the Constitution.'
+          "heading": "II. The Three Grounds for Striking Down a Law",
+          "paragraphs": [
+            "A court can strike down an Act of Parliament or a State law on three established grounds:<br/><strong>1. Lack of Legislative Competence:</strong> Under Article 246 and the Seventh Schedule, laws must fall strictly within Union, State, or Concurrent Lists. If a state passes a law on a Union subject (like foreign affairs), the court strikes it down using the Doctrine of Pith and Substance.<br/><strong>2. Violation of Fundamental Rights (Part III):</strong> Under Article 13(2), the State cannot make any law that takes away or abridges Fundamental Rights; any law doing so is void from the start (<em>void ab initio</em>).<br/><strong>3. Violation of Express Constitutional Limits or Basic Structure:</strong> Laws that violate express articles (like Article 301 on inter-state trade) or destroy the Basic Structure of the Constitution are unconstitutional."
           ]
         },
         {
-          heading: 'III. Constitutional Amendments and the Basic Structure Doctrine',
-          paragraphs: [
-            'The scope of judicial review was tested in the historic clash between Parliament and the Judiciary regarding the scope of amending power under Article 368:<br/>' +
-            '• In <em>Shankari Prasad (1951)</em> and <em>Sajjan Singh (1965)</em>, the Court held that constitutional amendments were not "law" under Article 13, giving Parliament unlimited amending power.<br/>' +
-            '• In <em>I.C. Golak Nath (1967)</em>, an 11-Judge Bench reversed this, holding that Parliament could not amend Part III to abridge Fundamental Rights.<br/>' +
-            '• This controversy culminated in the 13-Judge Constitution Bench ruling in <em>Kesavananda Bharati v. State of Kerala (1973)</em>. The Court propounded the <strong>Basic Structure Doctrine</strong>: Parliament has wide constituent amending power under Article 368, but it cannot alter, destroy, or abrogate the basic structure or foundational features of the Constitution.<br/>' +
-            '• In <em>Minerva Mills v. Union of India (1980)</em>, Parliament’s attempt to introduce clauses in Article 368 barring judicial review of constitutional amendments was struck down. The Court held that an independent judicial review mechanism is an essential feature of the Basic Structure.'
+          "heading": "III. Judicial Review over Constitutional Amendments: The Basic Structure",
+          "paragraphs": [
+            "Can Parliament use its amending power under Article 368 to abolish Fundamental Rights or stop judicial review?<br/>• In <em>Shankari Prasad (1951)</em> and <em>Sajjan Singh (1965)</em>, the Court held that amendments could not be reviewed under Article 13.<br/>• In <em>Golak Nath (1967)</em>, an 11-Judge Bench reversed this, ruling that Parliament could not touch Fundamental Rights.<br/>• The historic climax came in <strong>Kesavananda Bharati v. State of Kerala (1973)</strong>. A 13-Judge Constitution Bench formulated the <strong>Basic Structure Doctrine</strong>: Parliament has wide amending power under Article 368, but it cannot destroy the basic features or core identity of the Constitution.<br/>• In <em>Minerva Mills (1980)</em>, Parliament tried to amend Article 368 to bar courts from reviewing amendments. The Supreme Court struck this down, holding that <strong>Judicial Review is itself an essential part of the Basic Structure</strong>.<br/>• In <em>L. Chandra Kumar (1997)</em>, a 7-Judge Bench held that writ powers under Articles 32 and 226 cannot be excluded by tribunals or constitutional amendments.<br/>• <strong>Ninth Schedule Review (*I.R. Coelho v. State of Tamil Nadu, 2007*):</strong> A 9-Judge Bench confirmed that laws placed in the Ninth Schedule after 24th April 1973 are not immune from judicial review; if a Ninth Schedule law damages the Basic Structure or destroys Articles 14, 19, or 21, courts will strike it down."
           ]
         },
         {
-          heading: 'IV. Definitive Entrenchment: L. Chandra Kumar v. Union of India (1997)',
-          paragraphs: [
-            'The ultimate constitutional milestone in judicial review jurisprudence was reached in <em>L. Chandra Kumar v. Union of India (1997)</em>. A 7-Judge Constitution Bench examined the validity of Articles 323A and 323B and the Administrative Tribunals Act, 1985, which excluded High Court writ jurisdiction under Articles 226 and 227.<br/>' +
-            'The Court held that the power of judicial review vested in the High Courts under Article 226 and in the Supreme Court under Article 32 is an <strong>integral and untouchable part of the Basic Structure of the Constitution</strong>. It cannot be excluded or taken away by any law or constitutional amendment.'
+          "heading": "IV. Judicial Review vs. Judicial Activism and Overreach",
+          "paragraphs": [
+            "A vital line must be drawn between legitimate judicial review and improper judicial overreach. The job of courts is to check whether a law is constitutional, not to second-guess economic policies or tell the government how to run the administration. As the Supreme Court warned in <em>Aravali Golf Club (2008)</em>, judges must respect the separation of powers and avoid taking over executive functions."
           ]
         },
         {
-          heading: 'V. Judicial Review vs. Judicial Activism and Overreach',
-          paragraphs: [
-            'A crucial distinction must be maintained between legitimate judicial review and judicial overreach. The function of judicial review is to determine the constitutionality and legality of laws, not to substitute judicial policy preferences for legislative wisdom. As the Supreme Court cautioned in <em>Divisional Manager, Aravali Golf Club v. Chander Haas (2008)</em>, judges must respect the separation of powers and avoid encroaching upon executive and legislative domains.'
+          "heading": "V. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> Parliament passes a new emergency statute declaring that all criminal trials involving financial corruption will be held in secret, defense lawyers are banned, and appeals to the High Court are prohibited. A public-spirited lawyer challenges the Act under Article 32. Using the power of Judicial Review, the Supreme Court strikes down the entire statute as unconstitutional and void *ab initio*, because it destroys the Rule of Law, eliminates fair trial under Article 21, and attacks the Basic Structure (*Kesavananda Bharati*)."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'Kesavananda Bharati v. State of Kerala',
-          citation: '(1973) 4 SCC 225 (13-Judge Constitution Bench)',
-          facts: 'Challenge to the 24th, 25th, and 29th Constitutional Amendments curtailing property rights and judicial review.',
-          ratio: 'Propounded the Basic Structure Doctrine. Upheld the power of judicial review over constitutional amendments, holding that Parliament’s constituent amending power is limited and cannot destroy the core identity of the Constitution.'
+          "name": "Kesavananda Bharati v. State of Kerala",
+          "citation": "(1973) 4 SCC 225 (13-Judge Constitution Bench)",
+          "facts": "Challenge to the 24th, 25th, and 29th Constitutional Amendments curtailing property rights and expanding Parliament's amending power under Article 368.",
+          "ratio": "The 13-Judge Bench propounded the Basic Structure Doctrine: Parliament can amend any part of the Constitution, but it cannot alter, destroy, or abrogate its Basic Structure. Judicial review is the ultimate protector of this basic structure."
         },
         {
-          name: 'Minerva Mills Ltd. v. Union of India',
-          citation: '(1980) 3 SCC 625',
-          facts: 'Challenge to Section 55 of the 42nd Amendment which inserted clauses (4) and (5) in Article 368, barring judicial review of constitutional amendments on any ground.',
-          ratio: 'Struck down the amendment. Chief Justice Chandrachud held that judicial review is an essential feature of the Basic Structure. A limited amending power cannot be used to grant Parliament absolute power.'
+          "name": "Minerva Mills Ltd. v. Union of India",
+          "citation": "(1980) 3 SCC 625",
+          "facts": "Challenge to Section 55 of the 42nd Amendment which added clauses (4) and (5) in Article 368, barring judicial review of constitutional amendments on any ground.",
+          "ratio": "The Supreme Court struck down the clauses, ruling that Judicial Review is an essential feature of the Basic Structure. A limited amending power cannot be used to confer unlimited absolute power on Parliament."
         },
         {
-          name: 'L. Chandra Kumar v. Union of India',
-          citation: '(1997) 3 SCC 261 (7-Judge Constitution Bench)',
-          facts: 'Challenge to statutory provisions excluding High Court review under Articles 226/227 in administrative tribunal decisions.',
-          ratio: 'Held that judicial review under Articles 32 and 226 is an inalienable component of the Basic Structure. Tribunals can act as courts of first instance, but their decisions remain subject to writ review before High Courts.'
+          "name": "L. Chandra Kumar v. Union of India",
+          "citation": "(1997) 3 SCC 261 (7-Judge Constitution Bench)",
+          "facts": "Challenge to statutory provisions excluding High Court review under Articles 226/227 over administrative tribunal decisions.",
+          "ratio": "The 7-Judge Bench held that the power of judicial review vested in High Courts under Article 226 and the Supreme Court under Article 32 is an inalienable component of the Basic Structure that cannot be excluded by any statute."
         }
       ],
-      conclusion: 'Judicial review is the cornerstone of the Indian constitutional edifice, ensuring that governance remains bound by the Rule of Law and constitutional morality.'
+      "criticalAnalysis": "Judicial review is the ultimate protector of democracy. Without judicial review, a legislative majority could easily turn the Constitution into an instrument of dictatorship.",
+      "conclusion": "In conclusion, Judicial Review is the foundational pillar of Indian constitutionalism, preserving the Rule of Law, protecting individual liberties, and maintaining the supremacy of the Constitution."
     }
   }
 ];

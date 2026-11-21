@@ -3,308 +3,317 @@
 
 export const q1ShortNotes = [
   {
-    id: 'p1-q1a',
-    qNum: 'Q1 (a)',
-    marks: 5,
-    question: 'Citizenship under Indian Constitution.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Single Domicile & Citizenship' },
+    "id": "p1-q1a",
+    "qNum": "Q1 (a)",
+    "marks": 5,
+    "question": "Citizenship under Indian Constitution.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Single Domicile & Citizenship"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Part II of the Constitution of India (Articles 5 to 11); Citizenship Act, 1955 (Act No. 57 of 1955 as amended in 1986, 1992, 2003, 2005, 2015, and 2019).',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Part II of the Constitution of India (Articles 5 to 11); Citizenship Act, 1955 (amended in 1986, 1992, 2003, 2005, 2015, and 2019).",
+      "sections": [
         {
-          heading: 'I. Introduction and Foundational Architecture of Part II',
-          paragraphs: [
-            'Citizenship denotes the legal relationship between an individual and the sovereign State, conferring full political membership, civil protection, and constitutional rights. Unlike the federal structure of the United States of America where a citizen holds dual citizenship—citizenship of the federal Union and citizenship of their individual State of residence—the Indian Constitution deliberately established a uniform, single citizenship for the entire territory of India. As Dr. B.R. Ambedkar articulated in the Constituent Assembly, the single citizenship model was forged to counteract regional divisions and build national unity in a diverse post-colonial society.',
-            'Articles 5 to 10 of Part II did not create a permanent code governing citizenship for future generations. Rather, they were transitional constitutional provisions formulated specifically to resolve complex nationality problems arising out of the Partition of India on 26th January 1950. The permanent architecture was left to Parliament under Article 11.'
+          "heading": "I. Meaning of Citizenship and the Single Citizenship Rule",
+          "paragraphs": [
+            "<strong>Citizenship</strong> is the legal bond between a person and the sovereign country. It gives a citizen full political and civil rights, such as voting in elections, holding constitutional offices, and enjoying core Fundamental Rights (Articles 15, 16, 19, 29, and 30) that foreigners cannot claim.",
+            "• <strong>Single Citizenship vs. Dual Citizenship:</strong> Unlike the United States (where a person holds dual citizenship for the nation and their individual state), India has only <strong>Single Citizenship</strong> for the entire country. Dr. B.R. Ambedkar explained that single citizenship was adopted to build national unity and stop regional divisions.",
+            "• <strong>Single Domicile Rule:</strong> In <em>Pradeep Jain v. Union of India (1984)</em>, the Supreme Court ruled that there is only one citizenship and only one domicile in India—the <strong>domicile of India</strong>. There is no separate state citizenship."
           ]
         },
         {
-          heading: 'II. Acquisition of Citizenship at the Commencement of the Constitution (Articles 5 to 8)',
-          paragraphs: [
-            'At the commencement of the Constitution on 26th January 1950, citizenship was determined under four distinct categories:<br/>' +
-            '<strong>1. Citizenship by Domicile (Article 5):</strong> A person who had their domicile in the territory of India and: (a) was born in India; or (b) either of whose parents was born in India; or (c) had been ordinarily resident in India for not less than 5 years immediately preceding commencement.<br/>' +
-            '<strong>2. Migrants from Pakistan (Article 6):</strong> Persons who migrated from Pakistan to India became citizens if they migrated before 19th July 1948 and had ordinarily resided in India, or migrated after that date and were registered by an authorized officer after residing for 6 months.<br/>' +
-            '<strong>3. Migrants to Pakistan who Returned (Article 7):</strong> A person who migrated to Pakistan after 1st March 1947 lost Indian citizenship, unless they returned to India under a permanent resettlement permit issued by law.<br/>' +
-            '<strong>4. Persons of Indian Origin Residing Abroad (Article 8):</strong> Any person of Indian origin residing abroad could register as an Indian citizen through Indian diplomatic or consular representatives.'
+          "heading": "II. Citizenship at the Commencement of the Constitution (Articles 5 to 8)",
+          "paragraphs": [
+            "Articles 5 to 8 dealt with citizenship on <strong>26th January 1950</strong> during Partition:<br/>• <strong>By Domicile (Article 5):</strong> A person living in India who was born in India, either parent was born in India, or resided in India for at least 5 years before 1950.<br/>• <strong>Migrants from Pakistan (Article 6):</strong> Persons migrating to India before 19th July 1948 or registered after residing for 6 months.<br/>• <strong>Migrants to Pakistan (Article 7):</strong> Persons moving to Pakistan after 1st March 1947 lost citizenship, unless returning under permanent resettlement permits.<br/>• <strong>Indians Abroad (Article 8):</strong> Persons of Indian origin living overseas registered through Indian diplomatic missions."
           ]
         },
         {
-          heading: 'III. Termination, Plenary Parliamentary Power, and Statutory Modes',
-          paragraphs: [
-            '<strong>Article 9 (Voluntary Acquisition of Foreign Citizenship):</strong> Re-affirms the single citizenship rule. If any Indian citizen voluntarily acquires the citizenship of a foreign country, their Indian citizenship terminates automatically.<br/>' +
-            '<strong>Article 10 (Continuance of Rights):</strong> Every citizen continues to remain a citizen subject to any law that may be enacted by Parliament.<br/>' +
-            '<strong>Article 11 (Plenary Power of Parliament):</strong> Article 11 granted full and supreme power to Parliament to regulate the acquisition, termination, and all other matters relating to citizenship. In exercise of this constitutional mandate, Parliament enacted the <strong>Citizenship Act, 1955</strong>, establishing five permanent modes of acquisition: (1) Birth, (2) Descent, (3) Registration, (4) Naturalization, and (5) Incorporation of Territory.'
+          "heading": "III. Termination, Parliament's Power & Everyday Example",
+          "paragraphs": [
+            "• <strong>Loss of Citizenship (Article 9):</strong> If an Indian citizen voluntarily acquires foreign citizenship, their Indian citizenship terminates automatically.<br/>• <strong>Power of Parliament (Article 11):</strong> Parliament enacted the <strong>Citizenship Act, 1955</strong>, providing 5 permanent modes to get citizenship: (1) Birth, (2) Descent, (3) Registration, (4) Naturalization, and (5) Incorporation of Territory.<br/><em>Everyday Example:</em> A student born in Bihar moves to Maharashtra for studies and applies for a state civil service post. A local official rejects him as an \"outsider\". Under the Single Citizenship and Single Domicile rule (*Pradeep Jain*), this rejection is unconstitutional. Every Indian citizen carries equal rights across all states."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'State Trading Corporation of India v. Commercial Tax Officer',
-          citation: 'AIR 1963 SC 1811 (9-Judge Constitution Bench)',
-          facts: 'The State Trading Corporation, a government company, filed a writ petition claiming fundamental rights under Article 19 as an Indian citizen.',
-          ratio: 'The Supreme Court held that nationality and citizenship are distinct concepts. A corporation is a legal entity, not a natural person. "Citizen" under Part II and the Citizenship Act, 1955 is strictly confined to natural human beings.'
+          "name": "State Trading Corporation of India v. Commercial Tax Officer",
+          "citation": "AIR 1963 SC 1811 (9-Judge Constitution Bench)",
+          "facts": "A state-owned commercial corporation filed a writ petition claiming fundamental freedoms under Article 19 as an Indian citizen.",
+          "ratio": "The Supreme Court ruled that nationality and citizenship are distinct concepts. A corporation is a separate legal entity, not a natural person. \"Citizen\" under Part II and the Citizenship Act, 1955 is strictly confined to natural human beings."
         },
         {
-          name: 'Pradeep Jain v. Union of India',
-          citation: '(1984) 3 SCC 654',
-          facts: 'State governments created wholesale regional reservation in medical colleges based on residential domicile in the State.',
-          ratio: 'The Supreme Court held that there is only one citizenship and only one domicile in India—the domicile of India. There is no concept of separate State citizenship or State domicile under the Indian Constitution.'
+          "name": "Pradeep Jain v. Union of India",
+          "citation": "(1984) 3 SCC 654",
+          "facts": "State medical colleges reserved wholesale seats exclusively for candidates having local state domicile.",
+          "ratio": "The Supreme Court ruled that the Indian Constitution recognizes only one citizenship and only one domicile—the domicile of India. States cannot treat citizens from other Indian states as foreigners or outsiders."
         }
       ],
-      conclusion: 'Part II of the Constitution reflects a balance between addressing post-partition migrations and granting Parliament authority under Article 11 to adapt nationality laws to evolving international and domestic demands.'
+      "criticalAnalysis": "Part II provided practical answers to Partition migrations while giving Parliament full authority under Article 11 to update citizenship rules to meet changing modern needs.",
+      "conclusion": "In conclusion, the Indian Constitution guarantees a single, uniform citizenship across the entire country, uniting diverse communities under one common constitutional identity."
     }
   },
   {
-    id: 'p1-q1b',
-    qNum: 'Q1 (b)',
-    marks: 5,
-    question: 'Doctrine of Severability.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Reappeared in 2025 Paper' },
+    "id": "p1-q1b",
+    "qNum": "Q1 (b)",
+    "marks": 5,
+    "question": "Doctrine of Severability.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Core Article 13 Concept"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Article 13(1) and Article 13(2) of the Constitution of India; specifically anchored in the qualifying phrase "to the extent of such inconsistency".',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Article 13(1) and Article 13(2) of the Constitution of India; anchored in the qualifying phrase: \"to the extent of such inconsistency\".",
+      "sections": [
         {
-          heading: 'I. Constitutional Genesis and Juristic Objective',
-          paragraphs: [
-            'The Doctrine of Severability (also termed the Doctrine of Separability) is an essential rule of constitutional interpretation derived directly from the qualifying words "to the extent of such inconsistency" occurring in Article 13(1) (regarding pre-constitutional laws) and Article 13(2) (regarding post-constitutional laws). The fundamental objective of this doctrine is to reconcile judicial review with legislative supremacy. When a court discovers that a statutory enactment infringes upon Fundamental Rights guaranteed in Part III, the court is not bound to strike down the statute in its entirety. Instead, the court acts like a surgeon, cutting out only the unconstitutional clause while preserving the valid and constitutional remainder of the Act.',
-            'This doctrine prevents legislative paralysis by ensuring that valid, beneficial statutory provisions are not unnecessarily discarded due to the invalidity of a separable, subordinate clause.'
+          "heading": "I. Meaning of Severability in Simple Words",
+          "paragraphs": [
+            "The word <strong>\"sever\"</strong> means to cut, separate, or divide. The <strong>Doctrine of Severability</strong> (also called the Doctrine of Separability) is a common-sense constitutional rule based on the words <em>\"to the extent of such inconsistency\"</em> in Article 13(1) and Article 13(2).",
+            "When a court finds that a particular section or clause of an Act violates a Fundamental Right, does the court have to strike down the entire statute? The answer is an emphatic <strong>NO</strong>. The court acts like a skilled surgeon: it cuts out only the bad, unconstitutional clause and saves the healthy remainder of the statute, as long as the remaining law can stand and work on its own without the invalid part."
           ]
         },
         {
-          heading: 'II. The Operational Mechanism: The Blue-Pencil Test and Legislative Intent',
-          paragraphs: [
-            'To determine whether the invalid portion of a statute can be severed from the valid portion, Indian constitutional courts apply the classical <strong>"Blue-Pencil Test"</strong> alongside the paramount test of <strong>Legislative Intent</strong>:<br/>' +
-            '<strong>1. Test of Separability:</strong> The court mentally runs a blue pencil over the offending, unconstitutional clause. If after striking out the invalid section, what remains is an independent, coherent, and workable legal code capable of being enforced on its own, the valid portion survives.<br/>' +
-            '<strong>2. Test of Legislative Intent:</strong> The court must ascertain whether the legislature would have enacted the surviving portion independently without the unconstitutional portion. If the valid and invalid provisions are so inseparably linked that the legislature intended them to operate only as an indivisible, composite whole, the entire Act must be struck down.<br/>' +
-            '<strong>3. Test of Truncation:</strong> If after removing the unconstitutional section, what remains is so incomplete and unworkable that enforcing it would defeat the core purpose of the original Act, severability cannot be applied and the entire statute must fall.'
+          "heading": "II. How Severability Works: The Blue-Pencil Test",
+          "paragraphs": [
+            "To separate the valid parts of a law from the invalid parts, Indian courts apply the classical <strong>\"Blue-Pencil Test\"</strong> alongside the paramount test of <strong>Legislative Intent</strong>:<br/>• <strong>Can it Stand Alone?</strong> If you strike out the invalid clause with a blue pencil, does the rest of the statute make complete sense and remain workable? If yes, the remaining law survives.<br/>• <strong>What was the Lawmaker's Goal?</strong> If the valid and invalid parts are so tangled together that separating them leaves behind an incomplete, broken code that the legislature never intended to pass alone, the entire Act must fall (*R.M.D.C. v. Union of India*)."
+          ]
+        },
+        {
+          "heading": "III. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> Parliament passes a new 60-section Motor Vehicles Act to improve road safety, digital driving licenses, and traffic management. However, Section 22 gives traffic police arbitrary power to seize vehicles and lock up drivers for 15 days without any magistrate's order or hearing. A transport union challenges the law. The Supreme Court applies the Blue-Pencil Test: Section 22 is unconstitutional under Articles 14 and 21. But because the other 59 sections create a workable road safety system on their own, the Court severs and cancels Section 22 while keeping the other 59 sections alive and valid (*A.K. Gopalan v. State of Madras*)."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'A.K. Gopalan v. State of Madras',
-          citation: 'AIR 1950 SC 27',
-          facts: 'Section 14 of the Preventive Detention Act, 1950 prohibited a detenu from disclosing the grounds of detention before a court of law, completely barring judicial review.',
-          ratio: 'The Supreme Court struck down Section 14 as unconstitutional for violating Article 22(5) and Article 32. However, applying the Doctrine of Severability, the Court held that Section 14 was severable from the rest of the Act; its deletion did not affect the remaining sections, which continued to operate as valid law.'
+          "name": "A.K. Gopalan v. State of Madras",
+          "citation": "AIR 1950 SC 27",
+          "facts": "Section 14 of the Preventive Detention Act, 1950 barred detainees from telling the court the grounds of their arrest or disclosing police reports.",
+          "ratio": "The Supreme Court severed and struck down Section 14 as unconstitutional. However, the rest of the Preventive Detention Act was saved because it could operate independently without Section 14."
         },
         {
-          name: 'R.M.D.C. v. Union of India',
-          citation: 'AIR 1957 SC 628',
-          facts: 'The Prize Competitions Act, 1955 regulated prize competitions. The definition of "prize competition" in Section 2(d) covered both gambling competitions and competitions requiring substantial skill.',
-          ratio: 'Justice Venkatarama Ayyar laid down seven definitive propositions governing severability. The Court held that gambling competitions were distinct and severable from competitions involving skill. The Act was severed and upheld as valid for gambling competitions.'
-        },
-        {
-          name: 'Kihoto Hollohan v. Zachillhu',
-          citation: '1992 Supp (2) SCC 651',
-          facts: 'Paragraph 7 of the Tenth Schedule (Anti-Defection Law) excluded judicial review without being ratified by State Legislatures under Article 368(2).',
-          ratio: 'The Constitution Bench held that Paragraph 7 was severable from the rest of the Tenth Schedule. The invalidity of Paragraph 7 did not affect the remaining provisions of the Tenth Schedule, which were upheld.'
+          "name": "R.M.D.C. v. Union of India",
+          "citation": "AIR 1957 SC 628",
+          "facts": "The Prize Competitions Act regulated prize competitions, defining them to include both gambling competitions and genuine competitions of skill under one clause.",
+          "ratio": "The Supreme Court laid down the definitive rules of severability: Gambling competitions were easily separable from skill competitions. The unconstitutional portion was severed, and the valid portion was upheld."
         }
       ],
-      conclusion: 'The Doctrine of Severability functions as a vital instrument of judicial restraint, preserving the democratic will of the legislature to the maximum extent permissible under constitutional limits.'
+      "criticalAnalysis": "Severability prevents legal chaos. Instead of forcing Parliament to draft complex laws from scratch every time one clause is flawed, courts surgically remove only the offending section.",
+      "conclusion": "In conclusion, the Doctrine of Severability saves good laws from total destruction by surgically removing only the unconstitutional clauses, keeping the valid portions alive."
     }
   },
   {
-    id: 'p1-q1c',
-    qNum: 'Q1 (c)',
-    marks: 5,
-    question: 'Concept of welfare state and social justice.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Reappeared in 2025 Paper' },
+    "id": "p1-q1c",
+    "qNum": "Q1 (c)",
+    "marks": 5,
+    "question": "Concept of welfare state and social justice.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Preamble & Part IV Foundation"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Preamble ("JUSTICE, social, economic and political"); Part IV of the Constitution (Directive Principles of State Policy, Articles 38, 39, 39A, 41, 42, 43, 46).',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Preamble of the Constitution of India; Part IV (Directive Principles of State Policy, Articles 36 to 51); Articles 38 and 39.",
+      "sections": [
         {
-          heading: 'I. Conceptual Evolution: From Laissez-Faire Police State to Modern Welfare State',
-          paragraphs: [
-            'The concept of a Welfare State marks a profound philosophical departure from the classical, colonial "Police State". While a police state operated on the negative, laissez-faire doctrine—limiting the role of the State to maintaining external defense, internal law and order, and enforcing commercial contracts—a Welfare State is rooted in the positive obligation of the State to promote the collective socio-economic well-being of its citizenry. The framers of the Indian Constitution recognized that political freedom without economic freedom is meaningless. Therefore, they dedicated Part IV of the Constitution (Directive Principles of State Policy) to establishing a socialist, democratic welfare state.',
-            'As Justice Gajendragadkar observed, the concept of a welfare state is not a static dogma; it is an active, dynamic constitutional commitment to alleviate human suffering, eliminate economic exploitation, and ensure an egalitarian social order.'
+          "heading": "I. What is a Welfare State? (Police State vs. Welfare State)",
+          "paragraphs": [
+            "Before 1947, the British colonial government operated as a <strong>\"Police State\"</strong>. Its main goals were narrow: collecting taxes, maintaining law and order, and protecting colonial rule. It did not take responsibility for the health, education, or welfare of ordinary Indians.",
+            "The Indian Constitution completely rejected this colonial model and created a <strong>Welfare State</strong>. A welfare state is a democracy where the government takes active responsibility for the social and economic wellbeing of all citizens—ensuring that the poor, the sick, the aged, and the vulnerable are protected from poverty and exploitation."
           ]
         },
         {
-          heading: 'II. Pillars of Social Justice under Part IV of the Constitution',
-          paragraphs: [
-            'Social justice is the constitutional bridge transforming formal political equality into substantive human emancipation. It encompasses several key constitutional provisions:<br/>' +
-            '<strong>1. Article 38 (The Grundnorm of Welfare):</strong> Directs the State to promote the welfare of the people by securing a social order informed by justice—social, economic, and political—and to eliminate inequalities in income, status, and opportunities.<br/>' +
-            '<strong>2. Distributive Justice (Article 39(b) & (c)):</strong> Mandates that the ownership and control of the material resources of the community must be distributed to subserve the common good, and that the economic system must not result in the concentration of wealth to the common detriment.<br/>' +
-            '<strong>3. Labour and Human Welfare (Articles 41 to 43):</strong> Enjoins the State to secure the right to work, education, public assistance, just and humane conditions of work, maternity relief, and a living wage for all workers.<br/>' +
-            '<strong>4. Protection of the Marginalized (Article 46):</strong> Commands the State to promote with special care the educational and economic interests of the weaker sections, particularly Scheduled Castes and Scheduled Tribes.'
+          "heading": "II. Meaning of Social Justice under the Constitution",
+          "paragraphs": [
+            "The <strong>Preamble</strong> promises to secure to all citizens: <em>\"JUSTICE, social, economic and political\"</em>. In <em>Consumer Education & Research Centre (1995)</em>, the Supreme Court explained that <strong>Social Justice</strong> means removing social inequalities and giving equal human dignity to every citizen.",
+            "• <strong>Article 38:</strong> Commands the State to promote welfare by securing a social order guided by justice, and to minimize inequalities in income, status, and facilities.<br/>• <strong>Article 39:</strong> Requires the State to ensure fair distribution of material resources, prevent the concentration of wealth, guarantee equal pay for equal work, and protect children from abuse."
+          ]
+        },
+        {
+          "heading": "III. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> Millions of children from poor families were dropping out of government schools due to hunger and poverty. Under the mandate of Articles 38, 39(f), and 47 (raising nutrition and public health), the government launched the nationwide Mid-Day Meal Scheme and passed the Right to Education Act. This is a practical example of a Welfare State in action: providing free meals and education to remove social inequality and give every poor child a fair start in life (*PUCL v. Union of India*)."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'State of Bihar v. Kameshwar Singh',
-          citation: 'AIR 1952 SC 252',
-          facts: 'Zamindars challenged the constitutional validity of the Bihar Land Reforms Act, 1950, which abolished feudal estates without paying commercial market compensation.',
-          ratio: 'The Supreme Court upheld the legislation, ruling that the abolition of the feudal zamindari system and the redistribution of agricultural land to landless peasants is an essential mandate of the welfare state under Part IV.'
+          "name": "Consumer Education & Research Centre v. Union of India",
+          "citation": "(1995) 3 SCC 42",
+          "facts": "Asbestos factory workers suffered terminal lung diseases without medical cover or compensation from employers.",
+          "ratio": "The Supreme Court ruled that social justice is a fundamental right. The right to health and medical care for workers is an integral part of the right to life under Article 21, read with Articles 38 and 39."
         },
         {
-          name: 'Air India Statutory Corporation v. United Labour Union',
-          citation: '(1997) 9 SCC 377',
-          facts: 'Contract labourers employed as sweepers and cleaners at international airports sought regular absorption upon abolition of the contract labour system.',
-          ratio: 'The Supreme Court ruled that social justice is a fundamental right. In a welfare state, economic empowerment is the essential foundation for realizing human rights. The Court ordered the direct absorption of contract workers.'
+          "name": "Air India Statutory Corporation v. United Labour Union",
+          "citation": "(1997) 9 SCC 377",
+          "facts": "Contract labourers working for statutory corporations sought permanent absorption upon abolition of the contract labour system.",
+          "ratio": "The Supreme Court held that the founding goal of the Constitution is to build a socialist welfare state. Social justice requires courts to interpret laws in favor of the weak and exploited."
         }
       ],
-      conclusion: 'The concept of a welfare state elevates social justice from an abstract moral sentiment into a binding constitutional imperative, providing the foundation for affirmative action, land reforms, and social security in India.'
+      "criticalAnalysis": "A welfare state bridges the gap between legal equality on paper and real-life equality. Without social justice, the political right to vote has little meaning for a citizen who is starving.",
+      "conclusion": "In conclusion, the concept of a Welfare State transforms the Constitution from a set of formal legal rules into a living charter for economic dignity, equality, and human welfare."
     }
   },
   {
-    id: 'p1-q1d',
-    qNum: 'Q1 (d)',
-    marks: 5,
-    question: 'Preventive Detention under Indian Constitution.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Appeared in All 3 Papers' },
+    "id": "p1-q1d",
+    "qNum": "Q1 (d)",
+    "marks": 5,
+    "question": "Preventive Detention under Indian Constitution.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Master Liberty Safeguard"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Article 22(3) to 22(7) of the Constitution of India; National Security Act (NSA), 1980; Prevention of Illicit Traffic in Narcotic Drugs and Psychotropic Substances Act (PITNDPS), 1988; COFEPOSA, 1974.',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Article 22 (Clauses 4 to 7) of the Constitution of India; National Security Act (NSA), 1980; COFEPOSA, 1974.",
+      "sections": [
         {
-          heading: 'I. Concept and Constitutional Anomaly of Preventive Detention',
-          paragraphs: [
-            'Preventive detention stands in stark contrast to punitive detention. While punitive detention is intended to punish a person for an offence established through a regular judicial trial in a competent court of law, preventive detention is not punitive; it is precautionary. It involves the detention of a person without criminal charge, without investigation, and without judicial trial, purely on the subjective satisfaction of the executive to prevent them from committing acts prejudicial to state security, public order, or essential supplies in the future.',
-            'India is one of the rare constitutional democracies in the world that incorporates provisions permitting preventive detention during peacetime within the chapter on Fundamental Rights (Part III). Aware of the grave potential for executive tyranny, the framers surrounded this power with strict constitutional safeguards in Article 22.'
+          "heading": "I. Punitive Detention vs. Preventive Detention",
+          "paragraphs": [
+            "To understand preventive detention, we must first understand the two types of detention in criminal law:<br/>• <strong>Punitive Detention:</strong> Jailing a person <em>after</em> a regular court trial, because they were proven guilty of committing a crime beyond reasonable doubt.<br/>• <strong>Preventive Detention:</strong> Jailing a person <em>without</em> any court trial, without formal charges, and without conviction, purely on executive suspicion to stop them from committing a dangerous act in the future.",
+            "India is one of the few democracies in the world that allows preventive detention in peacetime. It is called a <em>\"necessary evil\"</em> to defend national security, but the Constitution creates strict safeguards under <strong>Article 22(4) to (7)</strong> to prevent police abuse."
           ]
         },
         {
-          heading: 'II. Constitutional Safeguards under Article 22(4) and 22(5)',
-          paragraphs: [
-            'Under Article 22(3), a person detained under a preventive detention law is denied the ordinary safeguards of Article 22(1) and (2) (right to be informed of grounds immediately, right to consult legal counsel, and production before a magistrate within 24 hours). However, the Constitution provides alternative minimum safeguards:<br/>' +
-            '<strong>1. Advisory Board Review (Article 22(4)):</strong> No person can be detained for a period exceeding 3 months unless an independent Advisory Board—consisting of persons qualified to be High Court judges—reports before the expiration of 3 months that there is sufficient cause for such detention.<br/>' +
-            '<strong>2. Communication of Grounds (Article 22(5)):</strong> The detaining authority must communicate the grounds of detention to the detenu at the earliest possible opportunity.<br/>' +
-            '<strong>3. Earliest Opportunity of Representation (Article 22(5)):</strong> The authority must afford the detenu the earliest opportunity to make a representation against the detention order.<br/>' +
-            '<strong>4. Exception (Article 22(6)):</strong> The authority is not required to disclose facts which it considers against the public interest to disclose.'
+          "heading": "II. The Three Mandatory Constitutional Safeguards (Article 22)",
+          "paragraphs": [
+            "Because a detained person cannot hire a lawyer to fight their case in a normal court under Article 22(1), the Constitution provides three strict protections:<br/><strong>1. Three-Month Limit & Advisory Board (Art 22(4)):</strong> A person cannot be detained for more than <strong>3 months</strong> unless an independent <strong>Advisory Board</strong> (headed by High Court judges) reviews the case and confirms there is sufficient cause for detention.<br/><strong>2. Right to Know the Grounds (Art 22(5)):</strong> The authority must tell the detainee the factual reasons for their detention as soon as possible. The reasons must be clear, specific, and relevant; vague grounds make the detention illegal (*Shiban Lal Saksena*).<br/><strong>3. Earliest Opportunity to Object (Art 22(5)):</strong> The detainee must be given the earliest chance to submit a written objection against the detention order to the government."
+          ]
+        },
+        {
+          "heading": "III. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> During elections, police detain a local politician under the National Security Act, giving him a vague one-line note saying: \"You are likely to disturb peace.\" The politician submits a written objection, but the home department keeps the file pending for 45 days without looking at it. This detention is completely illegal on two grounds: (a) vague grounds of arrest, and (b) unjustified delay in deciding his representation. The High Court will issue a Writ of Habeas Corpus and order his immediate release (*A.K. Roy v. Union of India*)."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'A.K. Roy v. Union of India (National Security Act Case)',
-          citation: '(1982) 1 SCC 271',
-          facts: 'Constitutional challenge to the validity of the National Security Act, 1980 on grounds of procedural unfairness.',
-          ratio: 'The Constitution Bench upheld the validity of preventive detention laws, but held that a detenu must be treated humanely, housed separately from convicts, allowed visits by family and friends, and entitled to assistance by a friend before the Advisory Board.'
+          "name": "A.K. Roy v. Union of India (NSA Case)",
+          "citation": "AIR 1982 SC 710",
+          "facts": "The constitutional validity of the National Security Act, 1980 was challenged as an excessive invasion of personal liberty.",
+          "ratio": "The Supreme Court upheld preventive detention as a necessary evil, but ruled that detainees must be kept in clean civil custody, allowed family visits, and given full opportunity to represent their case before the Advisory Board."
         },
         {
-          name: 'Rekha v. State of Tamil Nadu',
-          citation: '(2011) 5 SCC 244',
-          facts: 'A preventive detention order was passed under the Tamil Nadu Goondas Act while a regular bail application was already pending before the criminal court.',
-          ratio: 'The Supreme Court quashed the detention order, holding that preventive detention is an extraordinary power. When ordinary criminal law is sufficient to deal with an offence, preventive detention cannot be invoked as an administrative shortcut.'
+          "name": "Shiban Lal Saksena v. State of Uttar Pradesh",
+          "citation": "AIR 1954 SC 179",
+          "facts": "A detention order was based on two grounds, but one ground was later found to be completely false and non-existent.",
+          "ratio": "The Supreme Court held that if even one ground of detention is vague, false, or irrelevant, the entire detention order is void, because it is impossible to know how much that false ground influenced the magistrate's mind."
         }
       ],
-      conclusion: 'Because preventive detention deprives personal liberty without a trial, the Supreme Court has consistently held that statutory safeguards must be strictly and scrupulously observed; the slightest procedural lapse renders the detention illegal.'
+      "criticalAnalysis": "Because preventive detention takes away personal liberty without a trial, courts apply the rule of strict compliance: any procedural mistake by the police immediately sets the detainee free.",
+      "conclusion": "In conclusion, while the Constitution permits preventive detention to protect public order, Article 22 strictly binds the government to time limits, Advisory Board reviews, and clear grounds."
     }
   },
   {
-    id: 'p1-q1e',
-    qNum: 'Q1 (e)',
-    marks: 5,
-    question: 'Equality in Public Employment under Article 16.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Affirmative Action Code' },
+    "id": "p1-q1e",
+    "qNum": "Q1 (e)",
+    "marks": 5,
+    "question": "Equality in Public Employment under Article 16.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Master Public Employment Article"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Article 16 of the Constitution of India; amended by the 77th, 81st, 85th, and 103rd Constitutional Amendment Acts.',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Article 16 (Clauses 1 to 6) and Article 335 of the Constitution of India; 77th, 81st, and 103rd Constitutional Amendments.",
+      "sections": [
         {
-          heading: 'I. The General Rule: Equal Opportunity for All Citizens (Article 16(1) & (2))',
-          paragraphs: [
-            'Article 16 applies the general principle of equality (from Article 14) specifically to government jobs and appointments. In India, a government job is not just a way to earn a living; it gives a citizen a direct voice in administration and governance. Therefore, the Constitution ensures that every citizen has a fair and equal chance to apply for and hold public office.',
-            '• <strong>Article 16(1) (Equality of Opportunity):</strong> Guarantees equal opportunity for all citizens in matters of government employment or appointment to any office under the State. This protection covers every stage of employment: advertisement of posts, selection tests, interviews, appointment, salary scales, promotions, and retirement.<br/>' +
-            '• <strong>Article 16(2) (Specific Non-Discrimination Grounds):</strong> Prohibits the State from discriminating against any citizen on seven specific grounds: <em>religion, race, caste, sex, descent, place of birth, residence, or any of them</em>. No citizen can be disqualified or declared ineligible on these grounds alone.'
+          "heading": "I. General Rule of Equal Opportunity in Government Jobs",
+          "paragraphs": [
+            "<strong>Article 16 of the Constitution of India</strong> guarantees that every citizen has an equal chance when applying for government jobs or public offices. While Article 14 provides general equality, Article 16 is a specialized rule made specifically for state employment.",
+            "• <strong>Article 16(1):</strong> Guarantees equal opportunity for all citizens in matters relating to employment or appointment under the State.<br/>• <strong>Article 16(2) (Seven Prohibited Grounds):</strong> The State cannot discriminate against any citizen on grounds of: <em>religion, race, caste, sex, descent, place of birth, residence</em>, or any of them. Notice that Article 16 adds \"descent\" and \"residence\" to the list of prohibited grounds."
           ]
         },
         {
-          heading: 'II. Affirmative Action and Special Exceptions (Article 16(3) to 16(6))',
-          paragraphs: [
-            'Treating unequals equally only increases inequality. For true equality, the Constitution permits positive help (affirmative action) for backward and disadvantaged groups through special exceptions:<br/>' +
-            '<strong>1. Residence Requirement (Article 16(3)):</strong> Parliament (not State Legislatures) may make a law requiring residence within a particular State or Union Territory for certain local government posts.<br/>' +
-            '<strong>2. Reservation for Backward Classes (Article 16(4)):</strong> Allows the State to reserve seats for any backward class of citizens that is not adequately represented in government services.<br/>' +
-            '<strong>3. Promotion Quotas and Seniority (Articles 16(4A) & 16(4B)):</strong> Permits reservation in promotions with natural seniority for Scheduled Castes (SCs) and Scheduled Tribes (STs), and allows unfilled reserved seats to be carried forward to the next year.<br/>' +
-            '<strong>4. Economically Weaker Sections (Article 16(6)):</strong> Added by the 103rd Amendment Act (2019), allowing up to 10% reservation for financially disadvantaged citizens from general (unreserved) categories.'
+          "heading": "II. Permissible Exceptions and Job Reservations",
+          "paragraphs": [
+            "True equality does not mean treating unequals equally. The Constitution allows the government to take positive steps to uplift backward classes:<br/>• <strong>Reservations for Backward Classes (Art 16(4)):</strong> The State can reserve posts for any <em>\"backward class of citizens which, in the opinion of the State, is not adequately represented in the services under the State.\"</em><br/>• <strong>Reservations in Promotions for SCs and STs (Art 16(4A)):</strong> Added by the 77th Amendment (1995) to allow reservation in promotions for Scheduled Castes and Scheduled Tribes.<br/>• <strong>Backlog Vacancies (Art 16(4B)):</strong> Added by the 81st Amendment (2000), allowing unfilled quota seats to be carried forward without counting against the 50% ceiling.<br/>• <strong>10% EWS Quota (Art 16(6)):</strong> Added by the 103rd Amendment (2019) to provide up to 10% reservation for Economically Weaker Sections in the general category."
           ]
         },
         {
-          heading: 'III. Everyday Practical Example & Key Rules to Remember',
-          paragraphs: [
-            '<em>Everyday Example:</em> Suppose the State Public Service Commission advertises 1,000 officer posts. All citizens who meet the educational criteria can apply under Article 16(1). The State can set aside posts for SC, ST, OBC, and EWS candidates under Article 16(4) and 16(6). However, as ruled in the famous <em>Indra Sawhney (Mandal)</em> case, total reservations cannot cross 50%, and wealthy individuals within the OBC category ("creamy layer") must be excluded so that benefits reach genuinely needy families.'
+          "heading": "III. Everyday Practical Scenario and the Creamy Layer Rule",
+          "paragraphs": [
+            "• <strong>The 50% Limit and Creamy Layer:</strong> In <em>Indra Sawhney (1992)</em>, the Supreme Court ruled that reservations cannot exceed <strong>50%</strong> of total seats, and that wealthy, advanced members of backward classes (the <strong>Creamy Layer</strong>) must be excluded so benefits reach the truly needy.<br/><em>Everyday Example:</em> The State Public Service Commission advertises 500 posts for Sub-Inspectors. An applicant from an OBC background whose parents are high-earning Grade-1 gazetted officers earning ₹30 lakh a year applies under the OBC quota. Under the Creamy Layer rule (*Indra Sawhney*), he cannot claim reservation benefits; he must compete in the open general merit pool. This protects quota seats for underprivileged candidates."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'State of Kerala v. N.M. Thomas',
-          citation: '(1976) 2 SCC 310',
-          facts: 'Lower-level SC and ST government clerks were given extra time to pass departmental promotion tests.',
-          ratio: 'The 7-Judge Bench held that Article 16(4) is not an exception to Article 16(1), but an active method of achieving real, substantive equality. Helping historically disadvantaged groups is part of true equality.'
+          "name": "Indra Sawhney v. Union of India (Mandal Case)",
+          "citation": "AIR 1993 SC 477 (9-Judge Bench)",
+          "facts": "Challenge to the central government's implementation of 27% job reservations for Other Backward Classes (OBCs).",
+          "ratio": "The 9-Judge Bench upheld 27% reservation for OBCs, ruling that: (a) backward classes can be identified based on caste; (b) total reservations must not cross 50%; and (c) the \"Creamy Layer\" must be excluded from quota benefits."
         },
         {
-          name: 'Indra Sawhney v. Union of India (Mandal Case)',
-          citation: 'AIR 1993 SC 477 (9-Judge Constitution Bench)',
-          facts: 'The Central Government implemented 27% reservation for Other Backward Classes (OBCs) in central public services based on the Mandal Commission report.',
-          ratio: 'The Supreme Court upheld 27% OBC reservation with three vital safeguards: (1) Wealthy individuals ("creamy layer") must be excluded; (2) Total reservations must not exceed the 50% ceiling; and (3) Reservations under Art. 16(4) apply only to initial entry, not promotions.'
+          "name": "M. Nagaraj v. Union of India",
+          "citation": "(2006) 8 SCC 212",
+          "facts": "Challenge to constitutional amendments allowing reservation in promotions with consequential seniority for SCs and STs.",
+          "ratio": "The Supreme Court upheld the amendments, ruling that the State must collect quantifiable data showing backwardness and inadequacy of representation, while maintaining administrative efficiency under Article 335."
         }
       ],
-      conclusion: 'Article 16 strikes an ideal balance between individual merit and social justice, ensuring that government offices reflect all sections of Indian society while keeping administration efficient.'
+      "criticalAnalysis": "Article 16 balances merit and social justice. It ensures that public offices reflect India's diverse society rather than remaining the exclusive privilege of a wealthy few.",
+      "conclusion": "In conclusion, Article 16 secures equal opportunity in public employment while permitting reasonable affirmative action to bring disadvantaged classes into the mainstream of governance."
     }
   },
   {
-    id: 'p1-q1f',
-    qNum: 'Q1 (f)',
-    marks: 5,
-    question: 'Secularism under Indian Constitution.',
-    flairs: [
-      { type: 'repeat', label: '🔥 Basic Structure Feature' },
+    "id": "p1-q1f",
+    "qNum": "Q1 (f)",
+    "marks": 5,
+    "question": "Secularism under Indian Constitution.",
+    "flairs": [
+      {
+        "type": "repeat",
+        "label": "🔥 Basic Structure Pillar"
+      }
     ],
-    answer: {
-      statutoryFramework: 'Preamble (word "SECULAR" inserted by 42nd Amendment, 1976); Articles 25, 26, 27, 28, 15(1), and 16(2) of the Constitution of India.',
-      sections: [
+    "answer": {
+      "statutoryFramework": "Preamble of the Constitution of India; 42nd Amendment Act, 1976; Articles 25 to 28 (Freedom of Religion); Article 15; Article 368.",
+      "sections": [
         {
-          heading: 'I. The Indian Meaning of Secularism: Positive Respect, Not Wall of Separation',
-          paragraphs: [
-            'Secularism is a fundamental feature of the Indian Constitution. However, Indian secularism is very different from Western models (like France or the USA). In the West, secularism means a strict "wall of separation" between Church and State—the government ignores religion completely, and religion has no role in public life.',
-            'In contrast, India practices <strong>Positive Secularism</strong>. This is based on two core ideas:<br/>' +
-            '• <em>Sarva Dharma Sambhava:</em> Equal respect and equal protection for all religious communities.<br/>' +
-            '• <em>Dharma Nirpekshta:</em> The Indian State has no official state religion and treats all citizens equally regardless of their faith.<br/>' +
-            'The Indian State does not oppose religion; it maintains an equal distance from all religions while retaining the power to step in and end social evils (like untouchability or child marriage).'
+          "heading": "I. Meaning of Secularism: Western vs. Indian Model",
+          "paragraphs": [
+            "The word <strong>\"SECULAR\"</strong> was explicitly added to the Preamble of the Constitution by the <strong>42nd Constitutional Amendment Act of 1976</strong>. However, India was secular right from 26th January 1950 through the religious freedoms guaranteed under Articles 25 to 28.",
+            "• <strong>The Western Model (Strict Separation):</strong> In Western countries (like France or the USA), secularism means strict separation between Church and State. The State does not recognize, support, or aid any religion, maintaining a wall of separation.<br/>• <strong>The Indian Model (Positive Secularism):</strong> India adopted <strong>Positive Secularism</strong>, rooted in the ancient philosophy of <em>\"Sarva Dharma Sambhava\"</em> (equal respect for all religions). The Indian State has no official state religion, treats all religions equally, and protects the freedom of every citizen to follow their faith."
           ]
         },
         {
-          heading: 'II. Constitutional Protection of Religious Freedom (Articles 25 to 28)',
-          paragraphs: [
-            'The Constitution guarantees freedom of religion through four key articles:<br/>' +
-            '<strong>1. Individual Freedom of Conscience (Article 25):</strong> Every individual has the right to believe, practice, and propagate their religion, subject to public order, health, and morality. The State can also regulate economic activities connected with religion and reform Hindu religious institutions (like opening temples to all castes).<br/>' +
-            '<strong>2. Freedom of Religious Groups (Article 26):</strong> Every religious denomination has the right to establish institutions, own property, and manage its religious affairs.<br/>' +
-            '<strong>3. No Taxes to Promote One Religion (Article 27):</strong> The State cannot force any taxpayer to pay money for the promotion or maintenance of any specific religion.<br/>' +
-            '<strong>4. Ban on Religious Instruction in State Schools (Article 28):</strong> No religious teaching is allowed in schools wholly run and funded by government money.'
+          "heading": "II. Constitutional Framework and Basic Structure Status",
+          "paragraphs": [
+            "Secularism is protected across multiple articles in the Constitution:<br/>• <strong>Articles 25 to 28:</strong> Guarantee freedom of conscience, the right to profess, practice, and propagate religion, and manage religious affairs, subject to public order, morality, and health.<br/>• <strong>Articles 15 and 16:</strong> Strictly prohibit the government from discriminating against any citizen on grounds of religion in public places and state jobs.<br/>• <strong>Basic Structure Doctrine:</strong> In the landmark 9-Judge Bench decision in <em>S.R. Bommai v. Union of India (1994)</em>, the Supreme Court ruled that <strong>Secularism is an unalterable part of the Basic Structure</strong> of the Constitution. No political party or government can use state power to promote one religion or attack another."
           ]
         },
         {
-          heading: 'III. Practical Everyday Example & Key Takeaway',
-          paragraphs: [
-            '<em>Everyday Example:</em> The Indian Government helps organize security, sanitation, and transport for Hindu pilgrims during the Kumbh Mela and also provides logistical arrangements for Muslim citizens going on the Haj pilgrimage. The State does not prefer one faith over another; it assists citizens of all religions equally without adopting an official religion.'
+          "heading": "III. Everyday Practical Scenario",
+          "paragraphs": [
+            "<em>Everyday Example:</em> A state government decides to give financial scholarships for school textbooks only to children belonging to one particular religion, refusing aid to children of other faiths. This violates Indian secularism and Article 15. Under positive secularism, the government may support education, but it must treat all communities equally without religious favoritism."
           ]
         }
       ],
-      caseLaws: [
+      "caseLaws": [
         {
-          name: 'S.R. Bommai v. Union of India',
-          citation: '(1994) 3 SCC 1 (9-Judge Constitution Bench)',
-          facts: 'State Governments were dismissed after the demolition of the Babri Masjid for failing to uphold secular constitutional governance.',
-          ratio: 'The 9-Judge Bench ruled that Secularism is an unshakeable part of the Basic Structure of the Indian Constitution. State power cannot be used to promote any religion, and politics must not be mixed with religious extremism.'
+          "name": "S.R. Bommai v. Union of India",
+          "citation": "(1994) 3 SCC 1 (9-Judge Constitution Bench)",
+          "facts": "The President dismissed several state governments under Article 356 after religious violence and communal politics.",
+          "ratio": "The 9-Judge Bench held that Secularism is an essential feature of the Basic Structure of the Constitution. Politics and religion cannot be mixed; any state government that acts against secularism can be lawfully dismissed."
         },
         {
-          name: 'Aruna Roy v. Union of India',
-          citation: '(2002) 7 SCC 368',
-          facts: 'A petition challenged the NCERT school curriculum that introduced basic moral education derived from various world religions.',
-          ratio: 'The Supreme Court held that secularism does not mean hostility toward religion. Teaching universal moral values such as truth, peace, and love found across all major religions does not violate Article 28.'
+          "name": "Aruna Roy v. Union of India",
+          "citation": "(2002) 7 SCC 368",
+          "facts": "A PIL challenged school syllabus guidelines teaching values derived from major world religions as anti-secular.",
+          "ratio": "The Supreme Court ruled that secularism does not mean hostility toward religion. Teaching universal moral values from all religions promotes tolerance and mutual respect among citizens."
         }
       ],
-      conclusion: 'Indian secularism harmonizes religious freedom with social reform, treating every citizen equally without establishing an official State religion.'
+      "criticalAnalysis": "Indian secularism is not anti-religious; it is a positive commitment to religious harmony, preventing majoritarian dominance in a diverse multi-faith nation.",
+      "conclusion": "In conclusion, Secularism is an eternal pillar of the Indian Republic, ensuring equal freedom, respect, and protection for every faith under the rule of law."
     }
   }
 ];
