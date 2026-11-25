@@ -23,7 +23,7 @@ export const skeletalFormatsPaper = {
             heading: 'I. Skeletal Format of a Formal Job Application (Cover Letter)',
             paragraphs: [
               '<div class="format-box">' +
-                '<div class="format-center-head"><div class="format-doc-badge">JOB APPLICATION (COVER LETTER)</div></div>' +
+                '<div class="format-center-head"><div class="format-doc-badge">JOB APPLICATION (COVER LETTER — BLOCK FORMAT)</div></div>' +
                 '<strong>From:</strong><br/>' +
                 '<span class="format-placeholder">[Your Full Name]</span><br/>' +
                 '<span class="format-placeholder">[House / Flat No., Street, City – PIN Code]</span><br/>' +
@@ -222,14 +222,11 @@ export const skeletalFormatsPaper = {
               '<div class="format-box">' +
                 '<div class="format-center-head"><div class="format-doc-badge">MINUTES OF THE MEETING</div></div>' +
                 '<p>The <span class="format-placeholder">[Ordinal, e.g., Seventh]</span> meeting of the <span class="format-placeholder">[Board of Directors / Shareholders]</span> of <span class="format-placeholder">[Company Name]</span> was held at <span class="format-placeholder">[Registered Office / Venue]</span> on <span class="format-placeholder">[Day, Date]</span> at <span class="format-placeholder">[Time]</span>.</p>' +
-                '<div class="format-split-row">' +
-                  '<div>' +
-                    '<strong>Present:</strong><br/>' +
-                    '1. <span class="format-placeholder">[Name]</span> — Chairman (In the Chair)<br/>' +
-                    '2. <span class="format-placeholder">[Name(s)]</span> — Directors<br/>' +
-                    '<strong>In Attendance:</strong> <span class="format-placeholder">[Secretary, Finance Controller]</span><br/>' +
-                    '<strong>Absent (Leave Granted):</strong> <span class="format-placeholder">[Name, if any]</span>' +
-                  '</div>' +
+                '<div class="cv-kv-grid" style="margin-top: 0.65rem;">' +
+                  '<div class="cv-kv-label">1. <span class="format-placeholder">[Chairman Name]</span></div><div class="cv-kv-value" style="text-align: right;"><strong>Present (In the Chair)</strong></div>' +
+                  '<div class="cv-kv-label">2. <span class="format-placeholder">[Director Names]</span></div><div class="cv-kv-value" style="text-align: right;"><strong>Directors</strong></div>' +
+                  '<div class="cv-kv-label">In Attendance: <span class="format-placeholder">[Names]</span></div><div class="cv-kv-value" style="text-align: right;"><strong>Secretary / Finance Controller</strong></div>' +
+                  '<div class="cv-kv-label">Absent (Leave Granted):</div><div class="cv-kv-value" style="text-align: right;"><span class="format-placeholder">[Name, if any]</span></div>' +
                 '</div>' +
                 '<ol class="cv-list" style="margin-top: 0.75rem;">' +
                   '<li><strong>Confirmation of Minutes:</strong> The minutes of the last meeting held on <span class="format-placeholder">[Previous Date]</span> were read, approved as correct, and signed by the Chairman.</li>' +

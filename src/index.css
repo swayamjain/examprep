@@ -1359,6 +1359,11 @@ h1, h2, h3, h4, h5 {
   border-top: 1px dashed var(--border-subtle);
 }
 
+.cv-sign-row > :last-child,
+.format-split-row > :last-child {
+  margin-left: auto;
+}
+
 .format-placeholder {
   color: var(--accent-gold-light);
   font-weight: 600;
