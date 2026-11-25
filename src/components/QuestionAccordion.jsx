@@ -167,14 +167,14 @@ export default function QuestionAccordion({ questionData, isOpen, onToggle, subj
                   <div className="answer-section-title">{sec.heading}</div>
                   {sec.paragraphs ? (
                     sec.paragraphs.map((para, pIdx) => (
-                      <p
+                      <div
                         key={pIdx}
                         className="answer-paragraph"
                         dangerouslySetInnerHTML={{ __html: para }}
                       />
                     ))
                   ) : (
-                    <p
+                    <div
                       className="answer-paragraph"
                       dangerouslySetInnerHTML={{ __html: sec.content }}
                     />

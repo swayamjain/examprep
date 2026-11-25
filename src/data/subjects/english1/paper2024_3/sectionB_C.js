@@ -100,72 +100,108 @@ export const sectionB_C_2024_3 = [
           ]
         },
         {
-          heading: "II. Curriculum Vitae (C.V.) — Corporate Legal Format",
+          heading: "II. Boxed Curriculum Vitae (C.V.) — Corporate Legal Format",
           paragraphs: [
-            "<strong>CURRICULUM VITAE</strong><br/><br/>" +
-            "<strong>1. PERSONAL DETAILS & VITAL PROFILE:</strong><br/>" +
-            "• <strong>Full Name:</strong> Swayam Jain<br/>" +
-            "• <strong>Date of Birth & Age:</strong> 15th August 2002 | Age: 22 Years<br/>" +
-            "• <strong>Nationality:</strong> Indian<br/>" +
-            "• <strong>Professional Bar Status:</strong> Advocate, Bar Council of Maharashtra & Goa (Roll No. MAH/XXXX/2024)<br/>" +
-            "• <strong>Residential Address:</strong> Flat No. 402, Royal Palms Enclave, Civil Lines, Nagpur – 440001<br/>" +
-            "• <strong>Contact Details:</strong> +91 98765 43210 | swayam.jain.law@email.com<br/>" +
-            "• <strong>Languages:</strong> English (Fluent), Hindi (Fluent), Marathi (Fluent).<br/><br/>" +
-            "<strong>2. CAREER OBJECTIVE:</strong><br/>" +
-            "To secure the position of Legal Associate in a premier corporate law practice, leveraging strong foundational knowledge in corporate governance, transactional documentation, contract negotiation, and statutory compliance under the Companies Act 2013 and SEBI regulations to deliver prompt, business-friendly, and legally sound solutions to corporate clients.<br/><br/>" +
-            "<strong>3. ACADEMIC CREDENTIALS:</strong><br/>" +
-            "• <strong>B.A. LL.B. (5-Year Integrated Course):</strong> National Law University / University Law College (Graduated 2024) — Secured Cumulative Grade Point Average (CGPA) of 8.5/10.0 (First Class with Distinction). Major in Corporate Commercial Law and Minor in Intellectual Property Rights.<br/>" +
-            "• <strong>Higher Secondary Certificate (Class XII):</strong> Maharashtra State Board (2019) — 92.2% with distinctions in Commerce, Accountancy, and English.<br/>" +
-            "• <strong>Secondary School Certificate (Class X):</strong> Maharashtra State Board (2017) — 94.0% with highest academic distinction."
+            '<div class="cv-box">' +
+              '<div class="cv-title-bar">' +
+                '<div class="cv-title-main">CURRICULUM VITAE</div>' +
+                '<div class="cv-name-sub">Swayam Jain</div>' +
+                '<div class="cv-contact-line">Flat No. 402, Royal Palms Enclave, Civil Lines, Nagpur – 440001 | +91 98765 43210 | swayam.jain.law@email.com</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">1. Personal Details</div>' +
+                '<div class="cv-kv-grid">' +
+                  '<div class="cv-kv-label">Full Name:</div><div class="cv-kv-value">Swayam Jain</div>' +
+                  '<div class="cv-kv-label">Date of Birth & Age:</div><div class="cv-kv-value">15th August 2002 (22 Years)</div>' +
+                  '<div class="cv-kv-label">Nationality:</div><div class="cv-kv-value">Indian</div>' +
+                  '<div class="cv-kv-label">Professional Bar Status:</div><div class="cv-kv-value">Advocate, Bar Council of Maharashtra & Goa (Roll No. MAH/XXXX/2024)</div>' +
+                  '<div class="cv-kv-label">Residential Address:</div><div class="cv-kv-value">Flat No. 402, Royal Palms Enclave, Civil Lines, Nagpur – 440001</div>' +
+                  '<div class="cv-kv-label">Languages Known:</div><div class="cv-kv-value">English (Fluent), Hindi (Fluent), Marathi (Fluent)</div>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">2. Career Objective</div>' +
+                '<div class="cv-text">To secure the position of Legal Associate in a premier corporate law practice, leveraging strong foundational knowledge in corporate governance, transactional documentation, contract negotiation, and statutory compliance under the Companies Act 2013 and SEBI regulations to deliver prompt, business-friendly, and legally sound solutions to corporate clients.</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">3. Academic Credentials</div>' +
+                '<div class="cv-table-wrap">' +
+                  '<table class="cv-table">' +
+                    '<thead><tr><th>Examination / Degree</th><th>Institution / Board</th><th>Year</th><th>Score / Distinction</th></tr></thead>' +
+                    '<tbody>' +
+                      '<tr><td><strong>B.A. LL.B.</strong> (5-Year Integrated)</td><td>National Law University / University Law College</td><td>2024</td><td>CGPA 8.5/10.0 (First Class with Distinction)</td></tr>' +
+                      '<tr><td><strong>H.S.C. (Class XII)</strong></td><td>Maharashtra State Board</td><td>2019</td><td>92.2% (Distinction in Commerce, Acc., Eng.)</td></tr>' +
+                      '<tr><td><strong>S.S.C. (Class X)</strong></td><td>Maharashtra State Board</td><td>2017</td><td>94.0% (Highest Distinction)</td></tr>' +
+                    '</tbody>' +
+                  '</table>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">4. Transactional Internships & Practical Experience</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">A. Corporate M&A Internship, Shardul & Partners Law Offices, Mumbai (July 2023 – Nov 2023)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Conducted title searches and corporate due diligence for a ₹120-Crore renewable energy asset acquisition.</li>' +
+                    '<li>Drafted key clauses of Shareholders\' Agreements (SHA), Share Purchase Agreements (SPA), and indemnity schedules.</li>' +
+                    '<li>Prepared comparative regulatory memorandums on foreign direct investment (FDI) caps under the FEMA Regulations.</li>' +
+                  '</ul>' +
+                '</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">B. In-House Legal Internship, Tata Steel Limited, Legal Dept. (Jan 2023 – April 2023)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Reviewed procurement contracts, master service agreements, and vendor non-disclosure agreements.</li>' +
+                    '<li>Researched environmental compliance requirements and prepared briefs on proceedings before the National Green Tribunal (NGT).</li>' +
+                  '</ul>' +
+                '</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">C. Judicial Clerkship Internship, High Court of Bombay (May 2022 – July 2022)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Assisted the Hon\'ble Judge in analyzing commercial company appeals and winding-up petitions under the Insolvency and Bankruptcy Code (IBC), 2016.</li>' +
+                  '</ul>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">5. Key Technical & Legal Competencies</div>' +
+                '<ul class="cv-list">' +
+                  '<li><strong>Contractual Drafting:</strong> Skilled in preparing term sheets, commercial lease agreements, employment contracts, non-compete covenants, and dispute resolution clauses.</li>' +
+                  '<li><strong>Digital Database Research:</strong> Advanced proficiency across SCC Online, Manupatra, Bloomberg Law, Practical Law, and MCA21 corporate filing portal.</li>' +
+                  '<li><strong>Regulatory Compliance:</strong> Hands-on experience with drafting Board resolutions, Secretarial filings, and compliance certificates under the Companies Act 2013.</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">6. Publications & Honors</div>' +
+                '<ul class="cv-list">' +
+                  '<li>Published paper: <em>"Regulating AI and Algorithmic Collusion under the Competition Act: An Indian Perspective"</em> in the Journal of Corporate & Commercial Law (2023).</li>' +
+                  '<li>Winner, Best Negotiator Award, National Corporate Negotiation Competition (2022).</li>' +
+                  '<li>Student Editor, University Corporate Law Review (2022–2024).</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">7. References</div>' +
+                '<ul class="cv-list">' +
+                  '<li><strong>Mr. Aditya Singhal</strong>, Partner (Corporate & M&A), Shardul & Partners Law Offices, Mumbai. Contact: +91 98200 XXXXX.</li>' +
+                  '<li><strong>Prof. (Dr.) S.K. Rathi</strong>, Professor of Corporate Law, National Law University. Contact: +91 94221 XXXXX.</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">8. Declaration & Code of Professional Conduct</div>' +
+                '<div class="cv-text">I hereby certify that all information presented in this Curriculum Vitae is true, correct, and complete to the best of my knowledge. I am available to join immediately and am fully committed to upholding professional ethics, lawyer-client confidentiality, and meticulous legal drafting.</div>' +
+                '<div class="cv-sign-row">' +
+                  '<div><strong>Date:</strong> 18th December 2024<br/><strong>Place:</strong> Nagpur</div>' +
+                  '<div style="text-align: right;"><em>(Sd/-)</em><br/><strong>Swayam Jain</strong></div>' +
+                '</div>' +
+              '</div>' +
+            '</div>'
           ]
         },
-        {
-          heading: "III. Transactional Internships and Corporate Legal Experience",
-          paragraphs: [
-            "<strong>4. TRANSACTIONAL INTERNSHIPS & PRACTICAL EXPERIENCE:</strong><br/>" +
-            "• <strong>Corporate M&A Internship, Shardul & Partners Law Offices, Mumbai</strong> (July 2023 – Nov 2023):<br/>" +
-            "- Conducted title searches and corporate due diligence for a ₹120-Crore renewable energy asset acquisition.<br/>" +
-            "- Drafted key clauses of Shareholders' Agreements (SHA), Share Purchase Agreements (SPA), and indemnity schedules.<br/>" +
-            "- Prepared comparative regulatory memorandums on foreign direct investment (FDI) caps under the FEMA Regulations.<br/><br/>" +
-            "• <strong>In-House Legal Internship, Tata Steel Limited, Legal Dept.</strong> (Jan 2023 – April 2023):<br/>" +
-            "- Reviewed procurement contracts, master service agreements, and vendor non-disclosure agreements.<br/>" +
-            "- Researched environmental compliance requirements and prepared briefs on proceedings before the National Green Tribunal (NGT).<br/><br/>" +
-            "• <strong>Judicial Clerkship Internship, High Court of Bombay</strong> (May 2022 – July 2022):<br/>" +
-            "- Assisted the Hon'ble Judge in analyzing commercial company appeals and winding-up petitions under the Insolvency and Bankruptcy Code (IBC), 2016."
-          ]
-        },
-        {
-          heading: "IV. Core Competencies, Scholarly Publications, and References",
-          paragraphs: [
-            "<strong>5. KEY TECHNICAL & LEGAL COMPETENCIES:</strong><br/>" +
-            "• <strong>Contractual Drafting:</strong> Skilled in preparing term sheets, commercial lease agreements, employment contracts, non-compete covenants, and dispute resolution clauses.<br/>" +
-            "• <strong>Digital Database Research:</strong> Advanced proficiency across SCC Online, Manupatra, Bloomberg Law, Practical Law, and MCA21 corporate filing portal.<br/>" +
-            "• <strong>Regulatory Compliance:</strong> Hands-on experience with drafting Board resolutions, Secretarial filings, and compliance certificates under the Companies Act 2013.<br/><br/>" +
-            "<strong>6. PUBLICATIONS & HONORS:</strong><br/>" +
-            "• Published paper: <em>'Regulating AI and Algorithmic Collusion under the Competition Act: An Indian Perspective'</em> in the Journal of Corporate & Commercial Law (2023).<br/>" +
-            "• Winner, Best Negotiator Award, National Corporate Negotiation Competition (2022).<br/>" +
-            "• Student Editor, University Corporate Law Review (2022–2024).<br/><br/>" +
-            "<strong>7. REFERENCES:</strong><br/>" +
-            "1. <strong>Mr. Aditya Singhal</strong>, Partner (Corporate & M&A), Shardul & Partners Law Offices, Mumbai. Contact: +91 98200 XXXXX.<br/>" +
-            "2. <strong>Prof. (Dr.) S.K. Rathi</strong>, Professor of Corporate Law, National Law University. Contact: +91 94221 XXXXX."
-          ]
-        },
-        {
-          heading: "V. Professional Declarations and Commitment to Integrity",
-          paragraphs: [
-            "<strong>8. DECLARATION & CODE OF PROFESSIONAL CONDUCT:</strong><br/>" +
-            "I hereby certify that all information presented in this Curriculum Vitae is true, correct, and complete to the best of my knowledge. I hold no adverse disciplinary records with any university or bar association.<br/>" +
-            "I am available to join the firm immediately and am fully committed to upholding the highest standards of professional ethics, lawyer-client confidentiality, and meticulous legal drafting required of an associate in a leading corporate practice."
-          ]
-        },
-        {
-          heading: "VI. Transactional Readiness and Chamber Skills Summary",
-          paragraphs: [
-            "<strong>9. TECHNICAL LITIGATION & M&A READINESS:</strong><br/>" +
-            "I am prepared to undertake immediate rotational duties across corporate practice groups, including due diligence investigations, capitalization table reviews, registrar filings on the MCA21 V3 portal, and drafting standard board resolutions under the Companies Act, 2013.<br/>" +
-            "My practical training with senior corporate counsels has instilled in me the discipline to deliver under rigorous deal timelines while maintaining thorough accuracy in contractual risk allocation."
-          ]
-        }
       ],
       conclusion: "This application and accompanying CV strictly conform to the highest corporate recruitment standards, detailing qualifications, corporate internships, transactional competencies, and research credentials."
     }

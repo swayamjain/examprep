@@ -42,44 +42,102 @@ export const sectionB_C_2025 = [
           ]
         },
         {
-          heading: 'II. Exhaustive Professional Curriculum Vitae (C.V.)',
+          heading: 'II. Boxed Curriculum Vitae (C.V.) — Popular Exam Format',
           paragraphs: [
-            '<strong>CURRICULUM VITAE</strong><br/><br/>' +
-            '<strong>1. PERSONAL DETAILS:</strong><br/>' +
-            '• <strong>Full Name:</strong> Arjun Vinod Sharma<br/>' +
-            '• <strong>Date of Birth:</strong> 15th August 1999 (Age: 27 Years)<br/>' +
-            '• <strong>Bar Council Enrollment:</strong> Advocate, Bar Council of Maharashtra & Goa (Enrolment No. MAH/1428/2022)<br/>' +
-            '• <strong>Residential Address:</strong> Flat No. 402, Imperial Heights, Civil Lines, Nagpur – 440001<br/>' +
-            '• <strong>Contact:</strong> +91 98765 43210 | arjun.sharma.advocate@email.com<br/><br/>' +
-            '<strong>2. PROFESSIONAL OBJECTIVE:</strong><br/>' +
-            'A dedicated and skilled legal professional seeking the position of Legal Advisor to use my training in corporate law, commercial contract drafting, regulatory compliance, and dispute resolution to protect client interests and assist business operations.<br/><br/>' +
-            '<strong>3. ACADEMIC & PROFESSIONAL QUALIFICATIONS:</strong><br/>' +
-            '• <strong>Master of Laws (LL.M.) in Corporate & Commercial Laws (2023–2024):</strong> National Law University (NLU) — First Class with Distinction (78.5%). Specialization in Corporate Mergers, Securities Regulation, and International Arbitration.<br/>' +
-            '• <strong>B.A. LL.B. (5-Year Integrated Honours) (2017–2022):</strong> University Department of Law — CGPA 8.6/10.0 (Gold Medalist in Constitutional Law & Drafting).<br/>' +
-            '• <strong>Diploma in Cyber Laws and Information Technology (2021):</strong> Asian School of Cyber Laws — Grade A.<br/>' +
-            '• <strong>Higher Secondary Certificate (HSC - 12th) (2017):</strong> Maharashtra State Board — 88.4%.<br/>' +
-            '• <strong>Secondary School Certificate (SSC - 10th) (2015):</strong> Maharashtra State Board — 91.2%.<br/><br/>' +
-            '<strong>4. PROFESSIONAL EXPERIENCE:</strong><br/>' +
-            '<strong>A. Legal Associate — M/s LexJuris Corporate Advisors, Mumbai (July 2022 – Present):</strong><br/>' +
-            '• Drafted, vetted, and reviewed over 150 commercial contracts, including Share Purchase Agreements, Franchise Agreements, Software Licensing, and Vendor Service Contracts.<br/>' +
-            '• Conducted end-to-end legal due diligence for mergers, acquisitions, and private equity investments.<br/>' +
-            '• Prepared legal opinions on statutory compliances under the Companies Act, 2013, FEMA, and the Competition Act.<br/>' +
-            '• Handled litigation filings and drafted company petitions, rejoinders, and interlocutory applications before the NCLT and High Court.<br/>' +
-            '<strong>B. Trainee Advocate — Chambers of Senior Advocate R.S. Deshmukh, High Court (2021–2022):</strong><br/>' +
-            '• Conducted extensive legal research on corporate insolvency, writ petitions, and arbitration appeals.<br/>' +
-            '• Assisted in drafting Special Leave Petitions (SLPs) and commercial suits.<br/><br/>' +
-            '<strong>5. CORE COMPETENCIES & LEGAL SKILLS:</strong><br/>' +
-            '• Contract Lifecycle Management, Negotiation & Bilateral Vetting.<br/>' +
-            '• Corporate Governance, Regulatory Audits & FEMA Compliance.<br/>' +
-            '• Legal Research (SCC Online, Manupatra, Westlaw, LexisNexis).<br/>' +
-            '• Dispute Resolution, Commercial Arbitration & Conciliation Drafting.<br/><br/>' +
-            '<strong>6. MOOT COURTS & CO-CURRICULAR ACHIEVEMENTS:</strong><br/>' +
-            '• Best Memorial Award at the 12th National Corporate Law Moot Court Competition (2021).<br/>' +
-            '• Published Research Paper: <em>"Interplay between Insolvency and Pre-Packaged Resolution Mechanisms in India"</em> in the Indian Journal of Corporate Law (Vol. 8, Issue 2).<br/><br/>' +
-            '<strong>7. LANGUAGES KNOWN:</strong> English (Fluent, Professional), Marathi (Native), Hindi (Fluent).<br/><br/>' +
-            '<strong>8. REFERENCES:</strong><br/>' +
-            '1. Adv. R.S. Deshmukh, Senior Advocate, High Court of Judicature at Bombay.<br/>' +
-            '2. Prof. (Dr.) K.L. Iyer, Dean, Faculty of Law, National Law University.'
+            '<div class="cv-box">' +
+              '<div class="cv-title-bar">' +
+                '<div class="cv-title-main">CURRICULUM VITAE</div>' +
+                '<div class="cv-name-sub">Arjun Vinod Sharma</div>' +
+                '<div class="cv-contact-line">Flat No. 402, Imperial Heights, Civil Lines, Nagpur – 440001 | +91 98765 43210 | arjun.sharma.advocate@email.com</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">1. Personal Details</div>' +
+                '<div class="cv-kv-grid">' +
+                  '<div class="cv-kv-label">Full Name:</div><div class="cv-kv-value">Arjun Vinod Sharma</div>' +
+                  '<div class="cv-kv-label">Date of Birth & Age:</div><div class="cv-kv-value">15th August 1999 (27 Years)</div>' +
+                  '<div class="cv-kv-label">Bar Council Enrollment:</div><div class="cv-kv-value">Advocate, Bar Council of Maharashtra & Goa (Enrolment No. MAH/1428/2022)</div>' +
+                  '<div class="cv-kv-label">Residential Address:</div><div class="cv-kv-value">Flat No. 402, Imperial Heights, Civil Lines, Nagpur – 440001</div>' +
+                  '<div class="cv-kv-label">Languages Known:</div><div class="cv-kv-value">English (Fluent, Professional), Marathi (Native), Hindi (Fluent)</div>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">2. Professional Objective</div>' +
+                '<div class="cv-text">A dedicated and skilled legal professional seeking the position of Legal Advisor to use my training in corporate law, commercial contract drafting, regulatory compliance, and dispute resolution to protect client interests and assist business operations.</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">3. Academic & Professional Qualifications</div>' +
+                '<div class="cv-table-wrap">' +
+                  '<table class="cv-table">' +
+                    '<thead><tr><th>Qualification / Degree</th><th>University / Board</th><th>Year</th><th>Score / Distinction</th></tr></thead>' +
+                    '<tbody>' +
+                      '<tr><td><strong>LL.M.</strong> (Corporate & Commercial Laws)</td><td>National Law University (NLU)</td><td>2023–2024</td><td>78.5% (First Class with Distinction)</td></tr>' +
+                      '<tr><td><strong>B.A. LL.B.</strong> (5-Year Integrated Hons.)</td><td>University Department of Law</td><td>2017–2022</td><td>CGPA 8.6/10.0 (Gold Medalist)</td></tr>' +
+                      '<tr><td><strong>Diploma in Cyber Laws & IT</strong></td><td>Asian School of Cyber Laws</td><td>2021</td><td>Grade A</td></tr>' +
+                      '<tr><td><strong>HSC (Class XII)</strong></td><td>Maharashtra State Board</td><td>2017</td><td>88.4%</td></tr>' +
+                      '<tr><td><strong>SSC (Class X)</strong></td><td>Maharashtra State Board</td><td>2015</td><td>91.2%</td></tr>' +
+                    '</tbody>' +
+                  '</table>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">4. Professional Experience</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">A. Legal Associate — M/s LexJuris Corporate Advisors, Mumbai (July 2022 – Present)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Drafted, vetted, and reviewed over 150 commercial contracts, including Share Purchase Agreements, Franchise Agreements, Software Licensing, and Vendor Service Contracts.</li>' +
+                    '<li>Conducted end-to-end legal due diligence for mergers, acquisitions, and private equity investments.</li>' +
+                    '<li>Prepared legal opinions on statutory compliances under the Companies Act, 2013, FEMA, and the Competition Act.</li>' +
+                    '<li>Handled litigation filings and drafted company petitions, rejoinders, and interlocutory applications before the NCLT and High Court.</li>' +
+                  '</ul>' +
+                '</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">B. Trainee Advocate — Chambers of Senior Advocate R.S. Deshmukh, High Court (2021–2022)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Conducted extensive legal research on corporate insolvency, writ petitions, and arbitration appeals.</li>' +
+                    '<li>Assisted in drafting Special Leave Petitions (SLPs) and commercial suits.</li>' +
+                  '</ul>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">5. Core Competencies & Legal Skills</div>' +
+                '<ul class="cv-list">' +
+                  '<li>Contract Lifecycle Management, Negotiation & Bilateral Vetting.</li>' +
+                  '<li>Corporate Governance, Regulatory Audits & FEMA Compliance.</li>' +
+                  '<li>Legal Research (SCC Online, Manupatra, Westlaw, LexisNexis).</li>' +
+                  '<li>Dispute Resolution, Commercial Arbitration & Conciliation Drafting.</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">6. Moot Courts & Co-Curricular Achievements</div>' +
+                '<ul class="cv-list">' +
+                  '<li>Best Memorial Award at the 12th National Corporate Law Moot Court Competition (2021).</li>' +
+                  '<li>Published Research Paper: <em>"Interplay between Insolvency and Pre-Packaged Resolution Mechanisms in India"</em> in the Indian Journal of Corporate Law (Vol. 8, Issue 2).</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">7. References</div>' +
+                '<ul class="cv-list">' +
+                  '<li><strong>Adv. R.S. Deshmukh</strong>, Senior Advocate, High Court of Judicature at Bombay.</li>' +
+                  '<li><strong>Prof. (Dr.) K.L. Iyer</strong>, Dean, Faculty of Law, National Law University.</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">8. Declaration</div>' +
+                '<div class="cv-text">I hereby declare that all the information furnished above is true, complete, and correct to the best of my knowledge and belief.</div>' +
+                '<div class="cv-sign-row">' +
+                  '<div><strong>Date:</strong> 12th October 2026<br/><strong>Place:</strong> Nagpur</div>' +
+                  '<div style="text-align: right;"><em>(Sd/-)</em><br/><strong>Arjun V. Sharma</strong></div>' +
+                '</div>' +
+              '</div>' +
+            '</div>'
           ]
         },
         {

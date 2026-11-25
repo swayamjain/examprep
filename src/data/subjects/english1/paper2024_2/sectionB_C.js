@@ -38,65 +38,109 @@ export const sectionB_C_2024 = [
           ]
         },
         {
-          heading: "II. Curriculum Vitae (C.V.) — Professional Legal Format",
+          heading: "II. Boxed Curriculum Vitae (C.V.) — Popular Exam Format",
           paragraphs: [
-            "<strong>CURRICULUM VITAE</strong><br/><br/>" +
-            "<strong>1. PERSONAL DETAILS & VITAL STATISTICS:</strong><br/>" +
-            "• <strong>Full Name:</strong> Swayam Jain<br/>" +
-            "• <strong>Date of Birth & Age:</strong> 15th August 2002 | Age: 22 Years<br/>" +
-            "• <strong>Nationality:</strong> Indian<br/>" +
-            "• <strong>Bar Council Enrollment:</strong> Enrolled with Bar Council of Maharashtra & Goa (Enrollment No. MAH/XXXX/2024)<br/>" +
-            "• <strong>Residential Address:</strong> Flat No. 402, Royal Palms Enclave, Civil Lines, Nagpur – 440001<br/>" +
-            "• <strong>Contact Coordinates:</strong> +91 98765 43210 | swayam.jain.law@email.com<br/>" +
-            "• <strong>Languages Known:</strong> English (Fluent/Professional), Hindi (Fluent), Marathi (Fluent).<br/><br/>" +
-            "<strong>2. CAREER OBJECTIVE:</strong><br/>" +
-            "To work as a dedicated Legal Assistant in a leading law firm, using my training in procedural laws, legal drafting, and case research to assist senior advocates and provide reliable legal support.<br/><br/>" +
-            "<strong>3. ACADEMIC CREDENTIALS & QUALIFICATIONS:</strong><br/>" +
-            "• <strong>B.A. LL.B. (5-Year Integrated Degree):</strong> University Law College / National Law University (Graduated 2024) — Secured Cumulative Grade Point Average (CGPA) of 8.4/10.0 (First Class with Distinction). Specialization in Constitutional Law and Corporate Commercial Laws.<br/>" +
-            "• <strong>Higher Secondary Certificate Examination (H.S.C. / Class XII):</strong> Maharashtra State Board (2019) — Scored 91.4% with distinctions in English, Political Science, and Economics.<br/>" +
-            "• <strong>Secondary School Certificate Examination (S.S.C. / Class X):</strong> Maharashtra State Board (2017) — Scored 93.6% with top honors in Language Arts and Social Sciences."
+            '<div class="cv-box">' +
+              '<div class="cv-title-bar">' +
+                '<div class="cv-title-main">CURRICULUM VITAE</div>' +
+                '<div class="cv-name-sub">Swayam Jain</div>' +
+                '<div class="cv-contact-line">Flat No. 402, Royal Palms Enclave, Civil Lines, Nagpur – 440001 | +91 98765 43210 | swayam.jain.law@email.com</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">1. Personal Details</div>' +
+                '<div class="cv-kv-grid">' +
+                  '<div class="cv-kv-label">Full Name:</div><div class="cv-kv-value">Swayam Jain</div>' +
+                  '<div class="cv-kv-label">Date of Birth & Age:</div><div class="cv-kv-value">15th August 2002 (22 Years)</div>' +
+                  '<div class="cv-kv-label">Nationality:</div><div class="cv-kv-value">Indian</div>' +
+                  '<div class="cv-kv-label">Bar Council Enrollment:</div><div class="cv-kv-value">Bar Council of Maharashtra & Goa (Enrollment No. MAH/XXXX/2024)</div>' +
+                  '<div class="cv-kv-label">Residential Address:</div><div class="cv-kv-value">Flat No. 402, Royal Palms Enclave, Civil Lines, Nagpur – 440001</div>' +
+                  '<div class="cv-kv-label">Languages Known:</div><div class="cv-kv-value">English (Fluent/Professional), Hindi (Fluent), Marathi (Fluent)</div>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">2. Career Objective</div>' +
+                '<div class="cv-text">To work as a dedicated Legal Assistant in a leading law firm, using my training in procedural laws, legal drafting, and case research to assist senior advocates and provide reliable legal support.</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">3. Academic Qualifications</div>' +
+                '<div class="cv-table-wrap">' +
+                  '<table class="cv-table">' +
+                    '<thead><tr><th>Examination / Degree</th><th>University / Board</th><th>Year</th><th>Result / Distinction</th></tr></thead>' +
+                    '<tbody>' +
+                      '<tr><td><strong>B.A. LL.B.</strong> (5-Year Integrated)</td><td>University Law College / NLU</td><td>2024</td><td>CGPA 8.4/10.0 (First Class with Distinction)</td></tr>' +
+                      '<tr><td><strong>H.S.C. (Class XII)</strong></td><td>Maharashtra State Board</td><td>2019</td><td>91.4% (Distinction in English, Pol. Sci., Eco.)</td></tr>' +
+                      '<tr><td><strong>S.S.C. (Class X)</strong></td><td>Maharashtra State Board</td><td>2017</td><td>93.6% (Top Honors)</td></tr>' +
+                    '</tbody>' +
+                  '</table>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">4. Legal Internships & Chamber Experience</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">A. Chamber of Senior Advocate, High Court of Bombay (Nagpur Bench) (June 2023 – Dec 2023)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Researched complex legal propositions concerning land acquisition disputes, writ petitions under Article 226, and civil revision applications.</li>' +
+                    '<li>Prepared case synopses, chronologies of events, and comparative precedent matrices for oral arguments.</li>' +
+                    '<li>Drafted written submissions, interlocutory applications, and legal notices under Section 80 CPC and Section 138 of the Negotiable Instruments Act.</li>' +
+                  '</ul>' +
+                '</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">B. District & Sessions Court Chamber Internship, Nagpur (Jan 2023 – April 2023)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Attended daily trial court proceedings, observing witness examination, cross-examination, and marking of exhibits in criminal and commercial civil suits.</li>' +
+                    '<li>Assisted in drafting bail applications under Sections 437 and 439 CrPC and plaint verification under Order VI of CPC.</li>' +
+                  '</ul>' +
+                '</div>' +
+                '<div class="cv-subitem">' +
+                  '<div class="cv-subitem-title">C. Corporate In-House Legal Internship, Apex Infrastructure Corp. (May 2022 – July 2022)</div>' +
+                  '<ul class="cv-list">' +
+                    '<li>Assisted in reviewing Non-Disclosure Agreements (NDAs), master service agreements, and vendor contracts.</li>' +
+                    '<li>Prepared compliance checklists pursuant to the Companies Act, 2013 and SEBI regulations.</li>' +
+                  '</ul>' +
+                '</div>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">5. Core Legal Competencies</div>' +
+                '<ul class="cv-list">' +
+                  '<li><strong>Pleadings & Drafting:</strong> Proficient in drafting plaints, written statements, affidavits, writ petitions, legal notices, and RTI applications.</li>' +
+                  '<li><strong>Doctrinal Legal Research:</strong> Advanced proficiency in digital databases including SCC Online, Manupatra, LiveLaw, Bar & Bench, and HeinOnline.</li>' +
+                  '<li><strong>Case File Management:</strong> Skilled in indexing brief records, managing court cause-lists, filing e-petitions, and tracking daily orders.</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">6. Publications & Co-Curricular Achievements</div>' +
+                '<ul class="cv-list">' +
+                  '<li>Author of research paper titled <em>"The Evolution of Transformative Constitutionalism in India"</em>, published in the Peer-Reviewed Law Journal (2023).</li>' +
+                  '<li>Winner, Best Memorial Award, National Moot Court Competition on Constitutional Law (2022).</li>' +
+                  '<li>Convenor, University Legal Aid and Clinical Literacy Clinic (2022–2023).</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">7. References</div>' +
+                '<ul class="cv-list">' +
+                  '<li><strong>Adv. Ramesh V. Deshmukh</strong>, Senior Advocate, High Court of Bombay (Nagpur Bench), Contact: +91 98220 XXXXX.</li>' +
+                  '<li><strong>Prof. (Dr.) Ananya Sharma</strong>, Head of Department of Jurisprudence, University Law College, Contact: +91 94231 XXXXX.</li>' +
+                '</ul>' +
+              '</div>' +
+
+              '<div class="cv-block">' +
+                '<div class="cv-block-heading">8. Declaration & Chamber Readiness</div>' +
+                '<div class="cv-text">I hereby solemnly affirm that all particulars stated above regarding my age (22 years), academic qualifications, and internship experiences are authentic and verified by original transcripts. I am prepared to appear for any written drafting evaluation or case-briefing simulation, and I am committed to absolute client confidentiality and the Advocates Act, 1961.</div>' +
+                '<div class="cv-sign-row">' +
+                  '<div><strong>Date:</strong> 14th November 2024<br/><strong>Place:</strong> Nagpur</div>' +
+                  '<div style="text-align: right;"><em>(Sd/-)</em><br/><strong>Swayam Jain</strong></div>' +
+                '</div>' +
+              '</div>' +
+            '</div>'
           ]
         },
-        {
-          heading: "III. Professional Internships and Clinical Legal Experience",
-          paragraphs: [
-            "<strong>4. LEGAL INTERNSHIPS & PRACTICAL CHAMBER EXPERIENCE:</strong><br/>" +
-            "• <strong>Chamber of Senior Advocate, High Court of Judicature at Bombay (Nagpur Bench)</strong> (June 2023 – Dec 2023):<br/>" +
-            "- Researched complex legal propositions concerning land acquisition disputes, writ petitions under Article 226, and civil revision applications.<br/>" +
-            "- Prepared case synopses, chronologies of events, and comparative precedent matrices for oral arguments.<br/>" +
-            "- Drafted written submissions, interlocutory applications, and legal notices under Section 80 CPC and Section 138 of the Negotiable Instruments Act.<br/><br/>" +
-            "• <strong>District & Sessions Court Chamber Internship, Nagpur</strong> (Jan 2023 – April 2023):<br/>" +
-            "- Attended daily trial court proceedings, observing witness examination, cross-examination, and marking of exhibits in criminal and commercial civil suits.<br/>" +
-            "- Assisted in drafting bail applications under Sections 437 and 439 CrPC and plaint verification under Order VI of CPC.<br/><br/>" +
-            "• <strong>Corporate In-House Legal Internship, Apex Infrastructure Corp.</strong> (May 2022 – July 2022):<br/>" +
-            "- Assisted in reviewing Non-Disclosure Agreements (NDAs), master service agreements, and vendor contracts.<br/>" +
-            "- Prepared compliance checklists pursuant to the Companies Act, 2013 and SEBI regulations."
-          ]
-        },
-        {
-          heading: "IV. Key Competencies, Publications, and References",
-          paragraphs: [
-            "<strong>5. CORE LEGAL COMPETENCIES:</strong><br/>" +
-            "• <strong>Pleadings & Drafting:</strong> Proficient in drafting plaints, written statements, affidavits, writ petitions, legal notices, and RTI applications.<br/>" +
-            "• <strong>Doctrinal Legal Research:</strong> Advanced proficiency in digital databases including SCC Online, Manupatra, LiveLaw, Bar & Bench, and HeinOnline.<br/>" +
-            "• <strong>Case File Management:</strong> Skilled in indexing brief records, managing court cause-lists, filing e-petitions, and tracking daily orders.<br/><br/>" +
-            "<strong>6. PUBLICATIONS & CO-CURRICULAR ACHIEVEMENTS:</strong><br/>" +
-            "• Author of research paper titled <em>'The Evolution of Transformative Constitutionalism in India'</em>, published in the Peer-Reviewed Law Journal (2023).<br/>" +
-            "• Winner, Best Memorial Award, National Moot Court Competition on Constitutional Law (2022).<br/>" +
-            "• Convenor, University Legal Aid and Clinical Literacy Clinic (2022–2023).<br/><br/>" +
-            "<strong>7. REFERENCES:</strong><br/>" +
-            "1. <strong>Adv. Ramesh V. Deshmukh</strong>, Senior Advocate, High Court of Bombay (Nagpur Bench), Contact: +91 98220 XXXXX.<br/>" +
-            "2. <strong>Prof. (Dr.) Ananya Sharma</strong>, Head of Department of Jurisprudence, University Law College, Contact: +91 94231 XXXXX."
-          ]
-        },
-        {
-          heading: "V. Professional Readiness, Chamber Ethics & Interview Declaration",
-          paragraphs: [
-            "<strong>8. DECLARATION & CHAMBER READINESS:</strong><br/>" +
-            "I hereby solemnly affirm that all particulars stated above regarding my age (22 years), academic qualifications, and internship experiences are authentic and verified by original transcripts. I am prepared to appear for any written drafting evaluation, legal aptitude assessment, or case-briefing simulation required by the hiring partners of ABC Law Firm.<br/>" +
-            "I possess a valid certificate of practice eligibility and am equipped to immediately undertake long-hour chamber research, daily court registry filings, client briefing conferences, and cross-jurisdictional brief preparation. My commitment to absolute client confidentiality, adherence to the Advocates Act of 1961, and eagerness to learn from senior litigation partners make me an immediately productive asset to the firm's dispute resolution practice."
-          ]
-        }
       ],
       conclusion: "This application and accompanying CV conform strictly to high-standard legal recruitment norms, demonstrating age, educational qualifications, practical chamber experience, research abilities, and professional readiness."
     }
