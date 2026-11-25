@@ -28,60 +28,6 @@ export default function App() {
 
   const activePaper = selectedSubject?.papers?.find((p) => p.id === activePaperId) || selectedSubject?.papers?.[0];
 
-  // Disable text copying, selection, right-click, and copy shortcuts
-  useEffect(() => {
-    const isEditableTarget = (target) => {
-      const tag = target?.tagName;
-      return tag === 'INPUT' || tag === 'TEXTAREA' || target?.isContentEditable;
-    };
-
-    const preventCopy = (e) => {
-      e.preventDefault();
-    };
-
-    const preventNonInput = (e) => {
-      if (!isEditableTarget(e.target)) {
-        e.preventDefault();
-      }
-    };
-
-    const handleKeyDown = (e) => {
-      if (e.key === 'PrintScreen') {
-        e.preventDefault();
-        return;
-      }
-
-      if (e.ctrlKey || e.metaKey) {
-        const key = e.key.toLowerCase();
-        // Always block Save (s), Print (p), View Source (u)
-        if (key === 's' || key === 'p' || key === 'u') {
-          e.preventDefault();
-          return;
-        }
-        // Block Copy (c), Cut (x), Select All (a) outside editable inputs
-        if ((key === 'c' || key === 'x' || key === 'a') && !isEditableTarget(e.target)) {
-          e.preventDefault();
-        }
-      }
-    };
-
-    document.addEventListener('copy', preventCopy);
-    document.addEventListener('cut', preventCopy);
-    document.addEventListener('dragstart', preventCopy);
-    document.addEventListener('contextmenu', preventNonInput);
-    document.addEventListener('selectstart', preventNonInput);
-    document.addEventListener('keydown', handleKeyDown);
-
-    return () => {
-      document.removeEventListener('copy', preventCopy);
-      document.removeEventListener('cut', preventCopy);
-      document.removeEventListener('dragstart', preventCopy);
-      document.removeEventListener('contextmenu', preventNonInput);
-      document.removeEventListener('selectstart', preventNonInput);
-      document.removeEventListener('keydown', handleKeyDown);
-    };
-  }, []);
-
   // Notify Discord once per session when an iPhone or HP / Windows laptop accesses the site
   useEffect(() => {
     const sessionKey = 'examprep_device_notified';
