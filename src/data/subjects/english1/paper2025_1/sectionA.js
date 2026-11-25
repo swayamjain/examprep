@@ -1,6 +1,6 @@
 // English & Legal Writing - I (Paper KRS/KS/25/11495)
 // Section A: Literature & Prose Analysis (10 Marks each: 950 - 1200 words target)
-// Curated by Swayam Jain
+// Simplified student-friendly language by Swayam Jain
 
 export const sectionA_2025 = [
   {
@@ -14,47 +14,56 @@ export const sectionA_2025 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction and Literary Context of O' Henry's Characterization",
+          heading: "I. Introduction: Who is Soapy?",
           paragraphs: [
-            "In his celebrated short story 'The Cop and the Anthem', William Sydney Porter, writing under the pseudonym O' Henry, presents a masterclass in realistic characterization infused with poignant humanism and his trademark situational irony. At the center of this urban drama sits Soapy, an impoverished, homeless wanderer residing on a park bench in Madison Square, New York City. Rather than portraying him as a degraded, unrepentant vagrant or an object of pitiless contempt, O' Henry humanizes Soapy with a gentle, humorous, and deeply sympathetic lens.",
-            "Soapy is not an ordinary street beggar devoid of dignity; he is a philosophical gentleman of leisure who has fallen upon hard times. O' Henry portrays him with aristocratic sensibilities, an acute aesthetic aversion to state charity, and an extraordinary sense of pragmatic calculation. As winter approaches with biting winds, Soapy faces the existential problem of surviving the freezing Manhattan streets, leading to his eccentric winter plan: getting arrested and securing a three-month sentence in the warmth of the Blackwell’s Island prison."
+            "In his famous short story 'The Cop and the Anthem', American writer O' Henry (William Sydney Porter) gives a warm, humorous, and sympathetic picture of a homeless man named Soapy. Soapy lives on a wooden park bench in Madison Square, New York City. However, O' Henry does not present him as a cruel criminal or a hopeless beggar. Instead, Soapy is shown as an intelligent, proud man with good manners who has simply fallen on hard times.",
+            "Soapy takes care of his clothes, keeps his self-respect, and thinks in a very practical way. When cold winter winds arrive, wealthy people travel to warm southern places like Florida. Soapy has no money, but he has an eccentric winter plan: he decides to get arrested by the police so that he can spend three months in the city prison on Blackwell’s Island, where food and shelter are guaranteed."
           ]
         },
         {
-          heading: 'II. Aristocratic Sensibilities and Pride: The Rejection of Charity',
+          heading: 'II. Soapy’s Personal Pride and His Rejection of Charity',
           paragraphs: [
-            "One of the most remarkable facets of O' Henry's presentation of Soapy is his fierce, paradoxically aristocratic sense of personal pride. Soapy flatly refuses to seek refuge in institutionalized public charity or philanthropic shelters. O' Henry explains with biting social satire that in the view of Soapy’s proud soul, the gifts of public charity were far more humiliating and intrusive than a prison term.",
-            "If he accepted public bread or a shelter bed, state philanthropy would demand an unendurable price: humiliating inquiries into his private life, intrusive biographical questionnaires, and forced baths. In Soapy's eyes, prison on Blackwell's Island was an infinitely more gentlemanly institution: <em>'The law was more benign than philanthropy. There was an endless round of institutions, municipal and eleemosynary, on which he might set out and receive lodging and food accordant with the simple life. But to one of Soapy\'s proud spirit the gifts of charity are encumbered... For every mouthful of public bread there must be paying in soul-humiliation. But on the Island, the law was respectful of a gentleman\'s privacy; it demanded no confessions of past secrets.'</em> This psychological dimension elevates Soapy above a caricature, depicting him as a man striving to preserve personal autonomy amid destitution."
+            "A key quality of Soapy’s character is his personal pride. Even though he is poor, he refuses to seek help from charity shelters or religious missions. O' Henry explains why Soapy dislikes charity so strongly.",
+            "In Soapy's view, charity comes with too much humiliation. Charity homes ask personal questions about family history, make people fill out private forms, give moral lectures, and force people to take cold baths. Soapy feels that losing his dignity for a bowl of soup is too high a price.",
+            "In contrast, Soapy believes prison is much more respectful. The criminal law has simple rules: if you commit a small offense, the judge gives you three months in jail. In prison, nobody asks about your private secrets or lectures you on your sins. You receive three meals a day, a warm bed, and good company without having to beg. Thus, going to prison seems to Soapy like an honorable way to survive winter."
           ]
         },
         {
-          heading: 'III. Soapy’s Comic Campaign for Incarceration: The Six Failed Endeavors',
+          heading: 'III. The Six Funny Attempts to Get Arrested',
           paragraphs: [
-            "O' Henry develops Soapy’s character through a series of six carefully orchestrated, increasingly absurd misadventures designed to provoke arrest:<br/>" +
-            "<strong>1. The High-End Restaurant Scheme:</strong> Soapy neatly trims his mustache, adjusts his respectable necktie, and attempts to enter a fashionable Broadway cafe, intending to consume a luxurious meal and announce his insolvency. However, the head waiter’s eye notices his frayed trousers and decadent shoes; he is quietly ejected without a word.<br/>" +
-            "<strong>2. The Plate-Glass Window Incident:</strong> Soapy throws a cobblestone through the plate-glass window of a bright Sixth Avenue shop. Expecting immediate arrest, he stands calmly with hands in his pockets. However, the arriving police officer operates on the rigid sociological assumption that men who break windows never wait around to chat with police; the officer chases an innocent citizen running for a car, ignoring Soapy.<br/>" +
-            "<strong>3. The Modest Eatery:</strong> Soapy successfully enters a humble diner, consumes beefsteak and pie, and declares his penniless state. Instead of calling a police officer, two waiters dump him onto the callous pavement outside.<br/>" +
-            "<strong>4. The Feigned Disorderly Conduct:</strong> Disguising himself as a drunken rowdy, Soapy hollers, dances, and raves like a lunatic before a theatre. A policeman nearby remarks to a citizen that it is merely a Yale college boy celebrating a football victory who has orders to be left alone.<br/>" +
-            "<strong>5. Attempted Flirtation and Harassment:</strong> Spotting a modestly dressed young woman, Soapy attempts to play the role of an unwanted harasser. To his comic dismay, the woman turns out to be an eager streetwalker who readily links arms with him, leaving Soapy terrified that he has captured a companion rather than a jail sentence.<br/>" +
-            "<strong>6. The Stolen Silk Umbrella:</strong> Soapy snatches a handsome silk umbrella from a gentleman outside a cigar store. Instead of summoning a constable, the man confesses that he had found the umbrella in a restaurant that morning, relinquishing it to Soapy without protest."
+            "The story moves forward through six humorous attempts by Soapy to get arrested, all of which fail in surprising ways:<br/>" +
+            "<strong>1. The Fancy Restaurant:</strong> Soapy brushes his coat and fixes his neat tie. He plans to eat an expensive meal in a fine Broadway cafe and then tell the manager he has no money. But as soon as he steps in, the head waiter spots his torn trousers and old shoes, quietly turning him away onto the street.<br/>" +
+            "<strong>2. The Broken Shop Window:</strong> Soapy throws a heavy stone through a large shop window on Sixth Avenue. Glass shatters loudly, and a policeman runs up with a club. Soapy stands calmly with hands in his pockets, waiting to be handcuffed. But the officer thinks real criminals always run away. Seeing an innocent man running to catch a streetcar, the policeman chases him instead, leaving Soapy alone.<br/>" +
+            "<strong>3. The Cheap Eatery:</strong> Soapy enters a cheap restaurant and eats a big meal of beefsteak and pie. When the bill arrives, he tells the waiter he has no money. Instead of calling the police, two strong waiters toss him out onto the hard pavement.<br/>" +
+            "<strong>4. Pretending to Be Drunk:</strong> Outside a theatre, Soapy dances on the sidewalk and shouts loudly, acting like a drunken troublemaker. A police officer stands nearby, but he assumes Soapy is just a college student celebrating a football victory and leaves him alone.<br/>" +
+            "<strong>5. Annoying a Woman:</strong> Soapy tries to act like an annoying street harasser with a young woman in front of a shop. But the woman happily takes his arm because she was looking for company! Terrified of being stuck with her, Soapy runs away.<br/>" +
+            "<strong>6. Stealing an Umbrella:</strong> Soapy takes a fine umbrella from a man outside a cigar store. But when Soapy tells the man to call a cop, the man confesses that he had found the umbrella in a restaurant that morning, telling Soapy he can keep it!"
           ]
         },
         {
-          heading: 'IV. Spiritual Epiphany and Rebirth at the Old Church',
+          heading: 'IV. Social Contrast and O. Henry’s Themes',
           paragraphs: [
-            "The dramatic turning point in O' Henry's presentation occurs when Soapy wanders into a quiet suburban corner and encounters an ancient, picturesque country church. Through the stained-glass windows, the sweet, solemn notes of an organist practicing an anthem drift into his ears. The anthem was familiar to Soapy from the days when his life held pure aspirations, clean thoughts, mothers, roses, and collared shirts.",
-            "The anthem acts as a moral catalyst, triggering a profound spiritual transformation. The music penetrates his cynical defense mechanisms. Soapy suddenly views with horror the pit into which he had tumbled: his degraded days, unworthy desires, dead hopes, and ruined faculties. In a sublime moment of moral clarity, Soapy resolves to conquer his destiny. He vows to resurrect his old ambitions, find employment, and become a man of respectability again."
+            "Through Soapy's adventures, O' Henry brings out sharp social contrasts between the rich and the poor in New York City. While wealthy people prepare for the winter cold by booking trips to warm southern beaches in Florida, poor citizens like Soapy have to struggle just to stay alive on frozen park benches.",
+            "The story also highlights the strange nature of human charity. Organized charity homes provide food and beds, but they demand personal confessions, private questionnaires, and moral lectures. For Soapy, going to prison on the Island is actually more dignified because the law does not pry into his personal life or judge his past. By showing a homeless man who prefers a jail cell over public charity, O' Henry makes readers think deeply about human dignity and how society treats its most vulnerable members."
           ]
         },
         {
-          heading: 'V. The Climax of Situational Irony and Tragicomic Conclusion',
+          heading: 'V. The Moral Awakening at the Old Country Church',
           paragraphs: [
-            "Just as Soapy completes his solemn resolve to embrace an honorable life, O' Henry executes his quintessential plot twist. Soapy feels a heavy hand tap upon his shoulder. He turns around to face the broad face of a police officer who inquisitively asks what he is doing loitering outside the church. Soapy’s stammering response—'Nothing'—is met with suspicion. The policeman arrests him on a charge of vagrancy.<br/>" +
-            "The following morning, the magistrate in police court pronounces the tragicomic sentence: <em>'Three months on the Island.'</em> The supreme irony of fate is that when Soapy was desperate to enter prison by committing minor offenses, the legal machinery ignored him; but the moment his soul was redeemed and he resolved to walk the path of virtue, the law ensnared him."
+            "After all his plans fail, Soapy feels helpless. He stops in front of an old, quiet country church. Through a stained-glass window, he hears the sweet organ music of an anthem being practiced. The music touches his conscience, reminding him of his past youth, his loving mother, clean clothes, good friends, and honest ambitions.",
+            "A deep change of heart happens inside Soapy. He feels disgusted by his wasted life, lazy habits, and dead hopes. He makes a firm promise to change: tomorrow he will go to the business district, find an honest job, and become a respectable man once again."
+          ]
+        },
+        {
+          heading: 'VI. The Climax of Situational Irony',
+          paragraphs: [
+            "Just as Soapy finishes making this noble promise, O' Henry delivers his famous surprise ending. A policeman taps Soapy's shoulder and asks what he is doing outside the church. Soapy nervously says 'Nothing.' The officer suspects him of loitering and arrests him on the spot.",
+            "The next morning, the police court judge announces the sentence: <em>'Three months on the Island.'</em>",
+            "This ending is a classic example of situational irony. When Soapy tried hard to commit crimes to enter prison, the law ignored him. But the exact moment he decided to live an honest life, the law arrested him and sent him to prison."
           ]
         }
       ],
-      conclusion: "O' Henry’s presentation of Soapy is an endearing blend of humor, social criticism, and tragic irony. Soapy remains one of the most memorable characters in American short fiction—a gentleman of the park bench whose struggle against the cold and institutionalized law captures the unpredictable ironies of human existence."
+      conclusion: "In 'The Cop and the Anthem', O' Henry presents Soapy with warmth, gentle humor, and deep sympathy. Through Soapy's funny failures and the surprise ending, the story highlights the unpredictable twists of human life and the harsh realities faced by the poor in big cities."
     }
   },
   {
@@ -68,52 +77,58 @@ export const sectionA_2025 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction and Narrative Setting of Arnold Bennett's 'Murder'",
+          heading: "I. Introduction and Background of Arnold Bennett's 'Murder'",
           paragraphs: [
-            "Arnold Bennett’s gripping psychological drama 'Murder' is a remarkable exploration of romantic rivalry, moral degradation, emotional tension, and the dark recesses of the human psyche. Unlike conventional detective whodunits where the primary suspense lies in discovering the identity of an unknown murderer, Bennett structures his narrative around a psychological duel between two contrasting individuals: Lomax Harder, an intellectual, nervous playwright and aesthetic artist, and John Franting, a boisterous, self-indulgent, and domineering provincial manufacturer.",
-            "The entire narrative revolves around the tragic murder of John Franting, which occurs not in a desolate alley or under the cover of nocturnal burglary, but within the domestic confines of Franting's own home in the quiet provincial town of Sneyd, driven by an agonizing romantic obsession involving a charming young woman named Emily Swynnerton."
+            "Arnold Bennett was a prominent English writer known for his realistic stories about life in the industrial towns of Staffordshire, famously called the 'Five Towns'. His short story 'Murder' is a fascinating psychological drama. Unlike a typical detective whodunit where the main goal is to find out who killed the victim, Bennett reveals the killer right from the start. The real suspense of the story lies in exploring the psychological conflict, personal jealousy, and mental torment of the murderer.",
+            "The story centers on the violent death of John Franting, a wealthy, loud, and confident factory owner living in the provincial town of Sneyd. His murder is carried out not by a professional criminal or a burglar, but by Lomax Harder, a sensitive, intellectual playwright from London who is blinded by romantic obsession."
           ]
         },
         {
-          heading: 'II. The Genesis of Conflict: The Love Triangle and Psychological Antagonism',
+          heading: 'II. The Love Triangle and Reason for the Murder',
           paragraphs: [
-            "The root cause of the murder lies in the intense emotional conflict surrounding Emily Swynnerton. Lomax Harder, sensitive, refined, and desperately in love with Emily, had proposed marriage to her. However, Emily was already engaged to John Franting. Franting was a wealthy, physically imposing, and egotistical man who treated Emily not with tender devotion, but as a prized possession to be showcased.",
-            "Franting was notoriously unfaithful, hedonistic, and arrogant, holding a cynical view of women while demanding unquestioned loyalty from Emily. Emily, intimidated by Franting’s forceful personality and bound by provincial social expectations, felt trapped in the engagement. Lomax Harder perceived Franting as a vulgar brute who was destined to crush Emily’s sensitive spirit and ruin her life. Harder’s deep romantic agony gradually transformed into a dangerous obsession: he convinced himself that eliminating Franting was not merely a path to personal happiness, but an act of moral chivalry to liberate Emily from a life of misery."
+            "The root cause of the murder is an emotional rivalry over a young woman named Emily Swynnerton. Lomax Harder is deeply in love with Emily and wants to marry her. However, Emily is already engaged to John Franting.",
+            "The two men are complete opposites in character and temperament:<br/>" +
+            "• <strong>Lomax Harder:</strong> He is an artist, refined, nervous, and highly imaginative. He views love as a spiritual and noble bond. When he sees Emily engaged to Franting, he feels genuine horror because he believes Franting is too crude and insensitive for a delicate woman like Emily.<br/>" +
+            "• <strong>John Franting:</strong> He is a successful, energetic, and physically imposing businessman. However, he is also arrogant, selfish, and fond of living a luxurious life without caring for the feelings of others. He treats Emily more like a beautiful prize or a possession to show off to society rather than a partner he truly respects.",
+            "Lomax Harder convinces himself of a dangerous idea: he believes that Franting will crush Emily's spirit and make her miserable for the rest of her life. Harder starts thinking that getting rid of Franting is not a selfish crime, but a heroic act of chivalry to rescue Emily from a lifetime of unhappiness."
           ]
         },
         {
-          heading: 'III. The Planning and Execution of the Crime by Lomax Harder',
+          heading: 'III. The Planning and Execution of the Murder',
           paragraphs: [
-            "Lomax Harder meticulously devised a cold, calculated plan to murder Franting while attempting to secure an unbreakable alibi:<br/>" +
-            "• <strong>The Cover of Travel:</strong> Harder journeyed by train to the industrial Five Towns under an assumed persona, timing his arrival late at night when the streets of Sneyd were deserted.<br/>" +
-            "• <strong>The Confrontation in the Study:</strong> Harder arrived at Franting’s residence, 'The Haven'. Admitted into Franting’s study, the two men engaged in a tense, bitter confrontation. Harder observed Franting in his silk dressing gown, comfortable and dismissive. When Harder demanded that Franting break off his engagement with Emily, Franting laughed contemptuously, mocking Harder’s artistic pretensions and asserting his absolute proprietary claim over Emily.<br/>" +
-            "• <strong>The Fatal Act:</strong> Consumed by rage and perceived desperation, Harder produced a revolver. In a moment of panic and hatred, Harder fired, killing John Franting on the spot. Franting collapsed onto the floor of his luxurious study, his boisterous life extinguished in an instant.<br/>" +
-            "• <strong>The Escape:</strong> Terrified by the reality of his act, Harder swiftly ransacked a desk drawer to simulate a burglary, extinguished the lights, slipped out into the foggy darkness, and caught an early morning train back to London, believing he had executed the perfect crime."
+            "Harder plans the crime very carefully so that he will not be suspected:<br/>" +
+            "• <strong>Traveling in Secret:</strong> Harder travels by train from London to the Five Towns under an assumed name, arriving late at night when the streets of Sneyd are dark and empty.<br/>" +
+            "• <strong>The Meeting in the Study:</strong> He walks to Franting's grand house, called 'The Haven', and enters the study. Franting is sitting comfortably in his silk dressing gown, having a drink by the fire. Harder asks Franting to give up his engagement to Emily for her own good. Franting finds this hilarious. He laughs loudly in Harder's face, mocks his artistic ideas, and arrogantly declares that Emily belongs to him.<br/>" +
+            "• <strong>The Shooting:</strong> Blinded by anger, jealousy, and fear, Harder pulls a small revolver from his pocket. Before Franting can react, Harder fires a shot directly into Franting's chest. The bullet pierces Franting's heart, killing him instantly on the carpet of his luxurious study.<br/>" +
+            "• <strong>Creating a Fake Burglary:</strong> In a state of intense panic, Harder pulls open desk drawers, scatters papers, and takes a few valuables to make it look like an ordinary burglar had broken in, got surprised by the house owner, shot him, and fled. He turns off the gas lights and slips out into the dark night, catching an early morning train back to London."
           ]
         },
         {
-          heading: 'IV. Psychological Aftermath and the Collapse of Harder’s Composure',
+          heading: 'IV. Psychological Torment and Fear After the Crime',
           paragraphs: [
-            "The core of Bennett’s narrative shifts from the physical murder to its devastating psychological consequences on Lomax Harder. Upon returning to London, Harder experiences the agony of acute paranoia. Every sound, every knock on the door, and every newspaper headline mentioning the 'Brutal Murder of Provincial Gentleman' induces intense panic.",
-            "Harder discovers that taking a human life does not bring heroic satisfaction; it unleashes psychological terror. He imagines detectives observing his movements and fears that microscopic clues left at the crime scene will expose him. His nervous artist’s temperament, which once imagined lofty romantic ideals, now tortures him with vivid hallucinations of the gallows."
+            "Bennett shows his great skill as a realistic writer by describing what happens inside Harder's mind after the murder. Harder expected to feel triumphant and relieved after saving Emily. Instead, he enters a living nightmare of extreme fear and guilt.",
+            "Back in his London apartment, every sound terrifies him. When he reads the newspaper reports about the 'Mysterious Murder of Sneyd Gentleman', his heart races. He imagines that detectives from Scotland Yard are watching his house, checking his train tickets, and analyzing microscopic clues. His artistic imagination, which once created plays, now creates horrifying images of the police, the courtroom, and the hanging gallows.",
+            "Harder realizes that killing another human being destroys the murderer's peace forever. Even though no one suspects him yet, he is trapped inside the prison of his own terrified mind."
           ]
         },
         {
-          heading: 'V. The Climax: Emily Swynnerton’s Revelation and Tragic Irony',
+          heading: 'V. The Climax: Emily’s Revelation and the Bitter Twist',
           paragraphs: [
-            "The dramatic climax of the story occurs during a meeting between Lomax Harder and Emily Swynnerton following Franting's funeral. Harder expects Emily to be in mourning, yet secretly relieved. To his shock, Emily reveals that she had never truly wanted to break her engagement with Franting. Despite his flaws, Franting’s raw masculinity and social stature held an irresistible attraction for her.",
-            "Worse still, Emily reveals that on the very evening of the murder, Franting had signed a will making her his sole heiress, and she expresses horror and vengeance toward whoever committed the crime. Harder realizes the tragic irony of his act: in murdering John Franting to 'save' Emily, he had committed a capital crime for a romantic illusion. Rather than winning Emily, he had created an unbridgeable gulf between them. The blood of John Franting became a permanent barrier between Harder and the woman he sought to possess."
+            "The emotional peak of the story comes when Harder returns to Sneyd after Franting's funeral to visit Emily Swynnerton. He expects Emily to be in mourning outwardly, but secretly relieved to be free from Franting's control. He hopes to comfort her and gradually win her love.",
+            "To his complete shock, Emily is genuinely heartbroken. She weeps with deep sorrow and reveals that she truly loved Franting! She explains that she liked his strong, confident nature and never wanted to break their engagement. She found his rough strength attractive, something Harder's nervous sensitivity could never match.",
+            "Even worse, Emily tells Harder that on the very evening he was murdered, Franting had signed a new will leaving all his vast property and wealth to her. She speaks of the unknown murderer with intense hatred, saying that she will never rest until the killer is caught and hanged.",
+            "This revelation completely crushes Harder. He realizes the horrifying truth: he killed a man for a completely false assumption. He did not save Emily; he destroyed her happiness. Instead of winning her love, the murder placed an unbreakable wall of blood and hatred between them forever."
           ]
         },
         {
-          heading: 'VI. The Moral Paradox and Bennett’s Realism: The Agony of the Unpunished Crime',
+          heading: 'VI. The Moral Lesson: Punishment Without Arrest',
           paragraphs: [
-            "Arnold Bennett concludes his story not with the conventional theatrical arrival of Scotland Yard detectives or a dramatic courtroom confession, but with an agonizing, quiet psychological torment. Lomax Harder is never formally arrested; no clever police inspector tracks down his revolver, and no vigilant magistrate charges him with murder. Yet, Bennett’s realistic moral universe demonstrates that escaping legal punishment does not mean escaping retributive justice.",
-            "Harder walks away as a legally free man, but he is condemned to live within the solitary prison of his own conscience. The realization that John Franting’s death was utterly futile—that it alienated Emily forever, stripped Harder of his creative innocence, and bound him to a lifetime of secret guilt—proves to be a punishment far more devastating than the gallows. Bennett’s portrayal of Franting’s murder functions as an acute warning against rationalizing violent crimes under the noble banner of romantic chivalry."
+            "Arnold Bennett ends the story with a realistic and thought-provoking conclusion. The local police conclude that John Franting was killed by an unknown traveling burglar, and the case remains unsolved. Harder is never arrested, never questioned, and never put on trial.",
+            "However, Bennett shows that escaping the police does not mean escaping punishment. Harder must live the rest of his life carrying the terrible secret that he murdered a man in cold blood for nothing. His guilt, his lost love, and his ruined conscience punish him far more severely than any prison sentence. Bennett warns readers that giving fancy moral excuses for violent acts is dangerous self-deception that always leads to ruin."
           ]
         }
       ],
-      conclusion: "Bennett's account of the murder of John Franting is a compelling study in psychological realism and dramatic irony. Through Franting’s violent demise, Bennett illustrates that violence committed under the guise of romantic idealism is fundamentally self-destructive, exposing the gap between romantic fantasy and moral reality."
+      conclusion: "Arnold Bennett's 'Murder' is a powerful study in human psychology and dramatic irony. Through the murder of John Franting, Bennett demonstrates that violence based on jealousy and false pride only destroys the killer's peace of mind, leaving behind lifelong regret and guilt."
     }
   },
   {
@@ -127,46 +142,46 @@ export const sectionA_2025 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction and Context of 'Shyness My Shield'",
+          heading: "I. Introduction: Gandhi's Honest Reflection on His Shyness",
           paragraphs: [
-            "In 'Shyness My Shield'—a reflective chapter excerpted from his celebrated autobiography, <em>The Story of My Experiments with Truth</em>—Mohandas Karamchand Gandhi provides a candid, introspective analysis of what appeared to be his greatest personal and professional liability: his constitutional, crippling shyness. Arriving in England as a young, inexperienced Indian law student, Gandhi struggled with severe social awkwardness, stage fright, and an inability to converse freely in British society.",
-            "Yet, in a philosophical reassessment of his life, Gandhi concludes that what initially seemed an embarrassing flaw was in reality a divine blessing. His natural shyness served as his 'shield'—a moral armor that protected him from spiritual degradation, preserved his integrity, taught him the virtue of economy of words, and disciplined him to become a seeker of absolute truth."
+            "In the essay 'Shyness My Shield'—which is a well-known chapter from his autobiography, <em>The Story of My Experiments with Truth</em>—Mahatma Gandhi writes with remarkable honesty about one of his biggest personal struggles: his extreme shyness. When Gandhi went to England as a young, inexperienced student to study law, he felt deeply awkward in British society. He was very hesitant, suffered from severe stage fright, and found it almost impossible to speak in front of people.",
+            "Most people would look at such extreme shyness as a major disability or a personal failure, especially for someone training to be a lawyer. However, looking back on his life with mature wisdom, Gandhi arrived at a surprising and beautiful conclusion. He realized that what seemed like a great weakness was actually a wonderful blessing. His natural shyness acted as his 'shield'—a moral armor that protected him from bad influences, kept his character clean, taught him the value of speaking few words, and trained him to be a devoted seeker of truth."
           ]
         },
         {
-          heading: 'II. Early Manifestations of Constitutional Shyness and Public Failures',
+          heading: 'II. Three Painful Examples of Gandhi’s Stage Fright',
           paragraphs: [
-            "Gandhi candidly narrates several painful episodes illustrating how his shyness paralyzed him in public life:<br/>" +
-            "<strong>1. The Vegetarian Society Meeting:</strong> While studying law in London, Gandhi became a member of the Executive Committee of the London Vegetarian Society. Although he attended every weekly meeting, he was utterly incapable of speaking. When an ethical crisis arose involving the expulsion of Dr. Allinson (who advocated artificial birth control methods contrary to the orthodox views of the Society\'s President, Mr. Hills), Gandhi strongly believed in defending Dr. Allinson's right to his views. Gandhi wrote down his speech on a sheet of paper. However, when called upon to address the committee, his vision blurred, his hands trembled, and he could not read a single line. A friend had to read his paper on his behalf.<br/>" +
-            "<strong>2. The Ventnor Farewell Speech:</strong> On the eve of his departure from Ventnor on the Isle of Wight, Gandhi invited his hosts to dinner and attempted to deliver a brief speech thanking them. He began by reciting a line from Addison: <em>'Thank you, gentlemen, for having kindly responded to my invitation...'</em> Suddenly, his memory went blank, he froze, apologized to the guests, and sat down in deep embarrassment.<br/>" +
-            "<strong>3. The Bombay Court Collapse:</strong> This shyness followed him back to India. In his very first courtroom appearance as a fledgling barrister in the Small Causes Court in Bombay, Gandhi stood up to cross-examine a witness. His heart sank, his head reeled, and he could not frame a single coherent question. Thoroughly humiliated, he handed over the brief to his senior, refunded his client's fee, and fled the courtroom."
+            "To help readers understand how serious his shyness was, Gandhi openly shares three embarrassing incidents from his youth:<br/>" +
+            "<strong>1. The London Vegetarian Society Meeting:</strong> While studying law in London, Gandhi became an elected member of the Executive Committee of the London Vegetarian Society. He attended every weekly meeting with great dedication, but he was completely unable to speak. On one occasion, a serious debate arose. The President of the Society, Mr. Hills, wanted to expel Dr. Allinson because Dr. Allinson supported modern birth control methods, which Mr. Hills considered immoral. Gandhi felt strongly that this was unfair. He believed that the Society existed only to promote vegetarianism, not to control members' personal opinions on other topics. Gandhi spent a lot of time writing down his thoughts on a sheet of paper. But when he stood up to read his speech, his hands shook, his vision blurred, and he could not read a single sentence. A friend had to read the paper for him, leaving Gandhi feeling deeply embarrassed.<br/>" +
+            "<strong>2. The Farewell Dinner at Ventnor:</strong> Before leaving the town of Ventnor on the Isle of Wight, Gandhi invited his friendly hosts to a farewell dinner. He wanted to give a short thank-you speech. He prepared a funny opening line from the English writer Joseph Addison: <em>'Thank you, gentlemen, for having kindly responded to my invitation...'</em> But after saying that single sentence, his mind went completely blank. He froze in silence, felt miserable, apologized to the guests, and sat down in deep shame.<br/>" +
+            "<strong>3. The Collapse in the Bombay Courtroom:</strong> Even after qualifying as a barrister and returning to India, his shyness did not disappear. In his very first case before the Small Causes Court in Bombay, Gandhi stood up to cross-examine a witness. His heart sank, his head spun, and he could not think of a single question to ask. Completely humiliated, he gave the case papers back to a senior lawyer, refunded the client's money, and hurried out of the courtroom."
           ]
         },
         {
-          heading: "III. How Shyness Transformed into a Moral 'Shield'",
+          heading: "III. How Shyness Became a Protective 'Shield'",
           paragraphs: [
-            "Reflecting upon these humiliations in mature years, Gandhi asks: What did this shyness cost me? His answer reveals the profound moral philosophy that later shaped his leadership of the Indian freedom movement:<br/>" +
-            "<strong>1. Protection from Moral Corruption and Sin:</strong> Gandhi explains that young students abroad were frequently exposed to the temptations of loose talk, frivolous vanity, and moral lapses. Because of his natural bashfulness, Gandhi never engaged in idle chatter, boastful exaggeration, or salacious gossip. His shyness insulated him from worldly vulgarity like a protective wall: <em>'My constitutional shyness has been no disadvantage to me. I can see that on the contrary it has been all to my advantage. Its greatest benefit has been that it taught me the economy of words.'</em><br/>" +
-            "<strong>2. Restraint of Speech and Discernment of Truth:</strong> Gandhi observes that human beings often speak without thinking, leading to thoughtless statements, falsehoods, and uncharitable judgments. His shyness forced him to measure every word before uttering it: <em>'Silence is part of the spiritual discipline of a votary of truth. Proneness to exaggerate, to suppress or modify the truth, wittingly or unwittingly, is a natural weakness of man, and silence is necessary in order to surmount it. A man of few words will rarely be thoughtless in his speech; he will measure every word.'</em><br/>" +
-            "<strong>3. Protection against Ego and Vanity:</strong> Shyness curbed his ego. It prevented him from showing off intellectual cleverness, speaking out of turn, or seeking cheap public applause. It forced him to listen carefully to others rather than dominating conversations."
+            "After describing these embarrassing failures, Gandhi asks an important question: Did this shyness actually harm him in life? His answer is a clear 'No.' Instead, he explains how shyness acted as a shield that protected his moral character in several practical ways:<br/>" +
+            "<strong>1. Protection from Bad Habits and Sin:</strong> Young Indian students living alone in London were often exposed to temptations like bragging, shallow party talk, wasting money, and bad moral habits. Because of his natural shyness, Gandhi never took part in loose talk, vulgar gossip, or wild parties. His bashfulness acted like a protective wall, keeping him safe from harmful worldly habits.<br/>" +
+            "<strong>2. Teaching the 'Economy of Words':</strong> Gandhi writes that the greatest lesson his shyness taught him was the <strong>'economy of words'</strong>—the habit of never speaking unnecessary words. He observed that people who speak easily often brag, exaggerate the truth, repeat gossip, and say things without thinking. Because Gandhi found it hard to speak, he learned to think carefully before uttering a single sentence. He never spoke unless it was truly necessary. As Gandhi beautifully writes: <em>'Silence is part of the spiritual discipline of a votary of truth. A man of few words will rarely be thoughtless in his speech; he will measure every word.'</em><br/>" +
+            "<strong>3. Keeping His Ego in Control:</strong> Shyness prevented Gandhi from showing off his cleverness or seeking cheap public praise. It forced him to listen carefully to others and respect different points of view instead of trying to dominate every conversation."
           ]
         },
         {
-          heading: "IV. The Discernment of Truth and Gandhi’s Evolution as a Public Communicator",
+          heading: 'IV. How Shyness Helped in the Search for Truth',
           paragraphs: [
-            "Gandhi remarks that his shyness helped him in his <strong>'discernment of truth'</strong>. In legal practice and political negotiation, truth is obscured by rhetoric, aggressive bluster, and emotional manipulation. Because Gandhi was incapable of rhetorical flourish, he was compelled to rely solely on the unvarnished strength of factual truth.",
-            "Later in South Africa and during the Indian freedom struggle, this 'shy student' transformed into one of the most compelling public speakers in world history. His speeches were never theatrical or thunderous; they were soft-spoken, clear, concise, and direct. Millions followed his voice precisely because they recognized that every word uttered had passed through the filter of self-restraint."
+            "Gandhi explains that his shyness helped him greatly in his <strong>'discernment of truth'</strong>—that is, the ability to see and understand what is genuinely true. In public debates and politics, people often hide the truth behind clever speeches, emotional drama, and loud arguments. Because Gandhi could not make loud, showy speeches, he was forced to rely entirely on simple, honest facts.",
+            "Later in life, when he led mass movements in South Africa and India, this shy student became one of the most effective and beloved public speakers in history. He never shouted, waved his hands, or used theatrical tricks. He spoke in a quiet, clear, and direct voice. Millions of people listened to him with complete trust because they knew that every word he spoke was honest and measured."
           ]
         },
         {
-          heading: "V. Relevance for Legal Education and the Art of Advocacy",
+          heading: 'V. Valuable Lessons for Law Students',
           paragraphs: [
-            "For a student of law, Gandhi’s realization that 'shyness became my shield' carries extraordinary pedagogical significance. In modern legal culture, advocacy is frequently misunderstood as aggressive verbosity, theatrical posturing, and browbeating witnesses. Gandhi’s personal evolution demonstrates the opposite: the true strength of an advocate lies in disciplined precision, absolute mastery of facts, and the restraint of speech.",
-            "By refusing to speak unless he had something essential to say, Gandhi avoided frivolous procedural quarrels and cultivated a reputation for unshakeable veracity. When he later practiced law in South Africa, judges and opposing barristers respected him precisely because they knew he would never mislead the court with deceptive rhetoric. Thus, the virtue of the 'shield' was not merely personal morality; it was the foundation of ethical, persuasive advocacy."
+            "For law students, Gandhi’s experience contains an essential lesson. Many people mistakenly think that being a successful lawyer requires being loud, aggressive, and constantly talking. Gandhi shows that real legal skill is based on careful listening, thorough knowledge of facts, and honesty.",
+            "When Gandhi practiced law in South Africa, judges and other lawyers respected him immensely because they knew he would never lie or try to confuse the court with empty rhetoric. If he said something, it was verified truth. Thus, his shyness, which taught him to weigh every word, became the foundation of his greatness as an advocate."
           ]
         }
       ],
-      conclusion: "In 'Shyness My Shield', Gandhi demonstrates that an apparent human weakness can be transmuted through self-discipline into spiritual strength. By allowing his shyness to act as a shield, Gandhi preserved his moral compass, mastered the economy of words, and anchored his life in the pursuit of absolute truth."
+      conclusion: "In 'Shyness My Shield', Mahatma Gandhi proves that what seems like a personal weakness can be turned into great moral strength. By letting his shyness protect him, Gandhi developed self-control, learned to speak with honesty and care, and built the truthful character that inspired the entire world."
     }
   },
   {
@@ -180,52 +195,52 @@ export const sectionA_2025 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction: The Enigmatic Metaphor of 'The Island'",
+          heading: "I. Introduction: The Real Meaning of 'The Island'",
           paragraphs: [
-            "In O' Henry’s acclaimed masterpiece 'The Cop and the Anthem', the term 'The Island' is repeated throughout the narrative as an evocative, multifaceted motif. To the uninitiated reader unfamiliar with New York geography at the turn of the twentieth century, 'The Island' might evoke images of an idyllic tropical retreat, a sun-drenched sanctuary, or an exotic vacation spot far removed from the cold winter winds of Manhattan.",
-            "However, in the gritty social reality of O' Henry's story, 'The Island' is a contemporary slang term for <strong>Blackwell’s Island</strong> (later renamed Welfare Island, and known today as Roosevelt Island)—the site of the historic municipal penitentiary, workhouse, and almshouse situated in the East River between Manhattan and Queens. For Soapy, an impoverished, homeless wanderer sleeping on a bench in Madison Square, 'The Island' is neither an exotic vacation nor a terrifying prison; it is his sanctuary against winter."
+            "In O' Henry’s celebrated short story 'The Cop and the Anthem', the term 'The Island' appears repeatedly as the central goal of the main character, Soapy. To a reader who does not know the local history of New York City at the beginning of the twentieth century, 'The Island' might sound like a pleasant tropical vacation spot, a sunny holiday resort, or a beach getaway where people escape the winter cold.",
+            "However, in the realistic setting of O' Henry's story, 'The Island' refers to <strong>Blackwell’s Island</strong> (which was later called Welfare Island and is known today as Roosevelt Island). Blackwell's Island was a narrow strip of land situated in the East River between Manhattan and Queens. At that time, it was the location of the New York City municipal prison, the workhouse, and public hospitals for the poor. For Soapy, an unemployed, homeless man sleeping on a park bench in Madison Square, 'The Island' is his practical winter shelter."
           ]
         },
         {
-          heading: "II. 'The Island' as a Pragmatic Winter Sanctuary",
+          heading: "II. 'The Island' as Soapy’s Winter Haven",
           paragraphs: [
-            "As the golden autumn leaves fall and a cold northern wind bites through Madison Square, Soapy recognizes that nature is delivering an unmistakable eviction notice. Wealthy New Yorkers prepared for winter by purchasing tickets to Florida, Riviera cruises, or luxurious southern villas. Soapy, possessing neither money nor winter garments, had more modest ambitions:<br/>" +
+            "As late autumn arrives in New York, cold dead leaves fall from the trees and chilly north winds begin to blow through Madison Square. Nature gives Soapy a clear warning that he cannot survive sleeping outdoors on a wooden park bench with only thin newspapers under his coat.",
+            "Wealthy citizens of New York prepared for the cold season by booking train tickets to Florida or planning holidays in warm southern places. Soapy has no money for such luxuries, but his practical needs are very clear:<br/>" +
             "<em>'Three months on the Island was what his soul craved. Three months of assured food and bed and congenial company, safe from Boreas and bluecoats, seemed to Soapy the essence of things desirable.'</em>",
-            "To Soapy, the three-month sentence on Blackwell's Island represented basic physical survival: guaranteed three meals a day, a clean cot with blankets protected from snow, and relief from freezing nights. For several successive winters, Blackwell's Island had served as his dependable winter refuge, while the summer months found him comfortably resting on his park bench.",
-            "Historically, Blackwell's Island was cut off from Manhattan by the swift, treacherous currents of the East River, housing the New York City Penitentiary and Workhouse. To the average respectable citizen, the granite walls of the Island prison were a dreaded symbol of social shame and penal servitude. But through Soapy’s inverted worldview, those same granite walls were transformed into a hospitable winter hotel. The natural isolation of the East River ensured safety from the biting northern blizzard ('Boreas') and immunity from the harsh harassment of New York police officers ('bluecoats')."
+            "To Soapy, a three-month sentence in the Blackwell's Island prison represents basic survival: three warm meals every day, a clean bed protected from freezing snow, and safety from the bitter winter wind ('Boreas') and the street police ('bluecoats'). For several past winters, Blackwell's Island had served as his dependable winter refuge, while in the warm summer months he happily lived on his park bench."
           ]
         },
         {
-          heading: "III. The Social Contrast: 'The Island' vs. Humiliating Public Charity",
+          heading: "III. Why Prison Was Better for Soapy Than Charity",
           paragraphs: [
-            "O' Henry uses Soapy’s preference for 'The Island' to deliver biting satire on contemporary urban philanthropy. In New York, there existed numerous religious missions, municipal night shelters, and charitable organizations where a homeless man could receive soup and shelter. Yet Soapy avoided them:<br/>" +
-            "• <strong>Intrusive Philanthropy:</strong> To receive public bread from charitable organizations, an applicant was subjected to moral lectures, invasive questions regarding their family history, and forced hygiene inspections.<br/>" +
-            "• <strong>Dignity of the Law:</strong> In contrast, on 'The Island', the criminal law was formal and impersonal. The judicial system demanded physical compliance, but it did not pry into a gentleman’s private affairs or demand moral confessions. In prison, a man retained his personal secrets. Thus, paradoxically, Soapy considered a criminal conviction on the Island far less degrading than public charity."
+            "O' Henry uses Soapy’s strong preference for 'The Island' to deliver a sharp, humorous criticism of public charity and social work in his day. In New York, there were many charitable night shelters, church missions, and soup kitchens where a homeless man could get food and a place to sleep. Yet Soapy deliberately avoids all of them for two main reasons:<br/>" +
+            "• <strong>The Humiliation of Charity:</strong> Soapy explains that taking food or a bed from a charity organization requires paying a very high price in personal humiliation. Social workers and charity officials treat the poor with patronizing pity. They ask intrusive questions about family history, make people answer private questionnaires, lecture them about their bad morals, and force them to take cold baths. To a proud man like Soapy, losing his dignity for a bowl of soup is unbearable.<br/>" +
+            "• <strong>The Clean Fairness of the Law:</strong> On 'The Island', however, the criminal law is formal, simple, and impersonal. The legal system expects you to do your prison work and serve your time, but it never asks you about your private family secrets, does not give moral lectures, and does not pry into your past mistakes. In prison, a man can keep his self-respect and private life intact. Therefore, Soapy paradoxically feels that going to prison is far more gentlemanly than taking public charity."
           ]
         },
         {
-          heading: 'IV. The Inaccessible Fortress: The Comic Reversal of the Quest',
+          heading: 'IV. The Comical Struggle to Reach the Island',
           paragraphs: [
-            "The dramatic humor of the story arises from the fact that 'The Island' becomes an unattainable fortress. Soapy devises six distinct plans to provoke arrest—breaking a shop window, consuming restaurant meals without paying, feigning drunken rowdiness, and stealing an umbrella. Yet, each attempt fails comicly because the police and citizens misinterpret his actions.",
-            "As failure follows failure, 'The Island' takes on mythical proportions in Soapy’s mind. It seems as distant and unattainable as the golden shores of Arcadia: <em>'The Island seemed an unattainable Arcadia. He had begun to believe that some dreadful enchantment had rendered him immune to arrest.'</em> The prison, normally feared and avoided by citizens, becomes a paradise from which Soapy is perversely locked out."
+            "The humor of the story comes from the fact that 'The Island' turns into an impossible fortress that Soapy cannot enter, no matter how hard he tries. He makes six distinct attempts to get arrested:<br/>" +
+            "1. He tries to enter a high-end restaurant to eat without money, but the head waiter sees his torn clothes and quietly turns him away.<br/>" +
+            "2. He breaks a large shop window with a stone and waits for the police, but the arriving cop assumes that real criminals always run and chases another man.<br/>" +
+            "3. He eats a big meal at a cheap cafe and announces he is penniless, but the waiters simply toss him onto the sidewalk instead of calling the police.<br/>" +
+            "4. He acts like a drunken lunatic in front of a theatre, but the officer thinks he is just a happy college student celebrating a football game.<br/>" +
+            "5. He tries to bother a young woman, but she happily holds his arm because she was looking for company.<br/>" +
+            "6. He grabs an umbrella outside a store, but the owner admits he found it in a restaurant and lets Soapy keep it.",
+            "As each scheme fails, Soapy begins to feel that some strange magic is making him immune to arrest. 'The Island' starts to look as distant and impossible to reach as a fairy-tale land."
           ]
         },
         {
-          heading: 'V. The Climax: Rejection of the Island and the Final Irony',
+          heading: 'V. The Climax and the Final Irony of the Island',
           paragraphs: [
-            "The ultimate significance of 'The Island' unfolds in the climax outside the ancient church. Moved by the organist’s anthem, Soapy experiences a spiritual awakening. He decides to reject 'The Island' and its degrading comfort, vowing to find employment and build an honorable life.<br/>" +
-            "Yet, in O' Henry’s masterstroke of situational irony, the moment Soapy abandons his desire for the Island, a policeman arrests him for loitering, and the magistrate sentences him the next morning to: <em>'Three months on the Island.'</em> The Island, once sought as a willing refuge, becomes his involuntary prison the moment his spirit chose freedom."
-          ]
-        },
-        {
-          heading: 'VI. Socioeconomic Realism: The Park Bench as the Antithesis of the Island',
-          paragraphs: [
-            "Throughout the narrative, O' Henry establishes a vivid architectural and social contrast between <strong>the park bench in Madison Square</strong> and <strong>the Island in the East River</strong>. The park bench represents precarious, exposed freedom—a life of wandering beneath autumn skies, sustained by newspapers tucked into coats, but subject to the merciless chill of oncoming winter. The Island, in contrast, represents institutionalized, warm captivity.",
-            "By framing Soapy's seasonal migration between the bench and the Island, O' Henry delivers an acute commentary on Gilded Age America. In a booming metropolis of soaring wealth, luxury cafes, and electric lights, the economic margin between surviving and freezing was razor-thin for the destitute. That a citizen should view a criminal penal colony as his primary social safety net exposes the severe systemic neglect of the impoverished. The Island is therefore both a comedic goal for Soapy and a stinging social indictment of urban indifference."
+            "The real meaning of 'The Island' reaches its dramatic peak at the end of the story. Standing outside an ancient church, Soapy hears an organist playing a beautiful anthem. The music touches his conscience, reminding him of his clean childhood and his mother. He decides right then to change his life: he will forget about 'The Island', get a job, work hard, and rebuild his self-respect.",
+            "At that very moment, a policeman taps his shoulder and asks what he is doing. Soapy stammers 'Nothing,' and the officer arrests him for loitering. The next morning, the police court judge delivers the final sentence: <em>'Three months on the Island.'</em>",
+            "This final twist gives 'The Island' a profound double meaning. When Soapy wanted to go there willingly as a safe haven, he could not get in. But the moment his soul decided to choose freedom and an honest life, 'The Island' became his involuntary prison."
           ]
         }
       ],
-      conclusion: "In 'The Cop and the Anthem', 'The Island' is far more than a physical penitentiary. It is a symbol of urban poverty, social irony, and the unpredictable fate of an individual struggling against socioeconomic realities in a great metropolis."
+      conclusion: "In 'The Cop and the Anthem', 'The Island' is much more than a simple prison. It represents the harsh realities of poverty, the coldness of urban society toward the homeless, and the unpredictable twists of human fate."
     }
   },
   {
@@ -239,54 +254,51 @@ export const sectionA_2025 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction: The Paradox of Shaw's Oratorical Genius",
+          heading: "I. Introduction: The Myth of the 'Born Orator'",
           paragraphs: [
-            "George Bernard Shaw is remembered as one of the most brilliant, witty, and persuasive public orators in British history. Whether addressing crowded political rallies in London, debating opposing philosophers, or lecturing on Fabian socialism, Shaw possessed exceptional verbal fluency, intellectual agility, and dramatic stage presence. However, in his essay 'How I Became a Public Speaker'—an autobiographical chapter from <em>Sixteen Self Sketches</em>—Shaw reveals that his oratorical mastery was not a natural gift. Rather, it was the hard-won product of deliberate self-discipline, persistent practice, and the systematic conquest of severe nervousness.",
-            "Shaw wrote this account to debunk the myth of the 'born orator' and to demonstrate that effective public speaking is an acquired art, achieved through rigorous training and the willingness to endure early public failure."
+            "George Bernard Shaw is widely remembered as one of the most brilliant, witty, and convincing public speakers in British history. Whether addressing crowded political rallies in London, debating famous philosophers, or presenting socialist ideas, Shaw possessed tremendous confidence, sharp humor, and powerful stage presence. However, in his essay 'How I Became a Public Speaker'—an autobiographical chapter from his book <em>Sixteen Self Sketches</em>—Shaw reveals a surprising truth: his great speaking ability was not a natural talent. In fact, when he was young, he was painfully shy, nervous, and terrified of speaking in public.",
+            "Shaw wrote this personal account to debunk the popular myth of the 'born orator'. He argued that effective public speaking is not an inborn magic gift. Instead, it is an acquired practical skill that anyone can learn through courage, regular practice, careful preparation, and the willingness to face early failure without giving up."
           ]
         },
         {
-          heading: 'II. The Agonizing Beginning: The Zetetical Society and Stage Fright',
+          heading: 'II. The Embarrassing Debut at the Zetetical Society (1879)',
           paragraphs: [
-            "Shaw’s public speaking journey began in 1879 when, at the age of twenty-three, he was persuaded by a friend to attend a meeting of the <strong>Zetetical Society</strong> in London—a debating club established to discuss philosophical, political, and evolutionary questions. Shaw had never spoken in public and knew little about formal debate. Yet, when the discussion began, an uncontrollable impulse drove him to speak.<br/>" +
-            "The outcome was deeply embarrassing. Shaw describes his condition in self-deprecating detail: his heart pounded like a sledgehammer, his hands shook violently, his throat dried up, and his voice sounded thin and strained. He writes:<br/>" +
-            "<em>'I had never spoken in public. I had no business to speak at all; yet I was impelled to get on my legs. When I stood up, I was terrified. I spoke a few stammering sentences, made a fool of myself, and sat down in an agony of shame. If I had had any common sense, I should have walked away in shame and never shown my face again.'</em>",
-            "Instead of withdrawing in defeat, Shaw made a conscious psychological decision: if speaking in public frightened him so profoundly, he resolved to force himself to speak at every meeting until the fear was eradicated."
+            "Shaw’s journey as a public speaker began in London in 1879, when he was twenty-three years old. A literary friend invited him to attend a meeting of the <strong>Zetetical Society</strong>—a debating club that met to discuss serious questions of politics, philosophy, and science. Shaw went purely as an observer. He had never spoken in public before and knew nothing about formal debating.",
+            "During the discussion, an uncontrollable impulse suddenly pushed him to stand up and speak. What followed was a complete disaster. The moment Shaw stood on his feet, extreme stage fright hit him. His heart began hammering against his chest like a sledgehammer, his knees trembled, his hands shook violently, his throat dried up, and his mind went completely blank. Every thought he had prepared vanished from his memory. He stammered out a few foolish, disconnected sentences and sat down in an agony of shame and humiliation.",
+            "Shaw writes that any normal young person, after such a humiliating failure, would have left the room and never dared to speak in public again. But Shaw made a completely different and bold choice. He reasoned that if speaking in public terrified him so much, it was his duty to force himself to do it at every single meeting until the fear was completely conquered."
           ]
         },
         {
-          heading: 'III. Systematic Self-Discipline: The Method of Deliberate Exposure',
+          heading: 'III. Systematic Practice Across London Debating Clubs',
           paragraphs: [
-            "Shaw adopted an unyielding regimen of deliberate exposure, practicing public speaking across London:<br/>" +
-            "<strong>1. Compulsory Participation at the Zetetical Society:</strong> Shaw attended every meeting of the Zetetical Society, joining its executive committee. Regardless of whether he understood the subject—be it currency reform, vivisection, or women\'s suffrage—Shaw compelled himself to stand up and speak on every paper read.<br/>" +
-            "<strong>2. Infiltration of London Debating Clubs:</strong> Shaw extended his practice to other societies across London. He joined the Dialectical Society, the Browning Society, the New Shakspere Society, and socialist reading circles, taking part in discussions across various topics.<br/>" +
-            "<strong>3. The Fabian Society and Street Oratory:</strong> In 1884, Shaw joined the newly founded Fabian Society, becoming its chief public propagandist. He took to the streets, addressing crowds in open-air forums, dock gates, and street corners in East London. Addressing working-class crowds under wind, rain, and interruptions taught Shaw how to command attention, project his voice, and handle hecklers with quick wit."
+            "Shaw put himself through a strict training routine by attending debating clubs all across London:<br/>" +
+            "• <strong>Speaking on Every Subject:</strong> Shaw attended every meeting of the Zetetical Society and eventually joined its committee. He forced himself to stand up and speak on every single paper that was read, whether he understood the subject or not—ranging from currency laws and evolution to women's rights.<br/>" +
+            "• <strong>Joining Multiple Societies:</strong> To get even more practice, Shaw joined several other discussion groups in London, including the Dialectical Society, the Browning Society, and the New Shakspere Society. Whenever an opportunity arose to speak or debate, Shaw was on his feet.<br/>" +
+            "• <strong>Overcoming Nervousness Through Habit:</strong> Through this constant exposure, Shaw gradually trained his nervous system to stay calm. What was once terrifying slowly became familiar and natural."
           ]
         },
         {
-          heading: 'IV. The Dual Foundation: Deep Subject Mastery and Vocal Articulation',
+          heading: 'IV. The Fabian Society and Outdoor Street Speaking',
           paragraphs: [
-            "Shaw realized early that oratorical delivery alone was insufficient without substantive knowledge and clear vocal mechanics:<br/>" +
-            "• <strong>Mastery of Political Economy:</strong> In 1882, after hearing the American reformer Henry George lecture on the land question, Shaw turned his attention to economic science. He read Karl Marx’s <em>Das Kapital</em> in French, studied economic treatises, and joined an informal study group meeting fortnightly at Hampstead. Thus, when Shaw stood before audiences, he was backed by thorough intellectual preparation.<br/>" +
-            "• <strong>Vocal Training and Elocution:</strong> Coming from an artistic family—his mother was an accomplished singer and music teacher—Shaw studied vocal mechanics. He learned how to breathe from the diaphragm, enunciate consonants crisply, and vary his pitch to prevent vocal fatigue during long speeches."
+            "In 1884, Shaw joined the newly formed <strong>Fabian Society</strong>, a socialist organization that believed in bringing about social reform through democratic education. Shaw quickly became its chief public speaker and spokesperson.",
+            "Shaw realized that ordinary working-class people would not come to comfortable indoor lecture halls. Therefore, he took his speeches directly to the streets. For many years, Shaw spoke at street corners, open park gates, market squares, and London dock gates in all kinds of weather, including rain and cold winds. Speaking outdoors taught Shaw essential practical skills:<br/>" +
+            "• <strong>Voice Projection:</strong> To be heard by hundreds of people over street traffic, Shaw learned to project his voice using his diaphragm rather than straining his throat, ensuring he could speak for two hours without becoming hoarse.<br/>" +
+            "• <strong>Handling Hecklers with Wit:</strong> Outdoor crowds often included drunk rowdies or political opponents who shouted rude comments to disrupt the meeting. Instead of losing his temper or shouting back, Shaw listened calmly and replied with razor-sharp humor. His witty answers made the entire crowd laugh at the heckler, turning potential trouble into a complete victory for Shaw."
           ]
         },
         {
-          heading: 'V. The Rule of Unpaid Speaking and Public Legacy',
+          heading: 'V. Thorough Subject Mastery and Advice for Students',
           paragraphs: [
-            "A notable principle of Shaw's oratorical career was his strict rule never to accept payment for speaking. Over twenty-eight years of intensive public lecturing, Shaw addressed thousands of audiences across Britain without accepting a single penny in speaking fees, only occasionally accepting reimbursement for third-class railway travel. This independence gave him moral authority: audiences knew Shaw was not a mercenary speaker, but a committed advocate for social reform.",
-            "By facing his fears and practicing regularly, Shaw transformed from a trembling youth into one of the most formidable public speakers of his generation."
-          ]
-        },
-        {
-          heading: 'VI. The Technique of Handling Hecklers and Hostile Audiences',
-          paragraphs: [
-            "One of the greatest skills Shaw acquired during his street-corner and dock-gate speaking tours was the art of disarming hostile audiences and hecklers. In British political rallies of the late nineteenth century, socialist speakers were frequently confronted by aggressive political opponents, drunken rowdies, and organized disruptions. Rather than losing his temper, displaying fear, or shouting down interruptions, Shaw turned heckling into an opportunity for comedic victory.",
-            "He learned to pause calmly, listen with feigned courtesy to the interruption, and then respond with razor-sharp wit and unassailable logic that turned the laughter of the entire crowd against the heckler. Shaw realized that an orator who maintains complete emotional composure while delivering witty, substantive arguments will invariably command the respect of the crowd. This composure, combined with intellectual agility, made Shaw an invincible debater on public platforms throughout his long life."
+            "Shaw emphasized that good speech delivery is useless unless backed by genuine subject knowledge. After hearing the American economist Henry George speak on land reform, Shaw spent years studying economics, reading Karl Marx's works, and discussing political science with leading thinkers. When Shaw spoke, his arguments were supported by solid facts and clear logic.<br/>" +
+            "Shaw also offered practical advice for students and beginners who wish to become confident speakers:<br/>" +
+            "1. <strong>Do Not Memorize Word-for-Word:</strong> Memorizing an entire speech word-for-word is dangerous because if you forget one sentence, your mind goes blank and panic sets in. Instead, understand your main points clearly, make brief notes on paper, and speak naturally in your own words.<br/>" +
+            "2. <strong>Control Your Breathing:</strong> Deep breathing from the diaphragm helps steady a racing heartbeat and prevents your throat from becoming dry or tight during nervous moments.<br/>" +
+            "3. <strong>Focus on the Message, Not Yourself:</strong> Nervousness increases when you worry about whether the audience likes you. Forget about yourself and focus entirely on helping the listeners understand your ideas.<br/>" +
+            "4. <strong>Practice Unpaid Public Service:</strong> Over twenty-eight years of public speaking, Shaw never accepted payment for lecturing, taking only third-class travel reimbursement. This gave him immense moral respect and complete independence."
           ]
         }
       ],
-      conclusion: "In 'How I Became a Public Speaker', Shaw provides an inspiring blueprint for self-mastery. His journey illustrates that eloquence is not an innate gift, but the result of courage, rigorous practice, and the determination to turn personal weaknesses into strengths."
+      conclusion: "In 'How I Became a Public Speaker', George Bernard Shaw provides an inspiring lesson in self-improvement. His transformation from a nervous, trembling youth into one of the world's greatest orators shows that perseverance, courage, and continuous practice can turn any personal weakness into a great strength."
     }
   }
 ];

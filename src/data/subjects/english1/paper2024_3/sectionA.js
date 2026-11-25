@@ -53,9 +53,9 @@ export const sectionA_2024_3 = [
           heading: "IV. Critical Comparative Synthesis for Examination Excellence",
           paragraphs: [
             "A thematic review of these three options reveals how diverse literary and historical texts intersect on the theme of communication and truth:<br/>" +
-            "• While <strong>Dr. Austin Bond</strong> in Arnold Bennett's 'Murder' represents clinical, scientific communication constrained by professional detachment,<br/>" +
-            "• <strong>George Bernard Shaw</strong> demonstrates the active, combative conquest of language through relentless socialist platform campaigning, and<br/>" +
-            "• <strong>M.K. Gandhi</strong> embodies the contemplative restraint of language, proving that silence and hesitancy can be more spiritually powerful and truthful than aggressive oratory.<br/>" +
+            "• While <strong>Dr. Austin Bond</strong> in Arnold Bennett's 'Murder' represents clinical, scientific communication based strictly on medical facts and professional calmness,<br/>" +
+            "• <strong>George Bernard Shaw</strong> shows how constant public speaking and courage can help someone overcome stage fright, and<br/>" +
+            "• <strong>M.K. Gandhi</strong> proves that speaking few, truthful words and practicing self-restraint is far more powerful than shouting loud speeches.<br/>" +
             "Each profile offers law students a distinct model of how language, evidence, and personality operate within the social and judicial spheres."
           ]
         }
@@ -77,22 +77,22 @@ export const sectionA_2024_3 = [
           heading: "I. Introduction and Context of the Statement",
           paragraphs: [
             "In the concluding reflections of his autobiographical chapter 'Shyness My Shield', drawn from <em>The Story of My Experiments with Truth</em>, Mohandas Karamchand Gandhi delivers one of the most celebrated philosophical reflections in modern literature: <strong>'My shyness has been in reality my shield and buckler. It has allowed me to grow. It has helped me in my discernment of truth.'</strong>",
-            "This profound statement represents a psychological and moral paradox. In contemporary society, shyness and hesitancy of speech are universally perceived as liabilities—flaws of personality that inhibit professional success, social advancement, and oratorical power. Yet Gandhi, through the prism of lifelong self-examination, inverts this conventional perspective. He demonstrates how an innate psychological impediment, when harnessed through moral discipline, became his most potent spiritual instrument for discovering, testing, and living the ultimate ideal of <strong>Satya (Truth)</strong>."
+            "This statement sounds surprising at first. Most people think of shyness and hesitation as big personal weaknesses that hold a person back in career, social life, and law. But Gandhi, looking back on his life, explains that his shyness was actually his greatest moral strength. He demonstrates how an innate psychological impediment, when harnessed through moral discipline, became his most potent spiritual instrument for discovering, testing, and living the ultimate ideal of <strong>Satya (Truth)</strong>."
           ]
         },
         {
           heading: "II. Shyness as a Practical Shield Against Moral Hazards",
           paragraphs: [
             "To comprehend how shyness aided Gandhi's discernment of truth, one must examine the specific moral hazards from which his reserve protected him during his youth in Victorian England and later in South Africa:<br/>" +
-            "• <strong>Protection from Vanity and Flattery:</strong> The natural urge of an articulate speaker is to seek applause, elicit laughter, and impress listeners with verbal cleverness. In this pursuit of social admiration, truth is frequently compromised through exaggeration, sensationalism, and embellished anecdotes. Gandhi's shyness completely neutralized this temptation. Because he was incapable of casual or ostentatious chatter, he was spared the vice of intellectual vanity.<br/>" +
-            "• <strong>Shield Against Unreflective and False Speech:</strong> A person endowed with effortless verbal fluency often speaks faster than they think, uttering unverified statements, uncharitable gossip, or careless promises. Gandhi's constitutional hesitation acted as a permanent internal filter. He observed that: <em>'Silence is part of the spiritual discipline of a votary of truth. Proneness to exaggerate, to suppress or modify the truth, wittingly or unwittingly, is a natural weakness of man, and silence is necessary in order to surmount it.'</em> His shyness compelled him to weigh every word before utterance, ensuring that no syllable departed from strict veracity."
+            "• <strong>Protection from Vanity and Flattery:</strong> People who speak easily often try to impress their listeners, make people laugh, and win cheap applause. In trying to be clever, they often exaggerate the facts and tell partial lies. Gandhi's shyness completely neutralized this temptation. Because he was incapable of casual or ostentatious chatter, he was spared the vice of intellectual vanity.<br/>" +
+            "• <strong>Shield Against Unreflective and False Speech:</strong> A person endowed with effortless verbal fluency often speaks faster than they think, uttering unverified statements, uncharitable gossip, or careless promises. Gandhi's natural shyness acted like an internal filter that stopped him from speaking without thinking. He observed that: <em>'Silence is part of the spiritual discipline of a votary of truth. Proneness to exaggerate, to suppress or modify the truth, wittingly or unwittingly, is a natural weakness of man, and silence is necessary in order to surmount it.'</em> His shyness compelled him to weigh every word before utterance, ensuring that no syllable departed from strict veracity."
           ]
         },
         {
           heading: "III. The Discipline of Silence and the 'Economy of Words'",
           paragraphs: [
             "Gandhi’s hesitancy cultivated in him the rare and powerful virtue of the <strong>'Economy of Words'</strong>. He observed that a man of few words will rarely be thoughtless in his speech; he will measure every term with scrupulous accuracy.<br/>" +
-            "In 'Shyness My Shield', Gandhi recounts how his inability to speak spontaneously compelled him to communicate through written drafts, careful petitions, and rigorous logical formulations. When he drafted representations on behalf of the Indian community in South Africa, his memoranda were celebrated for their austere precision, absence of inflammatory rhetoric, and unassailable factual integrity. British colonial administrators often remarked that Mr. Gandhi’s petitions were unanswerable because every assertion was backed by verified evidence and presented without rhetorical excess. Thus, the economy of words forced upon him by shyness directly enhanced his capacity to perceive and articulate objective truth."
+            "In 'Shyness My Shield', Gandhi recounts how his inability to speak spontaneously compelled him to communicate through written drafts, careful petitions, and rigorous logical formulations. When he drafted representations on behalf of the Indian community in South Africa, his legal letters and petitions were respected because they had no exaggerated language, no angry words, and were supported by pure facts. British colonial administrators often remarked that Mr. Gandhi’s petitions were unanswerable because every assertion was backed by verified evidence and presented without rhetorical excess. Thus, the economy of words forced upon him by shyness directly enhanced his capacity to perceive and articulate objective truth."
           ]
         },
         {
@@ -114,7 +114,7 @@ export const sectionA_2024_3 = [
         {
           heading: "VI. Conclusion: The Transmutation of Weakness into Moral Genius",
           paragraphs: [
-            "In conclusion, Gandhi’s statement 'It has helped me in my discernment of truth' captures the spiritual alchemy of his life: the transmutation of a painful human frailty into an invincible moral power. Shyness was the buckler that guarded his integrity against worldly corruption, allowing the seeds of moral conviction to mature in silence until they burst forth as Satyagraha—a force that altered the destiny of nations."
+            "In conclusion, Gandhi’s statement 'It has helped me in my discernment of truth' captures the spiritual alchemy of his life: how a personal weakness can be turned into a great moral power. Shyness was the shield that protected his honesty and character from bad worldly influences, allowing the seeds of moral conviction to mature in silence until they burst forth as Satyagraha—a force that altered the destiny of nations."
           ]
         }
       ],
@@ -134,7 +134,7 @@ export const sectionA_2024_3 = [
         {
           heading: "I. Introduction and O' Henry’s Picaresque Hero",
           paragraphs: [
-            "In his classic short story 'The Cop and the Anthem', O' Henry creates one of the most memorable and sympathetic characters in American short fiction: <strong>Soapy</strong>, an impoverished, homeless tramp living in the urban landscape of early twentieth-century New York City. Through Soapy, O' Henry elevates the conventional figure of the derelict into a complex, philosophical, and tragicomic protagonist.",
+            "In his classic short story 'The Cop and the Anthem', O' Henry creates an unforgettable and likable character in <strong>Soapy</strong>, a homeless man living on a park bench in Madison Square, New York City. Instead of presenting him as a common beggar or a bad criminal, O' Henry shows him as an intelligent, proud gentleman who has simply fallen on hard times.",
             "Soapy is not a crude caricature of a vagrant; he is portrayed with gentle humor, psychological dignity, and an aristocratic sensibility that sharply contrasts with his destitution. O' Henry uses Soapy’s misadventures to explore profound themes of urban poverty, human pride, institutional irony, and the unpredictable nature of human destiny."
           ]
         },
@@ -161,13 +161,13 @@ export const sectionA_2024_3 = [
           heading: "IV. The Anthem, Moral Epiphany, and Spiritual Resurrection",
           paragraphs: [
             "The emotional center of the story shifts when Soapy wanders into a quiet side street and pauses outside an ancient church. Through a stained-glass window, the solemn strains of an organist practicing an anthem reach his ears. The music acts as a powerful catalyst, unlocking deep memories of his past life—a time when he possessed mothers, roses, clean ambitions, friends, and immaculately white collars.<br/>" +
-            "Under the spiritual influence of the anthem, Soapy experiences a genuine moral awakening. He gazes with horror upon the pit of degradation into which he has fallen: his dead hopes, base desires, and wrecked faculties. In a surge of determination, he resolves to fight against his degraded condition. He vows that tomorrow he will go into the roaring downtown district, seek honest employment, become a man of respectability, and resurrect his wasted life."
+            "Moved by the organ music of the church anthem, Soapy experiences a deep moral awakening. He feels disgusted by his wasted years and lazy habits: his dead hopes, base desires, and wrecked faculties. In a surge of determination, he resolves to fight against his degraded condition. He vows that tomorrow he will go into the roaring downtown district, seek honest employment, become a man of respectability, and rebuild his life through honest work."
           ]
         },
         {
           heading: "V. The Tragic Twist and O' Henry’s Masterly Irony",
           paragraphs: [
-            "At the very pinnacle of this noble moral conversion, O' Henry executes his signature stroke of devastating situational irony. As Soapy stands bathed in spiritual resolve, a heavy hand descends upon his shoulder. A patrolman suspiciously questions him: <em>'What are you doin' here?'</em> When Soapy answers, <em>'Nothin','</em> the officer arrests him for loitering.<br/>" +
+            "Right after Soapy makes this sincere promise to become an honest man, O' Henry delivers his famous surprise ending with brilliant situational irony. As Soapy stands bathed in spiritual resolve, a heavy hand descends upon his shoulder. A patrolman suspiciously questions him: <em>'What are you doin' here?'</em> When Soapy answers, <em>'Nothin','</em> the officer arrests him for loitering.<br/>" +
             "The following morning, the magistrate in the police court summarily delivers the sentence: <strong>'Three months on the Island.'</strong><br/>" +
             "The tragedy of Soapy is complete: when he actively sought prison through calculated petty crimes, the law absurdly refused to touch him; the moment he discarded criminality and chose virtue, the state crushed him with punitive punishment."
           ]

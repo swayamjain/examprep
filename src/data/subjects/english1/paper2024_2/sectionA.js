@@ -1,7 +1,7 @@
 // English & Legal Writing - I (Paper PRS/KS/24/12135)
 // Section A: Literature & Prose Analysis
+// Simplified student-friendly language by Swayam Jain
 // Standard: Strictly 950 - 1200 words per 10-Mark Question
-// Curated by Swayam Jain
 
 export const sectionA_2024 = [
   {
@@ -15,40 +15,40 @@ export const sectionA_2024 = [
     answer: {
       sections: [
         {
-          heading: "Part (i): Gandhi’s Constitutional Shyness (5 Marks — ~500 Words)",
+          heading: "Part (i): Gandhi’s Constitutional Shyness (~360 Words)",
           paragraphs: [
-            "In 'Shyness My Shield', excerpted from his autobiography <em>The Story of My Experiments with Truth</em>, M.K. Gandhi provides a candid psychological examination of his lifelong 'constitutional shyness'. From his earliest childhood in Gujarat through his student years at the Inner Temple in London, Gandhi was afflicted with severe bashfulness, public hesitancy, and an acute aversion to speaking in social or formal gatherings.",
-            "This shyness was not merely a polite reserve; it was a physical impediment. Whenever he was expected to speak, his heart pounded, his head reeled, his voice trembled, and his memory went completely blank. Gandhi humorously recounts several embarrassing failures caused by this constitutional affliction:<br/>" +
-            "• At meetings of the Executive Committee of the London Vegetarian Society, though deeply committed to the movement, he could never utter a single word and had to sit in silent embarrassment.<br/>" +
-            "• When attempting to read a written speech defending Dr. Allinson’s ethical right to free expression, his vision blurred, and a colleague had to read the text on his behalf.<br/>" +
-            "• At a farewell dinner in Ventnor, attempting to thank his English hosts, he began reciting a humorous passage from Addison, froze in panic, apologized, and sat down in deep mortification.<br/>" +
-            "• In his first courtroom brief in Bombay, he froze before the judge, handed back the papers to a senior advocate, and fled.",
-            "Yet Gandhi’s genius lay in his ability to transform this apparent weakness into a moral instrument. He realized that his natural bashfulness shielded him from moral degradation. Because he was incapable of idle chatter, he never engaged in boastful exaggeration, flattery, or frivolous gossip. His shyness taught him the <strong>'economy of words'</strong> and became an indispensable tool in his spiritual discipline as a seeker of truth. In later life, when he addressed millions during the freedom struggle, his words carried moral authority precisely because every syllable had passed through the filter of self-restraint."
+            "In 'Shyness My Shield', a famous chapter from his autobiography <em>The Story of My Experiments with Truth</em>, Mahatma Gandhi writes openly about his lifelong natural shyness. From his early school days in Gujarat to his law student years in London, Gandhi suffered from severe bashfulness and stage fright whenever he had to face a crowd or enter formal social gatherings.",
+            "This shyness was not merely polite modesty; it was an acute physical handicap. Whenever Gandhi was expected to stand up and speak, his heart pounded violently against his ribs, his knees trembled, his hands shook, his voice became thin and squeaky, and his mind went completely blank. Gandhi humorously recalls several painful public failures caused by this constitutional nervousness:<br/>" +
+            "1. At the weekly meetings of the Executive Committee of the London Vegetarian Society, he sat completely mute week after week, unable to utter a single word to the members.<br/>" +
+            "2. When he carefully wrote out a speech to defend Dr. Allinson's right to free speech on the committee, his vision blurred, his hands shook so hard that the paper rattled, and a friend, Mr. Subz, had to read the speech for him.<br/>" +
+            "3. At a farewell dinner in Ventnor, he attempted to give a thank-you toast to his English hosts, started with one quote from Joseph Addison, froze in total silence, apologized in embarrassment, and sat down.<br/>" +
+            "4. In his first courtroom appearance in Bombay, he stood up to cross-examine a witness, felt terrified, refunded his legal fee to the client, and ran out of the court.",
+            "However, Gandhi explains that this shyness was actually a divine blessing that served as his moral shield. Because he could not talk easily, he never indulged in boastful talk, flattery, or vulgar gossip. It taught him the <strong>'economy of words'</strong>—the habit of never speaking unnecessary or careless words. Silence became his tool for discovering the truth. Later in life, when he addressed millions during India's freedom struggle, people trusted his words completely because they knew every sentence was pure, truthful, and carefully weighed."
           ]
         },
         {
-          heading: "Part (ii): Conversation between Detective-Sergeant and Superintendent in Arnold Bennett's 'Murder' (5 Marks — ~500 Words)",
+          heading: "Part (ii): Conversation between Detective-Sergeant and Superintendent in Arnold Bennett's 'Murder' (~360 Words)",
           paragraphs: [
-            "In Arnold Bennett’s psychological crime story 'Murder', the dramatic climax is heightened through an insightful and ironic conversation between the investigating police officers: the local <strong>Detective-Sergeant</strong> of the Five Towns constabulary and the veteran <strong>Superintendent</strong>.",
-            "Following the discovery of John Franting’s body inside the study of his residence ('The Haven'), the two police officers conduct an on-site forensic examination of the crime scene. The room bears signs of disturbance: open drawers, scattered papers, and an empty safe. As they inspect the premises, the conversation between the sergeant and the superintendent reveals the classical divergence between theoretical police procedure and practical investigative reality:<br/>" +
-            "• <strong>The Burglary Hypothesis:</strong> The sergeant immediately deduces that the killing was the desperate act of an amateur burglar who had broken in through the French windows, was unexpectedly surprised by Franting in his dressing gown, panicked, fired a fatal shot, grabbed what valuables were accessible, and fled into the night.<br/>" +
-            "• <strong>The Superintendent's Cynical Pragmatism:</strong> The Superintendent, possessing decades of practical experience dealing with provincial crime, listens patiently to the sergeant's neat, textbook reconstruction. While acknowledging that the physical clues point toward a burglary, the Superintendent astutely notes unusual clues: the lack of forced entry, the peculiar angle of the bullet wound, and the fact that valuable silver plate on the sideboard remained untouched while a few papers were ruffled.",
-            "The dialogue between the officers serves a crucial literary function in Bennett’s narrative. It builds intense suspense for Lomax Harder, who is secretly listening and dreading exposure. Irony permeates the scene: while the police analyze footprints, fingerprints, and hypothetical London criminals, the real murderer is standing in their midst, undetected. The conversation demonstrates Bennett’s realism, illustrating how routine police investigations can be easily deceived by circumstantial illusions."
+            "In Arnold Bennett’s psychological crime story 'Murder', a key scene of dramatic irony and suspense occurs during the inspection of the crime scene by two investigating police officers: the local <strong>Detective-Sergeant</strong> of Sneyd and the veteran <strong>Superintendent</strong>.",
+            "Following the late-night discovery of John Franting's lifeless body in the study of his residence, 'The Haven', the two officers arrive to conduct a preliminary investigation. The study shows signs of disturbance: open drawers, papers scattered on the carpet, and an empty safe. As they examine the room, their conversation illustrates the contrast between textbook police theories and practical street experience:<br/>" +
+            "• <strong>The Sergeant’s Conventional Burglary Theory:</strong> The younger Detective-Sergeant quickly jumps to a textbook conclusion. He argues that an ordinary traveling burglar broke through the garden windows late at night, was unexpectedly surprised by Franting in his silk dressing gown, panicked, shot him through the heart, grabbed whatever cash was in the drawer, and escaped into the dark.<br/>" +
+            "• <strong>The Superintendent’s Experienced Doubts:</strong> The older Superintendent listens patiently to the sergeant's neat explanation. While acknowledging that the scene looks like a burglary, the Superintendent astutely notices unusual details: there are no signs of forced entry on the windows, expensive silver items on the sideboard remain untouched, and only a few private papers were ruffled. He suspects that the crime was not a simple burglary, but something far more personal.",
+            "This conversation creates immense suspense for Lomax Harder, the real murderer, who is secretly listening inside the house, trembling with fear that the clever Superintendent will see through his staged burglary. The scene showcases Bennett's realistic writing, illustrating how ordinary police procedures can be deceived by staged clues while showing the psychological terror of the guilty killer."
           ]
         },
         {
-          heading: "Part (iii): Situational Irony in O' Henry's 'The Cop and the Anthem' (5 Marks — ~500 Words)",
+          heading: "Part (iii): Situational Irony in O' Henry's 'The Cop and the Anthem' (~360 Words)",
           paragraphs: [
-            "O' Henry is celebrated as the master of situational irony—a literary device where the actual outcome of an action is the exact opposite of what was logically expected by the character and the reader. In 'The Cop and the Anthem', situational irony is not merely an ornamental stylistic flourish; it constitutes the entire narrative engine and philosophical core of the story.",
-            "The story operates on two parallel planes of irony:<br/>" +
-            "<strong>1. The Comic Inversion of Law Enforcement:</strong> The primary premise is an inversion of criminal motivation. Citizens normally seek to evade the police and avoid imprisonment; Soapy actively plans crimes to get arrested and enter the warmth of Blackwell’s Island for three months during the freezing New York winter. Yet, across six calculated infractions—shattering a shop window, consuming meals without money, disorderly public drunkenness, and stealing an umbrella—the legal machinery absurdly refuses to arrest him. The policeman assumes window-breakers flee; waiters throw him out instead of calling the police; bystanders dismiss his drunken shouting as college revelry; and the umbrella owner confesses he had stolen it himself.",
-            "<strong>2. The Supreme Tragic Irony of the Climax:</strong> The ultimate situational irony occurs when Soapy stops outside a rural church. Moved by the organist’s solemn anthem, his soul undergoes a genuine moral conversion. He renounces crime, vows to discard his degraded habits, find employment, and become a man of respectability again.<br/>" +
-            "At that very moment, a policeman taps him on the shoulder, arrests him for loitering, and the court sentences him the next morning to: <em>'Three months on the Island.'</em><br/>" +
-            "The irony is profound: when Soapy was a willing criminal, society rejected his guilt; the moment he chose righteousness, society convicted him. O' Henry uses this bitter twist to highlight the unpredictable nature of fate."
+            "Situational irony is a literary device where the actual outcome of an event is the exact opposite of what was logically expected by the character and the reader. In O' Henry’s famous story 'The Cop and the Anthem', situational irony forms the entire foundation and beauty of the plot.",
+            "The story develops through two distinct layers of irony:<br/>" +
+            "<strong>1. The Comic Reversal of Crime and Law:</strong> Under normal circumstances, citizens try their best to avoid the police and stay out of prison. But Soapy, a homeless man sleeping on a park bench in Madison Square, deliberately commits crimes in order to get arrested so that he can spend three cold winter months in the warm prison of Blackwell’s Island. However, across six calculated attempts—eating in restaurants without money, smashing a large shop window with a cobblestone, shouting like a drunkard, and taking an umbrella—the police and citizens refuse to arrest him. The policeman thinks real window-breakers always run away; waiters throw him out onto the pavement; bystanders dismiss his shouting as a college student celebrating; and the umbrella owner confesses he had found it in a restaurant that morning.<br/>" +
+            "<strong>2. The Tragic Climax at the Church:</strong> After failing in every attempt, Soapy stops outside a peaceful country church. Hearing an organ anthem, he remembers his clean youth, his mother, and his honest ambitions. He experiences a sincere moral awakening, resolving to leave his idle life, find a job, and become a respectable citizen.<br/>" +
+            "At that very moment, a policeman taps his shoulder, arrests him for loitering, and the court sentences him the next morning to: <em>'Three months on the Island.'</em><br/>" +
+            "The supreme irony is clear: when Soapy tried hard to commit crimes, the law ignored him; but the moment he chose to become an honest citizen, the law trapped him and sent him to prison."
           ]
         }
       ],
-      conclusion: "These short notes provide comprehensive, structured answers for all three options, integrating textual evidence, psychological insight, and literary terminology suited for top exam scoring."
+      conclusion: "These short notes provide comprehensive, structured answers for all three options, using simple language, clear headings, and direct focus on the core literary concepts required for full marks in the examination."
     }
   },
   {
@@ -62,50 +62,51 @@ export const sectionA_2024 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction and Autobiographical Context",
+          heading: "I. Introduction: The Myth of the 'Born Orator'",
           paragraphs: [
-            "In his celebrated autobiographical essay 'How I Became a Public Speaker', George Bernard Shaw presents a remarkably candid, humorous, and instructive account of his personal metamorphosis from an agonizingly shy, tongue-tied young clerk into one of the most brilliant, formidable, and commanding platform orators in modern English history. Shaw wrote this essay deliberately to debunk the widespread cultural myth of the 'born orator'. He argued with characteristic vigor that public eloquence is neither a mystical genetic gift nor an inherited genius; rather, it is an acquired, mechanical craft developed through persistent trial, painful embarrassment, rigorous intellectual discipline, and the willingness to make a fool of oneself in public until competence is achieved.",
-            "Shaw's narrative serves as a psychological handbook for any student seeking to overcome stage fright. He demonstrated that fear of the public gaze is one of the most overwhelming and paralyzing human fears, but it can be systematically neutralized through voluntary exposure and mastery over one's subject matter and vocal machinery."
+            "George Bernard Shaw is remembered as one of the most brilliant, witty, and persuasive public speakers in modern British history. Whether addressing crowded political rallies in London, debating famous philosophers, or lecturing on socialist ideas, Shaw commanded audiences with complete confidence, sharp humor, and great verbal agility. However, in his essay 'How I Became a Public Speaker'—an autobiographical chapter from <em>Sixteen Self Sketches</em>—Shaw reveals that he was not born an eloquent speaker. As a young man, he was painfully nervous, tongue-tied, and terrified of speaking in public.",
+            "Shaw wrote this personal account to debunk the popular belief that great speakers possess an inborn, magical talent. He argued with great energy that public speaking is an acquired practical craft. Just like learning to ride a bicycle or play an instrument, public eloquence is developed through persistent practice, overcoming embarrassing mistakes, and learning to stay calm under the pressure of an audience."
           ]
         },
         {
-          heading: "II. The Catastrophic Debut: The Zetetical Society Nervous Debut (1879)",
+          heading: "II. The Embarrassing Debut at the Zetetical Society (1879)",
           paragraphs: [
-            "Shaw’s initiation into public speaking occurred in London in the autumn of 1879, when he was twenty-three years of age. A literary friend invited him to attend a meeting of the <strong>Zetetical Society</strong>—a serious intellectual debating club founded to discuss contemporary political, economic, sociological, and philosophical dilemmas in an atmosphere of rational inquiry. Shaw entered the meeting as a quiet observer who had never previously uttered a word in public, having had no training in elocution, rhetoric, or parliamentary debate.",
-            "During the discussion, an inexplicable impulse suddenly prompted him to rise and speak. The immediate physical consequence was sheer terror. Shaw records that the moment he stood on his feet, his heart began hammering violently against his ribs like a sledgehammer, his knees shook, his hands trembled uncontrollably, and his throat constricted. His voice sounded distant, thin, and squeaky, and his mind suffered a complete mental blank—every thought he had prepared vanished instantly from his memory. He blurted out a few disconnected, incoherent, and stammering remarks and collapsed back into his seat in an agony of humiliation.",
-            "Any ordinary young man, overwhelmed by such intense mortification, would have slipped away in deep embarrassment and sworn never to enter a debating forum again. Shaw, however, possessed a remarkable determination. He reasoned that if public speaking terrified him to the point of illness, it was his duty to plunge into it repeatedly until the terror was completely eliminated. He resolved on the spot that he would join the society and speak at every subsequent meeting without fail."
+            "Shaw’s public speaking journey began in London in 1879, when he was twenty-three years old. A literary friend invited him to attend a meeting of the <strong>Zetetical Society</strong>—a debating club that met to discuss serious questions of politics, philosophy, and science. Shaw attended purely as an observer. He had never spoken in public before and knew nothing about formal debating.",
+            "During the discussion, an unexpected impulse suddenly pushed him to stand up and speak. What followed was a complete disaster. The moment Shaw stood on his feet, extreme stage fright hit him. His heart began hammering against his ribs like a sledgehammer, his knees trembled, his hands shook violently, his throat dried up, and his mind went completely blank. Every word he had prepared vanished from his memory. He stammered out a few foolish, disconnected sentences and sat down in an agony of shame and humiliation.",
+            "Shaw writes that any normal young person, after such a humiliating failure, would have left the room and never dared to speak in public again. But Shaw made a completely different and bold choice. He reasoned that if speaking in public terrified him so much, it was his duty to force himself to do it at every single meeting until the fear was completely conquered."
           ]
         },
         {
-          heading: "III. Systematic Exposure Across Diverse London Forums",
+          heading: "III. Systematic Practice in London Debating Clubs",
           paragraphs: [
-            "True to his vow, Shaw embarked upon a relentless campaign of public exposure across the metropolis. He joined the Executive Committee of the Zetetical Society and compelled himself to speak on every single paper presented, regardless of whether he understood the topic. Whether the debate concerned Malthusian population theory, vivisection, currency reform, women's enfranchisement, or republicanism, Shaw rose to speak. Often his contributions were flawed, awkward, or criticized by senior members, but each performance chipped away at his nervous inhibitions.",
-            "Recognizing that one forum was insufficient, Shaw extended his training to every accessible debating platform in London. He frequented the <strong>Dialectical Society</strong>, where advanced philosophical questions were dissected; he joined the <strong>Browning Society</strong> and the <strong>New Shakspere Society</strong>, where he debated poetic interpretation and dramatic aesthetics; and he plunged into various radical political clubs. Through this extensive cross-disciplinary participation, Shaw developed mental flexibility, learned to think rapidly on his feet, and discovered how to organize disparate thoughts into structured oral arguments under the watchful gaze of an audience."
+            "Shaw put himself through a strict training routine by attending debating clubs all across London:<br/>" +
+            "• <strong>Speaking on Every Subject:</strong> Shaw attended every meeting of the Zetetical Society and eventually joined its committee. He forced himself to stand up and speak on every single paper that was read, whether he understood the subject or not—ranging from currency laws and evolution to women's rights.<br/>" +
+            "• <strong>Joining Multiple Societies:</strong> To get even more practice, Shaw joined several other discussion groups in London, including the Dialectical Society, the Browning Society, and the New Shakspere Society. Whenever an opportunity arose to speak or debate, Shaw was on his feet.<br/>" +
+            "• <strong>Overcoming Nervousness Through Habit:</strong> Through this constant exposure, Shaw gradually trained his nervous system to stay calm. What was once terrifying slowly became familiar and natural."
           ]
         },
         {
-          heading: "IV. Political Awakening, Intellectual Rigor, and Street-Corner Oratory",
+          heading: "IV. The Fabian Society and Outdoor Street Speaking",
           paragraphs: [
-            "A pivotal turning point in Shaw’s oratorical development occurred in 1882, when he attended a lecture delivered by the American social reformer <strong>Henry George</strong> on the nationalization of land. George's passionate eloquence opened Shaw’s eyes to the fundamental importance of economics. Shaw realized that mere rhetorical fluency was hollow unless anchored by deep structural knowledge of society. Consequently, he threw himself into the study of political economy. He read Karl Marx’s <em>Das Kapital</em> in the original French translation at the British Museum Reading Room and joined a private economic circle that met bi-weekly in Hampstead to dissect economic value, wages, and capital.",
-            "In 1884, Shaw joined the newly established <strong>Fabian Society</strong>, teaming up with intellectuals like Sidney Webb. Shaw took socialism to the streets, becoming an outdoor propagandist. For years, he addressed crowds at street corners, open-air parks, marketplace steps, and dock gates in East London. Speaking outdoors under cold wind, rain, and the constant noise of passing traffic forced Shaw to cultivate physical endurance, strong vocal projection, and a conversational, arresting delivery capable of holding the attention of working-class listeners who were under no obligation to stay."
+            "In 1884, Shaw joined the newly formed <strong>Fabian Society</strong>, a socialist organization that believed in bringing about social reform through democratic education. Shaw quickly became its chief public speaker and spokesperson.",
+            "Shaw realized that ordinary working-class people would not come to comfortable indoor lecture halls. Therefore, he took his speeches directly to the streets. For many years, Shaw spoke at street corners, open park gates, market squares, and London dock gates in all kinds of weather, including rain and cold winds. Speaking outdoors taught Shaw essential practical skills:<br/>" +
+            "• <strong>Voice Projection:</strong> To be heard by hundreds of people over street traffic, Shaw learned to project his voice using his diaphragm rather than straining his throat, ensuring he could speak for two hours without becoming hoarse.<br/>" +
+            "• <strong>Handling Hecklers with Wit:</strong> Outdoor crowds often included drunk rowdies or political opponents who shouted rude comments to disrupt the meeting. Instead of losing his temper or shouting back, Shaw listened calmly and replied with razor-sharp humor. His witty answers made the entire crowd laugh at the heckler, turning potential trouble into a complete victory for Shaw."
           ]
         },
         {
-          heading: "V. Vocal Mechanics, Heckler Management, and Ethical Principles",
+          heading: "V. Thorough Subject Mastery and Advice for Students",
           paragraphs: [
-            "Shaw paid meticulous attention to the physical mechanics of speaking. Guided by his mother, Lucinda Gurly Shaw, who was a professional singer and music teacher, Shaw studied diaphragmatic breathing and phonetic articulation. He learned to project his voice through resonance rather than muscular strain, ensuring that he could lecture for two hours outdoors without losing his voice.",
-            "Furthermore, outdoor speaking made Shaw an expert in dealing with hecklers. While amateur speakers became defensive or angry when interrupted, Shaw welcomed heckling as an opportunity. He trained himself to listen courteously, wait for the crowd’s laughter to subside, and then deliver a lightning-fast, good-humored, and devastatingly logical retort that disarmed the interrupter and brought the audience over to his side. Shaw maintained that humor and unwavering politeness are the orator's greatest weapons.",
-            "Crucially, Shaw maintained a strict ethical principle throughout his speaking career: <strong>he never accepted payment for his lectures</strong>. Over nearly three decades, during which he delivered more than a thousand public addresses across the United Kingdom, he refused all professional fees, accepting at most third-class train fare. This financial independence gave his speeches moral authority; audiences knew he was not a hired entertainer, but a dedicated advocate arguing for public welfare."
-          ]
-        },
-        {
-          heading: "VI. Conclusion: The Craftsmanship of Eloquence",
-          paragraphs: [
-            "George Bernard Shaw's autobiographical journey offers a profound lesson for students of law and public advocacy. By recounting his humiliation at the Zetetical Society and his deliberate, disciplined climb to rhetorical mastery, Shaw demonstrates that eloquence is a craft forged through practice, intellectual preparation, and resilience. His essay remains a timeless testament to the power of deliberate practice over innate talent."
+            "Shaw emphasized that good speech delivery is useless unless backed by genuine subject knowledge. After hearing the American economist Henry George speak on land reform, Shaw spent years studying economics, reading Karl Marx's works, and discussing political science with leading thinkers. When Shaw spoke, his arguments were supported by solid facts and clear logic.<br/>" +
+            "Shaw also offered practical advice for students and beginners who wish to become confident speakers:<br/>" +
+            "1. <strong>Do Not Memorize Word-for-Word:</strong> Memorizing an entire speech word-for-word is dangerous because if you forget one sentence, your mind goes blank and panic sets in. Instead, understand your main points clearly, make brief notes on paper, and speak naturally in your own words.<br/>" +
+            "2. <strong>Control Your Breathing:</strong> Deep breathing from the diaphragm helps steady a racing heartbeat and prevents your throat from becoming dry or tight during nervous moments.<br/>" +
+            "3. <strong>Focus on the Message, Not Yourself:</strong> Nervousness increases when you worry about whether the audience likes you. Forget about yourself and focus entirely on helping the listeners understand your ideas.<br/>" +
+            "4. <strong>Practice Unpaid Public Service:</strong> Over twenty-eight years of public speaking, Shaw never accepted payment for lecturing, taking only third-class travel reimbursement. This gave him immense moral respect and complete independence."
           ]
         }
       ],
-      conclusion: "Shaw's journey from a paralyzed novice to a master orator illustrates that rhetorical excellence is achievable through relentless practice, intellectual mastery, and ethical commitment."
+      conclusion: "In 'How I Became a Public Speaker', George Bernard Shaw provides an inspiring lesson in self-improvement. His transformation from a nervous, trembling youth into one of the world's greatest orators shows that perseverance, courage, and continuous practice can turn any personal weakness into a great strength."
     }
   },
   {
@@ -119,53 +120,53 @@ export const sectionA_2024 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction: Bennett’s Psychological Realism and Character Contrast",
+          heading: "I. Introduction: Bennett’s Character Contrast in 'Murder'",
           paragraphs: [
-            "In his masterly short story 'Murder', Arnold Bennett—one of the foremost chroniclers of the industrial Staffordshire Potteries (the 'Five Towns')—constructs a compelling psychological drama built around the stark antithesis between two central male figures: <strong>Lomax Harder</strong> and <strong>John Franting</strong>. Their intense rivalry over the affections of a young woman, Emily Swynnerton, serves as the narrative catalyst for an intricate character study.",
-            "Rather than presenting a simplistic melodrama of pure villainy and virtuous heroism, Bennett uses the contrast between Harder and Franting to explore deep social, cultural, and psychological tensions in Edwardian England: the divide between the metropolitan artistic intelligentsia and provincial industrial commercialism; between sensitive aestheticism and aggressive masculine pragmatism; and between self-righteous moral delusion and genuine human responsibility."
+            "In his gripping psychological short story 'Murder', Arnold Bennett—a famous English novelist known for depicting life in the industrial Staffordshire Potteries (the 'Five Towns')—constructs a fascinating character study centered on two contrasting men: <strong>Lomax Harder</strong> and <strong>John Franting</strong>. Their intense rivalry over the affections of a young woman named Emily Swynnerton forms the narrative backbone of the story.",
+            "Rather than creating a simple melodrama of absolute evil versus pure innocence, Bennett uses the contrast between Harder and Franting to explore deep psychological and social realities. He contrasts the cultured, nervous London artist with the loud, practical provincial factory owner, examining how jealousy, self-deception, and wounded pride can drive an intellectual man to commit a terrible crime."
           ]
         },
         {
-          heading: "II. Social Background, Profession, and Cultural Setting",
+          heading: "II. Social Background, Profession, and Lifestyle",
           paragraphs: [
-            "The fundamental division between the two men originates in their contrasting social backgrounds and daily pursuits:<br/>" +
-            "• <strong>Lomax Harder:</strong> Harder personifies the cultured, metropolitan aesthetic elite. He is a successful London dramatist and theatrical man of letters who lives surrounded by refined art, intellectual conversation, and sophisticated urban sensibilities. Harder is introspective, neurotic, fastidious, and proud of his intellectual superiority. He views provincial society with barely concealed contempt, regarding industrial towns as crude and uncultured.<br/>" +
-            "• <strong>John Franting:</strong> Franting represents the prosperous, self-made manufacturing bourgeoisie of the Five Towns. As a wealthy earthenware manufacturer residing at his opulent suburban home ('The Haven') in Sneyd, Franting is grounded in industrial commerce, factory balance sheets, and physical reality. He is a robust, physically imposing man of action—loud, practical, boisterous, and unconcerned with aesthetic subtleties. While Harder lives in a world of words and psychological nuances, Franting dominates a world of kilns, business contracts, and tangible material wealth."
+            "The fundamental division between the two men originates in their contrasting social backgrounds and professions:<br/>" +
+            "• <strong>Lomax Harder:</strong> Harder represents the cultured, educated London artistic elite. He is a successful dramatist and playwright who lives in an intellectual world of literature, polite conversation, and refined artistic tastes. Harder is proud of his intellectual superiority and looks down on the industrial Five Towns with quiet contempt, viewing provincial factory towns as uncultured and rough.<br/>" +
+            "• <strong>John Franting:</strong> Franting represents the prosperous, self-made manufacturing class of the Five Towns. As a wealthy earthenware manufacturer residing at his grand home ('The Haven') in Sneyd, Franting is completely grounded in industrial business, factory accounts, and material success. He is a robust, physically imposing man of action—loud, practical, energetic, and unconcerned with artistic subtleties. While Harder lives in a world of refined thoughts and dramatic theories, Franting dominates a world of kilns, workers, and physical wealth."
           ]
         },
         {
-          heading: "III. Divergence in Temperament, Masculinity, and Emotional Expression",
+          heading: "III. Differences in Temperament and Emotional Nature",
           paragraphs: [
-            "The internal temperaments of the two characters reveal a profound psychological contrast:<br/>" +
-            "• <strong>Harder’s Over-Refined Sensibility:</strong> Harder possesses an over-active, neurotic imagination. He is hypersensitive to perceived slights, endlessly analyzes his own emotions, and suffers from nervous agitation. When provoked, his resentment does not manifest as healthy physical confrontation; instead, it festers internally into dark, obsessive, and murderous calculation. He is capable of cold premeditation because he intellectualizes his passions, rationalizing extreme acts as noble artistic necessities.<br/>" +
-            "• <strong>Franting’s Bullish Directness:</strong> Franting, in contrast, is entirely devoid of neurotic introspection. He is loud, extroverted, jovial, and overbearing. He does not brood or hide his feelings; his anger is immediate, noisy, and quickly spent. Franting is an unapologetic hedonist who enjoys good food, fine tobacco, and hearty socializing. His domineering manner stems not from malice, but from a total lack of empathy and imaginative awareness—he simply cannot conceive that others might perceive his boisterous confidence as oppressive."
+            "Their inner natures and psychological makeup are completely opposite:<br/>" +
+            "• <strong>Harder’s Over-Sensitive, Brooding Mind:</strong> Harder possesses an overactive, nervous imagination. He is hypersensitive to insults, constantly analyzes his own feelings, and suffers from deep emotional insecurity. When he feels angry or rejected, his anger does not come out in healthy, open arguments. Instead, it festers internally into dark, obsessive hatred. Harder intellectualizes his feelings, inventing high-sounding moral excuses to justify extreme actions, convincing himself that shooting Franting is an act of chivalric duty.<br/>" +
+            "• <strong>Franting’s Bold, Loud Directness:</strong> Franting, in contrast, has no time for nervous introspection. He is loud, extroverted, jovial, and overbearing. He does not brood or hide his feelings; his anger is immediate, noisy, and quickly forgotten. Franting enjoys good food, fine tobacco, and a comfortable lifestyle. His domineering behavior comes not from calculated cruelty, but from a complete lack of imaginative sensitivity—he simply cannot imagine that others might find his boisterous confidence oppressive."
           ]
         },
         {
           heading: "IV. Contrasting Attitudes Toward Emily Swynnerton",
           paragraphs: [
-            "The starkest psychological contrast between Harder and Franting emerges in their respective attitudes toward Emily Swynnerton, the woman they both claim to love:<br/>" +
-            "• <strong>Harder’s Romantic Idealism and Savior Complex:</strong> Harder views Emily through the prism of dramatic romanticism. He idealizes her as a fragile, ethereal damsel who must be protected from provincial coarseness. When Harder learns of Franting's possessive dominance over Emily, his ego constructs an elaborate moral justification: he convinces himself that Franting is a vulgar brute who will crush Emily's spirit, and that he (Harder) is morally duty-bound to rescue her. Harder’s love is deeply possessive and self-centered, masked beneath a facade of chivalric virtue.<br/>" +
-            "• <strong>Franting’s Pragmatic Devotion:</strong> Franting’s relationship with Emily appears, on the surface, far less romantic. He is known to flirt with other women and treats domestic relationships with conventional male complacency. Yet, Bennett introduces a powerful narrative revelation that completely dismantles Harder’s assumptions: on the very night he was murdered, Franting had secretly executed a formal legal will bequeathing his entire fortune and real estate to Emily Swynnerton. Franting’s devotion was practical, tangible, and legally secure, proving that his rough exterior concealed genuine affection and commitment."
+            "The sharpest contrast between the two men appears in their respective relationships with Emily Swynnerton, the woman they both claim to love:<br/>" +
+            "• <strong>Harder’s Romantic Fantasy and Savior Complex:</strong> Harder views Emily through the lens of theatrical romance. He imagines her as a delicate, helpless flower who is trapped by Franting's forceful personality. Harder convinces himself that Franting is a vulgar brute who will crush Emily's spirit and make her miserable for life. He convinces himself that by killing Franting, he is 'saving' Emily like a heroic knight. In reality, Harder's love is deeply possessive and selfish, masked under noble excuses.<br/>" +
+            "• <strong>Franting’s Practical, Tangible Devotion:</strong> On the surface, Franting treats his engagement with conventional masculine complacency, even flirting with other women. However, Bennett introduces a crucial factual revelation that completely shatters Harder's assumptions: on the very evening he was murdered, Franting had secretly executed a formal legal will leaving his entire fortune, property, and business to Emily Swynnerton. Franting's love was practical, generous, and legally secure, proving that behind his loud exterior, he had a genuine desire to protect Emily's future."
           ]
         },
         {
-          heading: "V. The Moral Climax: Premeditated Murder vs. Defenseless Victimhood",
+          heading: "V. The Climax of the Murder: Cowardly Shot vs. Defenseless Victim",
           paragraphs: [
-            "The moral dynamic between the two men undergoes a radical inversion during the climax of the story. Harder, who considers himself an enlightened, civilized intellectual, travels secretly from London to Sneyd with a loaded revolver concealed in his pocket. He enters Franting's study late at night, confronts him, and shoots him dead in cold blood, staging the scene to resemble a botched burglary.<br/>" +
-            "Franting, despite his flaws, dies defenseless in his dressing gown, utterly unsuspecting and offering no physical threat. In this moment, Bennett reveals the frightening truth of human nature: the refined, intellectual artist proves capable of brutal, cowardly violence, while the crude manufacturer becomes the innocent victim of homicidal arrogance.<br/>" +
-            "This confrontation also highlights Bennett’s broader critique of provincial versus metropolitan hypocrisy. Bennett exposes how the metropolitan intellectual often constructs a romanticized, paternalistic illusion around women, whereas the provincial manufacturer, rooted in the concrete realities of industrial life, demonstrates his commitment through practical provision rather than theatrical posturing."
+            "The moral dynamic between the two men flips completely during the confrontation in Franting's study. Harder, who considers himself an educated and civilized gentleman, travels secretly with a loaded revolver, enters Franting's home late at night, and shoots an unarmed man standing peacefully in his dressing gown. Harder then fakes a burglary and slips away into the night like a common thief.<br/>" +
+            "Franting, despite his loud arrogance, dies completely defenseless in his own home, offering no physical threat. In this moment, Bennett reveals the dark truth: the refined, intellectual artist proves capable of brutal, cowardly violence, while the crude manufacturer becomes the innocent victim of murderous jealousy.<br/>" +
+            "The setting of the scene adds to this dramatic contrast. Franting is shown relaxing comfortably by the warm fire in his luxurious home, enjoying his evening without any suspicion of danger. Harder enters from the cold outside, bringing death into a peaceful room. Bennett shows that real evil does not come from loud voices or rough manners, but from cold, calculated hatred that hides behind cultured words."
           ]
         },
         {
-          heading: "VI. The Aftermath and Bennett’s Tragic Irony",
+          heading: "VI. The Aftermath and Tragic Irony",
           paragraphs: [
-            "The final contrast unfolds in the psychological aftermath of the murder. Harder successfully deceives the police and escapes legal arrest, but his triumph turns to ash. When Emily visits him following the funeral, she does not celebrate her freedom; instead, she is brokenhearted, weeping bitterly for Franting and confessing that she truly loved him despite his flaws. She proudly reveals Franting's generous will, leaving Harder devastated by the realization that his crime was based on delusional vanity.",
-            "Franting rests in honored memory as a tragic victim, while Harder is condemned to live in the private prison of his own conscience, haunted by the knowledge that he committed murder to destroy the happiness of the very woman he claimed to love."
+            "The final contrast unfolds in the psychological aftermath of the murder. Harder successfully fools the police, but his triumph turns to total despair. When he meets Emily after the funeral, expecting her to be relieved, he discovers that she is heartbroken and loved Franting deeply. She curses the unknown murderer and vows to see him hanged.<br/>" +
+            "Franting rests in honored memory as a tragic victim, while Harder is condemned to live in the private prison of his own conscience, knowing that he committed murder only to destroy the happiness of the woman he loved."
           ]
         }
       ],
-      conclusion: "Arnold Bennett's juxtaposition of Lomax Harder and John Franting exposes the hypocrisy of intellectual arrogance. Through this contrast, Bennett proves that refined culture does not guarantee moral nobility, and rough provincial masculinity may harbor deeper sincerity than intellectual aestheticism."
+      conclusion: "Arnold Bennett's contrast between Lomax Harder and John Franting exposes the hypocrisy of intellectual arrogance. Bennett proves that refined culture does not guarantee moral goodness, and that quiet jealousy can be far more dangerous than loud, boisterous masculinity."
     }
   },
   {
@@ -179,56 +180,51 @@ export const sectionA_2024 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction and Autobiographical Setting",
+          heading: "I. Introduction and London Setting",
           paragraphs: [
-            "In 'Shyness My Shield', drawn from his classic autobiography <em>The Story of My Experiments with Truth</em>, Mohandas Karamchand Gandhi provides an honest, reflective, and deeply instructive account of his early struggles with public speaking during his student years in London. Arriving in England in 1888 as an eighteen-year-old law student from Gujarat, Gandhi was plunged into an alien Victorian culture. Severely inhibited by linguistic self-consciousness and cultural alienation, he suffered from a lifelong 'constitutional shyness' that paralyzed him in public gatherings.",
-            "The one arena where Gandhi found intellectual companionship and moral purpose was the vegetarian movement. Having bound himself to a sacred vow taken before his mother Putlibai to abstain from meat, Gandhi's initial vegetarianism was an act of filial obedience. However, after reading Henry Salt’s influential work <em>A Plea for Vegetarianism</em>, Gandhi embraced vegetarianism as a conscious philosophical and ethical conviction. He joined the <strong>London Vegetarian Society</strong>, attended its meetings regularly, and was soon elected as a member of its Executive Committee. Yet, it was precisely in this sympathetic committee that Gandhi experienced his most agonizing oratorical failure."
+            "In 'Shyness My Shield', drawn from his famous autobiography <em>The Story of My Experiments with Truth</em>, Mahatma Gandhi gives a candid, humble, and deeply instructive account of his early struggles with public speaking in London. Arriving in England in 1888 as an eighteen-year-old law student from Gujarat, Gandhi found himself in an unfamiliar Victorian society. Severely inhibited by cultural differences and natural bashfulness, he suffered from a lifelong 'constitutional shyness' that paralyzed him in public gatherings.",
+            "Before sailing for England, Gandhi had taken a solemn vow before his mother, Putlibai, to abstain from meat, alcohol, and women. Initially, keeping this vow was an act of filial obedience. However, after discovering Henry Salt’s influential book <em>A Plea for Vegetarianism</em> in London, Gandhi became a vegetarian by conviction and reason. He joined the <strong>London Vegetarian Society</strong>, attended its meetings regularly, and was soon elected to its Executive Committee. Yet, it was within this very committee that Gandhi experienced his most agonizing failure as a speaker."
           ]
         },
         {
-          heading: "II. The Ideological Rift: Mr. Hills versus Dr. Allinson",
+          heading: "II. The Conflict: Mr. Hills versus Dr. Allinson",
           paragraphs: [
-            "Gandhi’s public crisis arose from an ideological schism within the Executive Committee of the Vegetarian Society, involving two influential personalities:<br/>" +
-            "• <strong>Mr. A.F. Hills (The Orthodox President):</strong> Mr. Hills was the wealthy President, principal benefactor, and financial pillar of the London Vegetarian Society. He was also the proprietor of the Thames Ironworks. A devout, conservative Christian, Hills held strict, puritanical views on personal morality. He firmly believed that vegetarianism was not merely a dietary practice, but an integral component of orthodox Christian virtue and conventional sexual purity.<br/>" +
-            "• <strong>Dr. T.R. Allinson (The Radical Reformer):</strong> Dr. Allinson was a distinguished medical practitioner, author, and committed committee member who advocated progressive medical and social reforms. Most controversially for Victorian society, Dr. Allinson openly advocated the methods of the Malthusian League, supporting artificial birth control to alleviate poverty among working-class families.<br/>" +
-            "Mr. Hills considered Dr. Allinson’s advocacy of birth control to be morally subversive, anti-Christian, and deeply offensive. Determined to purge the Society of what he regarded as moral corruption, Hills introduced a formal resolution to expel Dr. Allinson from the Executive Committee."
+            "Gandhi’s public crisis arose from a serious ideological conflict within the Executive Committee between two prominent members:<br/>" +
+            "• <strong>Mr. A.F. Hills:</strong> The wealthy President, principal benefactor, and financial backbone of the London Vegetarian Society. He was a devout, conservative Christian who held strict puritan views on personal morality. Hills believed that vegetarianism was not merely a dietary rule, but an inseparable part of orthodox Christian morality and conventional purity.<br/>" +
+            "• <strong>Dr. T.R. Allinson:</strong> A respected medical doctor, author, and committed committee member who supported progressive social reforms. Most controversially for Victorian England, Dr. Allinson openly advocated the methods of the Malthusian League, supporting artificial birth control to help poor working-class families.<br/>" +
+            "Mr. Hills considered Dr. Allinson’s advocacy of birth control to be morally dangerous and anti-Christian. Determined to remove what he saw as moral contamination, Hills brought a formal resolution to expel Dr. Allinson from the Executive Committee."
           ]
         },
         {
-          heading: "III. Gandhi’s Ethical Dilemma and Constitutional Stand",
+          heading: "III. Gandhi’s Stand and Moral Principle",
           paragraphs: [
-            "This impending expulsion placed young Gandhi in an acute ethical and intellectual dilemma. Personally, Gandhi was strictly opposed to artificial methods of birth control, believing deeply in self-restraint, moral discipline, and Brahmacharya. Therefore, on the substantive issue of contraception, Gandhi was in complete agreement with Mr. Hills and disagreed with Dr. Allinson.",
-            "However, Gandhi’s innate sense of justice, legal logic, and constitutional propriety compelled him to take an opposing stand. Gandhi reasoned that:<br/>" +
-            "1. <strong>Limited Mandate of the Society:</strong> The London Vegetarian Society had been established with a single, defined constitutional objective: the promotion of a vegetarian diet and abstinence from animal flesh. It was not an association for general moral reform or theological orthodoxy.<br/>" +
-            "2. <strong>Irrelevance of Personal Social Views:</strong> Dr. Allinson was an exemplary, devoted vegetarian whose dietary research had advanced the Society's core mission. His personal opinions on family planning, however controversial, had no bearing on his vegetarian credentials.<br/>" +
-            "3. <strong>Defense of Free Conscience:</strong> To expel an active member because his opinions on an unrelated subject clashed with the President's personal ethics was an act of authoritarian intolerance. Gandhi concluded that it was his moral obligation to defend Dr. Allinson's right to remain on the committee, even though it meant opposing the wealthy President upon whose patronage the Society depended."
+            "This impending expulsion placed young Gandhi in a difficult ethical dilemma. Personally, Gandhi was strictly opposed to artificial birth control, believing deeply in self-restraint, moral discipline, and Brahmacharya. Therefore, on the personal issue of contraception, Gandhi agreed with Mr. Hills and disagreed with Dr. Allinson.<br/>" +
+            "However, Gandhi’s natural sense of justice, legal logic, and constitutional propriety compelled him to take an opposing stand. Gandhi argued that:<br/>" +
+            "1. <strong>Limited Purpose of the Society:</strong> The London Vegetarian Society had been established with a single defined objective: to promote a vegetarian diet. It was not an association for general moral reform or religious orthodoxy.<br/>" +
+            "2. <strong>Freedom of Opinion:</strong> Dr. Allinson was an exemplary, devoted vegetarian whose medical writings had greatly helped the Society. His personal opinions on family planning had nothing to do with his vegetarian credentials.<br/>" +
+            "3. <strong>Defense of Tolerance:</strong> Expelling an active member simply because his personal views on an unrelated subject differed from the President's personal ethics was an act of authoritarian intolerance. Gandhi concluded that it was his moral duty to defend Dr. Allinson's right to remain on the committee, even though it meant opposing the wealthy President upon whose money the Society depended."
           ]
         },
         {
-          heading: "IV. The Paralyzing Failure in the Committee Room",
+          heading: "IV. The Paralyzing Failure in the Committee Meeting",
           paragraphs: [
-            "Aware of his severe constitutional shyness and knowing that he was utterly incapable of spontaneous public debate, Gandhi spent days meticulously preparing his arguments. He carefully drafted a reasoned constitutional statement on a sheet of paper, explaining why the committee should reject the President's motion and uphold the principle of intellectual tolerance.",
-            "When the critical committee meeting convened and the President called for discussion, Gandhi gathered all his courage and stood up to read his prepared speech. But the moment he felt the eyes of the committee members turned upon him, his nervous system completely broke down. Gandhi describes the physical trauma: his heart began beating furiously, his hands trembled so violently that the paper rattled, his throat closed, and a dark veil seemed to drop over his eyes, blurring the ink on the page. He could not utter a single intelligible syllable.",
-            "The room descended into uncomfortable silence as the young Indian student stood frozen at the table. Recognizing Gandhi’s acute distress, a generous fellow committee member, <strong>Mr. Subz</strong>, reached over, took the trembling sheet of paper from Gandhi’s hands, and read the speech aloud to the gathering on his behalf. Despite this intervention, Mr. Hills' influence prevailed; the majority voted to expel Dr. Allinson, and Gandhi cast his vote in the minority with a feeling of deep personal humiliation."
+            "Knowing how shy and nervous he was, Gandhi did not attempt to speak spontaneously. He carefully drafted a reasoned constitutional statement on a sheet of paper, explaining why the committee should reject the President's motion and uphold intellectual tolerance.<br/>" +
+            "When the committee met and the President called for discussion, Gandhi gathered all his courage and stood up to read his prepared speech. But the moment he felt all eyes turned upon him, his nervous system completely broke down. His heart began beating furiously, his hands trembled so violently that the paper rattled, his throat closed, and a dark veil seemed to drop over his eyes, blurring the ink on the page. He could not utter a single intelligible sentence.<br/>" +
+            "The room fell into an awkward silence as the young Indian student stood frozen at the table. Seeing Gandhi’s acute distress, a kind fellow committee member, <strong>Mr. Subz</strong>, reached over, took the paper from Gandhi’s trembling hands, and read the speech aloud for him. Despite this, Mr. Hills' influence prevailed; the majority voted to expel Dr. Allinson, and Gandhi cast his vote in the minority with a feeling of deep personal humiliation."
           ]
         },
         {
-          heading: "V. The Transformation: From Humiliation to Moral Power",
+          heading: "V. The Moral Lesson and Personal Growth",
           paragraphs: [
             "Although the episode was a source of bitter embarrassment for Gandhi at the time, it proved to be a seminal milestone in his moral and intellectual evolution. Looking back from the vantage point of maturity, Gandhi realized that this public failure taught him invaluable lifelong lessons:<br/>" +
-            "• <strong>Integrity Above Authority:</strong> Despite being a young, inexperienced foreigner, Gandhi demonstrated the moral courage to vote according to his conscience, refusing to flatter the wealthy President.<br/>" +
+            "• <strong>Integrity Above Authority:</strong> Despite being a young, inexperienced foreigner, Gandhi demonstrated the moral courage to vote according to his conscience, refusing to flatter the wealthy President upon whom the society relied.<br/>" +
             "• <strong>The Discipline of Silence:</strong> The experience reinforced Gandhi's conviction that he was ill-suited for frivolous rhetoric. It compelled him to adopt the habit of weighing every word with scrupulous care before speaking.<br/>" +
-            "• <strong>Shyness as a Shield:</strong> Gandhi came to realize that his constitutional hesitancy protected him from the pitfalls of egoism, exaggeration, and rash speech. It became his shield against falsehood, nurturing the profound economy of words that later characterized his leadership."
-          ]
-        },
-        {
-          heading: "VI. Conclusion: The Foundation of Satyagraha",
-          paragraphs: [
-            "Gandhiji’s failure in the London Vegetarian Society was not an ordinary defeat; it was the crucible in which his moral character was forged. What appeared to be a crippling psychological disability—his inability to speak—ultimately evolved into his greatest rhetorical virtue: a commitment to utter truth, where speech is employed only when silence is no longer adequate."
+            "• <strong>Shyness as a Shield:</strong> Gandhi came to realize that his constitutional hesitancy protected him from the pitfalls of egoism, exaggeration, and rash speech. It became his shield against falsehood, nurturing the profound economy of words that later characterized his leadership.<br/>" +
+            "• <strong>Foundation for Satyagraha:</strong> This early experience of standing alone for a just principle, even when failing to speak or win the majority, planted the seeds for his future philosophy of Satyagraha. It taught him that standing by the truth is far more important than winning applause or gaining an easy victory."
           ]
         }
       ],
-      conclusion: "Gandhi's failure in the Vegetarian Society marks a crucial turning point, showing how initial public humiliation helped cultivate the self-restraint, moral independence, and economy of words that defined his legendary leadership."
+      conclusion: "Gandhi's failure at the London Vegetarian Society was not an ordinary defeat; it was the crucible in which his moral character was forged. What appeared to be a crippling disability—his inability to speak—ultimately evolved into his greatest rhetorical virtue: a commitment to utter truth, where speech is employed only when silence is no longer adequate."
     }
   }
 ];
