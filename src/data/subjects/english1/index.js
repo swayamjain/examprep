@@ -6,6 +6,7 @@ import { paper2025_1 } from './paper2025_1.js';
 import { paper2024_2 } from './paper2024_2.js';
 import { paper2024_3 } from './paper2024_3.js';
 import { predictivePaper } from './predictivePaper.js';
+import { skeletalFormatsPaper } from './skeletalFormatsPaper.js';
 
 export const english1 = {
   id: 'english1',
@@ -24,6 +25,7 @@ export const english1 = {
   },
   papers: [
     predictivePaper,
+    skeletalFormatsPaper,
     paper2025_1,
     paper2024_2,
     paper2024_3,
