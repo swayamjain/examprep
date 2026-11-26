@@ -77,58 +77,57 @@ export const sectionA_2025 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction and Background of Arnold Bennett's 'Murder'",
+          heading: "I. Introduction and Setting of Arnold Bennett's 'Murder!'",
           paragraphs: [
-            "Arnold Bennett was a prominent English writer known for his realistic stories about life in the industrial towns of Staffordshire, famously called the 'Five Towns'. His short story 'Murder' is a fascinating psychological drama. Unlike a typical detective whodunit where the main goal is to find out who killed the victim, Bennett reveals the killer right from the start. The real suspense of the story lies in exploring the psychological conflict, personal jealousy, and mental torment of the murderer.",
-            "The story centers on the violent death of John Franting, a wealthy, loud, and confident factory owner living in the provincial town of Sneyd. His murder is carried out not by a professional criminal or a burglar, but by Lomax Harder, a sensitive, intellectual playwright from London who is blinded by romantic obsession."
+            "Arnold Bennett’s famous short story 'Murder!' (1927) is a gripping psychological crime tale set in <strong>Quangate</strong>, a seaside resort and port on the English Channel. Unlike a traditional detective story where the police catch the criminal at the end, Bennett reveals the murderer right in front of the reader and lets the actual killer escape justice completely.",
+            "The story revolves around two 35-year-old men of completely opposite natures: <strong>Lomax Harder</strong>, a refined, gentle, fair-haired <strong>poet</strong>, and <strong>John Franting</strong>, a tough, scowling, heavy-chinned gambler, former left-handed amateur lightweight boxer, and deluder of women. The conflict between them arises over <strong>Emily Franting</strong>, John Franting’s wife, who has been suffering years of humiliation and cruelty at his hands."
           ]
         },
         {
-          heading: 'II. The Love Triangle and Reason for the Murder',
+          heading: 'II. The Cause of Conflict and the Gunsmith Shop Incident',
           paragraphs: [
-            "The root cause of the murder is an emotional rivalry over a young woman named Emily Swynnerton. Lomax Harder is deeply in love with Emily and wants to marry her. However, Emily is already engaged to John Franting.",
-            "The two men are complete opposites in character and temperament:<br/>" +
-            "• <strong>Lomax Harder:</strong> He is an artist, refined, nervous, and highly imaginative. He views love as a spiritual and noble bond. When he sees Emily engaged to Franting, he feels genuine horror because he believes Franting is too crude and insensitive for a delicate woman like Emily.<br/>" +
-            "• <strong>John Franting:</strong> He is a successful, energetic, and physically imposing businessman. However, he is also arrogant, selfish, and fond of living a luxurious life without caring for the feelings of others. He treats Emily more like a beautiful prize or a possession to show off to society rather than a partner he truly respects.",
-            "Lomax Harder convinces himself of a dangerous idea: he believes that Franting will crush Emily's spirit and make her miserable for the rest of her life. Harder starts thinking that getting rid of Franting is not a selfish crime, but a heroic act of chivalry to rescue Emily from a lifetime of unhappiness."
+            "Emily Franting is a wealthy woman, and John Franting—who has no money of his own—has been living on her fortune. Unable to bear his cruel treatment any longer, Emily decides to leave him permanently. She books a steamer ticket from Harwich to Copenhagen (where Lomax Harder has business interests and spends much of his time) and sends Franting a final farewell letter.",
+            "When Harder meets Franting in Quangate to talk about Emily, Franting brushes him off and walks into <strong>Gontle, Gunsmith</strong>—a famous local gun shop run by the proud and conceited Mr. Gontle. Franting asks to buy a <strong>Webley Mark III revolver</strong>. He rejects the first gun because of a tiny scratch on the barrel, so Mr. Gontle loads a second revolver and takes Franting down to the cellar to test it.",
+            "Left alone in the shop for a moment, Lomax Harder impulsively picks up the first, rejected revolver—which is already loaded—and slips it into his overcoat pocket when the back door suddenly opens. Mistaken by Mr. Gontle for a separate customer, Harder nervously asks for 'foils' and walks out of the shop as an accidental thief."
           ]
         },
         {
-          heading: 'III. The Planning and Execution of the Murder',
+          heading: 'III. The Confrontation and Shooting in the Bellevue Hotel',
           paragraphs: [
-            "Harder plans the crime very carefully so that he will not be suspected:<br/>" +
-            "• <strong>Traveling in Secret:</strong> Harder travels by train from London to the Five Towns under an assumed name, arriving late at night when the streets of Sneyd are dark and empty.<br/>" +
-            "• <strong>The Meeting in the Study:</strong> He walks to Franting's grand house, called 'The Haven', and enters the study. Franting is sitting comfortably in his silk dressing gown, having a drink by the fire. Harder asks Franting to give up his engagement to Emily for her own good. Franting finds this hilarious. He laughs loudly in Harder's face, mocks his artistic ideas, and arrogantly declares that Emily belongs to him.<br/>" +
-            "• <strong>The Shooting:</strong> Blinded by anger, jealousy, and fear, Harder pulls a small revolver from his pocket. Before Franting can react, Harder fires a shot directly into Franting's chest. The bullet pierces Franting's heart, killing him instantly on the carpet of his luxurious study.<br/>" +
-            "• <strong>Creating a Fake Burglary:</strong> In a state of intense panic, Harder pulls open desk drawers, scatters papers, and takes a few valuables to make it look like an ordinary burglar had broken in, got surprised by the house owner, shot him, and fled. He turns off the gas lights and slips out into the dark night, catching an early morning train back to London."
+            "After firing a test shot with his left hand on the deserted beach, Franting returns to his hotel, <strong>The Bellevue</strong>, and walks down a long corridor into a chilly, dimly lit <strong>billiard-room</strong> at the back. Harder follows him there. What happens next leads directly to the fatal shot:<br/>" +
+            "• <strong>Franting’s Cruel Bravado:</strong> Franting pulls out Emily’s farewell letter, reads her painful words aloud, tears the letter in two, drops one half on the floor, twists the other half into a paper spill, and uses it to light his cigarette.<br/>" +
+            "• <strong>The Deadly Threat:</strong> Franting openly admits he lives on Emily’s money and claims a wife has no right to leave her husband. Pulling out his new revolver, he threatens that if Emily leaves him—for Harder, anyone else, or nobody—he will follow her to Copenhagen, Bangkok, or the North Pole and <strong>kill her with that very revolver</strong>.<br/>" +
+            "• <strong>The Fatal Shot:</strong> Harder knows Franting is not bluffing; he is stubborn and ruthless enough to carry out his threat. Realizing that Emily will never be safe while Franting is alive, Harder steps forward along the billiard-table, snatches the stolen revolver from his pocket, aims, and shoots Franting in the <strong>right temple</strong>. Franting collapses dead onto the edge of the billiard-table, while the bullet hits the brass cue-rack."
           ]
         },
         {
-          heading: 'IV. Psychological Torment and Fear After the Crime',
+          heading: 'IV. Harder’s Cool Escape and Alibi',
           paragraphs: [
-            "Bennett shows his great skill as a realistic writer by describing what happens inside Harder's mind after the murder. Harder expected to feel triumphant and relieved after saving Emily. Instead, he enters a living nightmare of extreme fear and guilt.",
-            "Back in his London apartment, every sound terrifies him. When he reads the newspaper reports about the 'Mysterious Murder of Sneyd Gentleman', his heart races. He imagines that detectives from Scotland Yard are watching his house, checking his train tickets, and analyzing microscopic clues. His artistic imagination, which once created plays, now creates horrifying images of the police, the courtroom, and the hanging gallows.",
-            "Harder realizes that killing another human being destroys the murderer's peace forever. Even though no one suspects him yet, he is trapped inside the prison of his own terrified mind."
+            "Instead of panicking or staging a burglary, Lomax Harder keeps a surprisingly cool head:<br/>" +
+            "1. He picks up Franting’s glowing cigarette from the floor and drops it into the fireplace fender (though he forgets the unburnt half of Emily’s letter lying under the billiard-table).<br/>" +
+            "2. He puts on his gloves so he leaves no fingerprints, climbs out of the open billiard-room window into the courtyard, and walks onto the Marine Parade.<br/>" +
+            "3. In a stroke of cleverness, he walks calmly back into the Bellevue Hotel’s <strong>main entrance</strong>, chats with the hall-porter, and orders a <strong>Bronx cocktail</strong> to establish a natural alibi.<br/>" +
+            "4. He walks to the Quangate harbour sea-wall and quietly drops his revolver into the sea.<br/>" +
+            "5. He catches the Quangate flyer train to London, transfers to the boat-train at Liverpool Street for Harwich, and boards the night steamer to Esbjerg, reuniting with Emily on deck. When she asks what happened, he tells a simple lie: <em>'I didn't go. Thought it best not to.'</em>"
           ]
         },
         {
-          heading: 'V. The Climax: Emily’s Revelation and the Bitter Twist',
+          heading: 'V. The Comic Irony of the Investigation: Dr. Austin Bond’s Wrong Verdict',
           paragraphs: [
-            "The emotional peak of the story comes when Harder returns to Sneyd after Franting's funeral to visit Emily Swynnerton. He expects Emily to be in mourning outwardly, but secretly relieved to be free from Franting's control. He hopes to comfort her and gradually win her love.",
-            "To his complete shock, Emily is genuinely heartbroken. She weeps with deep sorrow and reveals that she truly loved Franting! She explains that she liked his strong, confident nature and never wanted to break their engagement. She found his rough strength attractive, something Harder's nervous sensitivity could never match.",
-            "Even worse, Emily tells Harder that on the very evening he was murdered, Franting had signed a new will leaving all his vast property and wealth to her. She speaks of the unknown murderer with intense hatred, saying that she will never rest until the killer is caught and hanged.",
-            "This revelation completely crushes Harder. He realizes the horrifying truth: he killed a man for a completely false assumption. He did not save Emily; he destroyed her happiness. Instead of winning her love, the murder placed an unbreakable wall of blood and hatred between them forever."
+            "Meanwhile, back in the billiard-room, the <strong>Superintendent of Police</strong> and a <strong>Detective-Sergeant</strong> investigate the crime. Based on fingerprints, boot marks on the window-sill, torn blue cloth, and the hall-porter’s lie that nobody entered the lounge, the Superintendent wrongly concludes that a tall burglar with three fingers on his left hand and a hole in his boot climbed in through the window.",
+            "Then arrives <strong>Dr. Austin Bond</strong>, a famous, self-important amateur detective who comes in place of Dr. Furnival. Dr. Bond quickly proves that the window clues belong to the poor <strong>charwoman</strong> (who lost a finger in a mangle accident, wore a torn skirt, and had a hole in her left boot when she cleaned the window). He then points to Franting’s corpse and proudly announces that <strong>Franting killed himself!</strong>",
+            "Why does Dr. Bond make this hilarious mistake? Because the Superintendent finds Franting’s <em>own</em> Webley Mark III revolver in Franting’s left-hand overcoat pocket with three chambers empty (one fired in the cellar, one on the beach). Knowing Franting was a famous left-handed boxer, Dr. Bond assumes Franting shot himself with his left hand and the gun fell into his pocket. Finding the unburnt half of Emily’s farewell letter (<em>'This is absolutely final. E.'</em>), Dr. Bond concludes Franting burned the rest out of bravado before committing suicide—leaving in triumph while completely missing the real murder!"
           ]
         },
         {
-          heading: 'VI. The Moral Lesson: Punishment Without Arrest',
+          heading: 'VI. The Ending in Copenhagen and Bennett’s Moral Irony',
           paragraphs: [
-            "Arnold Bennett ends the story with a realistic and thought-provoking conclusion. The local police conclude that John Franting was killed by an unknown traveling burglar, and the case remains unsolved. Harder is never arrested, never questioned, and never put on trial.",
-            "However, Bennett shows that escaping the police does not mean escaping punishment. Harder must live the rest of his life carrying the terrible secret that he murdered a man in cold blood for nothing. His guilt, his lost love, and his ruined conscience punish him far more severely than any prison sentence. Bennett warns readers that giving fancy moral excuses for violent acts is dangerous self-deception that always leads to ruin."
+            "The story ends in the lobby of the <strong>Palads Hotel in Copenhagen</strong>. Harder brings Emily an English newspaper reporting that the coroner’s inquest jury returned a verdict of <strong>suicide</strong> on John Franting. Emily’s eyes fill with tears as she says she must get mourning clothes and return to her flat.",
+            "Lomax Harder watches her tenderly without a trace of guilt or remorse. He believes he did what had to be done to save the woman he loved, thinking calmly: <em>'Time will put her right. I was bound to do what I did. And I can keep a secret for ever.'</em>"
           ]
         }
       ],
-      conclusion: "Arnold Bennett's 'Murder' is a powerful study in human psychology and dramatic irony. Through the murder of John Franting, Bennett demonstrates that violence based on jealousy and false pride only destroys the killer's peace of mind, leaving behind lifelong regret and guilt."
+      conclusion: "Arnold Bennett's 'Murder!' turns traditional crime fiction upside down. Through the murder of John Franting, Bennett shows how a gentle poet can commit cold-blooded homicide to protect someone he loves, how even brilliant detectives can be fooled into calling murder a suicide, and how a murderer can walk away free without guilt."
     }
   },
   {

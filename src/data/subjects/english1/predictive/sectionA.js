@@ -25,13 +25,13 @@ export const sectionA_predictive = [
           ]
         },
         {
-          heading: "Part (ii): Arnold Bennett's Psychological Realism in 'Murder' (5 Marks — ~500 Words)",
+          heading: "Part (ii): Arnold Bennett's Psychological Realism in 'Murder!' (5 Marks — ~360 Words)",
           paragraphs: [
-            "In 'Murder', Arnold Bennett showcases the hallmarks of Edwardian psychological realism, departing from conventional sensationalist detective fiction to explore how an educated person can deceive himself into thinking a bad crime is a noble deed. The story does not focus on the mystery of who committed the crime; rather, it dissects the <strong>psychological motivations, moral rationalizations, and mental collapse</strong> of the murderer, Lomax Harder.",
-            "Bennett’s psychological realism operates across three distinct dimensions:<br/>" +
-            "• <strong>Intellectual Vanity and Moral Self-Deception:</strong> Lomax Harder, a refined London dramatist, does not perceive himself as a vulgar criminal. Instead, Bennett illustrates how an intellectual mind can invent sophisticated moral excuses to justify cold-blooded murder. Convinced that John Franting is an abusive, boorish tyrant who will ruin Emily Swynnerton's life, Harder convinces himself that executing Franting is a selfless act of chivalry. Bennett exposes how cultured aestheticism can mask primitive jealousy and murderous vanity.<br/>" +
-            "• <strong>The Anatomy of Paranoia:</strong> Following the murder, Bennett realistically charts Harder's inner psychological unraveling. Even though the police suspect an unknown burglar, Harder cannot enjoy his escape. Every casual glance from a constable, every whisper in Sneyd, and every ticking minute fills him with dread. His heightened sensitivity transforms everyday sounds into menacing threats, illustrating that guilt is an inescapable internal prison.<br/>" +
-            "• <strong>The Bitter Twist of Emotional Misjudgment:</strong> The psychological climax occurs when Emily reveals her grief for Franting and shows his generous will. Harder realizes that his entire moral justification was a delusional fantasy. Bennett demonstrates that real human emotions are unpredictable and messy, completely resistant to the tidy scripts written by dramatic intellectuals."
+            "In 'Murder!' (1927), Arnold Bennett turns traditional detective fiction upside down. Instead of hiding the killer until the end, Bennett lets the reader watch <strong>Lomax Harder</strong>—a gentle, refined poet—shoot <strong>John Franting</strong> in the Bellevue Hotel billiard-room at Quangate, and then explores Harder’s cool mind and complete lack of remorse.",
+            "Bennett’s psychological realism works in three striking ways:<br/>" +
+            "• <strong>How an Ordinary Person Justifies Homicide:</strong> Harder begins the story as a nervous, polite poet who steals a rejected revolver at Gontle’s gunshop purely by accident. Yet when Franting lights a cigarette with his wife Emily’s farewell letter and threatens to hunt her down and shoot her, Harder calmly decides: <em>'Somebody had to die. And it's better him than Emily.'</em><br/>" +
+            "• <strong>Cool Presence of Mind vs. Brief Spasms of Fear:</strong> After shooting Franting, Harder puts on gloves, climbs out the window, walks back into the hotel lobby to order a Bronx cocktail for an alibi, and drops the gun into the sea. On the boat-train to Harwich and steamer to Esbjerg, he feels moments of nervous panic—remembering he left half of Emily’s letter on the floor—yet never breaks down.<br/>" +
+            "• <strong>Irony of the 'Perfect' Detective and Unpunished Crime:</strong> Famous amateur sleuth <strong>Dr. Austin Bond</strong> mocks the police and wrongly proves 'suicide'. In the final scene in Copenhagen, Harder feels zero guilt, thinking: <em>'I was bound to do what I did. And I can keep a secret for ever.'</em>"
           ]
         },
         {
@@ -194,63 +194,47 @@ export const sectionA_predictive = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction: Bennett’s Departure from Conventional Detective Fiction",
+          heading: "I. Introduction: Bennett’s Bold Challenge to Traditional Justice",
           paragraphs: [
-            "In 'Murder', Arnold Bennett—one of the central figures of Edwardian literary realism—departs radically from the formulas of sensationalist detective fiction. Unlike conventional mystery stories that celebrate the intellectual deductions of an omniscient sleuth, Bennett’s narrative focuses squarely upon the <strong>internal psychological conflict, moral rationalization, and private torment</strong> of the killer, Lomax Harder.",
-            "The story examines how an educated, refined gentleman can deceive himself into committing a cold-blooded crime, only to discover that escaping the legal gallows does not bring freedom. Through the clash between London dramatist Lomax Harder and provincial earthenware manufacturer John Franting, Bennett explores deep themes of moral arrogance, the limitations of human justice, and the inescapable burden of psychological guilt."
+            "Arnold Bennett opens 'Murder!' (1927) with a startling observation: nearly everyone has felt the impulse to murder at some point, and forty per cent of murderers are never brought to justice—walking safely among us every day. Departing completely from standard detective stories where crime is always punished, Bennett follows <strong>Lomax Harder</strong>, a gentle, refined poet who commits murder in the seaside port of <strong>Quangate</strong> and walks away completely free.",
+            "Through the clash between Harder and <strong>John Franting</strong> (a tough gambler and former left-handed amateur boxer), Bennett explores a provocative question: can a good, gentle person justify killing a cruel bully to save an innocent woman—and live peacefully afterward without guilt?"
           ]
         },
         {
-          heading: "II. The Anatomy of Moral Rationalization: Chivalry as an Excuse for Murder",
+          heading: "II. The Moral Conflict: Saving Emily Franting from a Deadly Threat",
           paragraphs: [
-            "Bennett presents a subtle psychological dissection of how an intellectual ego rationalizes extreme violence. Lomax Harder is not a hardened career criminal; he is a cultured London man of letters who considers himself morally and intellectually superior to the provincial industrial society of the Five Towns.<br/>" +
-            "When Harder falls in love with Emily Swynnerton and observes John Franting's boisterous, possessive dominance over her, Harder’s imagination constructs an elaborate moral justification. He convinces himself that Franting is an irredeemable brute who will crush Emily’s spirit, and that he (Harder) is morally duty-bound to rescue her. By framing murder as an act of noble chivalry, Harder shields his conscience from the horrific reality of his act. Bennett demonstrates how refined aestheticism can serve as a dangerous mask for primitive jealousy, wounded vanity, and calculated homicide."
+            "The story’s moral conflict centers on <strong>Emily Franting</strong>, John Franting’s wealthy wife. Franting has no money of his own and lives on Emily’s fortune while treating her in a humiliating and painful way. Finally, Emily books a steamer ticket from Harwich to Copenhagen and sends Franting a final farewell letter.",
+            "At <strong>Gontle’s gunshop</strong> in Quangate, Franting buys a <strong>Webley Mark III revolver</strong>, while Harder accidentally pockets a second rejected revolver. Later, in the chilly billiard-room of the <strong>Bellevue Hotel</strong>, Franting tears Emily’s letter in half, lights his cigarette with one half, and threatens with his revolver that if Emily leaves him, he will follow her to Copenhagen, Bangkok, or the North Pole and <strong>kill her</strong>.",
+            "Harder knows Franting is stubborn and ruthless enough to carry out this threat. In that moment, Harder faces a stark moral choice: let a cruel man murder Emily, or kill Franting first. Harder shoots Franting in the right temple, thinking: <em>'Somebody had to die. And it's better him than Emily.'</em>"
           ]
         },
         {
-          heading: "III. The Climax at 'The Haven': Premeditation versus Helpless Victimhood",
+          heading: "III. Psychological Conflict: Presence of Mind vs. Moments of Fear",
           paragraphs: [
-            "The confrontation inside Franting's study at 'The Haven' reveals the moral bankruptcy of Harder's rationalization. Harder travels secretly from London with a concealed revolver, confronts Franting late at night, and shoots him dead in cold blood, staging the scene to resemble an interrupted burglary.<br/>" +
-            "In this scene, Bennett subverts conventional moral expectations: Franting, despite his loud arrogance, dies defenseless in his dressing gown, offering no resistance. The cultured intellectual commits a cowardly, cold-blooded crime, while the coarse manufacturer becomes the innocent victim of homicidal vanity. Bennett exposes the frightening ease with which civilized intellect can justify barbarism."
+            "Bennett traces Harder’s thoughts after the killing with remarkable realism. Harder is not tormented by moral guilt; instead, his psychological conflict is a battle between his cool common sense and sudden waves of fear of getting caught:<br/>" +
+            "• <strong>Cool Self-Control:</strong> Harder puts on gloves, climbs out the window, walks back into the Bellevue Hotel’s front lounge to order a <strong>Bronx cocktail</strong> from the hall-porter as an alibi, and drops his revolver into the sea from the Quangate sea-wall.<br/>" +
+            "• <strong>Spasms of Panic:</strong> At the railway station, at Victoria, and on the two-hour train to Harwich, Harder’s imagination torments him. He imagines the taxi-driver looking at him strangely, fears detectives waiting by telegraph, and panics when he remembers leaving the unburnt half of Emily’s letter under the billiard-table.<br/>" +
+            "• <strong>Lying to Protect Emily:</strong> When Harder finds Emily aboard the steamer to Esbjerg, he tells her a single lie—<em>'I didn't go. Thought it best not to.'</em>—to shield her from the terrible truth while carrying a quiet weight at his heart."
           ]
         },
         {
-          heading: "IV. The Failure of External Justice and the Irony of Police Investigation",
+          heading: "IV. The Failure of Police Justice and Dr. Austin Bond’s Irony",
           paragraphs: [
-            "Bennett treats the official apparatus of law enforcement with quiet irony. The local police officers—the Detective-Sergeant and the Superintendent—alongside the medical examiner Dr. Austin Bond, conduct a textbook forensic investigation. They examine footprints, analyze bullet trajectories, and comfortably adopt the theory of an amateur burglar from London.<br/>" +
-            "The police machinery is completely blind to the real culprit standing in their midst. External justice fails completely: Harder is never suspected, questioned, or arrested. Yet, Bennett’s realistic vision demonstrates that legal exoneration does not equate to moral peace. While Harder escapes the physical gallows of the state, he cannot escape the internal court of his own conscience."
+            "Bennett exposes the fallibility of human justice in Section VI. The Superintendent of Police and Detective-Sergeant rely on the hall-porter’s lie and mistake the charwoman’s boot marks, torn blue skirt, and three-fingered left hand on the window for a tall burglar.",
+            "When famous amateur detective <strong>Dr. Austin Bond</strong> arrives, he humiliates the police by proving the clues belong to the charwoman—only to commit an even bigger blunder himself! Finding Franting’s <em>own</em> Webley Mark III in his left coat pocket (with three empty chambers), knowing Franting was a left-handed boxer, and reading the torn farewell letter, Dr. Bond triumphantly concludes Franting committed <strong>suicide</strong>."
           ]
         },
         {
-          heading: "V. The Climax of Irony: Emily's Grief and the Destruction of Delusion",
+          heading: "V. Juridical Insights: Mens Rea, Circumstantial Evidence, and Bennett’s Ending",
           paragraphs: [
-            "The emotional and moral climax occurs after the funeral, when Emily Swynnerton visits Harder. Expecting to be greeted as her liberator, Harder is shattered when Emily breaks down in genuine, heart-wrenching tears, mourning Franting's death and confessing that she truly loved him despite his faults.<br/>" +
-            "Furthermore, Emily reveals that on the very night he was murdered, Franting had secretly executed a formal legal will bequeathing his entire fortune and estate to her. In this single revelation, Bennett dismantles Harder’s moral house of cards. Harder discovers that Franting's love was real, practical, and protective, while his own 'chivalric rescue' was nothing more than murderous, self-deluding vanity."
-          ]
-        },
-        {
-          heading: "VI. Social Setting and Bennett’s Critique of Provincial versus Metropolitan Decadence",
-          paragraphs: [
-            "A critical element of Bennett's realism is the realistic depiction of the provincial setting—the industrial landscape of Sneyd and the Five Towns. Bennett contrasts the solid, industrious, and unpretentious character of the pottery manufacturers with the superficial intellectualism of London.<br/>" +
-            "While John Franting’s manners are coarse and his domestic attitudes unrefined, his life is grounded in productive economic labor, community respectability, and tangible care for his dependents. Lomax Harder, representing the metropolitan artistic intelligentsia, treats provincial life with condescension. Yet, when confronted by emotional adversity, it is the refined metropolitan dramatist who resorts to cold-blooded homicide, while the crude manufacturer acts with generosity and legal responsibility. Bennett exposes the hypocrisy of cultural elitism, proving that sophisticated artistic refinement can coexist with moral depravity."
-          ]
-        },
-        {
-          heading: "VII. Juridical Insights: The Doctrine of Mens Rea and the Limits of Circumstantial Evidence",
-          paragraphs: [
-            "For a student of criminal law, Bennett’s story presents an intriguing case study in criminal jurisprudence. The story illustrates the cardinal doctrine of <em>mens rea</em> (guilty intention) and <em>actus reus</em> (criminal act). Harder’s crime was entirely premeditated: he carried a deadly weapon across county borders, concealed his travel itinerary, and planned a deceptive crime scene.<br/>" +
-            "Yet, Bennett realistically illustrates the inherent vulnerability of circumstantial evidence. Under Indian and Anglo-Saxon evidence law (such as the five golden principles of circumstantial evidence laid down in <em>Sharad Birdhichand Sarda v. State of Maharashtra</em>), the chain of circumstances must point exclusively to the guilt of the accused. By staging open drawers, missing silver plate, and an open French window, Harder created a misleading chain of circumstantial clues that led the police directly away from him. Bennett demonstrates that forensic science and police deduction can be easily fooled when investigators succumb to confirmation bias."
-          ]
-        },
-        {
-          heading: "VIII. Conclusion: The Inescapable Prison of Conscience",
-          paragraphs: [
-            "Arnold Bennett’s 'Murder' delivers a profound psychological moral: true justice is not merely an external legal verdict pronounced in a courtroom, but an inescapable internal reckoning. Harder escapes the hangman's rope, but is condemned to spend the remainder of his days in the solitary confinement of his own guilt, knowing that his violent crime destroyed the happiness of the very woman he claimed to love.<br/>" +
-            "Bennett proves that guilt is an enduring psychological reality that no legal acquittal can wash away."
+            "From a legal standpoint, Bennett’s story highlights the gap between <em>mens rea</em> (Harder’s deliberate act of aiming and pulling the trigger) and real-world circumstantial evidence. Under criminal law, circumstantial clues must point solely to the guilty person—yet here every clue misleads the investigators because of confirmation bias. The Superintendent jumps to a burglar theory based on the hall-porter’s lie, while Dr. Austin Bond jumps to a suicide theory based on Franting’s left-handed boxing past and the second Webley Mark III revolver in his left coat pocket.",
+            "Even the unburnt half of Emily’s farewell letter (<em>'This is absolutely final. E.'</em>), which Harder accidentally left under the billiard-table, ends up helping Harder! Instead of connecting it to a third party, Dr. Bond assumes Franting burned the other half out of 'last bravado' before killing himself.",
+            "In the final scene in the lobby of the <strong>Palads Hotel in Copenhagen</strong>, Emily weeps over the English newspaper reporting the coroner’s inquest verdict of suicide, saying: <em>'I must get some mourning and go back to the flat.'</em> Harder watches her tenderly without a trace of remorse, thinking: <em>'Time will put her right. I was bound to do what I did. And I can keep a secret for ever.'</em> Bennett leaves readers with the unsettling truth of his opening paragraph: murderers really do walk safely among us.",
+            "Even more striking is how Bennett reverses the reader’s expectations of justice and sympathy. Usually, a murderer is haunted by nightmares or trapped by a genius detective. Here, Harder feels he has rescued an innocent woman from a brutal husband who lived off her money and threatened her life, while the celebrated detective Dr. Austin Bond leaves completely fooled—proving that in Bennett’s realistic world, both human morality and legal justice are far more uncertain than fiction usually pretends."
           ]
         }
       ],
-      conclusion: "Bennett crafts an enduring psychological study of guilt and moral self-deception, illustrating that internal conscience often delivers a more devastating punishment than external law."
+      conclusion: "Arnold Bennett's 'Murder!' challenges conventional ideas of guilt and justice by showing how a gentle poet kills to protect a woman from a murderous husband, outlasts brief spasms of fear, escapes a flawed investigation, and lives without remorse."
     }
   }
 ];

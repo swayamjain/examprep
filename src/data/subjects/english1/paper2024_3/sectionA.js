@@ -15,13 +15,13 @@ export const sectionA_2024_3 = [
     answer: {
       sections: [
         {
-          heading: "Part (i): Dr. Austin Bond in Arnold Bennett's 'Murder' (5 Marks — ~500 Words)",
+          heading: "Part (i): Dr. Austin Bond in Arnold Bennett's 'Murder!' (5 Marks — ~360 Words)",
           paragraphs: [
-            "In Arnold Bennett’s celebrated psychological short story 'Murder', <strong>Dr. Austin Bond</strong> plays an indispensable secondary role representing the calm, objective authority of medical science within the provincial community of the Five Towns. Following the late-night discovery of John Franting’s lifeless body slumped in his study at 'The Haven' in Sneyd, Dr. Austin Bond is immediately summoned as the primary family physician and police medical examiner to inspect the crime scene.",
-            "Dr. Bond's professional conduct serves as a sharp contrast to the chaotic emotional undercurrents surrounding the homicide:<br/>" +
-            "• <strong>Forensic Inspection and Cause of Death:</strong> Upon arrival, Dr. Bond performs a systematic preliminary examination of Franting's corpse. With clinical detachment, he verifies the absence of vital signs, ascertains that death was instantaneous, and identifies the precise entry wound caused by a small-caliber revolver bullet that penetrated the chest and pierced the heart. He estimates the approximate time of death, providing the critical temporal frame around which the entire police investigation revolves.<br/>" +
-            "• <strong>Interaction with Law Enforcement:</strong> Dr. Bond interacts with the investigating Detective-Sergeant and Superintendent. While the police officers debate theoretical motives involving London burglars and forced entry, Dr. Bond confines his observations strictly to physical and anatomical facts. He points out the close-range powder burns on Franting's dressing gown, proving conclusively that the shot was fired from only a few paces away.<br/>" +
-            "• <strong>Provincial Respectability and Literary Purpose:</strong> In Bennett’s realistic portrayal of Edwardian society, Dr. Austin Bond embodies the sober, unruffled professionalism of the provincial medical establishment. His authoritative medical testimony at the subsequent coroner’s inquest officially records the verdict of death by gunshot, ironically clearing the path for the real killer, Lomax Harder, to escape suspicion. Through Dr. Bond, Bennett underscores how scientific routine can unwittingly coexist with unperceived domestic tragedy."
+            "In Arnold Bennett’s short story 'Murder!' (1927), <strong>Dr. Austin Bond</strong> is a famous, stout, self-important <strong>amateur detective</strong> who arrives at the chilly billiard-room of the <strong>Bellevue Hotel</strong> in Quangate to inspect John Franting’s dead body. He comes in place of his friend Dr. Furnival (who was called away on a medical case) and immediately takes charge because of his well-known friendship with the top heads of Scotland Yard.",
+            "Dr. Bond is famous for solving mysteries like <em>'The Yellow Hat'</em>, <em>'The Three Towns'</em>, <em>'The Three Feathers'</em>, and <em>'The Gold Spoon'</em>, and he loves making professional police officers look foolish:<br/>" +
+            "• <strong>Destroying the Police 'Burglar' Theory:</strong> The local Superintendent proudly claims a tall man in a blue suit with a hole in his boot and only three fingers on his left hand climbed through the window. Dr. Bond brings in the frightened <strong>charwoman</strong> (who found the body) and proves she lost her little finger in a mangle accident, had a torn skirt hem, and a hole in her left boot from cleaning the window.<br/>" +
+            "• <strong>His Brilliant Yet Wrong Suicide Verdict:</strong> Pointing to the corpse, Dr. Bond announces that the killer is still in the room—claiming Franting committed <strong>suicide</strong>! He has the Superintendent pull Franting’s own <strong>Webley Mark III revolver</strong> from Franting’s left-hand overcoat pocket (with three chambers empty), connects it to Franting being a famous <strong>left-handed amateur lightweight boxer</strong>, and cites the unburnt half of Emily’s farewell letter as proof of 'last bravado'.<br/>" +
+            "• <strong>Comic Irony:</strong> Dr. Bond leaves in triumph after calling the police 'numskulls', never realizing that the real murderer, Lomax Harder, shot Franting with a second stolen gun and escaped to Copenhagen."
           ]
         },
         {
@@ -194,53 +194,54 @@ export const sectionA_2024_3 = [
     answer: {
       sections: [
         {
-          heading: "I. Introduction: Bennett’s Realistic Psychological Juxtaposition",
+          heading: "I. Introduction: Contrasting Personalities in 'Murder!'",
           paragraphs: [
-            "In 'Murder', Arnold Bennett constructs a compelling psychological drama centered on the contrast between two men: <strong>Lomax Harder</strong>, a refined, intellectual London dramatist, and <strong>John Franting</strong>, a prosperous, domineering provincial manufacturer from the Five Towns. Their conflict revolves around their shared romantic interest in Emily Swynnerton, a charming young woman caught between them.",
-            "Bennett uses this juxtaposition to explore deeper social and psychological themes: the contrast between London's artistic culture and provincial industrial wealth, between sensitive aestheticism and aggressive masculinity, and between moral rationalization and emotional reality."
+            "In 'Murder!' (1927), Arnold Bennett introduces two 35-year-old men walking side by side along the Marine Parade in the English Channel port of <strong>Quangate</strong>. Both are well-dressed and appear moderately wealthy, yet Bennett notes that at this point all likeness between them ends.",
+            "The story contrasts <strong>Lomax Harder</strong>, a gentle, refined poet, with <strong>John Franting</strong>, a tough, scowling gambler and former left-handed amateur lightweight boxer. Their clash centers on <strong>Emily Franting</strong>, John Franting’s wealthy wife, whom Harder is determined to save from her husband’s cruel threats."
           ]
         },
         {
-          heading: "II. Social Background, Profession, and Cultural Setting",
+          heading: "II. Physical Appearance and Social Identity",
           paragraphs: [
-            "• <strong>Lomax Harder:</strong> Harder personifies the cultured, metropolitan aesthetic elite. He is a successful London dramatist and theatrical man of letters who lives surrounded by refined art, intellectual conversation, and sophisticated urban sensibilities. Harder is introspective, neurotic, fastidious, and proud of his intellectual superiority. He views provincial society with barely concealed contempt, regarding industrial towns as crude and uncultured.<br/>" +
-            "• <strong>John Franting:</strong> Franting represents the prosperous, self-made manufacturing bourgeoisie of the Five Towns. As a wealthy earthenware manufacturer residing at his opulent suburban home ('The Haven') in Sneyd, Franting is grounded in industrial commerce, factory balance sheets, and physical reality. He is a robust, physically imposing man of action—loud, practical, boisterous, and unconcerned with aesthetic subtleties. While Harder lives in a world of words and psychological nuances, Franting dominates a world of kilns, business contracts, and tangible material wealth."
+            "Bennett draws a sharp visual and social contrast between the two men:<br/>" +
+            "• <strong>Lomax Harder:</strong> He has refined features, a huge forehead (of which he is proud), fair hair, and a delicate, apologetic manner. He looks like a classic poet—except that he is neatly barbered—and is known in the small world of poetry. He also spends half his time in Copenhagen.<br/>" +
+            "• <strong>John Franting:</strong> He is low-browed, heavy-chinned, scowling, and defiant—a 'tough customer'. He looks like a gambler, an amateur boxer, and a 'deluder of women', and he truly is all three. A dozen years earlier, he was England’s finest left-handed amateur lightweight boxer."
           ]
         },
         {
-          heading: "III. Divergence in Temperament, Masculinity, and Emotional Expression",
+          heading: "III. Temperament and Moral Code",
           paragraphs: [
-            "The internal temperaments of the two characters reveal a profound psychological contrast:<br/>" +
-            "• <strong>Harder’s Over-Refined Sensibility:</strong> Harder possesses an over-active, neurotic imagination. He is hypersensitive to perceived slights, endlessly analyzes his own emotions, and suffers from nervous agitation. When provoked, his resentment does not manifest as healthy physical confrontation; instead, it festers internally into dark, obsessive, and murderous calculation. He is capable of cold premeditation because he intellectualizes his passions, rationalizing extreme acts as noble artistic necessities.<br/>" +
-            "• <strong>Franting’s Bullish Directness:</strong> Franting, in contrast, is entirely devoid of neurotic introspection. He is loud, extroverted, jovial, and overbearing. He does not brood or hide his feelings; his anger is immediate, noisy, and quickly spent. Franting is an unapologetic hedonist who enjoys good food, fine tobacco, and hearty socializing. His domineering manner stems not from malice, but from a total lack of empathy and imaginative awareness—he simply cannot conceive that others might perceive his boisterous confidence as oppressive."
+            "Their inner characters and values are complete opposites:<br/>" +
+            "• <strong>Harder’s Quiet Resolve and Pure Motive:</strong> Harder is polite and calm, yet capable of decisive action. After accidentally pocketing a rejected loaded revolver at <strong>Gontle’s gunshop</strong>, he follows Franting to the Bellevue Hotel billiard-room. Once he shoots Franting, Harder keeps complete presence of mind—putting on gloves, escaping out the window, ordering a Bronx cocktail at the front lounge for an alibi, and dropping the gun into the sea. He feels no guilt because he wants nothing from Emily for himself and acted purely to save her.<br/>" +
+            "• <strong>Franting’s Brutality and Hypocrisy:</strong> Franting is gruff, selfish, and intimidating. He openly admits he has no money and lives off Emily’s wealth, yet hypocritically claims 'old-fashioned' respect for marriage. He tears Emily’s farewell letter in two, lights his cigarette with half of it, and threatens with his new Webley Mark III revolver to follow her to Copenhagen, Bangkok, or the North Pole and kill her."
           ]
         },
         {
-          heading: "IV. Contrasting Attitudes Toward Emily Swynnerton",
+          heading: "IV. Attitudes Toward Emily Franting & Gontle’s Gunshop",
           paragraphs: [
-            "The starkest psychological contrast between Harder and Franting emerges in their respective attitudes toward Emily Swynnerton, the woman they both claim to love:<br/>" +
-            "• <strong>Harder’s Romantic Idealism and Savior Complex:</strong> Harder views Emily through the prism of dramatic romanticism. He idealizes her as a fragile, ethereal damsel who must be protected from provincial coarseness. When Harder learns of Franting's possessive dominance over Emily, his ego constructs an elaborate moral justification: he convinces himself that Franting is a vulgar brute who will crush Emily's spirit, and that he (Harder) is morally duty-bound to rescue her. Harder’s love is deeply possessive and self-centered, masked beneath a facade of chivalric virtue.<br/>" +
-            "• <strong>Franting’s Pragmatic Devotion:</strong> Franting’s relationship with Emily appears, on the surface, far less romantic. He is known to flirt with other women and treats domestic relationships with conventional male complacency. Yet, Bennett introduces a powerful narrative revelation that completely dismantles Harder’s assumptions: on the very night he was murdered, Franting had secretly executed a formal legal will bequeathing his entire fortune and real estate to Emily Swynnerton. Franting’s devotion was practical, tangible, and legally secure, proving that his rough exterior concealed genuine affection and commitment."
+            "Emily is the reason their worlds collide, and Gontle’s gunshop shows their contrasting natures in action:<br/>" +
+            "• <strong>Franting’s Cruel Ownership:</strong> Although Franting says he is 'very fond' of Emily, his affection is humiliating and painful. He treats her as a wife who cannot escape him, no matter how badly he behaves.<br/>" +
+            "• <strong>Harder’s Protective Devotion:</strong> Harder sees Emily as a mature, innocent, wise, and honest woman trapped by a scoundrel. Knowing Franting will never stop, Harder decides: <em>'Somebody had to die. And it's better him than Emily.'</em><br/>" +
+            "• <strong>At Gontle, Gunsmith:</strong> Franting marches gruffly into the renowned Quangate gunshop, rejects the first <strong>Webley Mark III</strong> for a tiny scratch, and tests a second one in the cellar and on the beach. Meanwhile, Harder nervously pockets the rejected loaded revolver when the back door opens, stammers for 'foils' when mistaken for another customer, and walks out as an accidental thief."
           ]
         },
         {
-          heading: "V. The Moral Climax: Premeditated Murder vs. Defenseless Victimhood",
+          heading: "V. The Climax, Clever Escape, and Comic Investigation",
           paragraphs: [
-            "The moral dynamic between the two men undergoes a radical inversion during the climax of the story. Harder, who considers himself an enlightened, civilized intellectual, travels secretly from London to Sneyd with a loaded revolver concealed in his pocket. He enters Franting's study late at night, confronts him, and shoots him dead in cold blood, staging the scene to resemble a botched burglary.<br/>" +
-            "Franting, despite his flaws, dies defenseless in his dressing gown, utterly unsuspecting and offering no physical threat. In this moment, Bennett reveals the frightening truth of human nature: the refined, intellectual artist proves capable of brutal, cowardly violence, while the crude manufacturer becomes the innocent victim of homicidal arrogance.<br/>" +
-            "This confrontation also highlights Bennett’s broader critique of provincial versus metropolitan hypocrisy. Bennett exposes how the metropolitan intellectual often constructs a romanticized, paternalistic illusion around women, whereas the provincial manufacturer, rooted in the concrete realities of industrial life, demonstrates his commitment through practical provision rather than theatrical posturing."
+            "In the chilly, glass-roofed Bellevue billiard-room, the famous left-handed boxer relies on threats and never expects the quiet, apologetic poet to shoot first. Harder pulls his stolen revolver from his pocket and shoots Franting in the right temple, killing him instantly on the edge of the billiard-table while the bullet strikes the brass cue-rack.",
+            "Harder’s cool self-control after the murder contrasts sharply with Franting’s noisy bravado. Putting on gloves to leave no fingerprints, Harder climbs out the open window into the courtyard, walks calmly back into the Bellevue Hotel’s front lounge to order a <strong>Bronx cocktail</strong> from the hall-porter as an alibi, drops his gun into the sea from the Quangate sea-wall, and catches the Quangate flyer train to Victoria before boarding the Harwich boat-train and steamer to Esbjerg.",
+            "On the steamer deck, Harder reunites with Emily and tells a simple lie—<em>'I didn't go. Thought it best not to.'</em>—to shield her. Later, the famous amateur detective <strong>Dr. Austin Bond</strong> and the police completely miss the murder—ruling it a <strong>suicide</strong> because Franting’s own gun is found in his left coat pocket with three empty chambers (one fired in the cellar, one on the beach), alongside the torn half of Emily’s farewell letter. In the final scene at the Palads Hotel in Copenhagen, Harder comforts a weeping Emily without any remorse, confident he did what was necessary and can keep the secret forever."
           ]
         },
         {
-          heading: "VI. The Aftermath and Bennett’s Tragic Irony",
+          heading: "VI. Bennett’s Opening Thesis and Psychological Insight",
           paragraphs: [
-            "The final contrast unfolds in the psychological aftermath of the murder. Harder successfully deceives the police and escapes legal arrest, but his triumph turns to ash. When Emily visits him following the funeral, she does not celebrate her freedom; instead, she is brokenhearted, weeping bitterly for Franting and confessing that she truly loved him despite his flaws. She proudly reveals Franting's generous will, leaving Harder devastated by the realization that his crime was based on delusional vanity.",
-            "Franting rests in honored memory as a tragic victim, while Harder is condemned to live in the private prison of his own conscience, haunted by the knowledge that he committed murder to destroy the happiness of the very woman he claimed to love.<br/>" +
-            "This haunting resolution reinforces Bennett’s psychological insight: the true punishment for cold-blooded crime is not merely the external gallows or prison walls, but the inescapable internal torment of realizing that one's elaborate moral justifications were entirely hollow and self-deceiving."
+            "Arnold Bennett opens 'Murder!' by noting that nearly everyone has felt the impulse to commit murder at some point, and that forty per cent of murderers are never caught—walking safely among us every day. The contrast between Harder and Franting brings this unsettling idea to life.",
+            "Franting—the scowling, heavy-chinned boxer—relies on loud threats, never imagining that a refined, neatly barbered poet with a gentle manner could actually pull the trigger. Yet Harder proves far more dangerous than Franting precisely because he stays calm under pressure: he tips the hall-porter eighteenpence for a Bronx cocktail to build an alibi, drops the weapon quietly into the sea off the Quangate sea-wall, and lives peacefully beside Emily without a single twinge of guilt."
           ]
         }
       ],
-      conclusion: "Arnold Bennett's juxtaposition of Lomax Harder and John Franting exposes the hypocrisy of intellectual arrogance. Through this contrast, Bennett proves that refined culture does not guarantee moral nobility, and rough provincial masculinity may harbor deeper sincerity than intellectual aestheticism."
+      conclusion: "Arnold Bennett's contrast between Lomax Harder and John Franting shows how deceptive appearances can be: the loud, violent boxer is outsmarted and killed by a polite, gentle poet who escapes completely undetected."
     }
   }
 ];
