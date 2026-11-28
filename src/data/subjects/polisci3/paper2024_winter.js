@@ -40,7 +40,7 @@ export const paper2024_winter = {
               "<li><strong>3. Rule of Law & Constitutional Supremacy:</strong> Power is checked by written constitutional limits, separation of powers, and judicial review—no ruler is above the law.</li>" +
               "<li><strong>4. Fundamental Civil Liberties:</strong> Free speech, assembly, and belief protect minorities from majoritarian abuse.</li>" +
               "<li><strong>5. Social Democracy (Dr. B.R. Ambedkar):</strong> Political voting equality must rest on liberty, equality, and fraternity in everyday social life.</li>" +
-              "</ul>"
+              "<li><strong>Real-World Indian Example of Deliberative & Participatory Democracy:</strong> Village Gram Sabhas (Article 243A), Parliamentary Standing Committees, and public consultations on draft bills bring citizens and diverse viewpoints directly into lawmaking before final votes.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li></ul>"
             ]
           }
         ],
@@ -77,7 +77,7 @@ export const paper2024_winter = {
               "<li><strong>Negative Liberty:</strong> Defines freedom as absence of state interference in private life.</li>" +
               "<li><strong>J.S. Mill's Harm Principle (On Liberty):</strong> The state may restrict an individual only to prevent harm to others; over one's own mind and body, the individual is sovereign.</li>" +
               "<li><strong>Laissez-Faire Free Market (Adam Smith):</strong> Guided by the \"invisible hand\" of competition, needing only a minimal \"night-watchman\" state (defence, police, contracts).</li>" +
-              "</ul>"
+              "<li><strong>From Laissez-Faire to Welfare State:</strong> When 19th-century unregulated factories caused child labour and slums, modern liberals realized freedom is empty without food, health, and schooling—leading to public welfare programmes worldwide and India's Directive Principles.</li><li><strong>Core Pillars Across Eras:</strong> Whether classical (Locke, Adam Smith) or modern (T.H. Green, John Rawls), liberalism consistently defends individual dignity, constitutionalism, rule of law, religious tolerance, and accountable government.</li><li><strong>Neo-Liberal Shift & Critique:</strong> Late-20th-century neo-liberals (Hayek, Friedman) revived deregulation and privatization to boost efficiency, though critics warn unchecked markets widen wealth gaps and weaken public safety nets.</li></ul>"
             ]
           }
         ],
@@ -114,7 +114,7 @@ export const paper2024_winter = {
               "<li><strong>3. By Registration:</strong> Available to persons of Indian origin, spouses of Indian citizens, and minor children after meeting residency rules.</li>" +
               "<li><strong>4. By Naturalization:</strong> Granted to eligible foreign residents (not illegal migrants) after long residence, good character, and knowledge of an Eighth Schedule language.</li>" +
               "<li><strong>5. By Incorporation of Territory:</strong> When new territory joins India (e.g., Goa, Sikkim), the Central Government notifies which residents become Indian citizens.</li>" +
-              "</ul>"
+              "<li><strong>Practical Indian Example:</strong> While an individual citizen enjoys personal freedom to choose any profession or faith (libertarian protection under Articles 19 and 25), reservation policies, minority educational rights (Article 30), and Fundamental Duties (Article 51A) reflect communitarian responsibility toward marginalized groups and society.</li><li><strong>Balancing Both Extremes:</strong> Pure individualism ignores how families and public schools shape every citizen's success, while extreme communitarianism must be checked by Fundamental Rights so traditional groups cannot oppress individuals.</li></ul>"
             ]
           }
         ],
@@ -150,7 +150,7 @@ export const paper2024_winter = {
               "<li><strong>Print Media & Mass Education:</strong> Daily newspapers, books in local languages, and public schooling helped scattered people imagine a shared national identity.</li>" +
               "<li><strong>Anti-Colonial Liberation (19th–20th Century):</strong> Across Asia and Africa, nationalism grew as a freedom struggle against European empires.</li>" +
               "<li><strong>India's Inclusive Movement:</strong> Leaders like Gandhi, Nehru, and Patel united diverse regions, languages, and faiths into an inclusive, secular democratic republic.</li>" +
-              "</ul>"
+              "<li><strong>Unity in Diversity (Indian Illustration):</strong> Despite 22 official languages and multiple faiths, India's shared anti-colonial struggle, national symbols, and constitutional guarantee of equal citizenship forge a strong civic nationhood without erasing regional cultures.</li><li><strong>Civic vs. Aggressive Nationalism in Practice:</strong> Civic nationalism welcomes constructive criticism as a way to improve the nation, whereas aggressive hyper-nationalism silences dissent and treats minorities with suspicion.</li></ul>"
             ]
           }
         ],
@@ -201,7 +201,7 @@ export const paper2024_winter = {
               "<ul>" +
               "<li><strong>Smart Power:</strong> Strategic blend of strong defence/economic deterrence with soft cultural diplomacy.</li>" +
               "<li><strong>India's Soft Power:</strong> Ancient civilizational heritage, yoga, cinema, democratic Constitution, and non-violent philosophy.</li>" +
-              "</ul>"
+              "<li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li><li><strong>Why Democracies Survive Crises:</strong> Because democratic governments renew legitimacy through free elections, independent courts, and a free press, citizens accept tough policies during wars or pandemics far more willingly than under dictatorships.</li><li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li></ul>"
             ]
           }
         ],
@@ -237,7 +237,7 @@ export const paper2024_winter = {
               "<li><strong>Civil & Political Rights:</strong> Life, free speech, and fair trial—shielding individuals from state tyranny.</li>" +
               "<li><strong>Socio-Economic & Cultural Rights:</strong> Work, education, healthcare, and decent living standards.</li>" +
               "<li><strong>Indian Safeguards:</strong> The <strong>Protection of Human Rights Act, 1993</strong> created the NHRC, while Supreme Court rulings expanded <strong>Article 21</strong> to include dignity, clean environment, healthcare, shelter, and speedy justice.</li>" +
-              "</ul>"
+              "<li><strong>Global & Domestic Enforcement:</strong> International covenants like the ICCPR and ICESCR translate UDHR ideals into binding treaties, while in India the NHRC and High Courts enforce human rights even for prisoners and marginalized communities.</li><li><strong>Global & Domestic Enforcement:</strong> International covenants like the ICCPR and ICESCR translate UDHR ideals into binding treaties, while in India the NHRC and High Courts enforce human rights even for prisoners and marginalized communities.</li><li><strong>Universal, Inalienable & Indivisible:</strong> Human rights belong to every person simply by being human—regardless of nationality, caste, gender, or religion—and civil liberties cannot thrive without basic economic dignity like food and shelter.</li></ul>"
             ]
           }
         ],
@@ -294,7 +294,7 @@ export const paper2024_winter = {
               "<li><strong>2. Instrumental Value:</strong> Makes rulers accountable (Sen showed major famines do not happen in democracies with a free press).</li>" +
               "<li><strong>3. Constructive Value:</strong> Public debate helps society understand and solve social problems.</li>" +
               "<li><strong>Kesavananda Bharati (1973):</strong> Declared democracy an unalterable part of India's Basic Structure.</li>" +
-              "</ul>"
+              "<li><strong>Real-World Indian Example of Deliberative & Participatory Democracy:</strong> Village Gram Sabhas (Article 243A), Parliamentary Standing Committees, and public consultations on draft bills bring citizens and diverse viewpoints directly into lawmaking before final votes.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li><li><strong>Procedural vs. Substantive Democracy:</strong> Procedural democracy focuses on free elections, secret ballots, and peaceful transfers of power, while substantive democracy asks whether poor, minority, and marginalized citizens actually enjoy equal voice and dignity.</li><li><strong>Habermas's Ideal Speech Situation:</strong> Jürgen Habermas argued democratic legitimacy grows when citizens debate public issues freely in the public sphere—using reason and evidence rather than money, status, or propaganda.</li><li><strong>Historical Milestones of Democracy:</strong> From direct assembly rule in ancient Athens and Magna Carta (1215) to the American and French Revolutions, 20th-century anti-colonial struggles, and India's bold adoption of universal adult franchise in 1950, democracy steadily widened its circle of inclusion.</li><li><strong>Institutional Pillars of Indian Democracy:</strong> An independent Election Commission (Article 324), an assertive Supreme Court, federal power-sharing, and a vibrant civil society keep Indian democracy resilient despite vast social diversity.</li></ul>"
             ]
           }
         ],
@@ -351,7 +351,7 @@ export const paper2024_winter = {
               "<ul>" +
               "<li><strong>Social Democracy & Regulation:</strong> Modern democracies added progressive taxes, minimum wages, labour laws, and public healthcare/schools to tame market excesses.</li>" +
               "<li><strong>India's Constitutional Balance:</strong> Directive Principles (Articles 38 & 39) balance private enterprise with public welfare mandates to prevent wealth concentration.</li>" +
-              "</ul>"
+              "<li><strong>Real-World Mixed Economy Lesson:</strong> Pure command economies suffered bureaucracy and shortages, while unregulated capitalism caused the 1929 Great Depression and 2008 financial crash—showing why modern democracies combine private enterprise with strong labour laws, public healthcare, and progressive taxes.</li><li><strong>Indian Constitutional Balance:</strong> Even after India's 1991 economic liberalization opened markets to private competition, constitutional welfare laws like MGNREGA, the National Food Security Act, and Right to Education uphold socialist social justice.</li><li><strong>Democratic Socialism vs. Authoritarian Communism:</strong> Democratic socialism pursues public welfare and worker protections through multi-party elections and parliamentary law, whereas orthodox communism advocates revolutionary abolition of private property under single-party vanguard rule.</li><li><strong>Karl Marx's Critique of Alienation:</strong> Marx argued that under industrial capitalism, workers are alienated from the products they make, the creative process of labour, their fellow workers, and their own human potential.</li></ul>"
             ]
           }
         ],
@@ -426,7 +426,7 @@ export const paper2024_winter = {
             paragraphs: [
               "<ul>" +
               "<li><strong>Balanced Model:</strong> Protects liberal Fundamental Rights (Part III), enables civic participation via universal suffrage (Article 326), and upholds communitarian Fraternity, minority rights (Articles 29–30), and Fundamental Duties (Article 51A).</li>" +
-              "</ul>"
+              "<li><strong>Practical Indian Example:</strong> While an individual citizen enjoys personal freedom to choose any profession or faith (libertarian protection under Articles 19 and 25), reservation policies, minority educational rights (Article 30), and Fundamental Duties (Article 51A) reflect communitarian responsibility toward marginalized groups and society.</li><li><strong>Balancing Both Extremes:</strong> Pure individualism ignores how families and public schools shape every citizen's success, while extreme communitarianism must be checked by Fundamental Rights so traditional groups cannot oppress individuals.</li><li><strong>Practical Indian Example:</strong> While an individual citizen enjoys personal freedom to choose any profession or faith (libertarian protection under Articles 19 and 25), reservation policies, minority educational rights (Article 30), and Fundamental Duties (Article 51A) reflect communitarian responsibility toward marginalized groups and society.</li><li><strong>Balancing Both Extremes:</strong> Pure individualism ignores how families and public schools shape every citizen's success, while extreme communitarianism must be checked by Fundamental Rights so traditional groups cannot oppress individuals.</li></ul>"
             ]
           }
         ],
@@ -497,7 +497,7 @@ export const paper2024_winter = {
               "<ul>" +
               "<li><strong>Loyalty to Constitutional Values:</strong> In diverse nations like India, unity rests on shared democratic rights and the rule of law rather than ethnic uniformity.</li>" +
               "<li><strong>S.R. Bommai (1994):</strong> Declared secularism part of the Basic Structure, ensuring India stays an inclusive home for all religions and languages.</li>" +
-              "</ul>"
+              "<li><strong>Unity in Diversity (Indian Illustration):</strong> Despite 22 official languages and multiple faiths, India's shared anti-colonial struggle, national symbols, and constitutional guarantee of equal citizenship forge a strong civic nationhood without erasing regional cultures.</li><li><strong>Civic vs. Aggressive Nationalism in Practice:</strong> Civic nationalism welcomes constructive criticism as a way to improve the nation, whereas aggressive hyper-nationalism silences dissent and treats minorities with suspicion.</li><li><strong>Ernest Renan's \"Daily Plebiscite\":</strong> Renan famously described a nation as a soul and spiritual principle sustained by shared memories of sacrifice and a continuing daily willingness to live together as one political community.</li><li><strong>Benedict Anderson's \"Imagined Communities\":</strong> Modern print media, railways, and shared public debates allowed millions of strangers who will never meet each other to imagine themselves as fellow members of a single nation.</li></ul>"
             ]
           }
         ],
@@ -571,7 +571,7 @@ export const paper2024_winter = {
               "<ul>" +
               "<li><strong>Healthy State Formula:</strong> <em>Power + Legitimacy = Stable Authority.</em> When corruption destroys legitimacy, authority collapses and regimes survive only by police force.</li>" +
               "<li><strong>Hannah Arendt's Insight:</strong> Power and violence are opposites—where absolute violence rules, genuine political power has disappeared.</li>" +
-              "</ul>"
+              "<li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li><li><strong>Why Democracies Survive Crises:</strong> Because democratic governments renew legitimacy through free elections, independent courts, and a free press, citizens accept tough policies during wars or pandemics far more willingly than under dictatorships.</li><li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li><li><strong>Why Democracies Survive Crises:</strong> Because democratic governments renew legitimacy through free elections, independent courts, and a free press, citizens accept tough policies during wars or pandemics far more willingly than under dictatorships.</li><li><strong>Max Weber's Three Sources of Authority:</strong> Traditional authority rests on custom (hereditary kings), Charismatic authority rests on a leader's personal magnetism (mass reformers), and Legal-Rational authority rests on impersonal constitutional rules (elected ministers and civil servants).</li></ul>"
             ]
           }
         ],
@@ -616,7 +616,7 @@ export const paper2024_winter = {
             paragraphs: [
               "<ul>" +
               "<li><strong>Balanced Liberalism:</strong> Part III (Articles 14, 19, 21) guarantees classical civil liberties and equality, while Part IV (Directive Principles) embodies welfare liberalism—directing the state to provide economic justice, education, and public health.</li>" +
-              "</ul>"
+              "<li><strong>From Laissez-Faire to Welfare State:</strong> When 19th-century unregulated factories caused child labour and slums, modern liberals realized freedom is empty without food, health, and schooling—leading to public welfare programmes worldwide and India's Directive Principles.</li><li><strong>Core Pillars Across Eras:</strong> Whether classical (Locke, Adam Smith) or modern (T.H. Green, John Rawls), liberalism consistently defends individual dignity, constitutionalism, rule of law, religious tolerance, and accountable government.</li><li><strong>Neo-Liberal Shift & Critique:</strong> Late-20th-century neo-liberals (Hayek, Friedman) revived deregulation and privatization to boost efficiency, though critics warn unchecked markets widen wealth gaps and weaken public safety nets.</li><li><strong>Core Pillars Across Eras:</strong> Whether classical (Locke, Adam Smith) or modern (T.H. Green, John Rawls), liberalism consistently defends individual dignity, constitutionalism, rule of law, religious tolerance, and accountable government.</li><li><strong>Neo-Liberal Shift & Critique:</strong> Late-20th-century neo-liberals (Hayek, Friedman) revived deregulation and privatization to boost efficiency, though critics warn unchecked markets widen wealth gaps and weaken public safety nets.</li></ul>"
             ]
           }
         ],
@@ -663,7 +663,7 @@ export const paper2024_winter = {
             paragraphs: [
               "<ul>" +
               "<li><strong>Dignified Existence:</strong> In <em>Maneka Gandhi (1978)</em> and <em>K.S. Puttaswamy (2017)</em>, the Supreme Court held that Article 21 means living with full human dignity—covering privacy, clean environment, and personal liberty.</li>" +
-              "</ul>"
+              "<li><strong>How Theories Complement Each Other:</strong> Natural Rights theory provides the moral standard to judge unjust laws, Legal theory supplies court remedies (like writs under Article 32), and Social Welfare theory ensures individual rights never harm public health or community peace.</li><li><strong>Evolution of New Rights in India:</strong> Over recent decades, the Supreme Court has expanded Article 21 to cover clean air, free legal aid, shelter, education (Article 21A), and digital privacy—proving that rights grow with society's needs.</li><li><strong>Evolution of New Rights in India:</strong> Over recent decades, the Supreme Court has expanded Article 21 to cover clean air, free legal aid, shelter, education (Article 21A), and digital privacy—proving that rights grow with society's needs.</li><li><strong>Harold Laski's Core Insight:</strong> Laski defined rights as \"those conditions of social life without which no man can seek, in general, to be himself at his best,\" showing that rights are not selfish privileges but tools for human development.</li></ul>"
             ]
           }
         ],
@@ -747,7 +747,7 @@ export const paper2024_winter = {
             paragraphs: [
               "<ul>" +
               "<li><strong>Combined Architecture:</strong> Representative Parliament, procedural integrity via the independent Election Commission, and grassroots participatory/deliberative democracy through Panchayati Raj and Gram Sabhas (Article 243A).</li>" +
-              "</ul>"
+              "<li><strong>Real-World Indian Example of Deliberative & Participatory Democracy:</strong> Village Gram Sabhas (Article 243A), Parliamentary Standing Committees, and public consultations on draft bills bring citizens and diverse viewpoints directly into lawmaking before final votes.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li><li><strong>Procedural vs. Substantive Democracy:</strong> Procedural democracy focuses on free elections, secret ballots, and peaceful transfers of power, while substantive democracy asks whether poor, minority, and marginalized citizens actually enjoy equal voice and dignity.</li></ul>"
             ]
           }
         ],

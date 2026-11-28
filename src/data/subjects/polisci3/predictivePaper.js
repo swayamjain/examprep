@@ -50,7 +50,7 @@ export const predictivePaper = {
               '<li><strong>Only Executive Power Surrendered:</strong> Citizens gave up only their private right to punish wrongdoers; they never surrendered their core natural rights to life, liberty, and property.</li>' +
               '<li><strong>Right to Resist Tyranny:</strong> Government acts merely as a trustee. If a ruler becomes tyrannical or seizes property unjustly, citizens have the legitimate right to remove and replace that government.</li>' +
               '<li><strong>Indian Constitutional Link:</strong> In <em>Maneka Gandhi (1978)</em> and <em>K.S. Puttaswamy (2017)</em>, the Supreme Court echoed Locke, holding that life, liberty, and privacy under Article 21 are inherent human endowments that the Constitution recognizes and protects rather than creates.</li>' +
-              '</ul>'
+              '<li><strong>Why Citizens Cannot Surrender Natural Rights:</strong> Locke insisted that because human beings did not create their own lives, they cannot hand over absolute power over their life or liberty to any king—meaning unlimited monarchy is always illegitimate.</li><li><strong>Practical Example in Constitutional Law:</strong> Just as Locke argued government is a trustee, judicial review under Articles 32 and 226 allows Indian courts to strike down any statute that violates core human dignity.</li></ul>'
             ]
           }
         ],
@@ -97,7 +97,7 @@ export const predictivePaper = {
               '<li><strong>Why "War of Manoeuvre" Fails:</strong> A sudden frontal violent attack on the state fails in modern democracies because ruling power is deeply protected by civil society.</li>' +
               '<li><strong>"War of Position" (Long Cultural Struggle):</strong> Subordinate classes must wage a patient, long-term struggle to win minds and transform culture before seizing political power.</li>' +
               '<li><strong>Role of Organic Intellectuals:</strong> Working-class teachers, writers, and thinkers rooted in ordinary life must challenge dominant narratives and build <em>counter-hegemony</em> in schools, media, and public debate.</li>' +
-              '</ul>'
+              '<li><strong>Everyday Example of Hegemony:</strong> When newspapers, textbooks, and films repeatedly portray economic inequality as "natural" or blame poverty solely on personal laziness, ordinary citizens accept the existing hierarchy without needing police force.</li></ul>'
             ]
           }
         ],
@@ -156,7 +156,7 @@ export const predictivePaper = {
               '<li><strong>Rejection of Theocracy:</strong> After the trauma of Partition along religious lines, India\'s Constitution-makers deliberately rejected religious nationalism and built a secular democratic republic.</li>' +
               '<li><strong>Uniform Single Citizenship:</strong> Articles 5 to 11 grant equal single citizenship to all Indians without any religious or ethnic test.</li>' +
               '<li><strong>Equal Protection & Minority Safeguards:</strong> Articles 14 and 15 forbid discrimination, while Articles 29 and 30 protect linguistic and religious minorities\' right to preserve their distinct cultures—uniting diversity through shared democratic values.</li>' +
-              '</ul>'
+              '<li><strong>Unity in Diversity (Indian Illustration):</strong> Despite 22 official languages and multiple faiths, India\'s shared anti-colonial struggle, national symbols, and constitutional guarantee of equal citizenship forge a strong civic nationhood without erasing regional cultures.</li><li><strong>Civic vs. Aggressive Nationalism in Practice:</strong> Civic nationalism welcomes constructive criticism as a way to improve the nation, whereas aggressive hyper-nationalism silences dissent and treats minorities with suspicion.</li><li><strong>Ernest Renan\'s "Daily Plebiscite":</strong> Renan famously described a nation as a soul and spiritual principle sustained by shared memories of sacrifice and a continuing daily willingness to live together as one political community.</li></ul>'
             ]
           }
         ],
@@ -203,7 +203,7 @@ export const predictivePaper = {
               '<li><strong>Preamble Fraternity:</strong> India balances individual dignity with collective brotherhood through the constitutional ideal of Fraternity.</li>' +
               '<li><strong>Community Cultural Rights:</strong> Articles 29 and 30 recognize collective educational and cultural rights of minority groups, proving identity is tied to community.</li>' +
               '<li><strong>Fundamental Duties:</strong> Article 51A reminds citizens of shared moral duties toward national harmony, heritage, and the environment.</li>' +
-              '</ul>'
+              '<li><strong>Practical Indian Example:</strong> While an individual citizen enjoys personal freedom to choose any profession or faith (libertarian protection under Articles 19 and 25), reservation policies, minority educational rights (Article 30), and Fundamental Duties (Article 51A) reflect communitarian responsibility toward marginalized groups and society.</li><li><strong>Balancing Both Extremes:</strong> Pure individualism ignores how families and public schools shape every citizen\'s success, while extreme communitarianism must be checked by Fundamental Rights so traditional groups cannot oppress individuals.</li><li><strong>Practical Indian Example:</strong> While an individual citizen enjoys personal freedom to choose any profession or faith (libertarian protection under Articles 19 and 25), reservation policies, minority educational rights (Article 30), and Fundamental Duties (Article 51A) reflect communitarian responsibility toward marginalized groups and society.</li></ul>'
             ]
           }
         ],
@@ -249,7 +249,7 @@ export const predictivePaper = {
               '<li><strong>Domestic Violence Act, 2005:</strong> Brought constitutional protection inside private households, recognizing physical, emotional, and economic abuse as punishable violations of human rights.</li>' +
               '<li><strong>Joseph Shine v. UOI (2018):</strong> Struck down colonial adultery law (Section 497 IPC), confirming that women\'s bodily autonomy and dignity under Articles 14 and 21 apply inside marriage.</li>' +
               '<li><strong>Workplace & Public Laws:</strong> Reinforced legal protections against sexual harassment and gender discrimination across both private and public spheres.</li>' +
-              '</ul>'
+              '<li><strong>Real-World Legal Impact in India:</strong> Laws like the Dowry Prohibition Act, 1961, the Maternity Benefit Act, the POSH Act (2013) against workplace harassment, and the Domestic Violence Act (2005) prove that constitutional equality must enter both the home and the workplace.</li><li><strong>Why All Three Feminist Streams Matter:</strong> Liberal feminism opened schools, courts, and Parliament to women; Radical feminism exposed hidden domestic power and patriarchy; and Intersectional feminism ensured Dalit, tribal, and working-class women are not left behind.</li></ul>'
             ]
           }
         ],
@@ -307,7 +307,7 @@ export const predictivePaper = {
               '<ul>' +
               '<li><strong>Combining Both Models:</strong> While procedural democracy works through Parliament and State Assembly elections, deliberative democracy thrives at the local level.</li>' +
               '<li><strong>Gram Sabha Example:</strong> Under Article 243A of the Indian Constitution, all adult villagers meet face-to-face in the Gram Sabha to debate village development plans, review budgets, and select welfare beneficiaries through open discussion.</li>' +
-              '</ul>'
+              '<li><strong>Real-World Indian Example of Deliberative & Participatory Democracy:</strong> Village Gram Sabhas (Article 243A), Parliamentary Standing Committees, and public consultations on draft bills bring citizens and diverse viewpoints directly into lawmaking before final votes.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li></ul>'
             ]
           }
         ],
@@ -383,7 +383,7 @@ export const predictivePaper = {
               '<li><strong>Shift to Natural Justice — Maneka Gandhi (1978):</strong> The Court reversed course, ruling that any law taking away life or liberty must be "just, fair, and reasonable," bringing natural law fairness into Article 21.</li>' +
               '<li><strong>Basic Structure — Kesavananda Bharati (1973):</strong> Held that core Fundamental Rights form part of the Basic Structure that Parliament cannot destroy even via constitutional amendments.</li>' +
               '<li><strong>Inherent Human Dignity — K.S. Puttaswamy (2017):</strong> A 9-judge bench affirmed that privacy is an inalienable natural right inherent in human dignity that the Constitution merely recognizes and enforces.</li>' +
-              '</ul>'
+              '<li><strong>Why Citizens Cannot Surrender Natural Rights:</strong> Locke insisted that because human beings did not create their own lives, they cannot hand over absolute power over their life or liberty to any king—meaning unlimited monarchy is always illegitimate.</li><li><strong>Practical Example in Constitutional Law:</strong> Just as Locke argued government is a trustee, judicial review under Articles 32 and 226 allows Indian courts to strike down any statute that violates core human dignity.</li><li><strong>How Theories Complement Each Other:</strong> Natural Rights theory provides the moral standard to judge unjust laws, Legal theory supplies court remedies (like writs under Article 32), and Social Welfare theory ensures individual rights never harm public health or community peace.</li><li><strong>Evolution of New Rights in India:</strong> Over recent decades, the Supreme Court has expanded Article 21 to cover clean air, free legal aid, shelter, education (Article 21A), and digital privacy—proving that rights grow with society\'s needs.</li></ul>'
             ]
           }
         ],
@@ -441,7 +441,7 @@ export const predictivePaper = {
               '<li><strong>Charismatic Appeal in Elections:</strong> Voters frequently place immense personal trust in charismatic national and regional leaders during general elections.</li>' +
               '<li><strong>Traditional Influence:</strong> Customary elders and community norms continue to exercise traditional influence in local social life.</li>' +
               '<li><strong>Media\'s 3rd-Dimension Power:</strong> Modern television networks and social media algorithms actively exercise preference-shaping power by framing public opinion and political narratives.</li>' +
-              '</ul>'
+              '<li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li><li><strong>Why Democracies Survive Crises:</strong> Because democratic governments renew legitimacy through free elections, independent courts, and a free press, citizens accept tough policies during wars or pandemics far more willingly than under dictatorships.</li><li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li><li><strong>Why Democracies Survive Crises:</strong> Because democratic governments renew legitimacy through free elections, independent courts, and a free press, citizens accept tough policies during wars or pandemics far more willingly than under dictatorships.</li></ul>'
             ]
           }
         ],
@@ -499,7 +499,7 @@ export const predictivePaper = {
               '<li><strong>Global Populism:</strong> Economic strain and widening inequality worldwide have fueled populist movements questioning established democratic institutions.</li>' +
               '<li><strong>India\'s Balancing Act:</strong> India constantly balances industrial investment and market reforms with large welfare guarantees—such as food security, rural employment (MGNREGA), and direct income support.</li>' +
               '<li><strong>Solution:</strong> Enduring public trust requires transparent governance where economic growth visibly improves ordinary citizens\' daily lives.</li>' +
-              '</ul>'
+              '<li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li><li><strong>Why Democracies Survive Crises:</strong> Because democratic governments renew legitimacy through free elections, independent courts, and a free press, citizens accept tough policies during wars or pandemics far more willingly than under dictatorships.</li><li><strong>Practical Distinction Example:</strong> An armed robber holding a gun has raw <em>power</em> to take money, whereas a traffic police officer issuing a fine under the Motor Vehicles Act exercises lawful <em>authority</em> backed by public <em>legitimacy</em>.</li></ul>'
             ]
           }
         ],
@@ -555,7 +555,7 @@ export const predictivePaper = {
               '<li><strong>Ethno-Symbolist Dimension:</strong> Long before British rule, India shared a deep civilizational consciousness through common epics, philosophical traditions, and sacred geography.</li>' +
               '<li><strong>Modernist Dimension:</strong> Political unity as a single sovereign nation-state was forged during the anti-colonial struggle using railways, vernacular newspapers, unified administration, and Mahatma Gandhi\'s mass movements.</li>' +
               '<li><strong>Tagore\'s Moral Critique:</strong> Rabindranath Tagore warned against aggressive, power-hungry Western nationalism, urging that patriotism must serve universal human values—shaping India\'s secular, inclusive Constitution.</li>' +
-              '</ul>'
+              '<li><strong>Unity in Diversity (Indian Illustration):</strong> Despite 22 official languages and multiple faiths, India\'s shared anti-colonial struggle, national symbols, and constitutional guarantee of equal citizenship forge a strong civic nationhood without erasing regional cultures.</li><li><strong>Civic vs. Aggressive Nationalism in Practice:</strong> Civic nationalism welcomes constructive criticism as a way to improve the nation, whereas aggressive hyper-nationalism silences dissent and treats minorities with suspicion.</li><li><strong>Ernest Renan\'s "Daily Plebiscite":</strong> Renan famously described a nation as a soul and spiritual principle sustained by shared memories of sacrifice and a continuing daily willingness to live together as one political community.</li><li><strong>Benedict Anderson\'s "Imagined Communities":</strong> Modern print media, railways, and shared public debates allowed millions of strangers who will never meet each other to imagine themselves as fellow members of a single nation.</li><li><strong>Nation vs. State Distinction:</strong> A <em>State</em> is a legal-political entity with territory, population, government, and sovereignty (like India), whereas a <em>Nation</em> is a cultural-psychological community bound by shared identity; multinational states unite several cultural groups under one constitution.</li><li><strong>Tagore\'s Ethical Warning:</strong> Rabindranath Tagore cautioned against blind worship of the nation-state, urging patriotism to stay rooted in universal humanism, moral conscience, and mutual respect among all peoples.</li></ul>'
             ]
           }
         ],
@@ -617,7 +617,7 @@ export const predictivePaper = {
               '<li><strong>Communitarian Welfare (Part IV):</strong> Directive Principles obligate the state to direct resources for the common good (Article 39(b)) and prevent wealth concentration (Article 39(c)).</li>' +
               '<li><strong>Civic Responsibilities (Part IVA):</strong> Article 51A lists Fundamental Duties reminding citizens of their obligations to society and nature.</li>' +
               '<li><strong>Minerva Mills v. UOI (1980):</strong> The Supreme Court held that Fundamental Rights and Directive Principles are like the two wheels of a chariot—neither can dominate without destroying constitutional harmony.</li>' +
-              '</ul>'
+              '<li><strong>Practical Indian Example:</strong> While an individual citizen enjoys personal freedom to choose any profession or faith (libertarian protection under Articles 19 and 25), reservation policies, minority educational rights (Article 30), and Fundamental Duties (Article 51A) reflect communitarian responsibility toward marginalized groups and society.</li><li><strong>Balancing Both Extremes:</strong> Pure individualism ignores how families and public schools shape every citizen\'s success, while extreme communitarianism must be checked by Fundamental Rights so traditional groups cannot oppress individuals.</li><li><strong>Practical Indian Example:</strong> While an individual citizen enjoys personal freedom to choose any profession or faith (libertarian protection under Articles 19 and 25), reservation policies, minority educational rights (Article 30), and Fundamental Duties (Article 51A) reflect communitarian responsibility toward marginalized groups and society.</li><li><strong>Balancing Both Extremes:</strong> Pure individualism ignores how families and public schools shape every citizen\'s success, while extreme communitarianism must be checked by Fundamental Rights so traditional groups cannot oppress individuals.</li></ul>'
             ]
           }
         ],
@@ -675,7 +675,7 @@ export const predictivePaper = {
               '<li><strong>Overlapping Oppressions:</strong> Intersectional feminism shows that women do not suffer equally—gender intersects with class, race, religion, and caste. In India, Dalit feminism highlights the combined burden of caste, poverty, and gender violence.</li>' +
               '<li><strong>Indian Constitutional Safeguards:</strong> Article 14 guarantees equality, Article 15(1) bans sex discrimination, and Article 15(3) allows special affirmative laws for women.</li>' +
               '<li><strong>Political Reservations:</strong> The 73rd/74th Amendments reserved local panchayat/municipal seats, and the <strong>106th Constitutional Amendment Act, 2023</strong> enacted 33% reservation for women in the Lok Sabha and State Assemblies.</li>' +
-              '</ul>'
+              '<li><strong>Real-World Legal Impact in India:</strong> Laws like the Dowry Prohibition Act, 1961, the Maternity Benefit Act, the POSH Act (2013) against workplace harassment, and the Domestic Violence Act (2005) prove that constitutional equality must enter both the home and the workplace.</li><li><strong>Why All Three Feminist Streams Matter:</strong> Liberal feminism opened schools, courts, and Parliament to women; Radical feminism exposed hidden domestic power and patriarchy; and Intersectional feminism ensured Dalit, tribal, and working-class women are not left behind.</li><li><strong>Real-World Legal Impact in India:</strong> Laws like the Dowry Prohibition Act, 1961, the Maternity Benefit Act, the POSH Act (2013) against workplace harassment, and the Domestic Violence Act (2005) prove that constitutional equality must enter both the home and the workplace.</li><li><strong>Unpaid Care Work & Economic Justice:</strong> Feminist economists highlight that women\'s unpaid housework, childcare, and eldercare sustain the entire formal economy, yet remain invisible in GDP statistics and pension schemes.</li><li><strong>Three Waves in Brief:</strong> The First Wave (19th–early 20th century) won voting and property rights; the Second Wave (1960s–80s) challenged workplace, reproductive, and family inequality; the Third/Fourth Waves focus on intersectionality, LGBTQ+ inclusion, and digital safety.</li></ul>'
             ]
           }
         ],
@@ -745,7 +745,7 @@ export const predictivePaper = {
               '<li><strong>Nehruvian Mixed Economy:</strong> After independence, India assigned core infrastructure and heavy industries to the public sector while allowing private enterprise in consumer markets.</li>' +
               '<li><strong>Preamble & 42nd Amendment:</strong> Formally declared India a "Socialist" democratic republic.</li>' +
               '<li><strong>Directive Principles (Articles 38 & 39):</strong> Direct the state to reduce income inequality and ensure material resources serve the common good.</li>' +
-              '</ul>'
+              '<li><strong>Real-World Mixed Economy Lesson:</strong> Pure command economies suffered bureaucracy and shortages, while unregulated capitalism caused the 1929 Great Depression and 2008 financial crash—showing why modern democracies combine private enterprise with strong labour laws, public healthcare, and progressive taxes.</li><li><strong>Indian Constitutional Balance:</strong> Even after India\'s 1991 economic liberalization opened markets to private competition, constitutional welfare laws like MGNREGA, the National Food Security Act, and Right to Education uphold socialist social justice.</li><li><strong>Real-World Mixed Economy Lesson:</strong> Pure command economies suffered bureaucracy and shortages, while unregulated capitalism caused the 1929 Great Depression and 2008 financial crash—showing why modern democracies combine private enterprise with strong labour laws, public healthcare, and progressive taxes.</li></ul>'
             ]
           }
         ],
@@ -818,7 +818,7 @@ export const predictivePaper = {
               '<li><strong>Use Constitutional Methods Only:</strong> Abandon unconstitutional agitation and violence, which Ambedkar called "the grammar of anarchy".</li>' +
               '<li><strong>Avoid Hero-Worship (Bhakti):</strong> Blindly surrendering judgment to any single leader leads straight to dictatorship.</li>' +
               '<li><strong>Build Social & Economic Democracy:</strong> Political equality (one person, one vote) will collapse unless caste and economic inequalities are removed.</li>' +
-              '</ul>'
+              '<li><strong>Real-World Indian Example of Deliberative & Participatory Democracy:</strong> Village Gram Sabhas (Article 243A), Parliamentary Standing Committees, and public consultations on draft bills bring citizens and diverse viewpoints directly into lawmaking before final votes.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li><li><strong>Why Eternal Vigilance Matters:</strong> Elections alone do not guarantee democracy; citizens must protect press freedom, independent courts, and minority rights every day so majority rule never turns into majority tyranny.</li><li><strong>Procedural vs. Substantive Democracy:</strong> Procedural democracy focuses on free elections, secret ballots, and peaceful transfers of power, while substantive democracy asks whether poor, minority, and marginalized citizens actually enjoy equal voice and dignity.</li><li><strong>Habermas\'s Ideal Speech Situation:</strong> Jürgen Habermas argued democratic legitimacy grows when citizens debate public issues freely in the public sphere—using reason and evidence rather than money, status, or propaganda.</li></ul>'
             ]
           }
         ],
