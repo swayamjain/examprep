@@ -39,12 +39,28 @@ console.log('      POLITICAL SCIENCE - III WORD COUNT AUDIT REPORT          ');
 console.log('===============================================================');
 
 let totalQuestions = 0;
+let passedQuestions = 0;
+let warningQuestions = 0;
+
 for (const p of papers) {
   console.log(`\n--- ${p.name} (${p.data.questions.length} Questions) ---`);
   for (const q of p.data.questions) {
     totalQuestions++;
+    const marks = q.marks || 10;
     const words = calculateQuestionWords(q);
-    console.log(`${q.qNum} (${q.marks}M): ${words} words - ${q.question.slice(0, 55)}...`);
+    const minWords = marks === 5 ? 450 : 950;
+    const maxWords = marks === 5 ? 650 : 1200;
+    const isPass = words >= minWords && words <= maxWords;
+    const status = isPass ? 'PASS' : (words < minWords ? 'UNDER' : 'OVER');
+    if (isPass) passedQuestions++;
+    else warningQuestions++;
+    const badge = isPass ? '✅' : '⚠️';
+    console.log(`${badge} [${status.padEnd(5)}] ${q.qNum.padEnd(8)} (${marks}M): ${words} words (Target: ${minWords}-${maxWords}) - ${q.question.slice(0, 45)}...`);
   }
 }
-console.log(`\nTotal Questions: ${totalQuestions}`);
+console.log('\n===============================================================');
+console.log(`SUMMARY: ${passedQuestions}/${totalQuestions} Passed Target Range.`);
+if (warningQuestions > 0) {
+  console.log(`⚠️  ${warningQuestions} questions deviated from the target range.`);
+}
+console.log('===============================================================');
