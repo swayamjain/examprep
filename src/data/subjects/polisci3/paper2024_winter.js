@@ -1,5 +1,6 @@
 // Previous Year Question Paper 3 (SKR/KW/24/11496) - Winter 2024
 // Subject: Political Science - III (Core Course 3.2 - B.A. LL.B. Sem III - CBCS NEP)
+// Meaningful content-revealing headings & structured bullet-point format
 // Curated by Swayam Jain
 
 export const paper2024_winter = {
@@ -14,31 +15,32 @@ export const paper2024_winter = {
       marks: 5,
       question: "Short Note: Essential Features of Democracy.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit VI Foundational Concept"
-        },
-        {
-          type: "yield",
-          label: "⚡ High Yield Theme"
-        }
+        { type: "repeat", label: "🔥 Unit VI Foundational Concept" },
+        { type: "yield", label: "⚡ High Yield Theme" }
       ],
       answer: {
         statutoryFramework: "Abraham Lincoln; Dr. B.R. Ambedkar; Articles 325–326 of the Constitution of India; Universal Declaration of Human Rights.",
         sections: [
           {
-            heading: "1. Meaning and Concept of Democracy",
+            heading: "1. Meaning of Democracy: Demos + Kratos & Lincoln's Definition",
             paragraphs: [
-              "Democracy originates from the Greek words demos (people) and kratos (power or rule), signifying a constitutional system of governance where sovereign political authority belongs to the people. In the celebrated words of Abraham Lincoln, democracy is government of the people, by the people, and for the people.",
-              "In modern political science, democracy is understood not merely as a procedure for counting votes, but as an ethical and constitutional architecture dedicated to protecting human dignity, individual freedom, and the rule of law."
+              "<ul>" +
+              "<li><strong>Etymology:</strong> From Greek <em>demos</em> (people) and <em>kratos</em> (rule/power)—meaning government where sovereign authority rests with the people.</li>" +
+              "<li><strong>Abraham Lincoln:</strong> \"Government of the people, by the people, for the people.\"</li>" +
+              "<li><strong>More Than Voting:</strong> Not merely counting ballots, but an ethical and constitutional system protecting human dignity, equality, and the rule of law.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Essential Features of Modern Democracy",
+            heading: "2. Five Essential Features: Sovereignty, Elections, Rule of Law, Rights & Social Democracy",
             paragraphs: [
-              "Modern constitutional democracy is anchored in several essential principles. First, popular sovereignty dictates that the ultimate source of all political power resides in the people, meaning rulers govern solely with the consent of the governed. Second, this authority is renewed through periodic, free, and competitive elections conducted under universal adult franchise with secret balloting.",
-              "Third, constitutional supremacy and the rule of law ensure that public power is limited by written constitutional provisions, separation of powers, and judicial review, guaranteeing that no official is above the law. Fourth, entrenched fundamental rights protect civil liberties—such as freedom of speech, assembly, and belief—safeguarding political and religious minorities against majoritarian overreach.",
-              "Finally, Dr. B.R. Ambedkar emphasized that political democracy cannot endure unless it is built upon social democracy—a way of life that recognizes liberty, equality, and fraternity as inseparable principles, ensuring that formal voting equality is backed by real social justice."
+              "<ul>" +
+              "<li><strong>1. Popular Sovereignty:</strong> Ultimate political power belongs to the people; rulers govern solely by consent.</li>" +
+              "<li><strong>2. Free, Fair & Periodic Elections:</strong> Conducted under universal adult franchise (Article 326) and secret ballot.</li>" +
+              "<li><strong>3. Rule of Law & Constitutional Supremacy:</strong> Power is checked by written constitutional limits, separation of powers, and judicial review—no ruler is above the law.</li>" +
+              "<li><strong>4. Fundamental Civil Liberties:</strong> Free speech, assembly, and belief protect minorities from majoritarian abuse.</li>" +
+              "<li><strong>5. Social Democracy (Dr. B.R. Ambedkar):</strong> Political voting equality must rest on liberty, equality, and fraternity in everyday social life.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -52,26 +54,30 @@ export const paper2024_winter = {
       marks: 5,
       question: "Short Note: Classical Liberalism.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit V Core Ideology"
-        }
+        { type: "repeat", label: "🔥 Unit V Core Ideology" }
       ],
       answer: {
         statutoryFramework: "John Locke (Second Treatise of Civil Government); Adam Smith (The Wealth of Nations); John Stuart Mill (On Liberty).",
         sections: [
           {
-            heading: "1. Historical Genesis and Concept",
+            heading: "1. Origin & Core Idea: Challenging Kings with Natural Rights & Social Contract (Locke)",
             paragraphs: [
-              "Classical Liberalism developed in Western Europe during the 17th and 18th centuries as an intellectual and political challenge against monarchical absolutism, feudal privileges, and religious dogmatism. It championed individual autonomy, constitutional government, the rule of law, and free market exchange.",
-              "Its foundational philosophy was articulated by John Locke, who argued that individuals possess inalienable natural rights to life, liberty, and estate (property) prior to the establishment of any government. Government is created as a fiduciary trust through a social contract solely to protect these pre-existing rights, and citizens retain the moral right to resist if the state violates this trust."
+              "<ul>" +
+              "<li><strong>17th–18th Century Revolt:</strong> Emerged in Europe against absolute monarchy, feudal privileges, and religious intolerance.</li>" +
+              "<li><strong>John Locke's Foundation:</strong> Argued humans possess inalienable natural rights—Life, Liberty, and Property—before any government existed.</li>" +
+              "<li><strong>Government as Trust:</strong> Created via social contract solely to protect these rights; citizens may resist if rulers betray that trust.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Core Principles of Classical Liberalism",
+            heading: "2. Four Core Pillars: Autonomy, Negative Liberty, Harm Principle (Mill) & Laissez-Faire (Smith)",
             paragraphs: [
-              "Classical liberalism rests on several key pillars. It champions individual autonomy, viewing the individual as an independent moral agent whose liberties must be protected from collective coercion. It defines freedom primarily in terms of negative liberty—the absence of external state restraint in personal choices.",
-              "In On Liberty, John Stuart Mill articulated the Harm Principle, asserting that the only justification for state interference in an individual's liberty is to prevent harm to others; in purely personal matters, the individual is sovereign. Economically, classical liberalism advocates laissez-faire capitalism, drawing on Adam Smith's insight that competitive markets guided by an invisible hand allocate resources efficiently, requiring only a minimal state restricted to defense, policing, and contract enforcement."
+              "<ul>" +
+              "<li><strong>Individual Autonomy:</strong> Places the individual at the center, protecting personal choice from state coercion.</li>" +
+              "<li><strong>Negative Liberty:</strong> Defines freedom as absence of state interference in private life.</li>" +
+              "<li><strong>J.S. Mill's Harm Principle (On Liberty):</strong> The state may restrict an individual only to prevent harm to others; over one's own mind and body, the individual is sovereign.</li>" +
+              "<li><strong>Laissez-Faire Free Market (Adam Smith):</strong> Guided by the \"invisible hand\" of competition, needing only a minimal \"night-watchman\" state (defence, police, contracts).</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -85,25 +91,30 @@ export const paper2024_winter = {
       marks: 5,
       question: "Short Note: Methods of acquiring Citizenship of India.",
       flairs: [
-        {
-          type: "yield",
-          label: "⚡ Unit IV Statutory Law Focus"
-        }
+        { type: "yield", label: "⚡ Unit IV Statutory Law Focus" }
       ],
       answer: {
         statutoryFramework: "The Citizenship Act, 1955; Part II (Articles 5–11) of the Constitution of India.",
         sections: [
           {
-            heading: "1. Constitutional and Statutory Framework",
+            heading: "1. Constitutional Basis: Articles 5–11 & The Citizenship Act, 1955",
             paragraphs: [
-              "While Articles 5 to 10 of the Indian Constitution determined citizenship at the commencement of the Republic on 26 January 1950, Article 11 empowered Parliament to legislate comprehensively on the acquisition and termination of citizenship. Exercising this power, Parliament enacted The Citizenship Act, 1955, which provides the detailed legal framework for Indian nationality."
+              "<ul>" +
+              "<li><strong>Commencement Rules (Articles 5–10):</strong> Decided who became an Indian citizen on 26 January 1950.</li>" +
+              "<li><strong>Parliament's Power (Article 11):</strong> Empowered Parliament to make laws on acquiring and losing citizenship, leading to <strong>The Citizenship Act, 1955</strong>.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Five Statutory Modes of Acquiring Citizenship",
+            heading: "2. Five Statutory Methods: Birth, Descent, Registration, Naturalization & Territory",
             paragraphs: [
-              "Under the Citizenship Act, 1955, an individual can acquire Indian citizenship through five specific legal methods. First, Citizenship by Birth is granted based on birth on Indian soil, subject to statutory conditions ensuring that neither parent is an illegal migrant. Second, Citizenship by Descent allows a person born outside India to acquire citizenship if either parent was an Indian citizen at the time of birth, accompanied by timely registration at an Indian consulate.",
-              "Third, Citizenship by Registration allows persons of Indian origin, individuals married to Indian citizens, and minor children of citizens to apply for registration after fulfilling statutory residency requirements. Fourth, Citizenship by Naturalization permits a foreign citizen who is not an illegal migrant, has resided in India for the specified period, possesses good moral character, and knows an Eighth Schedule language to be granted citizenship. Fifth, Citizenship by Incorporation of Territory applies when foreign territory becomes part of India (such as Goa or Sikkim), empowering the Central Government to specify the persons of that territory who become Indian citizens."
+              "<ul>" +
+              "<li><strong>1. By Birth:</strong> Granted to persons born on Indian soil, subject to statutory conditions ensuring neither parent is an illegal migrant.</li>" +
+              "<li><strong>2. By Descent:</strong> For children born outside India if either parent was an Indian citizen at birth, registered within the prescribed time at an Indian consulate.</li>" +
+              "<li><strong>3. By Registration:</strong> Available to persons of Indian origin, spouses of Indian citizens, and minor children after meeting residency rules.</li>" +
+              "<li><strong>4. By Naturalization:</strong> Granted to eligible foreign residents (not illegal migrants) after long residence, good character, and knowledge of an Eighth Schedule language.</li>" +
+              "<li><strong>5. By Incorporation of Territory:</strong> When new territory joins India (e.g., Goa, Sikkim), the Central Government notifies which residents become Indian citizens.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -117,30 +128,33 @@ export const paper2024_winter = {
       marks: 5,
       question: "Short Note: Rise of Nationalism.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit III Historical Evolution"
-        }
+        { type: "repeat", label: "🔥 Unit III Historical Evolution" }
       ],
       answer: {
         statutoryFramework: "Ernest Renan; Mahatma Gandhi; Jawaharlal Nehru; Preamble to the Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Historical Emergence of Nationalism",
+            heading: "1. Historical Emergence: French Revolution (1789) & Sovereignty of the People",
             paragraphs: [
-              "Nationalism is the modern political principle and shared sentiment asserting that a cultural community of people (the nation) has the rightful claim to sovereign political self-determination and statehood. While human beings have always held emotional attachments to their native land, modern political nationalism developed during the 17th and 18th centuries in Europe.",
-              "The French Revolution of 1789 was the major catalyst that brought nationalism to global prominence. It transferred sovereign authority from absolute monarchs to the collective body of citizens, declaring that sovereignty resides essentially in the nation."
+              "<ul>" +
+              "<li><strong>Modern Principle:</strong> Nationalism asserts that a cultural community (the nation) has the rightful claim to sovereign self-rule.</li>" +
+              "<li><strong>17th–18th Century Europe:</strong> While local attachment is ancient, modern political nationalism rose in Europe during the 17th–18th centuries.</li>" +
+              "<li><strong>French Revolution (1789):</strong> Key turning point—transferred sovereignty from absolute kings to citizens, declaring sovereignty belongs to the nation.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Key Drivers Behind the Rise of Nationalism",
+            heading: "2. Three Key Drivers: Print Media & Education, Anti-Colonialism & Indian Freedom Struggle",
             paragraphs: [
-              "Historical and political forces combined to spread nationalism worldwide. The growth of mass education, unified languages, and print media—such as daily newspapers and vernacular books—allowed geographically dispersed populations to imagine themselves sharing a common national destiny.",
-              "In Asia and Africa during the 19th and 20th centuries, nationalism arose as an anti-colonial liberation movement against European imperial domination. In India, leaders like Mahatma Gandhi, Jawaharlal Nehru, and Sardar Patel mobilized millions of citizens across diverse regions, languages, and religions into a unified freedom struggle, establishing an inclusive, secular constitutional democracy."
+              "<ul>" +
+              "<li><strong>Print Media & Mass Education:</strong> Daily newspapers, books in local languages, and public schooling helped scattered people imagine a shared national identity.</li>" +
+              "<li><strong>Anti-Colonial Liberation (19th–20th Century):</strong> Across Asia and Africa, nationalism grew as a freedom struggle against European empires.</li>" +
+              "<li><strong>India's Inclusive Movement:</strong> Leaders like Gandhi, Nehru, and Patel united diverse regions, languages, and faiths into an inclusive, secular democratic republic.</li>" +
+              "</ul>"
             ]
           }
         ],
-        criticalAnalysis: 'While the rise of nationalism was the great engine of democratic self-determination, aggressive and chauvinistic expressions of nationalism caused significant international conflict, leading thinkers like Rabindranath Tagore to urge that patriotism must always respect universal human values.',
+        criticalAnalysis: "While the rise of nationalism was the great engine of democratic self-determination, aggressive and chauvinistic expressions of nationalism caused significant international conflict, leading thinkers like Rabindranath Tagore to urge that patriotism must always respect universal human values.",
         conclusion: "The rise of nationalism reshaped global history, establishing the nation-state as the primary foundation of the modern international order."
       }
     },
@@ -150,23 +164,23 @@ export const paper2024_winter = {
       marks: 5,
       question: "Short Note: Hard Power and Soft Power.",
       flairs: [
-        {
-          type: "yield",
-          label: "⚡ Unit II Contemporary International Relations"
-        }
+        { type: "yield", label: "⚡ Unit II Contemporary International Relations" }
       ],
       answer: {
         statutoryFramework: "Joseph S. Nye Jr. (Bound to Lead; Soft Power); International Relations Canon.",
         sections: [
           {
-            heading: "1. Meaning of Hard Power and Soft Power",
+            heading: "1. Meaning: Coercion (" + '"' + "Carrots & Sticks" + '"' + ") vs. Attraction & Persuasion (Joseph Nye)",
             paragraphs: [
-              "In contemporary political analysis and international relations, political scientist Joseph S. Nye Jr. introduced the classic distinction between Hard Power and Soft Power. Nye demonstrated that a nation cannot maintain global influence through military force alone, but must also possess cultural and diplomatic attraction.",
-              "Hard Power is direct, coercive power exercised through military strength, economic sanctions, and financial incentives—often described as the use of carrots and sticks to compel other nations to change their behavior. In contrast, Soft Power is the ability to obtain preferred outcomes through attraction and persuasion rather than coercion. It arises from a nation's cultural appeal, political values, democratic governance, and moral standing in international affairs."
+              "<ul>" +
+              "<li><strong>Joseph Nye's Distinction:</strong> Showed that global influence needs both military strength and cultural attraction.</li>" +
+              "<li><strong>Hard Power:</strong> Direct coercive force using armies, weapons, economic sanctions, and financial rewards (" + '"' + "carrots and sticks" + '"' + ") to force compliance.</li>" +
+              "<li><strong>Soft Power:</strong> Ability to win desired outcomes through attraction and persuasion—via culture, democratic values, diplomacy, and moral standing.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Comparison and Smart Power",
+            heading: "2. Comparison Table & Smart Power (+ India's Soft Power)",
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
@@ -184,7 +198,10 @@ export const paper2024_winter = {
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Expensive to maintain; often provokes hostility.</td>' +
               '<td style="padding:8px; border:1px solid rgba(255,255,255,0.1);">Durable and cost-effective; builds voluntary goodwill.</td></tr>' +
               '</tbody></table>',
-              "In modern diplomacy, thinkers advocate for Smart Power—the strategic combination of credible military and economic deterrence with soft cultural appeal and diplomatic leadership. India exercises significant soft power globally through its civilizational heritage, democratic constitution, philosophical traditions of peace and non-violence, and active cultural diplomacy."
+              "<ul>" +
+              "<li><strong>Smart Power:</strong> Strategic blend of strong defence/economic deterrence with soft cultural diplomacy.</li>" +
+              "<li><strong>India's Soft Power:</strong> Ancient civilizational heritage, yoga, cinema, democratic Constitution, and non-violent philosophy.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -198,26 +215,29 @@ export const paper2024_winter = {
       marks: 5,
       question: "Short Note: Human Rights.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit I Master Concept"
-        }
+        { type: "repeat", label: "🔥 Unit I Master Concept" }
       ],
       answer: {
         statutoryFramework: "Universal Declaration of Human Rights (UDHR, 1948); Protection of Human Rights Act, 1993; Part III of the Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Universal Character of Human Rights",
+            heading: "1. Meaning & Universal Character: Birthrights of Every Human (UDHR 1948)",
             paragraphs: [
-              "Human rights are the fundamental, universal, and inalienable entitlements that belong to every human being from birth, simply by virtue of being human, regardless of race, gender, religion, language, or nationality. They are not privileges granted by governments, but inherent moral entitlements necessary for an individual to live a life of freedom, equality, and dignity.",
-              "Adopted by the United Nations General Assembly on 10 December 1948 in the aftermath of World War II, the Universal Declaration of Human Rights (UDHR) established the first comprehensive global standard for fundamental human rights, proclaiming that all human beings are born free and equal in dignity and rights."
+              "<ul>" +
+              "<li><strong>Inherent Birthrights:</strong> Fundamental, universal, and inalienable entitlements belonging to every human simply by being born—regardless of race, sex, religion, or nationality.</li>" +
+              "<li><strong>Not Government Favours:</strong> Governments do not gift human rights; they are bound to recognize and protect them.</li>" +
+              "<li><strong>UDHR (10 Dec 1948):</strong> Adopted by the UN after WWII, proclaiming that all human beings are born free and equal in dignity and rights.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Dimensions and Indian Constitutional Protection",
+            heading: "2. Two Dimensions (Civil-Political & Socio-Economic) + Indian Protection (NHRC & Art. 21)",
             paragraphs: [
-              "Human rights encompass civil and political rights (such as the right to life, freedom of expression, and fair trial), which protect individuals against arbitrary state oppression, alongside socio-economic and cultural rights (such as the right to work, education, healthcare, and adequate living standards), which ensure the material conditions needed for human flourishing.",
-              "In India, human rights are legally protected through the Protection of Human Rights Act, 1993, which established the National Human Rights Commission. Furthermore, the Supreme Court of India has expanded Article 21 (Right to Life and Personal Liberty) to encompass vital human rights, holding that the right to life means living with human dignity, including access to clean environment, healthcare, shelter, and speedy justice."
+              "<ul>" +
+              "<li><strong>Civil & Political Rights:</strong> Life, free speech, and fair trial—shielding individuals from state tyranny.</li>" +
+              "<li><strong>Socio-Economic & Cultural Rights:</strong> Work, education, healthcare, and decent living standards.</li>" +
+              "<li><strong>Indian Safeguards:</strong> The <strong>Protection of Human Rights Act, 1993</strong> created the NHRC, while Supreme Court rulings expanded <strong>Article 21</strong> to include dignity, clean environment, healthcare, shelter, and speedy justice.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -231,45 +251,50 @@ export const paper2024_winter = {
       marks: 10,
       question: "Elaborate the historical development of Democracy.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit VI Master Essay"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit VI Master Essay" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "John Locke; Jean-Jacques Rousseau; Montesquieu; Dr. B.R. Ambedkar; Amartya Sen; Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Scope of Democratic Development",
+            heading: "1. Meaning & Two-Thousand-Year Journey Toward Self-Rule",
             paragraphs: [
-              "Democracy, originating from the Greek words demos (people) and kratos (rule), signifies government based on the consent of the governed, where sovereign political power belongs to the people. While recognized today as the universal standard for legitimate governance, democracy did not emerge fully formed; it is the hard-won product of over two thousand years of philosophical development, revolutions against absolutism, working-class struggles, and constitutional experiments."
+              "<ul>" +
+              "<li><strong>Meaning (Demos + Kratos):</strong> Government based on the consent of the governed, where sovereign authority belongs to the people.</li>" +
+              "<li><strong>Gradual Evolution:</strong> Evolved over 2,000+ years through philosophical battles, revolutions against kings, workers' struggles, and constitutional reforms.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Historical Epochs of Democratic Growth",
+            heading: "2. Four Historical Epochs: Classical Athens → England (1215/1689) → Enlightenment → Universal Suffrage",
             paragraphs: [
-              "The historical development of democracy spans several major epochs. In ancient classical Athens during the 5th century BCE, direct democracy was first practiced as citizens assembled in public meetings (Ecclesia) to debate and vote on laws, though women, slaves, and resident foreigners were excluded from political participation. The Roman Republic introduced constitutional checks and balances and the legal concept of citizenship.",
-              "During the Middle Ages in England, royal absolutism was gradually curbed through constitutional landmarks. The Magna Carta of 1215 established that the monarch is subject to the law of the land, and the Glorious Revolution of 1689 established parliamentary supremacy and regular elections through the English Bill of Rights.",
-              "The Enlightenment era of the 17th and 18th centuries provided modern democracy with its core philosophical principles. John Locke articulated the doctrine of government by consent and inalienable natural rights; Jean-Jacques Rousseau championed popular sovereignty and the general will; and Montesquieu formulated the separation of powers among the legislative, executive, and judicial branches to prevent despotism. These ideas inspired the American Revolution of 1776 and the French Revolution of 1789 with its call for liberty, equality, and fraternity.",
-              "During the 19th and early 20th centuries, democratic rights expanded through widespread working-class and suffragette movements, extending voting rights to workers and women. Following World War II, decolonization brought democratic self-governance to newly independent nations across Asia and Africa."
+              "<ul>" +
+              "<li><strong>1. Classical Athens & Rome:</strong> 5th-century BCE Athens practiced direct assembly voting (<em>Ecclesia</em>), though excluding women and slaves; Rome added checks, balances, and legal citizenship.</li>" +
+              "<li><strong>2. Medieval English Milestones:</strong> <em>Magna Carta (1215)</em> placed the king under law; the <em>Glorious Revolution & Bill of Rights (1689)</em> established parliamentary supremacy.</li>" +
+              "<li><strong>3. Enlightenment & Revolutions (17th–18th Century):</strong> Locke (consent, natural rights), Rousseau (popular sovereignty), and Montesquieu (separation of powers) inspired the American (1776) and French (1789) Revolutions.</li>" +
+              "<li><strong>4. 19th–20th Century Expansion:</strong> Workers' and women's suffrage movements won universal adult voting; post-WWII decolonization spread democracy across Asia and Africa.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "3. The Indian Democratic Milestone",
+            heading: "3. India's 1950 Constitutional Milestone (Universal Suffrage Under Dr. Ambedkar)",
             paragraphs: [
-              "The founding of the Indian constitutional republic on 26 January 1950 stands as a world-historical milestone in the evolution of democracy. India granted immediate universal adult franchise to all adult citizens regardless of literacy, gender, caste, or wealth, disproving the colonial assumption that democracy was suited only to wealthy and educated societies.",
-              "Dr. B.R. Ambedkar guided the framing of a Constitution that coupled political democracy with institutional safeguards for social equality, ensuring that the world's most diverse society established the world's largest constitutional democracy."
+              "<ul>" +
+              "<li><strong>Bold Leap (26 Jan 1950):</strong> India granted immediate universal adult voting regardless of literacy, gender, caste, or wealth—disproving colonial claims that poor nations could not run democracy.</li>" +
+              "<li><strong>Ambedkar's Design:</strong> Paired political democracy with social equality safeguards to sustain the world's largest constitutional democracy.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "4. Contemporary Significance and Sen's Universal Value",
+            heading: "4. Amartya Sen's Three Values of Democracy & India's Basic Structure",
             paragraphs: [
-              "In contemporary political philosophy, Nobel laureate Amartya Sen demonstrated that democracy has become a universal value. Sen showed that democracy possesses intrinsic value by enabling self-determination, instrumental value by making leaders accountable to public needs (demonstrating that major famines do not occur in independent democracies with a free press), and constructive value by fostering open public discussion to understand social challenges.",
-              "In India, the Supreme Court in Kesavananda Bharati (1973) recognized democracy as an unalterable part of the basic structure of the Constitution, ensuring that democratic governance remains permanently protected."
+              "<ul>" +
+              "<li><strong>1. Intrinsic Value:</strong> Enables human freedom and self-determination.</li>" +
+              "<li><strong>2. Instrumental Value:</strong> Makes rulers accountable (Sen showed major famines do not happen in democracies with a free press).</li>" +
+              "<li><strong>3. Constructive Value:</strong> Public debate helps society understand and solve social problems.</li>" +
+              "<li><strong>Kesavananda Bharati (1973):</strong> Declared democracy an unalterable part of India's Basic Structure.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -283,43 +308,50 @@ export const paper2024_winter = {
       marks: 10,
       question: "Provide a critical analysis of the Capitalist Ideology.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit V Major Ideological Essay"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit V Major Ideological Essay" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "Adam Smith (The Wealth of Nations); Karl Marx (Das Kapital); Max Weber; Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Structure of Capitalism",
+            heading: "1. Meaning & Core Features of Capitalist Ideology",
             paragraphs: [
-              "Capitalism is an economic, social, and political ideology based on private ownership of the means of production, competitive market exchange, wage labor, and the allocation of goods and services through the price mechanism and profit motive. As an ideological system, it champions individual economic liberty, the protection of private property, consumer choice, and the belief that competitive markets generate dynamic wealth and innovation."
+              "<ul>" +
+              "<li><strong>Core Pillars:</strong> Private ownership of land and factories, competitive markets, wage labour, and profit-driven price mechanisms.</li>" +
+              "<li><strong>Ideological Values:</strong> Champions economic liberty, property rights, consumer choice, and market-led wealth creation.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Merits and Defenses of Capitalist Ideology",
+            heading: "2. Merits of Capitalism: Adam Smith's \"Invisible Hand\", Innovation & Dispersed Power",
             paragraphs: [
-              "Proponents of capitalism present several powerful arguments. In The Wealth of Nations (1776), Adam Smith explained that when individuals pursue their self-interest in a competitive market, they are guided by an invisible hand to produce the goods society needs far more efficiently than state planners could. Capitalism incentivizes technological innovation, increases productive capacity, and rewards entrepreneurial risk-taking.",
-              "Furthermore, defenders argue that dispersing economic ownership across private markets prevents the concentration of power within the state, serving as a material safeguard for individual freedom. Consumer sovereignty allows individuals to direct production through their purchasing choices, encouraging efficiency and product variety."
+              "<ul>" +
+              "<li><strong>Efficiency (Adam Smith, 1776):</strong> In <em>The Wealth of Nations</em>, self-interest in competitive markets acts like an \"invisible hand\" producing goods more efficiently than state planners.</li>" +
+              "<li><strong>Innovation & Growth:</strong> Rewards entrepreneurship, risk-taking, and rapid technological progress.</li>" +
+              "<li><strong>Consumer Sovereignty & Liberty:</strong> Buyers direct production through choices, and dispersing economic ownership prevents total state monopoly.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "3. Criticisms and Pathologies of Capitalism",
+            heading: "3. Five Major Criticisms: Surplus Value, Alienation, Inequality, Crises & Commodification",
             paragraphs: [
-              "Critics, particularly from the Marxist and socialist traditions, highlight deep contradictions within capitalism. Karl Marx showed that capitalist profits derive from surplus value extracted from workers whose wages represent only a fraction of the value they produce. In addition, industrial capitalism causes worker alienation, reducing labor from creative self-expression into repetitive, mechanized employment.",
-              "Unregulated capitalism also generates severe economic inequality, where wealth concentrates in corporate monopolies while many workers face precarious livelihoods. Free markets are prone to recurring boom-and-bust cycles, financial panics, and unemployment. Furthermore, the relentless pursuit of profit often commodifies essential social goods—such as healthcare and education—and externalizes environmental destruction, contributing to global ecological crises."
+              "<ul>" +
+              "<li><strong>1. Surplus Value Exploitation (Karl Marx):</strong> Capitalists extract profit by paying workers only a fraction of the value they produce.</li>" +
+              "<li><strong>2. Worker Alienation:</strong> Reduces creative human work into repetitive, mechanized drudgery.</li>" +
+              "<li><strong>3. Extreme Inequality & Monopolies:</strong> Concentrates wealth in giant corporations while leaving workers insecure.</li>" +
+              "<li><strong>4. Boom-and-Bust Crises:</strong> Unregulated markets suffer recurring recessions, financial crashes, and unemployment.</li>" +
+              "<li><strong>5. Commodification & Ecological Harm:</strong> Turns healthcare/education into profit goods and ignores environmental pollution.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "4. The Rise of the Welfare State and Democratic Regulation",
+            heading: "4. Rise of the Regulated Welfare State & India's Mixed Economy (Articles 38–39)",
             paragraphs: [
-              "The hardships of unregulated capitalism led modern democracies to adopt the Welfare State and Social Democracy. Rather than abolishing market enterprise, governments introduced regulatory oversight, progressive taxation, labor laws, minimum wages, and universal public services such as education and healthcare.",
-              "In India, the Constitution embraced a mixed economy framework under the Directive Principles (Articles 38 and 39), balancing private enterprise with public welfare mandates to prevent the harmful concentration of wealth."
+              "<ul>" +
+              "<li><strong>Social Democracy & Regulation:</strong> Modern democracies added progressive taxes, minimum wages, labour laws, and public healthcare/schools to tame market excesses.</li>" +
+              "<li><strong>India's Constitutional Balance:</strong> Directive Principles (Articles 38 & 39) balance private enterprise with public welfare mandates to prevent wealth concentration.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -333,37 +365,35 @@ export const paper2024_winter = {
       marks: 10,
       question: "Define Citizenship. Discuss prominent theories of Citizenship.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit IV Master Theoretical Question"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit IV Master Theoretical Question" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "Aristotle; T.H. Marshall; Robert Nozick; Michael Sandel; Part II (Articles 5–11) of the Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Concept of Citizenship",
+            heading: "1. Definition of Citizenship: Equal Membership, Rights & Reciprocal Duties",
             paragraphs: [
-              "Citizenship signifies full, equal, and permanent legal and political membership within a sovereign state. It forms the primary constitutional bond between the individual and the political community, conferring civil liberties, voting franchise, and socio-economic rights in exchange for civic loyalty, obedience to laws, and civic duties.",
-              "Citizenship transforms passive subjects into equal members of the political community, serving as the essential foundation for democratic participation and human dignity."
+              "<ul>" +
+              "<li><strong>Core Meaning:</strong> Full, equal, and permanent legal and political membership in a sovereign state.</li>" +
+              "<li><strong>Mutual Bond:</strong> Confers civil, political, and social rights in return for loyalty, obeying laws, and civic duties—turning passive subjects into equal partners.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Prominent Theories of Citizenship",
+            heading: "2. Five Prominent Theories of Citizenship (Marshall, Aristotle, Nozick, Sandel & Marx)",
             paragraphs: [
-              "Political philosophy offers several prominent models of citizenship. The Liberal Theory, articulated by sociologist T.H. Marshall, views citizenship as an evolving bundle of legal entitlements guaranteed by the state, expanding over centuries from civil rights (liberty, speech, property) to political rights (voting, holding office) and social rights (healthcare, education, economic security under the welfare state).",
-              "The Civic Republican Theory, traced from Aristotle to Jean-Jacques Rousseau, rejects passive citizenship. Aristotle defined a citizen as someone who actively shares in the administration of justice and public office, maintaining that true human flourishing requires active participation in community self-governance and civic duty.",
-              "The Libertarian Theory, championed by Robert Nozick, conceives citizenship along strictly negative individualist lines. The citizen is an autonomous property-holder whose negative liberty must be protected from state coercion, rejecting redistributive welfare spending.",
-              "The Communitarian Theory, formulated by Michael Sandel, argues that human beings are situated selves nurtured by community life. Citizenship is an affective bond of cultural belonging, civic fraternity, and shared pursuit of the common good, balancing rights with reciprocal duties to the community.",
-              "The Marxist Theory critiques liberal citizenship as a bourgeois illusion that guarantees formal legal equality in the political sphere while leaving workers exploited and economically unequal in material life, demanding substantive economic emancipation."
+              "<ul>" +
+              "<li><strong>1. Liberal Theory (T.H. Marshall):</strong> Citizenship is a growing bundle of state-guaranteed rights: <em>Civil</em> (liberty, speech) → <em>Political</em> (voting) → <em>Social</em> (welfare, health, education).</li>" +
+              "<li><strong>2. Civic Republican Theory (Aristotle & Rousseau):</strong> Rejects passive citizenship; defines a citizen as an active participant in justice, public debate, and self-governance.</li>" +
+              "<li><strong>3. Libertarian Theory (Robert Nozick):</strong> Views the citizen as an independent property-owner whose negative liberty must be shielded from state taxes and welfare redistribution.</li>" +
+              "<li><strong>4. Communitarian Theory (Michael Sandel):</strong> Views humans as \"situated selves\" shaped by community; citizenship means shared belonging, civic duty, and serving the common good.</li>" +
+              "<li><strong>5. Marxist Theory (Karl Marx):</strong> Critiques formal legal equality under capitalism as hollow while workers face economic exploitation, demanding real economic emancipation.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "3. Comparison of Citizenship Theories",
+            heading: "3. Direct Comparison Table: Four Main Citizenship Theories",
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
@@ -392,9 +422,11 @@ export const paper2024_winter = {
             ]
           },
           {
-            heading: "4. The Indian Constitutional Model",
+            heading: "4. India's Constitutional Synthesis (Liberal Rights + Participation + Communitarian Duties)",
             paragraphs: [
-              "The Constitution of India achieves an inclusive synthesis of these models. It protects liberal fundamental rights under Part III, encourages civic republican participation through universal adult suffrage, and incorporates communitarian values through the Preamble's guarantee of Fraternity, minority cultural protections under Articles 29 and 30, and Fundamental Duties under Article 51A."
+              "<ul>" +
+              "<li><strong>Balanced Model:</strong> Protects liberal Fundamental Rights (Part III), enables civic participation via universal suffrage (Article 326), and upholds communitarian Fraternity, minority rights (Articles 29–30), and Fundamental Duties (Article 51A).</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -408,27 +440,24 @@ export const paper2024_winter = {
       marks: 10,
       question: "Distinguish between Nation and State. How as per political theory can sentiments of Nationalism be constructed ?",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit III Master Theoretical Essay"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit III Master Theoretical Essay" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "Ernest Renan; Benedict Anderson; Woodrow Wilson; Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Difference: Nation vs. State",
+            heading: "1. Core Distinction: State (Legal-Political Body) vs. Nation (Cultural Community)",
             paragraphs: [
-              "Although frequently conflated in everyday conversation, Nation and State are categorically distinct concepts in political theory. A State is a formal legal and political organization possessing four objective elements: population, defined territory, government, and sovereignty, commanding the legitimate monopoly of physical force.",
-              "In contrast, a Nation is a socio-cultural and psychological community of people bound together by shared historical memories, cultural symbols, common traditions, and a mutual will to live together. A nation can exist without an independent sovereign state, and a state can encompass multiple national identities within its borders."
+              "<ul>" +
+              "<li><strong>What is a State?</strong> A formal legal-political organization with four objective elements: population, fixed territory, government, and sovereignty (holding legitimate force).</li>" +
+              "<li><strong>What is a Nation?</strong> A socio-cultural and psychological community united by shared memories, symbols, traditions, and the will to live together.</li>" +
+              "<li><strong>Not Always Identical:</strong> A nation can exist without a state, and one state can contain multiple national identities.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Comparison: Nation vs. State",
+            heading: "2. Direct Comparison Table: Nation vs. State",
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
@@ -452,18 +481,23 @@ export const paper2024_winter = {
             ]
           },
           {
-            heading: "3. How Sentiments of Nationalism are Constructed",
+            heading: "3. Four Ways Nationalism Is Constructed: Print Media, Education, Symbols & Struggle",
             paragraphs: [
-              "Political theory demonstrates that nationalist sentiments are not inborn biological instincts, but are constructed and nurtured through social and political processes. First, as Benedict Anderson explained, the development of print media—such as daily newspapers and vernacular literature—allows millions of dispersed citizens to read about the same events simultaneously, imagining themselves sharing a common national life as an imagined community.",
-              "Second, state-standardized public education unifies local dialects and regional groups into a shared national language and historical narrative. Third, states consciously cultivate national symbols, rituals, and commemorations—including national flags, anthems, public holidays, and monuments—that generate emotional unity and shared pride.",
-              "Fourth, political mobilization around shared challenges, such as anti-colonial freedom movements or national defense, crystallizes collective solidarity across diverse social groups."
+              "<ul>" +
+              "<li><strong>1. Print-Capitalism (Benedict Anderson):</strong> Daily newspapers and local-language books let millions imagine themselves sharing one national life (\"imagined community\").</li>" +
+              "<li><strong>2. Standardized Public Education:</strong> Schools unify local dialects into shared national languages and common historical narratives.</li>" +
+              "<li><strong>3. National Symbols & Rituals:</strong> Flags, national anthems, Republic Day parades, and monuments create emotional unity.</li>" +
+              "<li><strong>4. Shared Political Mobilization:</strong> Common struggles—like anti-colonial independence movements—unite diverse groups into one brotherhood.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "4. Constitutional Patriotism in India",
+            heading: "4. Constitutional Patriotism in India (Secularism & S.R. Bommai, 1994)",
             paragraphs: [
-              "In multi-cultural societies like India, national sentiment is best sustained not through narrow ethnic or religious conformity, but through what political theory terms Constitutional Patriotism. This means that citizens anchor their national loyalty in shared democratic values, fundamental rights, and the rule of law enshrined in the Constitution.",
-              "In S.R. Bommai (1994), the Supreme Court confirmed that secularism is a basic structure of the Constitution, ensuring that the Indian State remains an inclusive, neutral home for citizens of all religious and linguistic backgrounds."
+              "<ul>" +
+              "<li><strong>Loyalty to Constitutional Values:</strong> In diverse nations like India, unity rests on shared democratic rights and the rule of law rather than ethnic uniformity.</li>" +
+              "<li><strong>S.R. Bommai (1994):</strong> Declared secularism part of the Basic Structure, ensuring India stays an inclusive home for all religions and languages.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -477,35 +511,33 @@ export const paper2024_winter = {
       marks: 10,
       question: "Define Power. Discuss difference between Power, Authority and Legitimacy.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit II Master Essay"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit II Master Essay" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "Max Weber (Economy and Society); Harold Lasswell; Hannah Arendt; Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Essence of Power",
+            heading: "1. Definition of Power: Enforcing One's Will Despite Resistance (Max Weber)",
             paragraphs: [
-              "Power is the foundational concept of political science. It denotes the relational capacity of an actor—whether an individual, group, or public institution—to influence, direct, and control the conduct and decisions of others, even in the presence of opposition.",
-              "Max Weber defined power as the probability that one actor within a social relationship will be in a position to carry out their own will despite resistance, regardless of the basis on which that probability rests. Power is relational, asymmetrical, and can operate through physical coercion, economic resources, institutional office, or persuasive influence."
+              "<ul>" +
+              "<li><strong>Core Concept:</strong> Relational capacity of an individual, group, or institution to influence and control others' behaviour even against opposition.</li>" +
+              "<li><strong>Max Weber's Definition:</strong> Probability that one actor in a social relationship can carry out their own will despite resistance—via force, wealth, office, or persuasion.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Conceptual Interrelationship: Power, Authority, and Legitimacy",
+            heading: "2. How Power, Authority & Legitimacy Connect (Power + Legitimacy = Authority)",
             paragraphs: [
-              "While often used interchangeably in casual speech, Power, Authority, and Legitimacy form a distinct conceptual triad in political theory. Power represents the practical capacity to enforce decisions through force, rewards, or sanctions. It answers the question of what an actor has the capability to do.",
-              "Legitimacy represents the moral justification and public consensus that a government, ruler, or rule is rightful, just, and entitled to voluntary obedience. It answers the question of why a system ought to be obeyed.",
-              "Authority represents legitimate, institutionalized power—the recognized, legal right to command and expect obedience. Authority exists when raw power is clothed in legitimacy, meaning citizens obey out of an internal sense of legal and civic duty rather than fear of physical punishment."
+              "<ul>" +
+              "<li><strong>Power (Capability — \"Can do\"):</strong> Practical ability to enforce compliance using force, rewards, or sanctions.</li>" +
+              "<li><strong>Legitimacy (Moral Rightfulness — \"Ought to obey\"):</strong> Public belief and consensus that a ruler or rule is just and deserves voluntary obedience.</li>" +
+              "<li><strong>Authority (Lawful Right — \"Right to command\"):</strong> Legitimate, institutionalized power—citizens obey out of civic duty rather than fear of punishment.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "3. Comparison: Power vs. Authority vs. Legitimacy",
+            heading: "3. Direct Comparison Table: Power vs. Authority vs. Legitimacy",
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
@@ -534,10 +566,12 @@ export const paper2024_winter = {
             ]
           },
           {
-            heading: "4. Dynamics of the Political Triad",
+            heading: "4. Balance of the Triad & Hannah Arendt on Power vs. Violence",
             paragraphs: [
-              "The health of any government depends on the balance among these three elements. When power is legitimized by the moral consent of citizens, it becomes stable authority: Power + Legitimacy = Authority. Conversely, when a government loses its legitimacy through corruption or oppression, its authority collapses, leaving it dependent on police force and intimidation to survive.",
-              "As political philosopher Hannah Arendt observed, power and violence are opposites: where one rules absolutely, the other is absent. Authority transforms potential coercion into consensual, civilized constitutional governance."
+              "<ul>" +
+              "<li><strong>Healthy State Formula:</strong> <em>Power + Legitimacy = Stable Authority.</em> When corruption destroys legitimacy, authority collapses and regimes survive only by police force.</li>" +
+              "<li><strong>Hannah Arendt's Insight:</strong> Power and violence are opposites—where absolute violence rules, genuine political power has disappeared.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -551,38 +585,38 @@ export const paper2024_winter = {
       marks: 10,
       question: "Elaborate the various stages of growth of the Liberal ideology.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit V Comprehensive Historical Essay"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit V Comprehensive Historical Essay" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "John Locke; Adam Smith; John Stuart Mill; John Rawls; Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Essence of Liberalism",
+            heading: "1. Meaning of Liberalism: Individual Freedom, Rights & Rule of Law",
             paragraphs: [
-              "Liberalism, derived from the Latin word liber meaning free, is the dominant political philosophy of modern constitutional democracy. It places the individual at the center of political life, championing fundamental human rights, constitutional government, the rule of law, individual autonomy, and freedom of expression.",
-              "Liberalism has proven to be an adaptable tradition, evolving across four distinct historical stages over four centuries in response to the changing social and economic realities of human society."
+              "<ul>" +
+              "<li><strong>Root Word (Liber = Free):</strong> The core philosophy of modern constitutional democracy, placing the individual at the center of politics.</li>" +
+              "<li><strong>Core Values:</strong> Human rights, limited constitutional government, rule of law, personal autonomy, and free expression—evolving across four major historical stages.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Four Stages of Growth of Liberalism",
+            heading: "2. Four Stages of Liberalism: Classical → Welfare → Neoliberal → Multicultural",
             paragraphs: [
-              "Stage 1: Classical Liberalism (17th to early 19th Century) emerged in Western Europe to challenge monarchical absolutism and feudal privileges. Led by thinkers like John Locke and Adam Smith, it championed natural rights (life, liberty, and property), negative liberty (freedom from state interference), laissez-faire free markets guided by the invisible hand, and a minimal 'night-watchman' state confined to defense, police, and contracts.",
-              "Stage 2: Modern or Welfare Liberalism (Late 19th to mid-20th Century) arose in response to the severe inequalities, child labor, and urban poverty generated by unrestricted industrial capitalism. Thinkers like J.S. Mill and T.H. Green shifted the focus from negative liberty to positive liberty—the actual capability of individuals to achieve self-realization. Government was transformed into an enabling welfare state tasked with providing public schooling, healthcare, and labor protections, later formulated by John Rawls in his theory of justice.",
-              "Stage 3: Neoliberalism (Late 20th Century) emerged in the 1970s and 1980s as a reaction against state bureaucracy and economic stagnation. Championed by economists like Milton Friedman, it revived free-market principles, advocating deregulation, privatization, and reduced government spending to encourage market efficiency.",
-              "Stage 4: Contemporary Pluralist and Multicultural Liberalism (Late 20th Century to Present) broadened liberalism to address diverse, multicultural societies. It recognizes that individual freedom cannot flourish unless a citizen's cultural, linguistic, and minority identities are respected and protected under law, moving beyond rigid assimilation toward inclusive constitutional equality."
+              "<ul>" +
+              "<li><strong>Stage 1 — Classical Liberalism (17th – Early 19th Century):</strong> Challenged kings and feudalism (John Locke, Adam Smith). Championed natural rights, negative liberty (no state interference), laissez-faire free markets (\"invisible hand\"), and a minimal \"night-watchman\" state.</li>" +
+              "<li><strong>Stage 2 — Modern / Welfare Liberalism (Late 19th – Mid-20th Century):</strong> Responded to industrial poverty and child labour (J.S. Mill, T.H. Green, John Rawls). Shifted to <em>positive liberty</em>—building an enabling welfare state for public schools, healthcare, and worker protections.</li>" +
+              "<li><strong>Stage 3 — Neoliberalism (1970s–1980s):</strong> Reaction against heavy state bureaucracy (Milton Friedman). Revived free-market deregulation, privatization, and lower public spending for market efficiency.</li>" +
+              "<li><strong>Stage 4 — Pluralist & Multicultural Liberalism (Late 20th Century – Present):</strong> Recognizes that personal freedom needs legal protection for minority cultural, linguistic, and religious identities alongside individual rights.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "3. Synthesis in Indian Constitutionalism",
+            heading: "3. Synthesis in the Indian Constitution (Part III Classical + Part IV Welfare)",
             paragraphs: [
-              "The Constitution of India reflects a rich synthesis of liberal traditions. It incorporates classical liberal protections of civil liberties and individual equality under Part III (Articles 14, 19, 21), while embracing modern welfare liberalism through the Directive Principles of State Policy (Part IV), directing the state to secure economic justice, public education, and healthcare for all citizens."
+              "<ul>" +
+              "<li><strong>Balanced Liberalism:</strong> Part III (Articles 14, 19, 21) guarantees classical civil liberties and equality, while Part IV (Directive Principles) embodies welfare liberalism—directing the state to provide economic justice, education, and public health.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -596,39 +630,40 @@ export const paper2024_winter = {
       marks: 10,
       question: "Define Rights. What are the different kinds of rights ? Elaborate with an example of each.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit I Master Essay"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit I Master Essay" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "Harold J. Laski (A Grammar of Politics); John Locke; Jeremy Bentham; Part III and Part IV of the Constitution of India; Universal Declaration of Human Rights.",
         sections: [
           {
-            heading: "1. Meaning and Nature of Rights",
+            heading: "1. Definition of Rights: Laski's Formula, Social Recognition & Duty Link",
             paragraphs: [
-              "In political science and constitutional jurisprudence, rights are recognized as the foundational moral and legal claims of an individual upon society and the sovereign state that are indispensable for developing human personality, moral dignity, and social welfare.",
-              "As Harold Laski classically defined, rights are those conditions of social life without which no person can seek to be at their best. Rights require social recognition by the community and enforcement by the state. They are correlative to duties, meaning that one person's right to freedom imposes a duty on all others to respect that freedom."
+              "<ul>" +
+              "<li><strong>Core Meaning:</strong> Moral and legal claims of an individual upon society and the state that are essential for human dignity and personal growth.</li>" +
+              "<li><strong>Harold Laski's Definition:</strong> Conditions of social life without which no person can seek to be at their best.</li>" +
+              "<li><strong>Correlative to Duties:</strong> Every right requires community recognition, state enforcement, and a matching duty on others to respect it.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Major Kinds of Rights with Examples",
+            heading: "2. Five Major Kinds of Rights (With Concrete Examples for Each)",
             paragraphs: [
-              "Political scientists classify rights into several well-defined categories. Natural Rights are inherent endowments that belong to human beings by virtue of their existence prior to the creation of the civil state, famously identified by John Locke as the right to life, bodily liberty, and property.",
-              "Moral Rights are claims rooted in the ethical conscience, spiritual traditions, and moral consensus of a community, backed by social respect rather than court warrants. An example is the moral right of elderly parents to receive care, respect, and sustenance from their adult children.",
-              "Legal Rights are claims explicitly enacted in statutory legislation and enforced through the judicial and police machinery of the state. They are subdivided into civil rights (such as the right to enter lawful contracts, personal privacy, and freedom from arbitrary arrest), political rights (such as the right to vote under universal adult franchise and contest elections), and socio-economic rights (such as the right to fair wages, work, and education under welfare policies).",
-              "Fundamental Rights are inviolable constitutional guarantees elevated above ordinary statutes and shielded against executive or legislative majoritarian whims through constitutional judicial review, such as the Right to Constitutional Remedies under Article 32 of the Indian Constitution.",
-              "Universal Human Rights are international standards belonging unconditionally to all persons across the globe regardless of national borders, such as the prohibition against torture and slavery under the Universal Declaration of Human Rights (1948)."
+              "<ul>" +
+              "<li><strong>1. Natural Rights (John Locke):</strong> Inherent in human nature before the state existed. <em>Example:</em> Right to life, bodily liberty, and property.</li>" +
+              "<li><strong>2. Moral Rights:</strong> Based on ethics and community conscience, backed by social respect rather than courts. <em>Example:</em> Elderly parents' moral right to care and respect from adult children.</li>" +
+              "<li><strong>3. Legal Rights (Enforced by Courts):</strong> Divided into <em>Civil Rights</em> (example: privacy, contracts, freedom from arbitrary arrest), <em>Political Rights</em> (example: right to vote and contest elections), and <em>Socio-Economic Rights</em> (example: fair wages, education, work).</li>" +
+              "<li><strong>4. Fundamental Rights:</strong> Supreme constitutional guarantees shielded from ordinary laws via judicial review. <em>Example:</em> Right to Constitutional Remedies under Article 32 of the Indian Constitution.</li>" +
+              "<li><strong>5. Universal Human Rights:</strong> Global birthrights belonging to all people across borders. <em>Example:</em> Prohibition of torture and slavery under the UDHR (1948).</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "3. Judicial Expansion in India",
+            heading: "3. Judicial Expansion in India: Article 21 (Maneka Gandhi & Puttaswamy)",
             paragraphs: [
-              "In Indian constitutional law, the Supreme Court has expanded the scope of fundamental rights through progressive judicial interpretation. In landmark rulings like Maneka Gandhi (1978) and K.S. Puttaswamy (2017), the Court held that the right to life under Article 21 is not mere animal existence, but the right to live with full human dignity, embracing privacy, clean environment, and personal liberty."
+              "<ul>" +
+              "<li><strong>Dignified Existence:</strong> In <em>Maneka Gandhi (1978)</em> and <em>K.S. Puttaswamy (2017)</em>, the Supreme Court held that Article 21 means living with full human dignity—covering privacy, clean environment, and personal liberty.</li>" +
+              "</ul>"
             ]
           }
         ],
@@ -642,37 +677,36 @@ export const paper2024_winter = {
       marks: 10,
       question: "Discuss the different types of Democracies.",
       flairs: [
-        {
-          type: "repeat",
-          label: "🔥 Unit VI Comprehensive Typology"
-        },
-        {
-          type: "yield",
-          label: "⚡ Core 10-Marker"
-        }
+        { type: "repeat", label: "🔥 Unit VI Comprehensive Typology" },
+        { type: "yield", label: "⚡ Core 10-Marker" }
       ],
       answer: {
         statutoryFramework: "Abraham Lincoln; Joseph Schumpeter; Jürgen Habermas; John Stuart Mill; Dr. B.R. Ambedkar; Preamble to the Constitution of India.",
         sections: [
           {
-            heading: "1. Meaning and Concept of Democracy",
+            heading: "1. Meaning of Democracy: Rule by the People Across Diverse Models",
             paragraphs: [
-              "Democracy originates from the Greek words demos (people) and kratos (power or rule), signifying governance by the people where sovereign political authority belongs to the citizenry. While the fundamental democratic ideal—popular self-governance—is universal, political theory categorizes democracy into distinct operational models based on their institutional structures, levels of public participation, and philosophical orientation."
+              "<ul>" +
+              "<li><strong>Core Ideal (Demos + Kratos):</strong> Governance by the people where sovereign political power belongs to citizens.</li>" +
+              "<li><strong>Why Multiple Types Exist:</strong> Democracies differ in how directly citizens participate, how laws are debated, and whether social equality is prioritized alongside voting.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "2. Major Types of Democracies",
+            heading: "2. Six Major Types of Democracies Explained Point-by-Point",
             paragraphs: [
-              "Direct Democracy is the classical model where citizens participate personally in formulating laws and making state decisions without intermediaries, as seen in ancient Athenian assemblies and modern Swiss direct instruments like referendums and citizen initiatives.",
-              "Representative or Indirect Democracy is the prevailing model in modern large-scale nation-states, where citizens elect representatives through periodic competitive elections to govern and deliberate on their behalf, operating as parliamentary or presidential systems.",
-              "Procedural Democracy focuses on formal institutional rules: periodic free and fair elections, multi-party competition, universal adult franchise, and the rule of law, ensuring regular competition for political power.",
-              "Substantive or Social Democracy looks beyond formal election procedures to the real-world outcomes of governance, focusing on eliminating extreme socio-economic inequalities and ensuring education, healthcare, and fair living conditions. As Dr. B.R. Ambedkar declared, political democracy cannot endure unless rooted in social democracy that recognizes liberty, equality, and fraternity as inseparable principles.",
-              "Participatory Democracy advocates for continuous, meaningful involvement of ordinary citizens in public decision-making at the local and community levels, rather than limiting civic participation to casting a ballot once every five years.",
-              "Deliberative Democracy, pioneered by Jürgen Habermas, insists that political decisions are legitimate only if they emerge from open, rational, and inclusive public discussion among equal citizens guided by the strength of the better argument rather than mere numerical vote aggregation."
+              "<ul>" +
+              "<li><strong>1. Direct Democracy:</strong> Citizens vote directly on laws without intermediaries (ancient Athens; modern Swiss referendums and initiatives).</li>" +
+              "<li><strong>2. Representative (Indirect) Democracy:</strong> Citizens elect accountable representatives in periodic elections (parliamentary or presidential systems).</li>" +
+              "<li><strong>3. Procedural Democracy:</strong> Focuses on fair formal rules—periodic elections, multi-party contests, universal voting, and the rule of law.</li>" +
+              "<li><strong>4. Substantive / Social Democracy (Ambedkar):</strong> Looks beyond voting to real outcomes—ending poverty and caste inequality via welfare, health, and education.</li>" +
+              "<li><strong>5. Participatory Democracy:</strong> Encourages continuous local citizen involvement in community decisions rather than voting only once every five years.</li>" +
+              "<li><strong>6. Deliberative Democracy (Jürgen Habermas):</strong> Legitimacy comes from open, rational, inclusive public debate guided by the better argument before voting.</li>" +
+              "</ul>"
             ]
           },
           {
-            heading: "3. Comparison of Democratic Types",
+            heading: "3. Quick Comparison Table: All Six Models of Democracy",
             paragraphs: [
               '<table class="answer-table" style="width:100%; border-collapse:collapse; margin:1rem 0;">' +
               '<thead><tr style="background:rgba(217,119,6,0.15); text-align:left;">' +
@@ -709,9 +743,11 @@ export const paper2024_winter = {
             ]
           },
           {
-            heading: "4. The Indian Democratic Synthesis",
+            heading: "4. India's Blend of All Models (Parliament + ECI + Gram Sabhas)",
             paragraphs: [
-              "The Republic of India synthesizes these democratic models. It operates through representative parliamentary institutions, adheres to strict procedural safeguards under the independent Election Commission, and deepens participatory and deliberative democracy at the grassroots level through Panchayati Raj and village Gram Sabhas under Article 243A."
+              "<ul>" +
+              "<li><strong>Combined Architecture:</strong> Representative Parliament, procedural integrity via the independent Election Commission, and grassroots participatory/deliberative democracy through Panchayati Raj and Gram Sabhas (Article 243A).</li>" +
+              "</ul>"
             ]
           }
         ],

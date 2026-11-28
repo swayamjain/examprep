@@ -3,6 +3,7 @@
 // Curated by Swayam Jain
 
 import { predictivePaper } from './predictivePaper.js';
+import { cheatSheetPaper } from './cheatSheetPaper.js';
 import { paper2024_summer } from './paper2024_summer.js';
 import { paper2025_summer } from './paper2025_summer.js';
 import { paper2024_winter } from './paper2024_winter.js';
@@ -23,6 +24,7 @@ export const politicalScience3 = {
   },
   papers: [
     predictivePaper,
+    cheatSheetPaper,
     paper2024_summer,
     paper2025_summer,
     paper2024_winter,
